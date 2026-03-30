@@ -42,6 +42,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Traffic accidents increase 28% prior to Easter",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/aumentan-28-los-accidentes-de-transito-previo-a-semana-santa/",
+        "published_date": "2026-03-30 11:02:10",
+        "category": "Military"
+    },
+    {
         "title": "Security and agile flow drive the entry of tourists at Salvadoran borders",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/seguridad-y-flujo-agil-impulsan-el-ingreso-de-turistas-en-fronteras-salvadorenas/?utm_source=rss&utm_medium=rss&utm_campaign=seguridad-y-flujo-agil-impulsan-el-ingreso-de-turistas-en-fronteras-salvadorenas",
@@ -175,6 +182,13 @@
         "category": "Energy"
     },
     {
+        "title": "70-year-old woman is rescued after falling into a pool at Hacienda San Cayetano",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/mujer-de-70-anos-es-rescatada-tras-caer-en-poza-de-hacienda-san-cayetano/?utm_source=rss&utm_medium=rss&utm_campaign=mujer-de-70-anos-es-rescatada-tras-caer-en-poza-de-hacienda-san-cayetano",
+        "published_date": "2026-03-30 03:47:39",
+        "category": "Economy"
+    },
+    {
         "title": "Government facilitates the sale of agricultural inputs at low cost to protect national production",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/03/gobierno-facilita-la-venta-de-insumos-agricolas-a-bajo-costo-para-proteger-la-produccion-nacional/",
@@ -189,143 +203,143 @@
         "category": "Economy"
     },
     {
-        "title": "Eagle flies high!Beat FAS and take away their undefeated record in the Classic",
+        "title": "Tourists enjoy the renovated Apulo Recreational Park at the start of Holy Week",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/03/aguila-vuela-alto-golea-a-fas-y-le-quita-el-invicto-en-el-clasico/",
-        "published_date": "2026-03-29 23:53:05",
+        "url": "https://www.elmetropolitanodigital.com/2026/03/uristas-disfrutan-el-renovado-parque-recreativo-apulo-en-el-arranque-de-semana-santa/",
+        "published_date": "2026-03-30 14:44:28",
         "category": "Local Events"
     },
     {
-        "title": "Young man drowns in the Quezalapa River, in Tenancingo",
+        "title": "MS gang member sentenced to 285 years in prison for six homicides in Santa Ana",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/03/joven-fallece-ahogado-en-rio-quezalapa-en-tenancingo/",
-        "published_date": "2026-03-29 23:30:53",
+        "url": "https://www.elmetropolitanodigital.com/2026/03/condenan-a-285-anos-de-prision-a-pandillero-de-la-ms-por-seis-homicidios-en-santa-ana/",
+        "published_date": "2026-03-30 14:19:24",
         "category": "Local Events"
     },
     {
-        "title": "Firefighters rescue a person trapped after an accident in San Vicente",
+        "title": "Fervor and tradition in the Palm Procession of the Metropolitan Cathedral",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fervor-y-tradicion-en-la-procesion-de-palmas-de-la-catedral-metropolitana/",
+        "published_date": "2026-03-30 11:04:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four years of the emergency regime: MOVIR denounces deaths and arbitrary detentions",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cuatro-anos-del-regimen-de-excepcion-movir-denuncia-muertes-y-detenciones-arbitrarias/",
+        "published_date": "2026-03-30 11:03:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bishops Abelina and Medardo G\u00f3mez Community House: a space for the Salvadoran community",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/casa-comunitaria-obispos-abelina-y-medardo-gomez-un-espacio-para-la-comunidad-salvadorena/",
+        "published_date": "2026-03-30 11:01:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Act of solidarity at the Izalco prison farm demands freedom for Ruth L\u00f3pez",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/acto-de-solidaridad-en-la-granja-penitenciaria-de-izalco-exige-libertad-para-ruth-lopez/",
+        "published_date": "2026-03-30 11:00:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Way of the Cross of the Salvadorans",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-viacrucis-de-los-salvadorenos/",
+        "published_date": "2026-03-30 10:59:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pope Leo XIV opens Holy Week with a call for peace",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/papa-leon-xiv-abre-la-semana-santa-con-llamado-a-la-paz/",
+        "published_date": "2026-03-30 10:58:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attack damages power plants in Iranian city of Isfahan",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ataque-dana-centrales-electricas-en-ciudad-irani-de-isfahan/",
+        "published_date": "2026-03-30 10:57:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The El Calvario Church illuminates the Historic Center with devotion and tradition during Holy Week",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/bomberos-rescatan-a-persona-atrapada-tras-accidente-en-san-vicente/?utm_source=rss&utm_medium=rss&utm_campaign=bomberos-rescatan-a-persona-atrapada-tras-accidente-en-san-vicente",
-        "published_date": "2026-03-29 23:28:02",
+        "url": "https://lapagina.com.sv/nacionales/la-iglesia-el-calvario-ilumina-el-centro-historico-con-devocion-y-tradicion-durante-semana-santa/?utm_source=rss&utm_medium=rss&utm_campaign=la-iglesia-el-calvario-ilumina-el-centro-historico-con-devocion-y-tradicion-durante-semana-santa",
+        "published_date": "2026-03-30 03:55:19",
         "category": "Local Events"
     },
     {
-        "title": "Two people injured in traffic accidents in different parts of the country",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/03/dos-personas-lesionadas-en-accidentes-de-transito-en-distintos-puntos-del-pais/",
-        "published_date": "2026-03-29 23:20:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "60-year-old man is injured after falling from a ladder in Santa Ana",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/hombre-de-60-anos-resulta-lesionado-tras-caer-de-una-escalera-en-santa-ana/",
-        "published_date": "2026-03-29 23:02:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "CCR began today the Control Plan for the use of national vehicles",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/ccr-inicio-hoy-plan-de-fiscalizacion-del-uso-de-vehiculos-nacionales/",
-        "published_date": "2026-03-29 22:57:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "They restrict the circulation of heavy transport on routes to La Libertad during Holy Week",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/03/restringen-circulacion-de-transporte-pesado-en-rutas-hacia-la-libertad-durante-semana-santa/",
-        "published_date": "2026-03-29 22:48:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "MOP Te Asiste reinforces attention on roads during Holy Week",
+        "title": "Carlos Garc\u00eda Saade will continue to lead COENA after the internal ARENA elections",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mop-te-asiste-refuerza-atencion-en-carreteras-durante-la-semana-santa/?utm_source=rss&utm_medium=rss&utm_campaign=mop-te-asiste-refuerza-atencion-en-carreteras-durante-la-semana-santa",
-        "published_date": "2026-03-29 22:26:28",
+        "url": "https://lapagina.com.sv/politica/carlos-garcia-saade-seguira-liderando-el-coena-tras-los-comicios-internos-de-arena/?utm_source=rss&utm_medium=rss&utm_campaign=carlos-garcia-saade-seguira-liderando-el-coena-tras-los-comicios-internos-de-arena",
+        "published_date": "2026-03-30 03:44:01",
         "category": "Local Events"
     },
     {
-        "title": "ARENA leader affirms that Marcela Villatoro is considering seeking re-election",
+        "title": "Emergency on Costa del Sol ends in tragedy",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/emergencia-en-costa-del-sol-termina-en-tragedia/?utm_source=rss&utm_medium=rss&utm_campaign=emergencia-en-costa-del-sol-termina-en-tragedia",
+        "published_date": "2026-03-30 02:20:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gabriela de Bukele highlights new Family Friendly approach at the El Salvador International Airport",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/family-friendly-en-el-aeropuerto-internacional-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=family-friendly-en-el-aeropuerto-internacional-de-el-salvador",
+        "published_date": "2026-03-30 01:59:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "ARENA highlights participation and ratifies leadership in internal elections",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/03/arena-destaca-participacion-y-ratifica-liderazgo-en-elecciones-internas/",
+        "published_date": "2026-03-30 01:56:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "VIDEO |China prepares robotic hospital care staff",
+        "source": "Cronio",
+        "url": "https://croniosv.com/croniotv/video-china-prepara-personal-robotico-de-atencion-hospitalaria/",
+        "published_date": "2026-03-30 01:28:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "ARENA confirms electoral participation amid criticism for low turnout in internal elections",
+        "source": "Cronio",
+        "url": "https://croniosv.com/politica/arena-confirma-participacion-electoral-en-medio-de-criticas-por-baja-afluencia-en-internas/",
+        "published_date": "2026-03-30 01:16:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tourists enjoy landscapes, music and family atmosphere at Puerta del Diablo",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/turistas-disfrutan-de-paisajes-musica-y-ambiente-familiar-en-la-puerta-del-diablo/?utm_source=rss&utm_medium=rss&utm_campaign=turistas-disfrutan-de-paisajes-musica-y-ambiente-familiar-en-la-puerta-del-diablo",
+        "published_date": "2026-03-30 01:14:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele highlights change in the historic center with before and after images of the Antonio Bou building",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-destaca-cambio-del-centro-historico-con-imagenes-del-antes-y-despues-del-edificio-antonio-bou/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-destaca-cambio-del-centro-historico-con-imagenes-del-antes-y-despues-del-edificio-antonio-bou",
+        "published_date": "2026-03-30 00:44:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele highlights transformation of emblematic building in the Historic Center",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/dirigente-de-arena-afirma-que-marcela-villatoro-evalua-buscar-la-reeleccion/",
-        "published_date": "2026-03-29 22:11:18",
+        "url": "https://diariolahuella.com/presidente-bukele-destaca-transformacion-de-edificio-emblematico-del-centro-historico/",
+        "published_date": "2026-03-30 00:30:12",
         "category": "Local Events"
     },
     {
-        "title": "La Selecta breaks negative streak with victory against Martinique",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/03/la-selecta-rompe-racha-negativa-con-triunfo-ante-martinica/",
-        "published_date": "2026-03-29 21:59:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran Red Cross graduates 25 first responders in urban rescue",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/cruz-roja-salvadorena-gradua-a-25-socorristas-en-rescate-urbano/",
-        "published_date": "2026-03-29 21:59:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Apulo Recreational Park reopens renovated to receive visitors during Holy Week",
+        "title": "Possible rain and gusts of wind will mark the weather tonight in El Salvador",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/parque-recreativo-apulo-reabre-renovado-para-recibir-a-visitantes-en-semana-santa/?utm_source=rss&utm_medium=rss&utm_campaign=parque-recreativo-apulo-reabre-renovado-para-recibir-a-visitantes-en-semana-santa",
-        "published_date": "2026-03-29 21:51:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "One-year-old girl dies after falling into a water channel in Ciudad Arce",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/nina-de-un-ano-muere-tras-caer-en-canal-de-agua-en-ciudad-arce/",
-        "published_date": "2026-03-29 21:51:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "12 tons of KitKat chocolates stolen from a truck in Europe",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/03/roban-12-toneladas-de-chocolates-kitkat-que-iban-en-un-camion-en-europa/",
-        "published_date": "2026-03-29 21:46:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "CIFCOMIC 2026 invites you to live an epic experience with extended hours during Holy Week",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cifcomic-2026-invita-a-vivir-una-experiencia-epica-con-horarios-extendidos-durante-semana-santa/?utm_source=rss&utm_medium=rss&utm_campaign=cifcomic-2026-invita-a-vivir-una-experiencia-epica-con-horarios-extendidos-durante-semana-santa",
-        "published_date": "2026-03-29 21:27:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Selecta beats Martinique 1-0 in added time",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/nacionales-deportes/la-selecta-vence-a-martinica-1-0-en-tiempo-agregado/",
-        "published_date": "2026-03-29 21:16:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sand sculpture exhibition in Muna opens its doors during Holy Week",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/exposicion-de-esculturas-de-arena-en-el-muna-abre-sus-puertas-durante-semana-santa/?utm_source=rss&utm_medium=rss&utm_campaign=exposicion-de-esculturas-de-arena-en-el-muna-abre-sus-puertas-durante-semana-santa",
-        "published_date": "2026-03-29 21:01:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "High participation of faithful marks the beginning of Holy Week in San Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/alta-participacion-de-fieles-marca-el-inicio-de-la-semana-santa-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=alta-participacion-de-fieles-marca-el-inicio-de-la-semana-santa-en-san-salvador",
-        "published_date": "2026-03-29 20:35:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fire in La Paz Centro warehouse is put out without spreading to nearby areas",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/incendio-en-bodega-de-la-paz-centro-es-sofocado-sin-dejar-propagacion-a-zonas-cercanas/?utm_source=rss&utm_medium=rss&utm_campaign=incendio-en-bodega-de-la-paz-centro-es-sofocado-sin-dejar-propagacion-a-zonas-cercanas",
-        "published_date": "2026-03-29 20:07:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Parishioners proclaim \u201cLong live Christ the King!\u201dduring Palm Sunday procession in the Historic Center",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/feligreses-proclaman-viva-cristo-rey-durante-procesion-del-domingo-de-ramos-en-el-centro-historico/",
-        "published_date": "2026-03-29 19:56:14",
+        "url": "https://lapagina.com.sv/nacionales/posibles-lluvias-y-rafagas-de-viento-marcaran-el-clima-de-esta-noche-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=posibles-lluvias-y-rafagas-de-viento-marcaran-el-clima-de-esta-noche-en-el-salvador",
+        "published_date": "2026-03-30 00:14:31",
         "category": "Local Events"
     }
 ]
