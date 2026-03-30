@@ -1,5 +1,12 @@
 [
     {
+        "title": "El Salvador revolutionizes regional tourism with the launch of its new \u201cFamily Friendly\u201d strategy and digital platform",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/elsalvador-familyfriendly-revoluciona-turismo/",
+        "published_date": "2026-03-29 19:35:50",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Mexico denounces the death of another migrant in the US in ICE custody",
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/mexico-denuncia-la-muerte-de-otro-migrante-en-ee-uu-bajo-custodia-del-ice/",
@@ -33,6 +40,13 @@
         "url": "https://www.elmetropolitanodigital.com/2026/03/san-salvador-estrena-plaza-turkiye-en-parque-maquilishuat/",
         "published_date": "2026-03-28 14:15:49",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Security and agile flow drive the entry of tourists at Salvadoran borders",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/seguridad-y-flujo-agil-impulsan-el-ingreso-de-turistas-en-fronteras-salvadorenas/?utm_source=rss&utm_medium=rss&utm_campaign=seguridad-y-flujo-agil-impulsan-el-ingreso-de-turistas-en-fronteras-salvadorenas",
+        "published_date": "2026-03-29 22:44:01",
+        "category": "Military"
     },
     {
         "title": "MS13 gang member wanted for homicide and organized crime received at the border",
@@ -175,143 +189,143 @@
         "category": "Economy"
     },
     {
-        "title": "The Flores Brothers make the Historic Center of San Salvador vibrate with their free concert before Coachella 2026",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/los-hermanos-flores-hacen-vibrar-el-centro-historico-de-san-salvador-con-su-concierto-gratuito-antes-de-coachella-2026/?utm_source=rss&utm_medium=rss&utm_campaign=los-hermanos-flores-hacen-vibrar-el-centro-historico-de-san-salvador-con-su-concierto-gratuito-antes-de-coachella-2026",
-        "published_date": "2026-03-29 04:02:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mexico survives Portugal and draws goalless at the Azteca Stadium",
+        "title": "Eagle flies high!Beat FAS and take away their undefeated record in the Classic",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/03/mexico-sobrevive-al-acoso-de-portugal-y-empata-sin-goles-en-el-estadio-azteca/",
-        "published_date": "2026-03-29 03:47:55",
+        "url": "https://www.elmetropolitanodigital.com/2026/03/aguila-vuela-alto-golea-a-fas-y-le-quita-el-invicto-en-el-clasico/",
+        "published_date": "2026-03-29 23:53:05",
         "category": "Local Events"
     },
     {
-        "title": "MS gang member sentenced to 285 years in prison for six homicides in Santa Ana",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/pandillero-de-la-ms-es-condenado-a-285-anos-de-prision-por-seis-homicidios-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=pandillero-de-la-ms-es-condenado-a-285-anos-de-prision-por-seis-homicidios-en-santa-ana",
-        "published_date": "2026-03-29 03:39:54",
+        "title": "Young man drowns in the Quezalapa River, in Tenancingo",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/03/joven-fallece-ahogado-en-rio-quezalapa-en-tenancingo/",
+        "published_date": "2026-03-29 23:30:53",
         "category": "Local Events"
     },
     {
-        "title": "Gang victim mother thanks Ernesto Castro and President Bukele for protecting her family",
+        "title": "Firefighters rescue a person trapped after an accident in San Vicente",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/madre-victima-de-pandillas-agradece-a-ernesto-castro-y-al-presidente-bukele-por-proteger-a-su-familia/?utm_source=rss&utm_medium=rss&utm_campaign=madre-victima-de-pandillas-agradece-a-ernesto-castro-y-al-presidente-bukele-por-proteger-a-su-familia",
-        "published_date": "2026-03-29 03:32:40",
+        "url": "https://lapagina.com.sv/nacionales/bomberos-rescatan-a-persona-atrapada-tras-accidente-en-san-vicente/?utm_source=rss&utm_medium=rss&utm_campaign=bomberos-rescatan-a-persona-atrapada-tras-accidente-en-san-vicente",
+        "published_date": "2026-03-29 23:28:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two people injured in traffic accidents in different parts of the country",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/03/dos-personas-lesionadas-en-accidentes-de-transito-en-distintos-puntos-del-pais/",
+        "published_date": "2026-03-29 23:20:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "60-year-old man is injured after falling from a ladder in Santa Ana",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/hombre-de-60-anos-resulta-lesionado-tras-caer-de-una-escalera-en-santa-ana/",
+        "published_date": "2026-03-29 23:02:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "CCR began today the Control Plan for the use of national vehicles",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/ccr-inicio-hoy-plan-de-fiscalizacion-del-uso-de-vehiculos-nacionales/",
+        "published_date": "2026-03-29 22:57:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "They restrict the circulation of heavy transport on routes to La Libertad during Holy Week",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/03/restringen-circulacion-de-transporte-pesado-en-rutas-hacia-la-libertad-durante-semana-santa/",
+        "published_date": "2026-03-29 22:48:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "MOP Te Asiste reinforces attention on roads during Holy Week",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/mop-te-asiste-refuerza-atencion-en-carreteras-durante-la-semana-santa/?utm_source=rss&utm_medium=rss&utm_campaign=mop-te-asiste-refuerza-atencion-en-carreteras-durante-la-semana-santa",
+        "published_date": "2026-03-29 22:26:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "ARENA leader affirms that Marcela Villatoro is considering seeking re-election",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/dirigente-de-arena-afirma-que-marcela-villatoro-evalua-buscar-la-reeleccion/",
+        "published_date": "2026-03-29 22:11:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Selecta breaks negative streak with victory against Martinique",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/03/la-selecta-rompe-racha-negativa-con-triunfo-ante-martinica/",
+        "published_date": "2026-03-29 21:59:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran Red Cross graduates 25 first responders in urban rescue",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/cruz-roja-salvadorena-gradua-a-25-socorristas-en-rescate-urbano/",
+        "published_date": "2026-03-29 21:59:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Apulo Recreational Park reopens renovated to receive visitors during Holy Week",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/parque-recreativo-apulo-reabre-renovado-para-recibir-a-visitantes-en-semana-santa/?utm_source=rss&utm_medium=rss&utm_campaign=parque-recreativo-apulo-reabre-renovado-para-recibir-a-visitantes-en-semana-santa",
+        "published_date": "2026-03-29 21:51:14",
         "category": "Local Events"
     },
     {
         "title": "One-year-old girl dies after falling into a water channel in Ciudad Arce",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/nina-de-un-ano-muere-tras-caer-en-canal-de-agua-en-ciudad-arce/",
+        "published_date": "2026-03-29 21:51:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "12 tons of KitKat chocolates stolen from a truck in Europe",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/03/nina-de-un-ano-fallece-tras-caer-en-canal-de-agua-en-ciudad-arce/",
-        "published_date": "2026-03-29 01:37:42",
+        "url": "https://www.elmetropolitanodigital.com/2026/03/roban-12-toneladas-de-chocolates-kitkat-que-iban-en-un-camion-en-europa/",
+        "published_date": "2026-03-29 21:46:52",
         "category": "Local Events"
     },
     {
-        "title": "Zeus, the puppy rescued from abuse, begins a new life in a safe and loving home",
+        "title": "CIFCOMIC 2026 invites you to live an epic experience with extended hours during Holy Week",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/zeus-el-cachorro-rescatado-por-maltrato-comienza-una-nueva-vida-en-un-hogar-seguro-y-lleno-de-amor/?utm_source=rss&utm_medium=rss&utm_campaign=zeus-el-cachorro-rescatado-por-maltrato-comienza-una-nueva-vida-en-un-hogar-seguro-y-lleno-de-amor",
-        "published_date": "2026-03-29 01:30:30",
+        "url": "https://lapagina.com.sv/nacionales/cifcomic-2026-invita-a-vivir-una-experiencia-epica-con-horarios-extendidos-durante-semana-santa/?utm_source=rss&utm_medium=rss&utm_campaign=cifcomic-2026-invita-a-vivir-una-experiencia-epica-con-horarios-extendidos-durante-semana-santa",
+        "published_date": "2026-03-29 21:27:14",
         "category": "Local Events"
     },
     {
-        "title": "In a towel and without missing a detail: woman leaves her house to see the accident and it goes viral",
+        "title": "La Selecta beats Martinique 1-0 in added time",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/nacionales-deportes/la-selecta-vence-a-martinica-1-0-en-tiempo-agregado/",
+        "published_date": "2026-03-29 21:16:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sand sculpture exhibition in Muna opens its doors during Holy Week",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/exposicion-de-esculturas-de-arena-en-el-muna-abre-sus-puertas-durante-semana-santa/?utm_source=rss&utm_medium=rss&utm_campaign=exposicion-de-esculturas-de-arena-en-el-muna-abre-sus-puertas-durante-semana-santa",
+        "published_date": "2026-03-29 21:01:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "High participation of faithful marks the beginning of Holy Week in San Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/alta-participacion-de-fieles-marca-el-inicio-de-la-semana-santa-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=alta-participacion-de-fieles-marca-el-inicio-de-la-semana-santa-en-san-salvador",
+        "published_date": "2026-03-29 20:35:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fire in La Paz Centro warehouse is put out without spreading to nearby areas",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/incendio-en-bodega-de-la-paz-centro-es-sofocado-sin-dejar-propagacion-a-zonas-cercanas/?utm_source=rss&utm_medium=rss&utm_campaign=incendio-en-bodega-de-la-paz-centro-es-sofocado-sin-dejar-propagacion-a-zonas-cercanas",
+        "published_date": "2026-03-29 20:07:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Parishioners proclaim \u201cLong live Christ the King!\u201dduring Palm Sunday procession in the Historic Center",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/en-toalla-y-sin-perder-detalle-mujer-sale-de-su-casa-para-ver-accidente-y-se-vuelve-viral/",
-        "published_date": "2026-03-29 00:23:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "VIDEO |Woman goes viral after going out in a towel to observe a traffic accident",
-        "source": "Cronio",
-        "url": "https://croniosv.com/redes/virales/video-mujer-se-vuelve-viral-tras-salir-en-toalla-para-observar-accidente-de-transito/",
-        "published_date": "2026-03-29 00:19:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young motorcyclist dies after crashing into a tree",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/joven-motociclista-muere-tras-chocar-contra-un-arbol/",
-        "published_date": "2026-03-29 00:14:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Anabel Belloso talks about \u201csetbacks\u201d in El Salvador as the FMLN faces its biggest political fall",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/anabel-belloso-habla-de-retrocesos-en-el-salvador-mientras-el-fmln-enfrenta-su-mayor-caida-politica/?utm_source=rss&utm_medium=rss&utm_campaign=anabel-belloso-habla-de-retrocesos-en-el-salvador-mientras-el-fmln-enfrenta-su-mayor-caida-politica",
-        "published_date": "2026-03-28 23:56:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President Ulloa meets with the Apostolic Nuncio at the close of his mission in the country",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/vicepresidente-ulloa-se-reune-con-el-nuncio-apostolico-al-cierre-de-su-mision-en-el-pais/",
-        "published_date": "2026-03-28 23:44:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "They carry out a water rescue drill in Lake Ilopango",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/realizan-simulacro-de-rescate-acuatico-en-el-lago-de-ilopango/",
-        "published_date": "2026-03-28 23:31:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Arnold Schwarzenegger trains his son Joseph Baena for his first bodybuilding competition",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/03/arnold-schwarzenegger-entrena-a-su-hijo-joseph-baena-para-su-primera-competicion-de-culturismo/",
-        "published_date": "2026-03-28 23:17:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bank of America agrees to pay $72.5 million to settle civil suit linked to Epstein",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/bank-of-america-acepta-pagar-725-millones-para-cerrar-un-proceso-civil-vinculado-a-epstein/",
-        "published_date": "2026-03-28 23:02:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Indonesia prohibits the use of social networks for minors under 16 years of age",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/indonesia-prohibe-el-uso-de-redes-sociales-a-menores-de-16-anos/",
-        "published_date": "2026-03-28 22:52:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "ARENA seeks to be united in internal election amid its loss of political support",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/arena-busca-mostrarse-unida-en-eleccion-interna-en-medio-de-su-perdida-de-apoyo-politico/?utm_source=rss&utm_medium=rss&utm_campaign=arena-busca-mostrarse-unida-en-eleccion-interna-en-medio-de-su-perdida-de-apoyo-politico",
-        "published_date": "2026-03-28 22:38:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Selecta defender is absent from the concentration due to personal issues",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/03/defensor-de-la-selecta-se-ausenta-de-la-concentracion-por-temas-personales/",
-        "published_date": "2026-03-28 22:21:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Agro Markets offer dried fish at affordable prices during Holy Week",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/agro-mercados-ofrecen-pescado-seco-a-precios-accesibles-durante-semana-santa/",
-        "published_date": "2026-03-28 22:20:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cNo Kings\u201d: massive marches shake the United States in one of the largest recent mobilizations",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/03/no-kings-multitudinarias-marchas-sacuden-estados-unidos-en-una-de-las-mayores-movilizaciones-recientes/",
-        "published_date": "2026-03-28 21:41:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Donation of equipment strengthens the practical training of young people at Gastro-Lab Surf City",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/donacion-de-equipo-fortalece-la-formacion-practica-de-jovenes-en-gastro-lab-surf-city/?utm_source=rss&utm_medium=rss&utm_campaign=donacion-de-equipo-fortalece-la-formacion-practica-de-jovenes-en-gastro-lab-surf-city",
-        "published_date": "2026-03-28 21:03:18",
+        "url": "https://diariolahuella.com/feligreses-proclaman-viva-cristo-rey-durante-procesion-del-domingo-de-ramos-en-el-centro-historico/",
+        "published_date": "2026-03-29 19:56:14",
         "category": "Local Events"
     }
 ]
