@@ -1,5 +1,19 @@
 [
     {
+        "title": "Africa's cry at the UN: Between the global milestone and local hypocrisy",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-grito-de-africa-en-la-onu-entre-el-hito-global-y-la-hipocresia-local/",
+        "published_date": "2026-03-31 10:59:43",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Russia calls for ceasefire and political solution in talks with Gulf Arab countries",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/rusia-pide-cese-al-fuego-y-solucion-politica-en-conversaciones-con-paises-arabes-de-golfo/",
+        "published_date": "2026-03-31 10:57:19",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The United States embassy in Venezuela resumes operations after seven years",
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/la-embajada-de-estados-unidos-en-venezuela-reanuda-operaciones-tras-siete-anos/",
@@ -47,6 +61,20 @@
         "url": "https://www.elmetropolitanodigital.com/2026/03/san-salvador-estrena-plaza-turkiye-en-parque-maquilishuat/",
         "published_date": "2026-03-28 14:15:49",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Security inspections are reinforced in businesses in La Libertad Costa during vacations",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/refuerzan-inspecciones-de-seguridad-en-negocios-de-la-libertad-costa-durante-vacaciones/?utm_source=rss&utm_medium=rss&utm_campaign=refuerzan-inspecciones-de-seguridad-en-negocios-de-la-libertad-costa-durante-vacaciones",
+        "published_date": "2026-03-31 01:10:26",
+        "category": "Military"
+    },
+    {
+        "title": "Labor inspections intensify during the holiday period in the country",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/inspecciones-laborales-se-intensifican-durante-periodo-vacacional-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=inspecciones-laborales-se-intensifican-durante-periodo-vacacional-en-el-pais",
+        "published_date": "2026-03-31 00:54:37",
+        "category": "Military"
     },
     {
         "title": "Arrested with more than four kilos of drugs will remain in prison",
@@ -175,11 +203,18 @@
         "category": "Military"
     },
     {
-        "title": "El Salvador marks a before and after: Security strategies drastically reduce violence",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-salvador-marca-un-antes-y-un-despues-estrategias-de-seguridad-disminuyen-drasticamente-la-violencia/",
-        "published_date": "2026-03-27 13:52:34",
-        "category": "Military"
+        "title": "Diesel will rise $0.38 starting this March 31",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diesel-subira-0-38-a-partir-de-este-31-de-marzo/",
+        "published_date": "2026-03-31 11:01:48",
+        "category": "Energy"
+    },
+    {
+        "title": "Fuels will have a new increase starting tomorrow",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/combustibles-tendra-nueva-alza-a-partir-de-manana/",
+        "published_date": "2026-03-31 00:39:52",
+        "category": "Energy"
     },
     {
         "title": "Trump says Iran must reopen Strait of Hormuz to reach deal",
@@ -236,6 +271,76 @@
         "url": "https://lapagina.com.sv/nacionales/sector-construccion-cerro-2025-con-fuerte-crecimiento-y-aporte-de-3017-millones-al-pib/?utm_source=rss&utm_medium=rss&utm_campaign=sector-construccion-cerro-2025-con-fuerte-crecimiento-y-aporte-de-3017-millones-al-pib",
         "published_date": "2026-03-28 16:29:54",
         "category": "Economy"
+    },
+    {
+        "title": "A Russian tanker with 100,000 tons of crude oil arrives at the port of Matanzas in Cuba",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/03/un-petrolero-ruso-con-100-000-toneladas-de-crudo-llega-al-puerto-de-matanzas-en-cuba/",
+        "published_date": "2026-03-31 14:15:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "FMLN calls for internal elections to define candidates for 2027",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fmln-convoca-a-elecciones-internas-para-definir-candidaturas-rumbo-a-2027/",
+        "published_date": "2026-03-31 11:04:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador remains behind in transparency, ranking 120th",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-salvador-se-mantiene-rezagado-en-transparencia-ocupa-el-puesto-120/",
+        "published_date": "2026-03-31 11:03:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Maquilero company union denounces layoffs, workplace harassment",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/sindicato-de-empresa-maquilera-denuncia-despidos-acoso-laboral/",
+        "published_date": "2026-03-31 11:02:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Organizations reiterate call to repeal Mining Law",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/organizaciones-reiteran-llamado-a-derogar-ley-minera/",
+        "published_date": "2026-03-31 11:00:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "US will soon find out if Iranian parliament speaker is willing to work with US, Trump says",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/eeuu-descubrira-pronto-si-presidente-de-parlamento-irani-esta-dispuesto-a-trabajar-con-eeuu-dice-trump/",
+        "published_date": "2026-03-31 10:58:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Forgiveness and Easter reconciliation in a vengeful postmodernity - Lisandro Prieto Femen\u00eda",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/perdon-y-reconciliacion-pascual-en-una-posmodernidad-vengativa-lisandro-prieto-femenia/",
+        "published_date": "2026-03-31 04:32:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "SMODA strengthens local talent and promotes Salvadoran fashion",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/smoda-fortalece-el-talento-local-y-promueve-la-moda-salvadorena/?utm_source=rss&utm_medium=rss&utm_campaign=smoda-fortalece-el-talento-local-y-promueve-la-moda-salvadorena",
+        "published_date": "2026-03-31 02:43:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Puerto de La Libertad Tourist Complex obtains certification for family enjoyment",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/complejo-turistico-del-puerto-de-la-libertad-obtiene-certificacion-para-el-disfrute-familiar/?utm_source=rss&utm_medium=rss&utm_campaign=complejo-turistico-del-puerto-de-la-libertad-obtiene-certificacion-para-el-disfrute-familiar",
+        "published_date": "2026-03-31 01:15:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Organizations call to ban mining as was carried out in 2017",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/organizaciones-llaman-a-prohibir-la-mineria-como-se-efectuo-en-2017/",
+        "published_date": "2026-03-31 00:28:20",
+        "category": "Local Events"
     },
     {
         "title": "Miss Universe El Salvador opens its great casting to choose the new representative of the country",
@@ -305,76 +410,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/03/la-casa-blanca-insiste-en-que-la-subida-del-crudo-por-la-guerra-de-iran-es-a-corto-plazo/",
         "published_date": "2026-03-30 21:12:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Puerto de La Libertad receives the Family Friendly seal thanks to its focus on families and children",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/puerto-de-la-libertad-recibe-el-sello-family-friendly-gracias-a-su-enfoque-en-las-familias-y-la-ninez/",
-        "published_date": "2026-03-30 20:28:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Firefighters of El Salvador call for responsible driving to prevent accidents",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/bomberos-de-el-salvador-llaman-a-conducir-con-responsabilidad-para-prevenir-accidentes/",
-        "published_date": "2026-03-30 20:14:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Talcig\u00fcines take to the streets of Texistepeque in preparation for Holy Monday",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/03/talciguines-toman-las-calles-de-texistepeque-en-preparacion-para-el-lunes-santo/",
-        "published_date": "2026-03-30 20:09:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ministry of Labor deploys inspections during vacations to guarantee labor rights",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ministerio-de-trabajo-despliega-inspecciones-durante-vacaciones-para-garantizar-derechos-laborales/",
-        "published_date": "2026-03-30 17:46:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "At least 70 dead in a massacre carried out by gangs in Haiti, according to a local NGO",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/03/al-menos-70-muertos-en-una-masacre-perpetrada-por-bandas-en-haiti-segun-una-ong-local/",
-        "published_date": "2026-03-30 17:03:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "MARN: \"The morning will remain with mostly clear skies\"",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/03/marn-la-manana-se-mantendra-con-cielo-mayormente-despejado/",
-        "published_date": "2026-03-30 16:54:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "VICE PRESIDENT F\u00c9LIX ULLOA TALKS ABOUT ERRORS",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-vicepresidente-felix-ulloa-habla-de-errores/",
-        "published_date": "2026-03-30 16:34:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ubuntu Community",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/comunidad-ubuntu/",
-        "published_date": "2026-03-30 16:00:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "They rescue a young man who fell into a ravine in the Gallegos 2 neighborhood",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/rescatan-a-joven-que-cayo-en-un-barranco-en-la-colonia-gallegos-2/",
-        "published_date": "2026-03-30 15:39:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tourists enjoy the renovated Apulo Recreational Park at the start of Holy Week",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/03/uristas-disfrutan-el-renovado-parque-recreativo-apulo-en-el-arranque-de-semana-santa/",
-        "published_date": "2026-03-30 14:44:28",
         "category": "Local Events"
     }
 ]
