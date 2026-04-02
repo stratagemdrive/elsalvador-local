@@ -1,5 +1,26 @@
 [
     {
+        "title": "Two US miscalculations in Iran",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/dos-errores-de-calculo-de-ee-uu-en-iran/",
+        "published_date": "2026-04-02 10:59:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "President Bukele highlights transformation after removing monument built during FMLN governments",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-destaca-transformacion-tras-retirar-monumento-construido-en-gobiernos-del-fmln/",
+        "published_date": "2026-04-02 01:49:26",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Nayib Bukele dismantled the monument: \"Eliminating the horrible is essential,\" he stressed",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/nayib-bukele-desmonto-monumento-eliminar-lo-horrible-es-imprescindible-destaco/?utm_source=rss&utm_medium=rss&utm_campaign=nayib-bukele-desmonto-monumento-eliminar-lo-horrible-es-imprescindible-destaco",
+        "published_date": "2026-04-02 01:30:11",
+        "category": "Diplomacy"
+    },
+    {
         "title": "\"Take your social experiments to other countries\" Bukele on comments from the UN spokesperson",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/llevense-sus-experimentos-sociales-a-otros-paises-bukele-sobre-comentarios-de-portavoz-de-la-onu/",
@@ -89,6 +110,20 @@
         "url": "https://www.elmetropolitanodigital.com/2026/03/san-salvador-estrena-plaza-turkiye-en-parque-maquilishuat/",
         "published_date": "2026-03-28 14:15:49",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Drivers are fined for speeding on the country's main roads",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/sancionan-a-conductores-por-exceso-de-velocidad-en-principales-carreteras-del-pais/",
+        "published_date": "2026-04-02 13:55:16",
+        "category": "Military"
+    },
+    {
+        "title": "US congressmen demand information on the secret transfer of Salvadoran migrants to CECOT",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/congresistas-de-eeuu-exigen-informacion-del-traslado-secreto-de-migrantes-salvadorenos-al-cecot/",
+        "published_date": "2026-04-02 02:42:34",
+        "category": "Military"
     },
     {
         "title": "The last day of March closed the day without homicides, according to PNC data",
@@ -217,20 +252,6 @@
         "category": "Military"
     },
     {
-        "title": "Petro questions security in El Salvador and ignores President Bukele's results",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/petro-cuestiona-la-seguridad-en-el-salvador-e-ignora-los-resultados-del-presidente-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=petro-cuestiona-la-seguridad-en-el-salvador-e-ignora-los-resultados-del-presidente-bukele",
-        "published_date": "2026-03-28 21:53:10",
-        "category": "Military"
-    },
-    {
-        "title": "MS13 gang member injured in accident and will be prosecuted for illicit groups",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/pandillero-de-la-ms13-resulta-lesionado-en-accidente-y-sera-procesado-por-agrupaciones-ilicitas/?utm_source=rss&utm_medium=rss&utm_campaign=pandillero-de-la-ms13-resulta-lesionado-en-accidente-y-sera-procesado-por-agrupaciones-ilicitas",
-        "published_date": "2026-03-28 20:35:40",
-        "category": "Military"
-    },
-    {
         "title": "Hondurans will pay more for electricity starting in April",
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/hondurenos-pagaran-mas-por-la-energia-electrica-a-partir-de-abril/",
@@ -287,6 +308,13 @@
         "category": "Energy"
     },
     {
+        "title": "On the supposed reduction of poverty",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/sobre-la-supuesta-reduccion-de-la-pobreza/",
+        "published_date": "2026-04-02 02:55:39",
+        "category": "Economy"
+    },
+    {
         "title": "World Bank supports educational modernization in El Salvador by strengthening students' skills",
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/banco-mundial-apoya-la-modernizacion-educativa-en-el-salvador-al-fortalecer-habilidades-en-los-estudiantes/",
@@ -327,6 +355,69 @@
         "url": "https://lapagina.com.sv/nacionales/sector-construccion-cerro-2025-con-fuerte-crecimiento-y-aporte-de-3017-millones-al-pib/?utm_source=rss&utm_medium=rss&utm_campaign=sector-construccion-cerro-2025-con-fuerte-crecimiento-y-aporte-de-3017-millones-al-pib",
         "published_date": "2026-03-28 16:29:54",
         "category": "Economy"
+    },
+    {
+        "title": "Mario Gonz\u00e1lez renews with San Carlos until Clausura 2028",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/mario-gonzalez-renueva-con-san-carlos-hasta-el-clausura-2028/",
+        "published_date": "2026-04-02 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Piocha pioneer of salt carpets in the center of San Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-piocha-pionero-de-las-alfombras-de-sal-en-el-centro-de-san-salvador/",
+        "published_date": "2026-04-02 11:01:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Leaders of the San Francisco Angulo Community reject the landfill due to environmental risks and historical memory",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/lideres-de-la-comunida-san-francisco-angulo-rechazan-el-relleno-sanitario-por-riesgos-ambientales-y-memoria-historica/",
+        "published_date": "2026-04-02 11:00:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump threatens to hit Iran \u201cextremely hard\u201d in the coming weeks and affirms that negotiations continue",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/trump-amenaza-con-golpear-a-iran-extremadamente-fuerte-en-proximas-semanas-y-afirma-que-negociaciones-continuan/",
+        "published_date": "2026-04-02 03:08:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran engineer Patricia Ortiz participates in NASA projects that seek to return to the Moon",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ingeniera-salvadorena-patricia-ortiz-participa-en-proyectos-de-la-nasa-que-buscan-regresar-a-la-luna/",
+        "published_date": "2026-04-02 02:53:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Artemis II crew reaches Earth orbit",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/tripulacion-de-artemis-ii-alcanza-la-orbita-terrestre/",
+        "published_date": "2026-04-02 02:42:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tradition, flavor and joy mark the Gastronomic Festival in the Central Market",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/tradicion-sabor-y-alegria-marcan-el-festival-gastronomico-en-el-mercado-central/",
+        "published_date": "2026-04-02 02:18:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran leads key NASA projects in California",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/salvadorena-lidera-proyectos-clave-de-la-nasa-en-california/?utm_source=rss&utm_medium=rss&utm_campaign=salvadorena-lidera-proyectos-clave-de-la-nasa-en-california",
+        "published_date": "2026-04-02 01:34:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "American tourist is evacuated in an emergency in Ilamatepec",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/turista-estadounidense-es-evacuado-de-emergencia-en-el-ilamatepec/",
+        "published_date": "2026-04-02 00:21:13",
+        "category": "Local Events"
     },
     {
         "title": "Gastronomic Festival in the Central Market brings together hundreds of Salvadorans",
@@ -403,69 +494,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/trump-dice-que-el-presidente-de-iran-quiere-un-cese-el-fuego/",
         "published_date": "2026-04-01 21:08:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran says the Strait of Hormuz will remain closed to its enemies",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/iran-afirma-que-el-estrecho-de-ormuz-permanecera-cerrado-a-sus-enemigos/",
-        "published_date": "2026-04-01 20:57:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador received 89 thousand international visitors between March 28 and 31",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-salvador-recibio-89-mil-visitantes-internacionales-entre-el-28-y-31-de-marzo/",
-        "published_date": "2026-04-01 20:52:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ombudsman detects expired food in kitchens during holiday operations",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/defensoria-detecta-alimentos-vencidos-en-cocinas-durante-operativos-vacacionales/",
-        "published_date": "2026-04-01 20:32:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shakira, ever closer to entering the Rock Hall of Fame",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/shakira-cada-vez-mas-cerca-de-ingresar-al-salon-de-la-fama-del-rock/",
-        "published_date": "2026-04-01 20:16:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICAE Ambulatory Surgery Institute provides specialized medical services 24 hours a day in San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/instituto-de-cirugia-ambulatoria-icae-brinda-servicios-medicos-especializados-las-24-horas-en-san-salvador/",
-        "published_date": "2026-04-01 20:11:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "They rescue a person who fell into a 15-meter well in Sacacoyo",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/rescatan-a-persona-que-cayo-en-pozo-de-15-metros-en-sacacoyo/",
-        "published_date": "2026-04-01 19:26:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "They open a new legal border between El Salvador and Guatemala",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/abren-nueva-frontera-legal-entre-el-salvador-y-guatemala/?utm_source=rss&utm_medium=rss&utm_campaign=abren-nueva-frontera-legal-entre-el-salvador-y-guatemala",
-        "published_date": "2026-04-01 18:18:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brayan Gil could play European tournaments with Baltika Kaliningrad",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/brayan-gil-podria-disputar-torneos-europeos-con-el-baltika-kaliningrad/",
-        "published_date": "2026-04-01 18:12:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Agromarkets extend hours during Holy Week to facilitate purchases",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/agromercados-extienden-horarios-en-semana-santa-para-facilitar-compras/?utm_source=rss&utm_medium=rss&utm_campaign=agromercados-extienden-horarios-en-semana-santa-para-facilitar-compras",
-        "published_date": "2026-04-01 17:58:53",
         "category": "Local Events"
     }
 ]
