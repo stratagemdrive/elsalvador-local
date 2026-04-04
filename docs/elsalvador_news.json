@@ -1,5 +1,19 @@
 [
     {
+        "title": "Minister of Security reaffirms firm stance against gangs after capture of MS-13 member",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/ministro-de-seguridad-reafirma-postura-firme-contra-pandillas-tras-captura-de-miembro-de-la-ms-13/?utm_source=rss&utm_medium=rss&utm_campaign=ministro-de-seguridad-reafirma-postura-firme-contra-pandillas-tras-captura-de-miembro-de-la-ms-13",
+        "published_date": "2026-04-04 01:09:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "English in Central America IV",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/411180-2/",
+        "published_date": "2026-04-04 01:00:25",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuba denounces in France the tightening of the US blockade",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/cuba-denuncia-en-francia-recrudecimiento-del-bloqueo-de-eeuu/",
@@ -117,6 +131,13 @@
         "url": "https://www.elmetropolitanodigital.com/2026/03/san-salvador-estrena-plaza-turkiye-en-parque-maquilishuat/",
         "published_date": "2026-03-28 14:15:49",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Man is arrested after threatening a woman with a corvo in La Libertad Costa",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/hombre-es-detenido-tras-amenazar-con-un-corvo-a-una-mujer-en-la-libertad-costa/?utm_source=rss&utm_medium=rss&utm_campaign=hombre-es-detenido-tras-amenazar-con-un-corvo-a-una-mujer-en-la-libertad-costa",
+        "published_date": "2026-04-04 03:12:15",
+        "category": "Military"
     },
     {
         "title": "Census 2025 reveals the key role of agriculture in the economy and food security of El Salvador",
@@ -252,11 +273,11 @@
         "category": "Military"
     },
     {
-        "title": "Traffic accidents increase 28% prior to Easter",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/aumentan-28-los-accidentes-de-transito-previo-a-semana-santa/",
-        "published_date": "2026-03-30 11:02:10",
-        "category": "Military"
+        "title": "Pakistan announces free public transport amid energy crisis",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/pakistan-anuncia-transporte-publico-gratuito-en-medio-de-la-crisis-energetica/",
+        "published_date": "2026-04-04 05:02:47",
+        "category": "Energy"
     },
     {
         "title": "Trump says US could reopen Strait of Hormuz 'with a little more time'",
@@ -392,143 +413,143 @@
         "category": "Economy"
     },
     {
+        "title": "Why will the Artemis II astronauts not set foot on the Moon as in the Apollo missions despite the enormous technological advances of the last 50 years?",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/ciencia/por-que-los-astronautas-de-artemis-ii-no-pisaran-la-luna-como-en-las-misiones-apolo-a-pesar-de-los-enormes-avances-tecnologicos-de-los-ultimos-50-anos/",
+        "published_date": "2026-04-04 06:29:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 800 road assistance have been provided so far this Easter",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/mas-de-800-asistencias-viales-han-sido-brindadas-en-lo-que-va-de-semana-santa/",
+        "published_date": "2026-04-04 05:44:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "A victory for El Salvador that tastes like high-altitude coffee",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/una-victoria-de-el-salvador-que-sabe-a-cafe-de-altura/",
+        "published_date": "2026-04-04 05:28:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Selecta women's shirt is resurrected on Good Friday",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/nacionales-deportes/la-selecta-playera-femenina-resucita-en-viernes-santo/",
+        "published_date": "2026-04-04 05:24:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "First Stations of the Cross of Pope Leo XIV in the Colosseum, in times of war",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/primer-viacrucis-del-papa-leon-xiv-en-el-coliseo-en-tiempos-de-guerra/",
+        "published_date": "2026-04-04 05:19:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "US plane crewman killed by Iran wanted by both sides",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/tripulante-de-avion-de-ee-uu-abatido-por-iran-buscado-por-ambos-bandos/",
+        "published_date": "2026-04-04 05:12:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump asks Congress for $152 million to reopen Alcatraz",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/trump-pide-al-congreso-152-millones-para-reabrir-alcatraz/",
+        "published_date": "2026-04-04 05:08:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four dead after plane crash in southern Brazil resort",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/suman-cuatro-los-muertos-tras-accidente-aereo-en-balneario-del-sur-de-brasil/",
+        "published_date": "2026-04-04 05:01:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hansi Flick believes Rashford has \"a great opportunity\" with Raphinha's injury",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/hansi-flick-cree-que-rashford-tiene-una-gran-oportunidad-con-la-lesion-de-raphinha/",
+        "published_date": "2026-04-04 04:56:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador wins an exciting duel 5-4 against Colombia in the Beach Soccer Cup 2026",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-gana-un-emocionante-duelo-5-4-ante-colombia-en-la-beach-soccer-cup-2026/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-gana-un-emocionante-duelo-5-4-ante-colombia-en-la-beach-soccer-cup-2026",
+        "published_date": "2026-04-04 03:44:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Parishioners live the Holy Burial with solemnity in the renovated Historic Center of San Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/feligreses-viven-con-solemnidad-el-santo-entierro-en-el-renovado-centro-historico-de-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=feligreses-viven-con-solemnidad-el-santo-entierro-en-el-renovado-centro-historico-de-san-salvador",
+        "published_date": "2026-04-04 02:49:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "They capture a man who threatened a woman with corvo in La Libertad",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-hombre-que-amenazo-a-mujer-con-corvo-en-la-libertad/",
+        "published_date": "2026-04-04 02:35:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "They capture the \u201cPastilla\u201d MS gang member",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-al-pastilla-pandillero-de-la-ms/",
+        "published_date": "2026-04-04 02:12:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lifeguards rescue several people swept away by currents on the country's beaches",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/guardavidas-rescatan-a-varias-personas-arrastradas-por-corrientes-en-playas-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=guardavidas-rescatan-a-varias-personas-arrastradas-por-corrientes-en-playas-del-pais",
+        "published_date": "2026-04-04 01:32:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "AMBROGI AND THE CHICHARRAS",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ambrogi-y-las-chicharras-2/",
+        "published_date": "2026-04-04 01:03:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Remembrance",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/remembranza/",
+        "published_date": "2026-04-04 01:02:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reason for synthesis in fine arts V (final)",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/razon-de-ser-de-la-sintesis-en-las-bellas-artes-v-final/",
+        "published_date": "2026-04-04 01:01:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele highlights road works completed during his administration",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-destaca-obras-viales-finalizadas-en-su-gestion/",
+        "published_date": "2026-04-04 00:53:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele highlights completion of key road works to improve connectivity in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-destaca-finalizacion-de-obras-viales-clave-para-mejorar-la-conectividad-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-destaca-finalizacion-de-obras-viales-clave-para-mejorar-la-conectividad-en-el-salvador",
+        "published_date": "2026-04-04 00:44:57",
+        "category": "Local Events"
+    },
+    {
         "title": "Apulo Recreational Park consolidates itself as a tourist destination during Holy Week",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/parque-recreativo-de-apulo-se-consolida-como-destino-turistico-en-semana-santa/",
         "published_date": "2026-04-03 23:42:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young man is injured in a traffic accident on the road to Berlin",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/joven-resulta-herido-en-accidente-de-transito-en-la-carretera-hacia-berlin/?utm_source=rss&utm_medium=rss&utm_campaign=joven-resulta-herido-en-accidente-de-transito-en-la-carretera-hacia-berlin",
-        "published_date": "2026-04-03 23:26:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Portugal signs a resounding victory and maintains the lead in El Salvador Beach Soccer Cup 2026",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/portugal-firma-una-goleada-contundente-y-mantiene-el-liderato-en-el-salvador-beach-soccer-cup-2026/?utm_source=rss&utm_medium=rss&utm_campaign=portugal-firma-una-goleada-contundente-y-mantiene-el-liderato-en-el-salvador-beach-soccer-cup-2026",
-        "published_date": "2026-04-03 22:59:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pope Leo XIV stars in historic Via Crucis by carrying the cross during all seasons in the Colosseum in Rome",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/papa-leon-xiv-protagoniza-historico-via-crucis-al-cargar-la-cruz-durante-todas-las-estaciones-en-el-coliseo-de-roma/?utm_source=rss&utm_medium=rss&utm_campaign=papa-leon-xiv-protagoniza-historico-via-crucis-al-cargar-la-cruz-durante-todas-las-estaciones-en-el-coliseo-de-roma",
-        "published_date": "2026-04-03 22:24:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fervor and tradition mark Good Friday in municipalities of El Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/fervor-y-tradicion-marcan-el-viernes-santo-en-municipios-de-el-salvador/",
-        "published_date": "2026-04-03 22:08:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Businesswoman accused of falsifying Ronaldinho documents captured in Paraguay",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/capturan-en-paraguay-a-empresaria-acusada-de-falsificar-documentos-de-ronaldinho/",
-        "published_date": "2026-04-03 21:45:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tropicalia lights up summer on the Costa del Sol with music, beach and international artists",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/tropicalia-enciende-el-verano-en-la-costa-del-sol-con-musica-playa-y-artistas-internacionales/",
-        "published_date": "2026-04-03 21:31:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mega carpet of the Historic Center enters its final phase",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mega-alfombra-del-centro-historico-entra-en-su-fase-final/?utm_source=rss&utm_medium=rss&utm_campaign=mega-alfombra-del-centro-historico-entra-en-su-fase-final",
-        "published_date": "2026-04-03 21:30:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "US fighter plane shot down in Iran, one crew member rescued",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/avion-de-combate-estadounidense-derribado-en-iran-un-tripulante-rescatado/",
-        "published_date": "2026-04-03 21:25:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Easter carpets do not stop in the Historic Center of San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/alfombras-de-semana-santa-no-se-detienen-en-el-centro-historico-de-san-salvador/",
-        "published_date": "2026-04-03 20:53:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Increasing number of traffic accidents during Easter holidays",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/en-aumento-numero-de-accidentes-de-transito-en-vacaciones-de-semana-santa/",
-        "published_date": "2026-04-03 20:49:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "They rescue a man at risk of drowning in Lake Ilopango",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/rescatan-a-hombre-en-riesgo-de-ahogarse-en-el-lago-de-ilopango/",
-        "published_date": "2026-04-03 19:45:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities reinforce operations due to high influx on Good Friday",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/autoridades-refuerzan-operativos-por-alta-afluencia-en-viernes-santo/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-refuerzan-operativos-por-alta-afluencia-en-viernes-santo",
-        "published_date": "2026-04-03 19:10:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Civil Protection reports injuries and aquatic emergencies during vacations",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/proteccion-civil-reporta-lesionados-y-emergencias-acuaticas-durante-vacaciones/?utm_source=rss&utm_medium=rss&utm_campaign=proteccion-civil-reporta-lesionados-y-emergencias-acuaticas-durante-vacaciones",
-        "published_date": "2026-04-03 18:49:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Average of 50 road accidents daily during Holy Week reports DGPC",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/promedio-de-50-siniestros-viales-diarios-durante-semana-santa-reporta-dgpc/",
-        "published_date": "2026-04-03 18:38:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Civil Protection deploys pre-hospital assistance in Holy Week activities in Sonsonate",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/proteccion-civil-despliega-asistencia-prehospitalaria-en-actividades-de-semana-santa-en-sonsonate/",
-        "published_date": "2026-04-03 18:32:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "7 drowned and 17 traffic accidents reported by the authorities so far on vacation",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/7-ahogados-y-17-accidentes-de-transito-reportan-las-autoridades-en-lo-que-va-de-vacaciones/",
-        "published_date": "2026-04-03 18:28:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 800 drivers assisted on roads during holidays",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/mas-de-800-conductores-asistidos-en-carreteras-durante-vacaciones/",
-        "published_date": "2026-04-03 18:22:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "They rescue one of the crew of a US fighter plane shot down in Iran, search continues",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/rescatan-a-uno-de-los-tripulantes-de-avion-de-combate-de-eeuu-derribado-en-iran-continua-busqueda/",
-        "published_date": "2026-04-03 18:12:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombian James Rodr\u00edguez, hospitalized in the US for \"severe dehydration\"",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-colombiano-james-rodriguez-hospitalizado-en-ee-uu-por-deshidratacion-severa/",
-        "published_date": "2026-04-03 18:10:38",
         "category": "Local Events"
     }
 ]
