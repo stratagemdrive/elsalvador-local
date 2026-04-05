@@ -133,6 +133,48 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Vehicle controls are reinforced during Holy Week due to the high influx of tourists in the country",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/controles-vehiculares-se-refuerzan-en-semana-santa-ante-alta-afluencia-de-turistas-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=controles-vehiculares-se-refuerzan-en-semana-santa-ante-alta-afluencia-de-turistas-en-el-pais",
+        "published_date": "2026-04-04 19:52:00",
+        "category": "Military"
+    },
+    {
+        "title": "Person is transferred after suffering an ankle injury while playing soccer in El Majahual",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/persona-es-trasladada-tras-sufrir-lesion-en-el-tobillo-mientras-jugaba-futbol-en-el-majahual/?utm_source=rss&utm_medium=rss&utm_campaign=persona-es-trasladada-tras-sufrir-lesion-en-el-tobillo-mientras-jugaba-futbol-en-el-majahual",
+        "published_date": "2026-04-04 17:36:08",
+        "category": "Military"
+    },
+    {
+        "title": "Soldiers rescue crew members from boat that capsized in Bocana El Cordoncillo",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/soldados-rescatan-a-tripulantes-de-embarcacion-que-volco-en-bocana-el-cordoncillo/",
+        "published_date": "2026-04-04 16:57:05",
+        "category": "Military"
+    },
+    {
+        "title": "They capture an MS-13 gang member accused of homicide in San Miguel",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/capturan-a-pandillero-de-la-ms-13-acusado-de-homicidio-en-san-miguel/",
+        "published_date": "2026-04-04 16:41:02",
+        "category": "Military"
+    },
+    {
+        "title": "Bombing of Bushehr nuclear plant in Iran causes casualties",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/bombardeo-a-planta-nuclear-de-bushehr-en-iran-causa-victima/",
+        "published_date": "2026-04-04 16:31:21",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador adds another day without homicides in April",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-suma-otro-dia-sin-homicidios-en-abril/",
+        "published_date": "2026-04-04 15:12:34",
+        "category": "Military"
+    },
+    {
         "title": "Man is arrested after threatening a woman with a corvo in La Libertad Costa",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/hombre-es-detenido-tras-amenazar-con-un-corvo-a-una-mujer-en-la-libertad-costa/?utm_source=rss&utm_medium=rss&utm_campaign=hombre-es-detenido-tras-amenazar-con-un-corvo-a-una-mujer-en-la-libertad-costa",
@@ -231,46 +273,11 @@
         "category": "Military"
     },
     {
-        "title": "El Salvador wakes up without homicides this March 31",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-amanece-sin-homicidios-este-31-de-marzo/",
-        "published_date": "2026-03-31 14:56:45",
-        "category": "Military"
-    },
-    {
-        "title": "Security inspections are reinforced in businesses in La Libertad Costa during vacations",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/refuerzan-inspecciones-de-seguridad-en-negocios-de-la-libertad-costa-durante-vacaciones/?utm_source=rss&utm_medium=rss&utm_campaign=refuerzan-inspecciones-de-seguridad-en-negocios-de-la-libertad-costa-durante-vacaciones",
-        "published_date": "2026-03-31 01:10:26",
-        "category": "Military"
-    },
-    {
-        "title": "Labor inspections intensify during the holiday period in the country",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/inspecciones-laborales-se-intensifican-durante-periodo-vacacional-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=inspecciones-laborales-se-intensifican-durante-periodo-vacacional-en-el-pais",
-        "published_date": "2026-03-31 00:54:37",
-        "category": "Military"
-    },
-    {
-        "title": "Arrested with more than four kilos of drugs will remain in prison",
+        "title": "China pushes development of space computing industry, says official",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/detenido-con-mas-de-cuatro-kilos-de-droga-seguira-en-prision/",
-        "published_date": "2026-03-30 21:27:53",
-        "category": "Military"
-    },
-    {
-        "title": "Joint operations between the US and Ecuador against criminal groups strengthen",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/03/estrechan-operativo-conjuntos-de-ee-uu-y-ecuador-contra-grupos-criminales/",
-        "published_date": "2026-03-30 21:03:55",
-        "category": "Military"
-    },
-    {
-        "title": "PNC captures eight fans after a fight between \u00c1guila fans and FAS in San Miguel",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/pnc-captura-a-ocho-aficionados-tras-rina-entre-seguidores-de-aguila-y-fas-en-san-miguel/",
-        "published_date": "2026-03-30 17:18:28",
-        "category": "Military"
+        "url": "https://croniosv.com/principal/principal1/china-impulsa-el-desarrollo-de-la-industria-de-la-computacion-espacial-dice-funcionario/",
+        "published_date": "2026-04-04 16:32:10",
+        "category": "Energy"
     },
     {
         "title": "Pakistan announces free public transport amid energy crisis",
@@ -343,13 +350,6 @@
         "category": "Energy"
     },
     {
-        "title": "Oil continues to rise in the absence of an agreement on Iran",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-petroleo-sigue-en-alza-ante-la-falta-de-acuerdo-sobre-iran/",
-        "published_date": "2026-03-27 23:55:03",
-        "category": "Energy"
-    },
-    {
         "title": "Bill Gates points out three professions that will not succumb to AI",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/04/bill-gates-senala-tres-profesiones-que-no-sucumbiran-a-la-ia/",
@@ -413,143 +413,143 @@
         "category": "Economy"
     },
     {
-        "title": "Why will the Artemis II astronauts not set foot on the Moon as in the Apollo missions despite the enormous technological advances of the last 50 years?",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/ciencia/por-que-los-astronautas-de-artemis-ii-no-pisaran-la-luna-como-en-las-misiones-apolo-a-pesar-de-los-enormes-avances-tecnologicos-de-los-ultimos-50-anos/",
-        "published_date": "2026-04-04 06:29:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 800 road assistance have been provided so far this Easter",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/mas-de-800-asistencias-viales-han-sido-brindadas-en-lo-que-va-de-semana-santa/",
-        "published_date": "2026-04-04 05:44:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "A victory for El Salvador that tastes like high-altitude coffee",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/una-victoria-de-el-salvador-que-sabe-a-cafe-de-altura/",
-        "published_date": "2026-04-04 05:28:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Selecta women's shirt is resurrected on Good Friday",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/nacionales-deportes/la-selecta-playera-femenina-resucita-en-viernes-santo/",
-        "published_date": "2026-04-04 05:24:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "First Stations of the Cross of Pope Leo XIV in the Colosseum, in times of war",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/primer-viacrucis-del-papa-leon-xiv-en-el-coliseo-en-tiempos-de-guerra/",
-        "published_date": "2026-04-04 05:19:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "US plane crewman killed by Iran wanted by both sides",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/tripulante-de-avion-de-ee-uu-abatido-por-iran-buscado-por-ambos-bandos/",
-        "published_date": "2026-04-04 05:12:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump asks Congress for $152 million to reopen Alcatraz",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/trump-pide-al-congreso-152-millones-para-reabrir-alcatraz/",
-        "published_date": "2026-04-04 05:08:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four dead after plane crash in southern Brazil resort",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/suman-cuatro-los-muertos-tras-accidente-aereo-en-balneario-del-sur-de-brasil/",
-        "published_date": "2026-04-04 05:01:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hansi Flick believes Rashford has \"a great opportunity\" with Raphinha's injury",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/hansi-flick-cree-que-rashford-tiene-una-gran-oportunidad-con-la-lesion-de-raphinha/",
-        "published_date": "2026-04-04 04:56:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador wins an exciting duel 5-4 against Colombia in the Beach Soccer Cup 2026",
+        "title": "Pedestrian is seriously injured after an accident on the death curve, Sonsonate",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-gana-un-emocionante-duelo-5-4-ante-colombia-en-la-beach-soccer-cup-2026/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-gana-un-emocionante-duelo-5-4-ante-colombia-en-la-beach-soccer-cup-2026",
-        "published_date": "2026-04-04 03:44:34",
+        "url": "https://lapagina.com.sv/nacionales/peaton-resulta-gravemente-lesionado-tras-accidente-en-la-curva-de-la-muerte-sonsonate/?utm_source=rss&utm_medium=rss&utm_campaign=peaton-resulta-gravemente-lesionado-tras-accidente-en-la-curva-de-la-muerte-sonsonate",
+        "published_date": "2026-04-04 23:50:57",
         "category": "Local Events"
     },
     {
-        "title": "Parishioners live the Holy Burial with solemnity in the renovated Historic Center of San Salvador",
+        "title": "Boa captured inside home in Coatepeque",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/capturan-boa-dentro-de-vivienda-en-coatepeque/",
+        "published_date": "2026-04-04 23:21:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man dies after being swept away by current on La Libertad beach",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/hombre-fallece-tras-ser-arrastrado-por-corriente-en-playa-de-la-libertad/",
+        "published_date": "2026-04-04 22:37:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man dies after being swept away by current on Los Pinos beach, in La Libertad",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/feligreses-viven-con-solemnidad-el-santo-entierro-en-el-renovado-centro-historico-de-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=feligreses-viven-con-solemnidad-el-santo-entierro-en-el-renovado-centro-historico-de-san-salvador",
-        "published_date": "2026-04-04 02:49:09",
+        "url": "https://lapagina.com.sv/nacionales/hombre-muere-tras-ser-arrastrado-por-corriente-en-playa-los-pinos-en-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=hombre-muere-tras-ser-arrastrado-por-corriente-en-playa-los-pinos-en-la-libertad",
+        "published_date": "2026-04-04 22:35:38",
         "category": "Local Events"
     },
     {
-        "title": "They capture a man who threatened a woman with corvo in La Libertad",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-hombre-que-amenazo-a-mujer-con-corvo-en-la-libertad/",
-        "published_date": "2026-04-04 02:35:24",
+        "title": "Barcelona wins 2-1 against Atl\u00e9tico and distances itself by 7 points from Real Madrid",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/barcelona-gana-2-1-al-atletico-y-se-distancia-en-7-puntos-del-real-madrid/",
+        "published_date": "2026-04-04 22:24:14",
         "category": "Local Events"
     },
     {
-        "title": "They capture the \u201cPastilla\u201d MS gang member",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-al-pastilla-pandillero-de-la-ms/",
-        "published_date": "2026-04-04 02:12:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lifeguards rescue several people swept away by currents on the country's beaches",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/guardavidas-rescatan-a-varias-personas-arrastradas-por-corrientes-en-playas-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=guardavidas-rescatan-a-varias-personas-arrastradas-por-corrientes-en-playas-del-pais",
-        "published_date": "2026-04-04 01:32:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "AMBROGI AND THE CHICHARRAS",
+        "title": "They ask the Autonomous University of Chiapas to suspend the presentation by Vice President F\u00e9lix Ulloa",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ambrogi-y-las-chicharras-2/",
-        "published_date": "2026-04-04 01:03:19",
+        "url": "https://www.diariocolatino.com/solicitan-a-la-universidad-autonoma-de-chiapas-suspender-ponencia-del-vicepresidente-felix-ulloa/",
+        "published_date": "2026-04-04 22:05:37",
         "category": "Local Events"
     },
     {
-        "title": "Remembrance",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/remembranza/",
-        "published_date": "2026-04-04 01:02:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reason for synthesis in fine arts V (final)",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/razon-de-ser-de-la-sintesis-en-las-bellas-artes-v-final/",
-        "published_date": "2026-04-04 01:01:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele highlights road works completed during his administration",
+        "title": "They carry out a successful canine adoption day in Santa Tecla",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-destaca-obras-viales-finalizadas-en-su-gestion/",
-        "published_date": "2026-04-04 00:53:20",
+        "url": "https://diariolahuella.com/realizan-exitosa-jornada-de-adopcion-canina-en-santa-tecla/",
+        "published_date": "2026-04-04 21:52:18",
         "category": "Local Events"
     },
     {
-        "title": "President Bukele highlights completion of key road works to improve connectivity in El Salvador",
+        "title": "Responsible adoption transforms the lives of dogs rescued in Santa Tecla",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-destaca-finalizacion-de-obras-viales-clave-para-mejorar-la-conectividad-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-destaca-finalizacion-de-obras-viales-clave-para-mejorar-la-conectividad-en-el-salvador",
-        "published_date": "2026-04-04 00:44:57",
+        "url": "https://lapagina.com.sv/nacionales/adopcion-responsable-transforma-la-vida-de-perritos-rescatados-en-santa-tecla/?utm_source=rss&utm_medium=rss&utm_campaign=adopcion-responsable-transforma-la-vida-de-perritos-rescatados-en-santa-tecla",
+        "published_date": "2026-04-04 21:52:10",
         "category": "Local Events"
     },
     {
-        "title": "Apulo Recreational Park consolidates itself as a tourist destination during Holy Week",
+        "title": "Lewandowski heads into the League",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/lewandowski-enfila-la-liga/",
+        "published_date": "2026-04-04 21:42:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Real Madrid almost said goodbye to LaLiga with a defeat in Mallorca",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/real-madrid-casi-dice-adios-a-laliga-con-una-derrota-en-mallorca/",
+        "published_date": "2026-04-04 21:25:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "High influx of tourists on El Majahual beach during Holy Week",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/alta-afluencia-de-turistas-en-la-playa-el-majahual-durante-semana-santa/?utm_source=rss&utm_medium=rss&utm_campaign=alta-afluencia-de-turistas-en-la-playa-el-majahual-durante-semana-santa",
+        "published_date": "2026-04-04 21:12:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "They carry out nearly 100 water rescues and 400 road accidents so far this Easter",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/parque-recreativo-de-apulo-se-consolida-como-destino-turistico-en-semana-santa/",
-        "published_date": "2026-04-03 23:42:03",
+        "url": "https://diariolahuella.com/ejecutan-cerca-de-100-rescates-acuaticos-y-400-accidentes-viales-en-lo-que-va-de-semana-santa/",
+        "published_date": "2026-04-04 20:41:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "High temperatures and occasional rains keep the climate in El Salvador under surveillance",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/altas-temperaturas-y-lluvias-puntuales-mantienen-bajo-vigilancia-el-clima-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=altas-temperaturas-y-lluvias-puntuales-mantienen-bajo-vigilancia-el-clima-en-el-salvador",
+        "published_date": "2026-04-04 20:29:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Road attendance continues to increase during Holy Week in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/asistencias-viales-continuan-en-aumento-durante-la-semana-santa-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=asistencias-viales-continuan-en-aumento-durante-la-semana-santa-en-el-salvador",
+        "published_date": "2026-04-04 19:21:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "National Navy rescues three crew members after boat capsizes in the Estero de Jaltepeque",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/marina-nacional-rescata-a-tres-tripulantes-tras-volcamiento-de-embarcacion-en-el-estero-de-jaltepeque/?utm_source=rss&utm_medium=rss&utm_campaign=marina-nacional-rescata-a-tres-tripulantes-tras-volcamiento-de-embarcacion-en-el-estero-de-jaltepeque",
+        "published_date": "2026-04-04 18:20:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump issues an ultimatum to Iran and threatens: \u201c48 hours until hell takes over\u201d",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/trump-lanza-un-ultimatum-a-iran-y-amenaza-48-horas-para-que-el-infierno-se-apodere-de-ellos/",
+        "published_date": "2026-04-04 18:14:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vehicle controls remain active to prevent accidents on vacation",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/controles-vehiculares-se-mantienen-activos-para-prevenir-accidentes-en-vacaciones/",
+        "published_date": "2026-04-04 17:57:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Men in Germany will require permission from the Army to leave the country for more than three months",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/hombres-en-alemania-requeriran-permiso-del-ejercito-para-salir-del-pais-por-mas-de-tres-meses/",
+        "published_date": "2026-04-04 17:55:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Real Madrid almost said goodbye to LaLiga with a defeat in Mallorca",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/real-madrid-casi-dice-adios-a-laliga-con-una-derrota-en-mallorca/",
+        "published_date": "2026-04-04 17:42:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia registers 35 massacres in the first quarter of 2026",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/colombia-registra-35-masacres-en-el-primer-trimestre-del-2026/",
+        "published_date": "2026-04-04 17:10:13",
         "category": "Local Events"
     }
 ]
