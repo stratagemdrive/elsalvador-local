@@ -133,6 +133,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Iran rejected the US ultimatum and Trump released images of a bombing in Tehran",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/iran-rechazo-el-ultimatum-de-estados-unidos-y-trump-difundio-imagenes-de-un-bombardeo-en-teheran/",
+        "published_date": "2026-04-05 05:26:42",
+        "category": "Military"
+    },
+    {
         "title": "Vehicle controls are reinforced during Holy Week due to the high influx of tourists in the country",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/controles-vehiculares-se-refuerzan-en-semana-santa-ante-alta-afluencia-de-turistas-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=controles-vehiculares-se-refuerzan-en-semana-santa-ante-alta-afluencia-de-turistas-en-el-pais",
@@ -263,13 +270,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/capturan-a-guatemalteco-con-droga-valorada-en-mas-de-10-mil-en-control-fronterizo/",
         "published_date": "2026-03-31 17:38:38",
-        "category": "Military"
-    },
-    {
-        "title": "Guatemalan captured with drugs valued at more than $10,000 at border control",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-guatemalteco-con-droga-valorada-en-mas-de-10-mil-en-control-fronterizo/",
-        "published_date": "2026-03-31 16:48:15",
         "category": "Military"
     },
     {
@@ -413,6 +413,97 @@
         "category": "Economy"
     },
     {
+        "title": "El Salvador wins the two-time championship in women's beach soccer",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/el-salvador-conquista-el-bicampeonato-en-futbol-playa-femenino/",
+        "published_date": "2026-04-05 04:32:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil is crowned undefeated champion of the Beach Soccer Cup 2026",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/brasil-se-corona-campeon-invicto-de-la-beach-soccer-cup-2026/",
+        "published_date": "2026-04-05 04:21:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador takes third place in the international beach soccer tournament",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/el-salvador-se-queda-con-el-tercer-puesto-en-torneo-internacional-de-futbol-playa/",
+        "published_date": "2026-04-05 04:13:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador women's team achieves two-time championship in the Beach Soccer Cup 2026",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/equipo-femenino-de-el-salvador-logra-el-bicampeonato-en-el-beach-soccer-cup-2026/?utm_source=rss&utm_medium=rss&utm_campaign=equipo-femenino-de-el-salvador-logra-el-bicampeonato-en-el-beach-soccer-cup-2026",
+        "published_date": "2026-04-05 04:04:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paola Calder\u00f3n is recognized as the Most Valuable Player after guiding El Salvador to the two-time beach soccer championship",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/paola-calderon-es-reconocida-como-la-jugadora-mas-valiosa-tras-guiar-a-el-salvador-al-bicampeonato-en-futbol-playa/?utm_source=rss&utm_medium=rss&utm_campaign=paola-calderon-es-reconocida-como-la-jugadora-mas-valiosa-tras-guiar-a-el-salvador-al-bicampeonato-en-futbol-playa",
+        "published_date": "2026-04-05 04:00:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil is crowned undefeated champion in the men's branch of El Salvador Beach Soccer Cup 2026",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/brasil-se-corona-campeon-invicto-en-la-rama-masculina-de-el-salvador-beach-soccer-cup-2026/?utm_source=rss&utm_medium=rss&utm_campaign=brasil-se-corona-campeon-invicto-en-la-rama-masculina-de-el-salvador-beach-soccer-cup-2026",
+        "published_date": "2026-04-05 03:33:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "CIFCOMIC 2026 conquers pop culture fans in El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/cifcomic-2026-conquista-a-los-fanaticos-de-la-cultura-pop-en-el-salvador/",
+        "published_date": "2026-04-05 03:17:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Select women's shirt is crowned champion of the Beach Soccer Cup 2026",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/selecta-playera-femenina-se-corona-bicampeona-del-beach-soccer-cup-2026/",
+        "published_date": "2026-04-05 02:48:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "CIFCOMIC 2026 offers interactive scenarios and unique experiences for attendees",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/cifcomic-2026-ofrece-escenarios-interactivos-y-experiencias-unicas-para-los-asistentes/?utm_source=rss&utm_medium=rss&utm_campaign=cifcomic-2026-ofrece-escenarios-interactivos-y-experiencias-unicas-para-los-asistentes",
+        "published_date": "2026-04-05 01:26:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Large tree falls on vehicle in Lake Coatepeque",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/arbol-de-gran-tamano-cae-sobre-vehiculo-en-lago-de-coatepeque/",
+        "published_date": "2026-04-05 01:19:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "CIFCOMIC 2026 brings together anime and pop culture fans at Fenadesal",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/cifcomic-2026-reune-a-fanaticos-del-anime-y-la-cultura-pop-en-fenadesal/",
+        "published_date": "2026-04-05 01:11:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "They recover the body of a person swept away by a wave in Acajutla",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/recuperan-cuerpo-de-persona-arrastrada-por-una-ola-en-acajutla/",
+        "published_date": "2026-04-05 00:37:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Falling tree at the viewpoints of Lake Coatepeque causes damage to a vehicle",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/caida-de-arbol-en-los-miradores-del-lago-de-coatepeque-provoca-danos-a-un-vehiculo/?utm_source=rss&utm_medium=rss&utm_campaign=caida-de-arbol-en-los-miradores-del-lago-de-coatepeque-provoca-danos-a-un-vehiculo",
+        "published_date": "2026-04-05 00:26:55",
+        "category": "Local Events"
+    },
+    {
         "title": "Pedestrian is seriously injured after an accident on the death curve, Sonsonate",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/peaton-resulta-gravemente-lesionado-tras-accidente-en-la-curva-de-la-muerte-sonsonate/?utm_source=rss&utm_medium=rss&utm_campaign=peaton-resulta-gravemente-lesionado-tras-accidente-en-la-curva-de-la-muerte-sonsonate",
@@ -459,97 +550,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/realizan-exitosa-jornada-de-adopcion-canina-en-santa-tecla/",
         "published_date": "2026-04-04 21:52:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Responsible adoption transforms the lives of dogs rescued in Santa Tecla",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/adopcion-responsable-transforma-la-vida-de-perritos-rescatados-en-santa-tecla/?utm_source=rss&utm_medium=rss&utm_campaign=adopcion-responsable-transforma-la-vida-de-perritos-rescatados-en-santa-tecla",
-        "published_date": "2026-04-04 21:52:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lewandowski heads into the League",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/lewandowski-enfila-la-liga/",
-        "published_date": "2026-04-04 21:42:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Real Madrid almost said goodbye to LaLiga with a defeat in Mallorca",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/real-madrid-casi-dice-adios-a-laliga-con-una-derrota-en-mallorca/",
-        "published_date": "2026-04-04 21:25:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "High influx of tourists on El Majahual beach during Holy Week",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/alta-afluencia-de-turistas-en-la-playa-el-majahual-durante-semana-santa/?utm_source=rss&utm_medium=rss&utm_campaign=alta-afluencia-de-turistas-en-la-playa-el-majahual-durante-semana-santa",
-        "published_date": "2026-04-04 21:12:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "They carry out nearly 100 water rescues and 400 road accidents so far this Easter",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ejecutan-cerca-de-100-rescates-acuaticos-y-400-accidentes-viales-en-lo-que-va-de-semana-santa/",
-        "published_date": "2026-04-04 20:41:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "High temperatures and occasional rains keep the climate in El Salvador under surveillance",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/altas-temperaturas-y-lluvias-puntuales-mantienen-bajo-vigilancia-el-clima-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=altas-temperaturas-y-lluvias-puntuales-mantienen-bajo-vigilancia-el-clima-en-el-salvador",
-        "published_date": "2026-04-04 20:29:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Road attendance continues to increase during Holy Week in El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/asistencias-viales-continuan-en-aumento-durante-la-semana-santa-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=asistencias-viales-continuan-en-aumento-durante-la-semana-santa-en-el-salvador",
-        "published_date": "2026-04-04 19:21:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "National Navy rescues three crew members after boat capsizes in the Estero de Jaltepeque",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/marina-nacional-rescata-a-tres-tripulantes-tras-volcamiento-de-embarcacion-en-el-estero-de-jaltepeque/?utm_source=rss&utm_medium=rss&utm_campaign=marina-nacional-rescata-a-tres-tripulantes-tras-volcamiento-de-embarcacion-en-el-estero-de-jaltepeque",
-        "published_date": "2026-04-04 18:20:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump issues an ultimatum to Iran and threatens: \u201c48 hours until hell takes over\u201d",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/trump-lanza-un-ultimatum-a-iran-y-amenaza-48-horas-para-que-el-infierno-se-apodere-de-ellos/",
-        "published_date": "2026-04-04 18:14:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vehicle controls remain active to prevent accidents on vacation",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/controles-vehiculares-se-mantienen-activos-para-prevenir-accidentes-en-vacaciones/",
-        "published_date": "2026-04-04 17:57:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Men in Germany will require permission from the Army to leave the country for more than three months",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/hombres-en-alemania-requeriran-permiso-del-ejercito-para-salir-del-pais-por-mas-de-tres-meses/",
-        "published_date": "2026-04-04 17:55:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Real Madrid almost said goodbye to LaLiga with a defeat in Mallorca",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/real-madrid-casi-dice-adios-a-laliga-con-una-derrota-en-mallorca/",
-        "published_date": "2026-04-04 17:42:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia registers 35 massacres in the first quarter of 2026",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/colombia-registra-35-masacres-en-el-primer-trimestre-del-2026/",
-        "published_date": "2026-04-04 17:10:13",
         "category": "Local Events"
     }
 ]
