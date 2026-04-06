@@ -105,6 +105,34 @@
         "category": "Diplomacy"
     },
     {
+        "title": "El Salvador adds a new day without homicides",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-suma-un-nuevo-dia-sin-homicidios-5/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-suma-un-nuevo-dia-sin-homicidios-5",
+        "published_date": "2026-04-06 14:02:28",
+        "category": "Military"
+    },
+    {
+        "title": "PNC reports homicide in Zacatecoluca and arrests the alleged perpetrator",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/pnc-reporta-homicidio-en-zacatecoluca-y-detiene-al-presunto-responsable/",
+        "published_date": "2026-04-06 11:01:18",
+        "category": "Military"
+    },
+    {
+        "title": "Tourists enjoy safely: Authorities maintain active surveillance on the country's beaches",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/turistas-disfrutan-con-seguridad-autoridades-mantienen-vigilancia-activa-en-playas-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=turistas-disfrutan-con-seguridad-autoridades-mantienen-vigilancia-activa-en-playas-del-pais",
+        "published_date": "2026-04-06 01:21:30",
+        "category": "Military"
+    },
+    {
+        "title": "US media say commandos penetrated deep into Iran to rescue downed airman",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/medios-de-estados-unidos-afirman-que-comandos-penetraron-profundamente-en-iran-para-rescatar-a-un-aviador-derribado/",
+        "published_date": "2026-04-06 00:25:36",
+        "category": "Military"
+    },
+    {
         "title": "Government guarantees an environment of peace and security in religious activities at the close of Holy Week",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/gobierno-garantiza-ambiente-de-paz-y-seguridad-en-actividades-religiosas-al-cierre-de-la-semana-santa/",
@@ -214,34 +242,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/04/sancionan-a-conductores-por-exceso-de-velocidad-en-principales-carreteras-del-pais/",
         "published_date": "2026-04-02 13:55:16",
-        "category": "Military"
-    },
-    {
-        "title": "US congressmen demand information on the secret transfer of Salvadoran migrants to CECOT",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/congresistas-de-eeuu-exigen-informacion-del-traslado-secreto-de-migrantes-salvadorenos-al-cecot/",
-        "published_date": "2026-04-02 02:42:34",
-        "category": "Military"
-    },
-    {
-        "title": "The last day of March closed the day without homicides, according to PNC data",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-ultimo-dia-de-marzo-cerro-la-jornada-sin-homicidios-segun-datos-de-la-pnc/",
-        "published_date": "2026-04-01 15:33:42",
-        "category": "Military"
-    },
-    {
-        "title": "Security model now allows the Red Cross to serve calmly and quickly",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/modelo-de-seguridad-permite-ahora-a-cruz-roja-atender-con-tranquilidad-y-rapidez/",
-        "published_date": "2026-04-01 14:13:39",
-        "category": "Military"
-    },
-    {
-        "title": "New York City lifts TikTok ban on government devices",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/ciudad-de-nueva-york-elimina-prohibicion-de-tiktok-en-dispositivos-del-gobierno/",
-        "published_date": "2026-04-01 14:10:04",
         "category": "Military"
     },
     {
@@ -364,143 +364,143 @@
         "category": "Economy"
     },
     {
-        "title": "Extreme heat and thunderstorms this Sunday",
+        "title": "More than 100 thousand people participate in the Summer 2026 Plan, highlights director of Civil Protection",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/calor-extremo-y-tormentas-electricas-durante-este-domingo/",
-        "published_date": "2026-04-05 22:55:04",
+        "url": "https://diariolahuella.com/mas-de-100-mil-personas-participan-en-el-plan-verano-2026-destaca-director-de-proteccion-civil/",
+        "published_date": "2026-04-06 14:24:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "FAS remains leader after a matchday 17 full of goals",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/fas-se-mantiene-lider-tras-una-jornada-17-llena-de-goles/",
+        "published_date": "2026-04-06 14:23:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Waves from El Zonte offer an unforgettable show in \u201cLa Cajita Express\u201d",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/olas-de-el-zonte-ofrecen-un-espectaculo-inolvidable-en-la-cajita-express/",
+        "published_date": "2026-04-06 14:19:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "ISTU exceeds visitor goal during Holy Week 2026",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/istu-supera-meta-de-visitantes-en-semana-santa-2026/",
+        "published_date": "2026-04-06 13:56:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "NASA publishes the first photo of the far side of the Moon taken by the Artemis II mission",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/nasa-publica-la-primera-foto-de-la-cara-oculta-de-la-luna-tomada-por-la-mision-artemis-ii/",
+        "published_date": "2026-04-06 13:35:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Devotion and spirituality in Holy Week",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/devocion-y-espiritualidad-en-semana-santa/",
+        "published_date": "2026-04-06 11:04:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "The resurrection \u201cis a force that changes life\u201d: Father Guti\u00e9rrez",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-resurreccion-es-una-fuerza-que-cambia-la-vida-padre-gutierrez/",
+        "published_date": "2026-04-06 11:03:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Organizations request that the University of Chiapas, Mexico, suspend F\u00e9lix Ulloa's presentation",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/organizaciones-solicitan-a-universidad-de-chiapas-mexico-suspender-ponencia-de-felix-ulloa/",
+        "published_date": "2026-04-06 11:02:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eight drowned during the holiday period",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ocho-ahogados-en-periodo-vacacional/",
+        "published_date": "2026-04-06 11:00:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Exploring space to protect the Earth: a career that only makes sense if you defend life",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/explorar-el-espacio-para-proteger-la-tierra-una-carrera-que-solo-tiene-sentido-si-defiende-la-vida/",
+        "published_date": "2026-04-06 10:59:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tourist sites in El Salvador have received 1.8 million visitors during Holy Week 2026",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/sitios-turisticos-de-el-salvador-han-recibido-1-8-millones-de-visitantes-en-semana-santa-2026/",
+        "published_date": "2026-04-06 02:50:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "He was Edwin Mart\u00ednez, who died after being swept away by a sea current in Acajutla",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/el-era-edwin-martinez-quien-fallecio-tras-ser-arrastrado-por-una-corriente-marina-en-acajutla/",
+        "published_date": "2026-04-06 02:04:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Extreme heat and thunderstorms will affect the country this Sunday",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/calor-extremo-y-tormentas-electricas-afectaran-al-pais-este-domingo/",
+        "published_date": "2026-04-06 01:35:31",
         "category": "Local Events"
     },
     {
         "title": "They capture a young man who hid under a bed to assault an older adult",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-joven-que-se-oculto-bajo-una-cama-para-asaltar-a-un-adulto-mayor/",
-        "published_date": "2026-04-05 22:11:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Resurrection invites us to renew life in attitudes and actions",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/resurreccion-invita-a-renovar-la-vida-en-actitudes-y-acciones/",
-        "published_date": "2026-04-05 20:43:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Complete failure of the \u201ctiktokers party\u201d in Cuscatl\u00e1n: the Salvadoran public no longer accepts any more circus",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/fracaso-rotundo-del-partido-de-tiktokers-en-el-cuscatlan-el-publico-salvadoreno-ya-no-traga-mas-circo/",
-        "published_date": "2026-04-05 20:43:37",
+        "url": "https://croniosv.com/principal/principal1/capturan-a-joven-que-se-oculto-bajo-una-cama-para-asaltar-a-un-adulto-mayor/",
+        "published_date": "2026-04-06 01:32:03",
         "category": "Local Events"
     },
     {
-        "title": "Authorities present preliminary balance of emergencies attended during Holy Week",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/autoridades-presentan-balance-preliminar-de-emergencias-atendidas-durante-semana-santa/",
-        "published_date": "2026-04-05 20:26:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump says he will attack Iran's power plants and bridges on Tuesday if Strait of Hormuz is not reopened",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/trump-afirma-que-atacara-centrales-energeticas-y-puentes-de-iran-el-martes-si-no-reabre-estrecho-de-ormuz/",
-        "published_date": "2026-04-05 19:35:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor's Office intensifies preventive work before the arrival of rains in San Salvador Este",
+        "title": "A thief is surprised in a home and ends up detained in Usulut\u00e1n",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/alcaldia-intensifica-trabajos-preventivos-ante-llegada-de-lluvias-en-san-salvador-este/?utm_source=rss&utm_medium=rss&utm_campaign=alcaldia-intensifica-trabajos-preventivos-ante-llegada-de-lluvias-en-san-salvador-este",
-        "published_date": "2026-04-05 19:20:42",
+        "url": "https://lapagina.com.sv/nacionales/sorprenden-a-ladron-en-vivienda-y-termina-detenido-en-usulutan/?utm_source=rss&utm_medium=rss&utm_campaign=sorprenden-a-ladron-en-vivienda-y-termina-detenido-en-usulutan",
+        "published_date": "2026-04-06 01:27:08",
         "category": "Local Events"
     },
     {
-        "title": "Study shows that a Cuban medicine relieves the painful consequences of the chikungunya virus",
+        "title": "Parishioner celebrates Easter Sunday with procession of the Risen Christ in the Historic Center",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/estudio-muestra-que-un-medicamento-cubano-alivia-las-secuelas-dolorosas-del-virus-chikungunya/",
-        "published_date": "2026-04-05 19:20:03",
+        "url": "https://croniosv.com/principal/principal1/feligresia-celebra-el-domingo-de-resurreccion-con-procesion-de-cristo-resucitado-en-el-centro-historico/",
+        "published_date": "2026-04-06 01:24:19",
         "category": "Local Events"
     },
     {
-        "title": "The Pope asks to \"choose peace\" in his first Easter message",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-papa-pide-elegir-la-paz-en-su-primer-mensaje-de-pascua/",
-        "published_date": "2026-04-05 17:49:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister Rolando Castro warns of sanctions for withholding tips from workers",
+        "title": "More than 1,100 road assistance has been provided during Holy Week",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ministro-rolando-castro-advierte-sanciones-por-retener-propinas-a-trabajadores/",
-        "published_date": "2026-04-05 17:31:46",
+        "url": "https://diariolahuella.com/mas-de-1100-asistencias-viales-han-sido-brindadas-en-semana-santa/",
+        "published_date": "2026-04-06 01:10:37",
         "category": "Local Events"
     },
     {
-        "title": "Arrival of foreign visitors to El Salvador increases 50%",
+        "title": "Authorities urge tourists not to let their guard down during the last day of vacation",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/llegada-de-visitantes-extranjeros-a-el-salvador-sube-50/",
-        "published_date": "2026-04-05 17:24:09",
+        "url": "https://croniosv.com/principal/autoridades-instan-a-turistas-a-no-bajar-la-guardia-durante-el-ultimo-dia-de-vacaciones/",
+        "published_date": "2026-04-06 00:56:56",
         "category": "Local Events"
     },
     {
-        "title": "Plastic industries require 600 trained technicians",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/industriales-del-plastico-requieren-600-tecnicos-preparados/",
-        "published_date": "2026-04-05 17:15:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador celebrates Resurrection Sunday with faith and joy",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/el-salvador-celebra-con-fe-y-alegria-el-domingo-de-resurreccion/",
-        "published_date": "2026-04-05 16:49:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "It was only enough for bronze against the powerful Brazil",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/solamente-alcanzo-para-el-bronce-ante-el-poderoso-brasil/",
-        "published_date": "2026-04-05 16:20:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The women's beach team is crowned champion of the Beach Soccer Cup",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/la-selecta-femenina-de-playa-se-corona-bicampeona-de-la-beach-soccer-cup/",
-        "published_date": "2026-04-05 16:09:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "MARN predicts rain for this Easter Sunday",
+        "title": "Iran attacks energy facilities in Israel and three Arab countries",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/marn-preve-lluvias-para-este-domingo-de-resurreccion/",
-        "published_date": "2026-04-05 15:41:01",
+        "url": "https://www.diariocolatino.com/iran-ataca-instalaciones-energeticas-en-israel-y-tres-paises-arabes/",
+        "published_date": "2026-04-06 00:49:12",
         "category": "Local Events"
     },
     {
-        "title": "Tips must be delivered within a maximum of 15 days, warns Minister of Labor",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/propinas-deben-entregarse-en-un-maximo-de-15-dias-advierte-ministro-de-trabajo/?utm_source=rss&utm_medium=rss&utm_campaign=propinas-deben-entregarse-en-un-maximo-de-15-dias-advierte-ministro-de-trabajo",
-        "published_date": "2026-04-05 15:37:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rain and north winds are forecast for this Sunday",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/se-pronostican-lluvias-y-vientos-nortes-para-este-domingo/",
-        "published_date": "2026-04-05 15:36:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "US crew rescued deep in Iran mountains, Trump says",
+        "title": "Maduro and Cilia send a message of hope to the people of Venezuela",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/tripulantes-estadounidenses-son-rescatados-dice-trump/",
-        "published_date": "2026-04-05 15:35:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Yris Palmer and NBA player Troy Daniels enjoy their visit to El Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/yris-palmer-y-el-jugador-de-la-nba-troy-daniels-disfrutan-de-su-visita-en-el-salvador/",
-        "published_date": "2026-04-05 14:17:00",
+        "url": "https://www.diariocolatino.com/maduro-y-cilia-envian-mensaje-de-esperanza-a-pueblo-de-venezuela/",
+        "published_date": "2026-04-06 00:46:19",
         "category": "Local Events"
     }
 ]
