@@ -1,5 +1,12 @@
 [
     {
+        "title": "Iranian Foreign Ministry Spokesperson: Talks in Islamabad Failed",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/portavoz-del-ministerio-de-asuntos-exteriores-de-iran-las-conversaciones-en-islamabad-fracasaron/",
+        "published_date": "2026-04-12 05:05:48",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Nayib Bukele exposes Colombia for allowing \"parrandas\" in prisons",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/nayib-bukele-expone-a-colombia-por-permitirles-parrandas-en-carceles/?utm_source=rss&utm_medium=rss&utm_campaign=nayib-bukele-expone-a-colombia-por-permitirles-parrandas-en-carceles",
@@ -91,18 +98,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Minister of Security reaffirms firm stance against gangs after capture of MS-13 member",
+        "title": "Police operation dismantles structure dedicated to the theft and disarmament of motorcycles",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ministro-de-seguridad-reafirma-postura-firme-contra-pandillas-tras-captura-de-miembro-de-la-ms-13/?utm_source=rss&utm_medium=rss&utm_campaign=ministro-de-seguridad-reafirma-postura-firme-contra-pandillas-tras-captura-de-miembro-de-la-ms-13",
-        "published_date": "2026-04-04 01:09:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "English in Central America IV",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/411180-2/",
-        "published_date": "2026-04-04 01:00:25",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/operativo-policial-desmantela-estructura-dedicada-al-robo-y-desarme-de-motocicletas/?utm_source=rss&utm_medium=rss&utm_campaign=operativo-policial-desmantela-estructura-dedicada-al-robo-y-desarme-de-motocicletas",
+        "published_date": "2026-04-12 04:21:15",
+        "category": "Military"
     },
     {
         "title": "17 people captured in Bolivia for child pornography crimes",
@@ -238,11 +238,11 @@
         "category": "Military"
     },
     {
-        "title": "They capture an alleged gang member with an extensive criminal history in Sonsonate",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/capturan-a-presunto-pandillero-con-amplio-historial-delictivo-en-sonsonate/",
-        "published_date": "2026-04-08 14:52:43",
-        "category": "Military"
+        "title": "Flores brothers turn on COACHELLA and unleash Salvadoran party",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/hermanos-flores-encienden-coachella-y-desatan-fiesta-salvadorena/?utm_source=rss&utm_medium=rss&utm_campaign=hermanos-flores-encienden-coachella-y-desatan-fiesta-salvadorena",
+        "published_date": "2026-04-12 03:31:51",
+        "category": "Energy"
     },
     {
         "title": "\u201cPiter is back\u201d: Piter Albeiro promises a high-level show in San Salvador",
@@ -326,13 +326,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/china-impulsa-el-desarrollo-de-la-industria-de-la-computacion-espacial-dice-funcionario/",
         "published_date": "2026-04-04 16:32:10",
-        "category": "Energy"
-    },
-    {
-        "title": "Pakistan announces free public transport amid energy crisis",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/pakistan-anuncia-transporte-publico-gratuito-en-medio-de-la-crisis-energetica/",
-        "published_date": "2026-04-04 05:02:47",
         "category": "Energy"
     },
     {
@@ -455,6 +448,48 @@
         "category": "Economy"
     },
     {
+        "title": "Vance: There is no agreement with Iran after marathon negotiations.",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/vance-no-hay-acuerdo-con-iran-tras-las-maratonicas-negociaciones/",
+        "published_date": "2026-04-12 05:13:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cEl Zapote\u201d airfield inaugurated to boost tourism in El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/inauguran-aerodromo-el-zapote-para-impulsar-el-turismo-en-el-salvador/",
+        "published_date": "2026-04-12 03:39:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Zapote Aerodrome inaugurated in Ahuachap\u00e1n to strengthen air connectivity",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/inaguran-aerodromo-el-zapote-en-ahuachapan-para-fortalecer-conectividad-aerea/",
+        "published_date": "2026-04-12 02:09:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government inaugurates modern El Zapote Aerodrome in Ahuachap\u00e1n to strengthen the country's air connectivity",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/gobierno-inaugura-moderno-aerodromo-el-zapote-en-ahuachapan-para-fortalecer-la-conectividad-aerea-del-pais/",
+        "published_date": "2026-04-12 00:38:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Flores Brothers make history at Coachella 2026",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/hermanos-flores-hacen-historia-en-coachella-2026/",
+        "published_date": "2026-04-12 00:21:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "They locate a 15-year-old teenager missing in Sonsonate along with a 30-year-old man",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/localizan-a-adolescente-de-15-anos-desaparecida-en-sonsonate-junto-a-un-hombre-de-30-anos/",
+        "published_date": "2026-04-12 00:09:41",
+        "category": "Local Events"
+    },
+    {
         "title": "Fulfilling his last wish: he asked to be buried next to the motorcycle that cost him so much to buy",
         "source": "Cronio",
         "url": "https://croniosv.com/redes/virales/cumpliendo-su-ultimo-deseo-pidio-ser-enterrado-junto-a-la-motocicleta-que-tanto-le-costo-comprar/",
@@ -550,48 +585,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/empresarial/el-salvador-y-mexico-fortalecen-cooperacion-ambiental-y-desarrollo-territorial-en-encuentro-bilateral/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-mexico-fortalecen-cooperacion-ambiental-y-desarrollo-territorial-en-encuentro-bilateral",
         "published_date": "2026-04-11 19:53:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Venezuela announces \u201cresponsible\u201d salary increase starting May 1",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/venezuela-anuncia-aumento-salarial-responsable-a-partir-del-1-de-mayo/",
-        "published_date": "2026-04-11 19:49:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aerodrome inaugurated in Ahuachap\u00e1n to promote connectivity and tourism",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/inauguran-aerodromo-en-ahuachapan-para-impulsar-conectividad-y-turismo/?utm_source=rss&utm_medium=rss&utm_campaign=inauguran-aerodromo-en-ahuachapan-para-impulsar-conectividad-y-turismo",
-        "published_date": "2026-04-11 19:47:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Summary of the second week of April 2026",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/resumen-de-la-segunda-semana-de-abril-2026/",
-        "published_date": "2026-04-11 19:05:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "They expect up to 41 degrees Celsius for this Saturday",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/preven-hasta-41-grados-celsius-para-este-sabado/",
-        "published_date": "2026-04-11 17:37:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "US agrees to release blocked assets from Iran and truce in Lebanon:",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/euu-accede-a-liberar-activos-bloqueados-de-iran-y-a-tregua-en-libano/",
-        "published_date": "2026-04-11 16:21:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hermanos Flores bring the Salvadoran essence to Coachella with unique designs",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/hermanos-flores-llevan-la-esencia-salvadorena-a-coachella-con-disenos-unicos/",
-        "published_date": "2026-04-11 16:20:21",
         "category": "Local Events"
     }
 ]
