@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cooperation between China and El Salvador promotes emblematic projects such as the new National Stadium",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/cooperacion-entre-china-y-el-salvador-impulsa-proyectos-emblematicos-como-el-nuevo-estadio-nacional/",
+        "published_date": "2026-04-13 20:56:23",
+        "category": "Diplomacy"
+    },
+    {
         "title": "President Bukele warns that artificial intelligence should not replace people in the economy",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/presidente-bukele-advierte-que-la-inteligencia-artificial-no-debe-sustituir-a-las-personas-en-la-economia/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-advierte-que-la-inteligencia-artificial-no-debe-sustituir-a-las-personas-en-la-economia",
@@ -98,11 +105,39 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Iran warns of nuclear risk after attacks on Busheher",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/iran-advierte-sobre-riesgo-nuclear-tras-ataques-a-busheher/",
-        "published_date": "2026-04-05 12:25:16",
-        "category": "Diplomacy"
+        "title": "They reinforce road controls and technological measures to improve traffic and security in the country",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/refuerzan-controles-viales-y-medidas-tecnologicas-para-mejorar-el-trafico-y-la-seguridad-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=refuerzan-controles-viales-y-medidas-tecnologicas-para-mejorar-el-trafico-y-la-seguridad-en-el-pais",
+        "published_date": "2026-04-13 21:58:53",
+        "category": "Military"
+    },
+    {
+        "title": "Operation leaves drugs seized and captured in Usulut\u00e1n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/operativo-deja-decomiso-de-droga-y-capturados-en-usulutan/?utm_source=rss&utm_medium=rss&utm_campaign=operativo-deja-decomiso-de-droga-y-capturados-en-usulutan",
+        "published_date": "2026-04-13 21:55:05",
+        "category": "Military"
+    },
+    {
+        "title": "Six drivers are sanctioned for speeding in Comalapa and the highway to the Port of La Libertad",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/sancionan-a-seis-conductores-por-exceso-de-velocidad-en-comalapa-y-carretera-al-puerto-de-la-libertad/",
+        "published_date": "2026-04-13 20:47:16",
+        "category": "Military"
+    },
+    {
+        "title": "Fawn rescued in Col\u00f3n, La Libertad Oeste",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/rescatan-a-cervatillo-en-colon-la-libertad-oeste/",
+        "published_date": "2026-04-13 16:41:32",
+        "category": "Military"
+    },
+    {
+        "title": "Venezuelan opposition demands a new electoral entity as a guarantee for future elections",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/oposicion-venezolana-exige-nuevo-ente-electoral-como-garantia-para-futuros-comicios/",
+        "published_date": "2026-04-13 15:20:02",
+        "category": "Military"
     },
     {
         "title": "Driver lowers steps in 4\u00d74 vehicle in Sensuntepeque.",
@@ -210,41 +245,6 @@
         "category": "Military"
     },
     {
-        "title": "English in Central America V",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ingleses-en-centro-america-v/",
-        "published_date": "2026-04-10 19:18:03",
-        "category": "Military"
-    },
-    {
-        "title": "Young South American footballers scammed and abandoned in Spain",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/jovenes-futbolistas-sudamericanos-estafados-y-abandonados-en-espana/",
-        "published_date": "2026-04-10 17:28:44",
-        "category": "Military"
-    },
-    {
-        "title": "MS-13 gang member captured abroad and will be prosecuted in El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-en-el-extranjero-a-pandillero-de-la-ms-13-y-sera-procesado-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-en-el-extranjero-a-pandillero-de-la-ms-13-y-sera-procesado-en-el-salvador",
-        "published_date": "2026-04-10 16:40:13",
-        "category": "Military"
-    },
-    {
-        "title": "Iran warns it is prepared for a prolonged war",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/iran-advierte-que-esta-preparado-para-una-guerra-prolongada/",
-        "published_date": "2026-04-10 10:57:45",
-        "category": "Military"
-    },
-    {
-        "title": "Honduran minor is seized at the border with material related to MS-13",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/menor-hondureno-es-intervenido-en-frontera-con-material-relacionado-a-la-ms-13/?utm_source=rss&utm_medium=rss&utm_campaign=menor-hondureno-es-intervenido-en-frontera-con-material-relacionado-a-la-ms-13",
-        "published_date": "2026-04-10 03:54:18",
-        "category": "Military"
-    },
-    {
         "title": "Oil price once again exceeds $100 after failure of peace talks",
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/precio-del-petroleo-vuelve-a-superar-los-100-tras-fracaso-de-dialogo-de-paz/",
@@ -329,11 +329,46 @@
         "category": "Energy"
     },
     {
-        "title": "Electric tricycles alleviate transportation chaos in Cuba due to fuel shortages",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/triciclos-electricos-alivian-el-caos-del-transporte-en-cuba-ante-la-escasez-de-combustible/",
-        "published_date": "2026-04-05 20:10:55",
-        "category": "Energy"
+        "title": "Night operation leaves four captured with drugs in Usulut\u00e1n",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/operativo-nocturno-deja-cuatro-capturados-con-droga-en-usulutan/",
+        "published_date": "2026-04-13 22:12:12",
+        "category": "Economy"
+    },
+    {
+        "title": "Construction in El Salvador grows 24.45% in 2025, its highest increase in almost two decades",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/construccion-en-el-salvador-crece-24-45-en-2025-su-mayor-alza-en-casi-dos-decadas/",
+        "published_date": "2026-04-13 21:35:29",
+        "category": "Economy"
+    },
+    {
+        "title": "Deputies support financing to illuminate roads with LED technology",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/diputados-apoyan-financiamiento-para-iluminar-carreteras-con-tecnologia-led/",
+        "published_date": "2026-04-13 20:44:35",
+        "category": "Economy"
+    },
+    {
+        "title": "\u00d3scar Quite\u00f1o Stadium in Santa Ana will be reborn: Assembly endorses funds to renovate it",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/estadio-oscar-quiteno-de-santa-ana-renacera-asamblea-avala-fondos-para-renovarlo/?utm_source=rss&utm_medium=rss&utm_campaign=estadio-oscar-quiteno-de-santa-ana-renacera-asamblea-avala-fondos-para-renovarlo",
+        "published_date": "2026-04-13 20:03:07",
+        "category": "Economy"
+    },
+    {
+        "title": "Legislative Assembly endorses loan in kind for $23.7 million to install LED lights in the road network",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/asamblea-legislativa-avala-prestamo-en-especie-por-23-7-millones-para-instalar-luminarias-led-en-la-red-vial/?utm_source=rss&utm_medium=rss&utm_campaign=asamblea-legislativa-avala-prestamo-en-especie-por-23-7-millones-para-instalar-luminarias-led-en-la-red-vial",
+        "published_date": "2026-04-13 19:19:50",
+        "category": "Economy"
+    },
+    {
+        "title": "They report a resounding drop in weapons imports in El Salvador in the last two years",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/reportan-estrepitosa-caida-en-la-importacion-de-armas-en-el-salvador-en-los-dos-ultimos-anos/",
+        "published_date": "2026-04-13 14:15:40",
+        "category": "Economy"
     },
     {
         "title": "Agromarkets are consolidated as an accessible option for Salvadoran families",
@@ -434,171 +469,143 @@
         "category": "Economy"
     },
     {
-        "title": "Deputies in favor of ratifying $150 million in loans",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/diputados-a-favor-de-ratificar-150-millones-en-prestamos/",
-        "published_date": "2026-04-08 11:04:11",
-        "category": "Economy"
-    },
-    {
-        "title": "Villalona questions government journalist about foreign investment",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/villalona-cuestiona-a-periodista-gubernamental-sobre-le-inversion-extranjera/",
-        "published_date": "2026-04-07 11:01:46",
-        "category": "Economy"
-    },
-    {
-        "title": "New bridge over the El Jute river improves connectivity for more than a thousand inhabitants in Zaragoza",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/nuevo-puente-sobre-rio-el-jute-mejora-conectividad-para-mas-de-mil-habitantes-en-zaragoza/",
-        "published_date": "2026-04-07 00:49:25",
-        "category": "Economy"
-    },
-    {
-        "title": "Trump threatens to unleash \"hell\" if Iran does not reopen the Strait of Hormuz",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/trump-amenaza-con-desatar-el-infierno-si-iran-no-reabre-el-estrecho-de-ormuz/",
-        "published_date": "2026-04-05 19:26:29",
-        "category": "Economy"
-    },
-    {
-        "title": "SIMETRISSS and MOVIR will join the Labor Day protests",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/simetrisss-y-movir-se-sumaran-a-protestas-del-dia-del-trabajo/",
-        "published_date": "2026-04-13 11:05:24",
+        "title": "Salvadoran talent abroad receives recognition from Nayib Bukele's government",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/talento-salvadoreno-en-el-exterior-recibe-reconocimiento-por-el-gobierno-de-nayib-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=talento-salvadoreno-en-el-exterior-recibe-reconocimiento-por-el-gobierno-de-nayib-bukele",
+        "published_date": "2026-04-13 23:12:09",
         "category": "Local Events"
     },
     {
-        "title": "Health seeks to vaccinate 30,000 children to prevent measles outbreaks",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/salud-busca-vacunar-a-30000-ninos-para-prevenir-brotes-de-sarampion/",
-        "published_date": "2026-04-13 11:04:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "They celebrate Divine Mercy Sunday in the Cathedral crypt",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/celebran-domingo-de-la-divina-misericordia-en-la-cripta-de-catedral/",
-        "published_date": "2026-04-13 11:03:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Arcatao commemorates the heroes of Zapote 35 years after the ambush",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/arcatao-conmemora-a-los-heroes-del-zapote-a-35-anos-de-la-emboscada/",
-        "published_date": "2026-04-13 11:02:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "FMLN commemorates the Zapote ambush and anniversary of the FPL",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fmln-conmemora-emboscada-del-zapote-y-aniversario-de-las-fpl/",
-        "published_date": "2026-04-13 11:01:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Open letter asks Gustavo Petro to avoid confrontations with Nayib Bukele",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/carta-abierta-pide-gustavo-petro-evitar-confrontaciones-nayib-bukele/",
-        "published_date": "2026-04-13 11:00:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "If the US wants to find a way out, the only way is to gain trust: president of the Iranian Parliament",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/si-eeuu-quiere-encontrar-salida-unica-manera-ganarse-confianza-presidente-parlamento-irani/",
-        "published_date": "2026-04-13 10:58:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban president affirms that dialogue and agreements with the US are possible but difficult",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/presidente-cubano-afirma-que-dialogo-y-acuerdos-con-eeuu-son-posibles-pero-dificiles/",
-        "published_date": "2026-04-13 10:57:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chinese-Salvadoran couple promotes \u201cwin-win\u201d model in El Salvador coffee with technology",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/pareja-chino-salvadorena-impulsa-modelo-ganar-ganar-en-cafe-de-el-salvador-con-tecnologia/",
-        "published_date": "2026-04-13 10:56:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Peru extends voting day this Monday due to incidents that left thousands without voting",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/peru-amplia-jornada-de-votacion-este-lunes-por-incidentes-que-dejaron-a-miles-sin-sufragar/",
-        "published_date": "2026-04-13 06:46:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Karol G will dance her \"Tropicoqueta\" at Coachella",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/karol-g-bailara-su-tropicoqueta-en-coachella/",
-        "published_date": "2026-04-13 06:33:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Spanish king emeritus Juan Carlos I receives an award in France",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-rey-emerito-espanol-juan-carlos-i-recibe-en-francia-un-premio/",
-        "published_date": "2026-04-13 06:28:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Almod\u00f3var says he feels like \"a painter\"",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/almodovar-dice-que-se-siente-como-un-pintor/",
-        "published_date": "2026-04-13 06:19:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "They deny false information about alleged limitations on the sale of products in Agromercados",
+        "title": "Presidential Commission for the care of Salvadorans abroad holds second convention of Salvadoran talent abroad",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/desmienten-informacion-falsa-sobre-supuestas-limitaciones-en-la-venta-de-productos-en-agromercados/",
-        "published_date": "2026-04-13 01:08:09",
+        "url": "https://diariolahuella.com/comision-presidencial-para-atencion-de-salvadorenos-en-el-exterior-realiza-segunda-convencion-de-talento-salvadorenos-en-el-exterior/",
+        "published_date": "2026-04-13 23:11:14",
         "category": "Local Events"
     },
     {
-        "title": "National chain changes date and will take place on Tuesday, April 14 at 8:00 pm",
+        "title": "Can we no longer distinguish victims from perpetrators? - Lisandro Prieto Femen\u00eda",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/ya-no-podemos-distinguir-victimas-de-victimarios-lisandro-prieto-femenia/",
+        "published_date": "2026-04-13 22:50:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 30 years in prison for the leader of Barrio 18",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/mas-de-30-anos-de-prision-para-cabecilla-del-barrio-18/",
+        "published_date": "2026-04-13 22:49:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "AI in action: galaxy s26 ultra tests its limits in Ilamatepec",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cadena-nacional-cambia-de-fecha-y-se-realizara-el-martes-14-de-abril-a-las-800-pm/?utm_source=rss&utm_medium=rss&utm_campaign=cadena-nacional-cambia-de-fecha-y-se-realizara-el-martes-14-de-abril-a-las-800-pm",
-        "published_date": "2026-04-12 23:41:11",
+        "url": "https://lapagina.com.sv/empresarial/ia-en-accion-galaxy-s26-ultra-pone-a-prueba-sus-limites-en-el-ilamatepec/?utm_source=rss&utm_medium=rss&utm_campaign=ia-en-accion-galaxy-s26-ultra-pone-a-prueba-sus-limites-en-el-ilamatepec",
+        "published_date": "2026-04-13 22:17:53",
         "category": "Local Events"
     },
     {
-        "title": "Identities of the young people who drowned on La Libertad beach",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/identidades-de-los-jovenes-que-se-ahogaron-en-playa-de-la-libertad/",
-        "published_date": "2026-04-12 23:35:01",
+        "title": "El Salvador wins bronze medal at the PanAm AirBadminton Cup 2026",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/el-salvador-gana-medalla-de-bronce-en-el-panam-airbadminton-cup-2026/",
+        "published_date": "2026-04-13 22:16:24",
         "category": "Local Events"
     },
     {
-        "title": "Collision between harrow and vehicle leaves one injured in San Vicente",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/choque-entre-rastra-y-vehiculo-deja-un-lesionado-en-san-vicente/",
-        "published_date": "2026-04-12 23:31:46",
+        "title": "Trump removes image he posted depicting Jesus after criticism for blasphemy",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/trump-elimina-la-imagen-que-publico-representado-como-jesus-tras-criticas-por-blasfemia/",
+        "published_date": "2026-04-13 22:08:00",
         "category": "Local Events"
     },
     {
-        "title": "Kevin, the young motorcyclist who died in Cuscatl\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/kevin-el-joven-motociclista-que-fallecio-en-cuscatlan/",
-        "published_date": "2026-04-12 23:27:31",
+        "title": "Selecta Femenina seeks to add away from home in World Cup Qualifiers",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/151343/",
+        "published_date": "2026-04-13 21:20:12",
         "category": "Local Events"
     },
     {
-        "title": "Pacific Airport continues its development with significant progress in dirt works",
+        "title": "New National Stadium advances according to the established schedule",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/aeropuerto-del-pacifico-continua-su-desarrollo-con-significativo-avance-en-obras-de-terraceria/?utm_source=rss&utm_medium=rss&utm_campaign=aeropuerto-del-pacifico-continua-su-desarrollo-con-significativo-avance-en-obras-de-terraceria",
-        "published_date": "2026-04-12 23:21:52",
+        "url": "https://lapagina.com.sv/nacionales/nuevo-estadio-nacional-avanza-conforme-al-cronograma-establecido/?utm_source=rss&utm_medium=rss&utm_campaign=nuevo-estadio-nacional-avanza-conforme-al-cronograma-establecido",
+        "published_date": "2026-04-13 20:50:10",
         "category": "Local Events"
     },
     {
-        "title": "Driver loses control and falls into a ravine on the Pan-American Highway",
+        "title": "Inauguration of the 2026 Student Sports Games will bring together thousands of students in San Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/inauguracion-de-los-juegos-deportivos-estudiantiles-2026-reunira-a-miles-de-estudiantes-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=inauguracion-de-los-juegos-deportivos-estudiantiles-2026-reunira-a-miles-de-estudiantes-en-san-salvador",
+        "published_date": "2026-04-13 20:39:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Popeyes announces expansion with six new restaurants in El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/popeyes-anuncia-expansion-con-seis-nuevos-restaurantes-en-el-salvador/",
+        "published_date": "2026-04-13 20:38:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vehicle falls off a cliff and leaves one dead",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/vehiculo-cae-a-un-precipicio-y-deja-un-fallecido/",
+        "published_date": "2026-04-13 20:36:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deputies give endorsement to finance the renovation of the Juan Francisco Barraza Stadium",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/diputados-dan-aval-para-financiar-la-renovacion-del-estadio-juan-francisco-barraza/?utm_source=rss&utm_medium=rss&utm_campaign=diputados-dan-aval-para-financiar-la-renovacion-del-estadio-juan-francisco-barraza",
+        "published_date": "2026-04-13 20:28:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran arrested in connection with drug crimes in the US",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/detienen-a-salvadoreno-vinculado-a-delitos-de-drogas-en-ee-uu/",
+        "published_date": "2026-04-13 19:59:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "VIDEO |Everything you need to know for Expo Mango 2026",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/video-todo-lo-que-debes-saber-para-la-expo-mango-2026/",
+        "published_date": "2026-04-13 19:56:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Smash Mouth and Plastilina Mosh will make El Salvador vibrate with Back2K Vol. 1 in a night full of Y2K nostalgia",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/smash-mouth-y-plastilina-mosh-haran-vibrar-el-salvador-con-back2k-vol-1-en-una-noche-llena-de-nostalgia-y2k/",
+        "published_date": "2026-04-13 19:55:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman convicted of robbery at gunpoint in Usulut\u00e1n",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/condenan-a-mujer-por-robo-a-punta-de-pistola-en-usulutan/",
+        "published_date": "2026-04-13 19:54:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Elderly adult dies after traffic accident in Santiago de Mar\u00eda",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/adulto-mayor-fallece-tras-accidente-de-transito-en-santiago-de-maria/",
+        "published_date": "2026-04-13 19:44:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "New bridge in El Rebalse, San Miguel seeks to speed up traffic and improve access on the Pan-American Highway",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/nuevo-puente-en-el-rebalse-san-miguel-busca-agilizar-el-transito-y-mejorar-el-acceso-en-carretera-panamericana/?utm_source=rss&utm_medium=rss&utm_campaign=nuevo-puente-en-el-rebalse-san-miguel-busca-agilizar-el-transito-y-mejorar-el-acceso-en-carretera-panamericana",
+        "published_date": "2026-04-13 19:39:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "The heat will prevail this Monday in El Salvador",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/conductor-pierde-el-control-y-cae-a-un-barranco-en-carretera-panamericana/",
-        "published_date": "2026-04-12 23:18:21",
+        "url": "https://croniosv.com/principal/principal1/el-calor-prevalecera-este-lunes-en-el-salvador/",
+        "published_date": "2026-04-13 18:41:22",
         "category": "Local Events"
     }
 ]
