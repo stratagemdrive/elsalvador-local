@@ -1,5 +1,19 @@
 [
     {
+        "title": "65th anniversary of the first human flight into outer space",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/65o-aniversario-del-primer-vuelo-humano-al-espacio-ultraterrestre/",
+        "published_date": "2026-04-14 17:11:54",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "El Salvador and Paraguay strengthen ties in bilateral meeting",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-y-paraguay-estrechan-vinculos-en-encuentro-bilateral/",
+        "published_date": "2026-04-14 16:30:26",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Guatemalan justice annuls arrest warrant against Colombian ambassador and prosecutor",
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/justicia-de-guatemala-anula-orden-de-arresto-contra-embajador-y-fiscal-de-colombia/",
@@ -91,25 +105,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Iran says rescue of US pilot could be 'deceptive operation' to steal enriched uranium",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/iran-senala-que-rescate-de-piloto-de-ee-uu-podria-ser-una-operacion-enganosa-para-robar-uranio-enriquecido/",
-        "published_date": "2026-04-06 19:17:46",
-        "category": "Diplomacy"
+        "title": "Vice President Ulloa highlights in Europe the new direction of El Salvador: security, technology and growth",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/vicepresidente-ulloa-destaca-en-europa-el-nuevo-rumbo-de-el-salvador-seguridad-tecnologia-y-crecimiento/",
+        "published_date": "2026-04-14 23:50:14",
+        "category": "Military"
     },
     {
-        "title": "Intelligence Chief of the Islamic Revolutionary Guard, martyred",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/jefe-de-inteligencia-de-la-guardia-revolucionaria-islamica-martirizado/",
-        "published_date": "2026-04-06 18:36:05",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Human rights and war.The experience of El Salvador",
+        "title": "El Salvador will host CENTAM Guardian 2026 to strengthen regional cooperation and response",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/derechos-humanos-y-guerra-la-experiencia-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=derechos-humanos-y-guerra-la-experiencia-de-el-salvador",
-        "published_date": "2026-04-06 17:08:06",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-sera-sede-de-centam-guardian-2026-para-fortalecer-la-cooperacion-y-respuesta-regional/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-sera-sede-de-centam-guardian-2026-para-fortalecer-la-cooperacion-y-respuesta-regional",
+        "published_date": "2026-04-14 21:06:42",
+        "category": "Military"
     },
     {
         "title": "Leonel Herrera warns about institutional, economic and social risks",
@@ -238,20 +245,6 @@
         "category": "Military"
     },
     {
-        "title": "PRIVATIZATIONS ARE COMING WITH THE BREAKING OF LEGAL BARRIERS",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/se-vienen-privatizaciones-con-el-rompimiento-de-barreras-legales/",
-        "published_date": "2026-04-11 15:17:11",
-        "category": "Military"
-    },
-    {
-        "title": "April maintains positive streak without homicides nationwide",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/abril-mantiene-racha-positiva-sin-homicidios-a-nivel-nacional/",
-        "published_date": "2026-04-11 14:39:11",
-        "category": "Military"
-    },
-    {
         "title": "Fuel prices will rise again, up to $0.27",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/precio-de-combustibles-subiran-nuevamente-hasta-0-27/",
@@ -343,11 +336,32 @@
         "category": "Energy"
     },
     {
-        "title": "Fuel prices increase worldwide due to crisis in the Middle East",
+        "title": "Salvadoran diaspora has invested more than $1.4 billion in the country in recent years",
         "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/aumentan-precios-de-los-combustibles-a-nivel-mundial-debido-a-crisis-en-medio-oriente1/",
-        "published_date": "2026-04-06 14:46:17",
-        "category": "Energy"
+        "url": "https://ultimahora.sv/diaspora-salvadorena-ha-invertido-mas-de-1400-millones-en-el-pais-en-los-ultimos-anos/",
+        "published_date": "2026-04-14 20:19:30",
+        "category": "Economy"
+    },
+    {
+        "title": "The country's financial system exceeds $21,000 million in loans as of February 2026",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/el-sistema-financiero-del-pais-supera-los-21000-millones-en-creditos-a-febrero-de-2026/",
+        "published_date": "2026-04-14 19:15:30",
+        "category": "Economy"
+    },
+    {
+        "title": "Loan for LED lighting of four roads has a favorable opinion",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/prestamo-para-iluminacion-led-de-cuatro-carreteras-tiene-dictamen-favorable/",
+        "published_date": "2026-04-14 19:12:43",
+        "category": "Economy"
+    },
+    {
+        "title": "Salvadoran financial system exceeds $21,000 million in loans until February",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/sistema-financiero-salvadoreno-supera-los-21000-millones-en-creditos-hasta-febrero/",
+        "published_date": "2026-04-14 18:18:13",
+        "category": "Economy"
     },
     {
         "title": "Night operation leaves four captured with drugs in Usulut\u00e1n",
@@ -462,171 +476,143 @@
         "category": "Economy"
     },
     {
-        "title": "El Salvador registered $474.8 million of foreign direct investment during 2025",
+        "title": "Vibra arrives in El Salvador: the digital entertainment magazine that the country was waiting for",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/vibra-llega-a-el-salvador-la-revista-digital-de-entretenimiento-que-el-pais-estaba-esperando/",
+        "published_date": "2026-04-14 23:33:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice President Ulloa exposes transformations in El Salvador at a high-level regional table",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/vicepresidente-ulloa-expone-transformaciones-en-el-salvador-en-mesa-de-alto-nivel-regional/",
+        "published_date": "2026-04-14 23:20:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "PSG eliminated Liverpool after beating them 2-0 at Anfield and is a semi-finalist",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/psg-elimino-a-liverpool-tras-ganarle-2-0-en-anfield-y-es-semifinalista/",
+        "published_date": "2026-04-14 21:56:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "BMX Racing brings together young talents on the San Andr\u00e9s track during its second national date",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/bmx-racing-reune-a-jovenes-talentos-en-la-pista-san-andres-durante-su-segunda-fecha-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=bmx-racing-reune-a-jovenes-talentos-en-la-pista-san-andres-durante-su-segunda-fecha-nacional",
+        "published_date": "2026-04-14 21:43:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barcelona wins... but is ELIMINATED;Atl\u00e9tico advances to the semifinals",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/barcelona-gana-pero-queda-eliminado-el-atletico-avanza-a-semifinales/",
+        "published_date": "2026-04-14 21:20:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Extreme temperatures and heat wave in El Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/temperaturas-extremas-y-ola-de-calor-en-el-salvador/",
+        "published_date": "2026-04-14 21:05:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Intense heat and gusts of wind will mark this Tuesday afternoon in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/calor-intenso-y-rafagas-de-viento-marcaran-la-tarde-de-este-martes-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=calor-intenso-y-rafagas-de-viento-marcaran-la-tarde-de-este-martes-en-el-salvador",
+        "published_date": "2026-04-14 20:02:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jail for employee who defrauded his own company of $1.3 million",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/carcel-para-empleado-que-estafo-a-su-propia-empresa-con-1-3-millones/",
+        "published_date": "2026-04-14 19:55:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paving of 9 kilometers advances that will better connect San Agust\u00edn in Usulut\u00e1n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/avanza-pavimentacion-de-9-kilometros-que-conectara-mejor-a-san-agustin-en-usulutan/?utm_source=rss&utm_medium=rss&utm_campaign=avanza-pavimentacion-de-9-kilometros-que-conectara-mejor-a-san-agustin-en-usulutan",
+        "published_date": "2026-04-14 19:34:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "They capture three subjects for drug trafficking in Ahuachap\u00e1n",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/capturan-a-tres-sujetos-por-trafico-de-drogas-en-ahuachapan/",
+        "published_date": "2026-04-14 19:29:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador is the safest in Central America",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/el-salvador-marcha-como-el-mas-seguro-de-centroamerica/",
+        "published_date": "2026-04-14 19:19:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reid Wiseman, from Artemis II: \u201cI used to think I was afraid of heights, but now I know it was gravity\u201d",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/reid-wiseman-de-artemis-ii-solia-pensar-que-tenia-miedo-a-las-alturas-pero-ahora-se-que-era-a-la-gravedad/",
+        "published_date": "2026-04-14 19:13:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman dies after accident while performing pruning work in Suchitoto",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/mujer-fallece-tras-accidente-mientras-realizaba-labores-de-poda-en-suchitoto/",
+        "published_date": "2026-04-14 18:15:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Public-private partnership law seeks to strengthen services and optimize State resources",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/ley-de-alianzas-publico-privadas-busca-fortalecer-servicios-y-optimizar-recursos-del-estado/?utm_source=rss&utm_medium=rss&utm_campaign=ley-de-alianzas-publico-privadas-busca-fortalecer-servicios-y-optimizar-recursos-del-estado",
+        "published_date": "2026-04-14 18:12:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman accused of usurpation must vacate home after court order in Soyapango",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/mujer-acusada-de-usurpacion-debera-desalojar-vivienda-tras-orden-judicial-en-soyapango/?utm_source=rss&utm_medium=rss&utm_campaign=mujer-acusada-de-usurpacion-debera-desalojar-vivienda-tras-orden-judicial-en-soyapango",
+        "published_date": "2026-04-14 17:48:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Operation in San Salvador seeks to guarantee free passage on roads and sidewalks",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/operativo-en-san-salvador-busca-garantizar-el-paso-libre-en-vias-y-aceras/?utm_source=rss&utm_medium=rss&utm_campaign=operativo-en-san-salvador-busca-garantizar-el-paso-libre-en-vias-y-aceras",
+        "published_date": "2026-04-14 17:20:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador expands access to the vaccine against the Human Papillomavirus (HPV)",
         "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-salvador-registro-474-8-millones-de-inversion-extranjera-directa-durante-2025/",
-        "published_date": "2026-04-08 16:13:10",
-        "category": "Economy"
-    },
-    {
-        "title": "Prisoners make school desks",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/privados-de-libertad-fabrican-pupitres-escolares/?utm_source=rss&utm_medium=rss&utm_campaign=privados-de-libertad-fabrican-pupitres-escolares",
-        "published_date": "2026-04-08 16:04:39",
-        "category": "Economy"
-    },
-    {
-        "title": "Foreign direct investment left a net flow of $474.8 million in the country in 2025",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/inversion-extranjera-directa-dejo-un-flujo-neto-de-474-8-millones-en-el-pais-en-2025/",
-        "published_date": "2026-04-08 15:37:26",
-        "category": "Economy"
-    },
-    {
-        "title": "Tax collection in El Salvador grew 5.4% as of February 2026",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/recaudacion-de-impuestos-en-el-salvador-crecio-5-4-a-febrero-de-2026/",
-        "published_date": "2026-04-08 15:14:26",
-        "category": "Economy"
-    },
-    {
-        "title": "UES unions reject Public-Private Partnerships Law",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/sindicatos-de-ka-ues-rechazan-ley-de-asocios-publico-privados/",
-        "published_date": "2026-04-14 11:04:05",
+        "url": "https://ultimahora.sv/el-salvador-amplia-acceso-a-la-vacuna-contra-el-virus-del-papiloma-humano-vph/",
+        "published_date": "2026-04-14 17:06:44",
         "category": "Local Events"
     },
     {
-        "title": "New Law on Public-Private Partnerships",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/nueva-ley-de-alianzas-publico-privadas/",
-        "published_date": "2026-04-14 11:03:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "They warn of the risk that the Credicash case will be prolonged like COSAVI",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/advierten-riesgo-que-caso-credicash-se-prolongue-como-cosavi/",
-        "published_date": "2026-04-14 11:01:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "New law on public-private partnerships opens the way to privatizations: CONADESA",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/nueva-ley-de-asocios-publico-privados-abre-paso-a-privatizaciones-conadesa/",
-        "published_date": "2026-04-14 11:00:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "THE REAL INCREASE IN SOCIAL VIOLENCE IN THE COUNTRY DESPITE STATE DENIAL",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-incremento-real-en-la-violencia-social-en-el-pais-a-pesar-de-la-negacion-estatal/",
-        "published_date": "2026-04-14 10:59:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pope Leo XIV rejected criticism from Trump and reaffirmed his call for peace",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/papa-leon-xiv-rechazo-criticas-de-trump-y-reafirmo-llamado-a-la-paz/",
-        "published_date": "2026-04-14 10:57:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Australian runner breaks Usain Bolt's youth record at youngest age",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/corredor-australiano-bate-record-juvenil-de-usain-bolt-a-menor-edad/",
-        "published_date": "2026-04-14 10:21:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Felipe Staiti, guitarist of Los Enanitos Verdes, dies",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/muere-felipe-staiti-guitarrista-de-los-enanitos-verdes/",
-        "published_date": "2026-04-14 10:16:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ayutuxtepeque gang member is sentenced to 39 years in prison",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/pandillero-de-ayutuxtepeque-es-condenado-a-39-anos-de-carcel/",
-        "published_date": "2026-04-14 10:12:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shooting at New Jersey rehab center leaves one dead, one injured",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/tiroteo-en-centro-de-rehabilitacion-de-nueva-jersey-deja-un-muerto-y-un-herido/",
-        "published_date": "2026-04-14 09:41:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court receives evidence in trial against Jorge Hern\u00e1ndez for tax evasion",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/tribunal-recibe-prueba-en-juicio-contra-jorge-hernandez-por-evasion-de-impuestos/",
-        "published_date": "2026-04-14 05:29:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two drunks are convicted of manslaughter, injuries and dangerous driving",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/condenan-a-dos-ebrios-por-homicidio-culposo-lesiones-y-conduccion-peligrosa/",
-        "published_date": "2026-04-14 05:27:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "FOX Latin America announces the launch of the FOX channel in Central America",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/fox-latinoamerica-anuncia-el-lanzamiento-del-canal-fox-en-centroamerica/",
-        "published_date": "2026-04-14 05:14:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Earth will be dark for almost 7 minutes in broad daylight",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/la-tierra-quedara-casi-7-minutos-a-oscuras-a-plena-luz-del-dia/",
-        "published_date": "2026-04-14 05:03:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dies after crashing into the back of a truck",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/fallece-tras-chocar-contra-la-parte-trasera-de-un-camion/",
-        "published_date": "2026-04-14 03:50:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three dead in road accidents in less than 24 hours",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/tres-fallecidos-en-siniestros-viales-en-menos-de-24-horas/",
-        "published_date": "2026-04-14 01:18:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "They rule in favor of speeding up coffee export deadlines",
+        "title": "Santa Ana Peace Court enables investigation phase for threats",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/dictaminan-a-favor-de-agilizar-plazos-de-exportacion-de-cafe/",
-        "published_date": "2026-04-14 00:12:13",
+        "url": "https://diariolahuella.com/juzgado-de-paz-de-santa-ana-habilita-fase-de-investigacion-por-amenazas/",
+        "published_date": "2026-04-14 17:03:32",
         "category": "Local Events"
     },
     {
-        "title": "Salvadoran talent abroad receives recognition from Nayib Bukele's government",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/talento-salvadoreno-en-el-exterior-recibe-reconocimiento-por-el-gobierno-de-nayib-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=talento-salvadoreno-en-el-exterior-recibe-reconocimiento-por-el-gobierno-de-nayib-bukele",
-        "published_date": "2026-04-13 23:12:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Presidential Commission for the care of Salvadorans abroad holds second convention of Salvadoran talent abroad",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/comision-presidencial-para-atencion-de-salvadorenos-en-el-exterior-realiza-segunda-convencion-de-talento-salvadorenos-en-el-exterior/",
-        "published_date": "2026-04-13 23:11:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Can we no longer distinguish victims from perpetrators? - Lisandro Prieto Femen\u00eda",
+        "title": "UEFA rejects Barcelona's complaint for Atl\u00e9tico's uncalled handball",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/ya-no-podemos-distinguir-victimas-de-victimarios-lisandro-prieto-femenia/",
-        "published_date": "2026-04-13 22:50:18",
+        "url": "https://croniosv.com/principal/principal1/la-uefa-rechaza-la-queja-del-barcelona-por-la-mano-no-pitada-al-atletico/",
+        "published_date": "2026-04-14 17:02:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister Trigueros verifies size changes in school uniforms in San Miguel Oeste",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ministra-trigueros-verifica-cambios-de-tallas-en-uniformes-escolares-de-san-miguel-oeste/",
+        "published_date": "2026-04-14 16:55:47",
         "category": "Local Events"
     }
 ]
