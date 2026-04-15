@@ -1,5 +1,19 @@
 [
     {
+        "title": "Israel and Lebanon begin talks at the ambassador level in the US",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/israel-y-libano-comienzan-conversaciones-a-nivel-de-embajadores-en-eeuu/",
+        "published_date": "2026-04-15 10:57:16",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The IDG establishes an agreement with educational institutions in Paraguay",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/el-idg-establece-acuerdo-con-instituciones-de-educacion-de-paraguay/",
+        "published_date": "2026-04-15 02:44:58",
+        "category": "Diplomacy"
+    },
+    {
         "title": "65th anniversary of the first human flight into outer space",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/65o-aniversario-del-primer-vuelo-humano-al-espacio-ultraterrestre/",
@@ -322,18 +336,18 @@
         "category": "Energy"
     },
     {
-        "title": "Cuba announces that two patanas will generate 124 MW with Russian fuel",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cuba-anuncia-que-dos-patanas-generaran-124-mw-con-combustible-ruso/",
-        "published_date": "2026-04-07 11:58:59",
-        "category": "Energy"
+        "title": "CAF representative highlights Doctor SV as an unprecedented system worldwide",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/representante-de-caf-destaca-a-doctor-sv-como-un-sistema-sin-precedentes-a-nivel-mundial/?utm_source=rss&utm_medium=rss&utm_campaign=representante-de-caf-destaca-a-doctor-sv-como-un-sistema-sin-precedentes-a-nivel-mundial",
+        "published_date": "2026-04-15 04:31:27",
+        "category": "Economy"
     },
     {
-        "title": "Cuba: Megawatts in the form of solar energy",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cuba-megawatts-en-forma-de-energia-solar/",
-        "published_date": "2026-04-07 11:57:44",
-        "category": "Energy"
+        "title": "President Bukele launches II Phase of DoctorSV to detect and monitor chronic diseases",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/presidente-bukele-lanza-ii-fase-de-doctorsv-para-detectar-y-dar-seguimiento-a-enfermedades-cronicas/",
+        "published_date": "2026-04-15 03:53:22",
+        "category": "Economy"
     },
     {
         "title": "Salvadoran diaspora has invested more than $1.4 billion in the country in recent years",
@@ -462,157 +476,143 @@
         "category": "Economy"
     },
     {
-        "title": "ANDA delivers El Majahual Desalination Plant with support from CABEI",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/anda-entrega-planta-desalinizadora-el-majahual-con-apoyo-del-bcie/",
-        "published_date": "2026-04-08 17:40:49",
-        "category": "Economy"
-    },
-    {
-        "title": "Government inaugurates desalination plant in Playa El Majahual to generate drinking water",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gobierno-inaugura-planta-desalinizadora-en-playa-el-majahual-para-generar-agua-potable/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-inaugura-planta-desalinizadora-en-playa-el-majahual-para-generar-agua-potable",
-        "published_date": "2026-04-08 17:18:13",
-        "category": "Economy"
-    },
-    {
-        "title": "Vibra arrives in El Salvador: the digital entertainment magazine that the country was waiting for",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/vibra-llega-a-el-salvador-la-revista-digital-de-entretenimiento-que-el-pais-estaba-esperando/",
-        "published_date": "2026-04-14 23:33:35",
+        "title": "China launches Lijian-1 Y12 carrier rocket to put 8 satellites into orbit",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/china-lanza-cohete-portador-lijian-1-y12-para-poner-en-orbita-8-satelites/",
+        "published_date": "2026-04-15 11:05:06",
         "category": "Local Events"
     },
     {
-        "title": "Vice President Ulloa exposes transformations in El Salvador at a high-level regional table",
+        "title": "SITRAUES warns about corruption and loss of autonomy in the UES",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/sitraues-alerta-sobre-corrupcion-y-perdida-de-autonomia-en-la-ues/",
+        "published_date": "2026-04-15 11:03:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Claudia Ortiz proposes to exclude health, education and water from the PPP Law",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/claudia-ortiz-propone-excluir-a-salud-educacion-y-agua-de-la-ley-de-app/",
+        "published_date": "2026-04-15 11:02:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santa Marta Community denounces that American companies would benefit from the new law",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comunidad-santa-marta-denuncia-que-empresas-estadounidenses-se-beneficiarian-de-nueva-ley/",
+        "published_date": "2026-04-15 11:01:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Carlos Araujo points out growing international pressure on the Government due to complaints of human rights violations",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/carlos-araujo-senala-creciente-presion-internacional-sobre-el-gobierno-por-denuncias-de-violaciones-a-derechos-humanos/",
+        "published_date": "2026-04-15 11:00:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump says talks with Iran could begin in Pakistan 'within the next two days'",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/trump-dice-que-conversaciones-con-iran-podrian-comenzar-en-pakistan-en-los-proximos-dos-dias/",
+        "published_date": "2026-04-15 10:58:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bukele launches stage 2 of DoctorSV to treat chronic diseases",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/bukele-lanza-la-etapa-2-de-doctorsv-para-atender-enfermedades-cronicas/",
+        "published_date": "2026-04-15 06:00:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador and the singularity of Digital Health: How AI is hacking the destiny of chronic patients",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-y-la-singularidad-de-la-salud-digital/",
+        "published_date": "2026-04-15 05:04:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele inaugurates stage 2 of DoctorSV",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/vicepresidente-ulloa-expone-transformaciones-en-el-salvador-en-mesa-de-alto-nivel-regional/",
-        "published_date": "2026-04-14 23:20:58",
+        "url": "https://croniosv.com/principal/principal1/presidente-bukele-inaugura-etapa-2-de-doctorsv/",
+        "published_date": "2026-04-15 04:10:21",
         "category": "Local Events"
     },
     {
-        "title": "PSG eliminated Liverpool after beating them 2-0 at Anfield and is a semi-finalist",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/psg-elimino-a-liverpool-tras-ganarle-2-0-en-anfield-y-es-semifinalista/",
-        "published_date": "2026-04-14 21:56:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "BMX Racing brings together young talents on the San Andr\u00e9s track during its second national date",
+        "title": "Doctor SV positions El Salvador as a global benchmark in digital health with artificial intelligence",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/bmx-racing-reune-a-jovenes-talentos-en-la-pista-san-andres-durante-su-segunda-fecha-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=bmx-racing-reune-a-jovenes-talentos-en-la-pista-san-andres-durante-su-segunda-fecha-nacional",
-        "published_date": "2026-04-14 21:43:07",
+        "url": "https://lapagina.com.sv/nacionales/doctor-sv-posiciona-a-el-salvador-como-referente-global-en-salud-digital-con-inteligencia-artificial/?utm_source=rss&utm_medium=rss&utm_campaign=doctor-sv-posiciona-a-el-salvador-como-referente-global-en-salud-digital-con-inteligencia-artificial",
+        "published_date": "2026-04-15 03:42:55",
         "category": "Local Events"
     },
     {
-        "title": "Barcelona wins... but is ELIMINATED;Atl\u00e9tico advances to the semifinals",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/barcelona-gana-pero-queda-eliminado-el-atletico-avanza-a-semifinales/",
-        "published_date": "2026-04-14 21:20:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Extreme temperatures and heat wave in El Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/temperaturas-extremas-y-ola-de-calor-en-el-salvador/",
-        "published_date": "2026-04-14 21:05:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Intense heat and gusts of wind will mark this Tuesday afternoon in El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/calor-intenso-y-rafagas-de-viento-marcaran-la-tarde-de-este-martes-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=calor-intenso-y-rafagas-de-viento-marcaran-la-tarde-de-este-martes-en-el-salvador",
-        "published_date": "2026-04-14 20:02:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jail for employee who defrauded his own company of $1.3 million",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/carcel-para-empleado-que-estafo-a-su-propia-empresa-con-1-3-millones/",
-        "published_date": "2026-04-14 19:55:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Paving of 9 kilometers advances that will better connect San Agust\u00edn in Usulut\u00e1n",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/avanza-pavimentacion-de-9-kilometros-que-conectara-mejor-a-san-agustin-en-usulutan/?utm_source=rss&utm_medium=rss&utm_campaign=avanza-pavimentacion-de-9-kilometros-que-conectara-mejor-a-san-agustin-en-usulutan",
-        "published_date": "2026-04-14 19:34:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture three subjects for drug trafficking in Ahuachap\u00e1n",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/capturan-a-tres-sujetos-por-trafico-de-drogas-en-ahuachapan/",
-        "published_date": "2026-04-14 19:29:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador is the safest in Central America",
+        "title": "Ministry of Housing reports decrease in mortgage arrears",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-salvador-marcha-como-el-mas-seguro-de-centroamerica/",
-        "published_date": "2026-04-14 19:19:44",
+        "url": "https://croniosv.com/principal/principal1/ministerio-de-vivienda-reporta-baja-en-la-mora-hipotecaria/",
+        "published_date": "2026-04-15 03:42:19",
         "category": "Local Events"
     },
     {
-        "title": "Reid Wiseman, from Artemis II: \u201cI used to think I was afraid of heights, but now I know it was gravity\u201d",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/reid-wiseman-de-artemis-ii-solia-pensar-que-tenia-miedo-a-las-alturas-pero-ahora-se-que-era-a-la-gravedad/",
-        "published_date": "2026-04-14 19:13:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman dies after accident while performing pruning work in Suchitoto",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/mujer-fallece-tras-accidente-mientras-realizaba-labores-de-poda-en-suchitoto/",
-        "published_date": "2026-04-14 18:15:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Public-private partnership law seeks to strengthen services and optimize State resources",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ley-de-alianzas-publico-privadas-busca-fortalecer-servicios-y-optimizar-recursos-del-estado/?utm_source=rss&utm_medium=rss&utm_campaign=ley-de-alianzas-publico-privadas-busca-fortalecer-servicios-y-optimizar-recursos-del-estado",
-        "published_date": "2026-04-14 18:12:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman accused of usurpation must vacate home after court order in Soyapango",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mujer-acusada-de-usurpacion-debera-desalojar-vivienda-tras-orden-judicial-en-soyapango/?utm_source=rss&utm_medium=rss&utm_campaign=mujer-acusada-de-usurpacion-debera-desalojar-vivienda-tras-orden-judicial-en-soyapango",
-        "published_date": "2026-04-14 17:48:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Operation in San Salvador seeks to guarantee free passage on roads and sidewalks",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/operativo-en-san-salvador-busca-garantizar-el-paso-libre-en-vias-y-aceras/?utm_source=rss&utm_medium=rss&utm_campaign=operativo-en-san-salvador-busca-garantizar-el-paso-libre-en-vias-y-aceras",
-        "published_date": "2026-04-14 17:20:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador expands access to the vaccine against the Human Papillomavirus (HPV)",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-salvador-amplia-acceso-a-la-vacuna-contra-el-virus-del-papiloma-humano-vph/",
-        "published_date": "2026-04-14 17:06:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santa Ana Peace Court enables investigation phase for threats",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/juzgado-de-paz-de-santa-ana-habilita-fase-de-investigacion-por-amenazas/",
-        "published_date": "2026-04-14 17:03:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "UEFA rejects Barcelona's complaint for Atl\u00e9tico's uncalled handball",
+        "title": "Transportation company employees will remain in prison for embezzling $1.3 million",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/la-uefa-rechaza-la-queja-del-barcelona-por-la-mano-no-pitada-al-atletico/",
-        "published_date": "2026-04-14 17:02:38",
+        "url": "https://croniosv.com/principal/principal1/empleados-de-empresa-de-transporte-seguiran-presos-por-malversar-1-3-millones/",
+        "published_date": "2026-04-15 03:27:44",
         "category": "Local Events"
     },
     {
-        "title": "Minister Trigueros verifies size changes in school uniforms in San Miguel Oeste",
+        "title": "Doctor SV is emerging as a complete health system beyond telemedicine",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/doctor-sv-se-perfila-como-un-sistema-de-salud-completo-mas-alla-de-la-telemedicina/?utm_source=rss&utm_medium=rss&utm_campaign=doctor-sv-se-perfila-como-un-sistema-de-salud-completo-mas-alla-de-la-telemedicina",
+        "published_date": "2026-04-15 03:09:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chronic patients will have a dedicated artificial intelligence agent 24/7",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ministra-trigueros-verifica-cambios-de-tallas-en-uniformes-escolares-de-san-miguel-oeste/",
-        "published_date": "2026-04-14 16:55:47",
+        "url": "https://diariolahuella.com/pacientes-cronicos-tendran-un-agente-de-inteligencia-artificial-dedicado-24-7/",
+        "published_date": "2026-04-15 03:07:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "DoctorSV consolidates itself as an innovative health model with artificial intelligence in El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/doctorsv-se-consolida-como-modelo-innovador-en-salud-con-inteligencia-artificial-en-el-salvador/",
+        "published_date": "2026-04-15 03:05:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attacker will spend 50 years in prison for murdering woman",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/agresor-pasara-50-anos-preso-por-asesinar-a-mujer/",
+        "published_date": "2026-04-15 03:02:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Archaeological discoveries in Ethiopia offer information about early humans",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/descubrimientos-arqueologicos-en-etiopia-ofrecen-informacion-sobre-primeros-seres-humanos/",
+        "published_date": "2026-04-15 02:59:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Members of six gang structures 18 face a single hearing",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/integrantes-de-seis-estructuras-de-pandilla-18-enfrentan-audiencia-unica/",
+        "published_date": "2026-04-15 02:53:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Doctor SV's artificial intelligence in its second stage will detect and treat chronic diseases",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/inteligencia-artificial-de-doctor-sv-en-su-segunda-etapa-detectara-y-tratara-enfermedades-cronicas/?utm_source=rss&utm_medium=rss&utm_campaign=inteligencia-artificial-de-doctor-sv-en-su-segunda-etapa-detectara-y-tratara-enfermedades-cronicas",
+        "published_date": "2026-04-15 02:52:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Netflix's Ted Sarandos and theater owners meet at CinemaCon",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/jetset/ted-sarandos-de-netflix-y-duenos-de-cines-se-reunen-en-cinemacon/",
+        "published_date": "2026-04-15 02:48:24",
         "category": "Local Events"
     }
 ]
