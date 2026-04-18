@@ -1,5 +1,12 @@
 [
     {
+        "title": "Iran announces opening of the Strait of Hormuz",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/iran-anuncia-apertura-del-estrecho-de-ormuz/",
+        "published_date": "2026-04-18 10:58:33",
+        "category": "Diplomacy"
+    },
+    {
         "title": "El Salvador will provide cooperation to Paraguay in key areas after bilateral meeting",
         "source": "Ultima Hora SV",
         "url": "https://ultimahora.sv/el-salvador-brindara-cooperacion-a-paraguay-en-areas-clave-tras-reunion-bilateral/",
@@ -126,18 +133,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Minister of Culture fires 20 members of the Symphony Orchestra",
+        "title": "Samuel Ram\u00edrez defends the validity of the GIPES report",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ministro-de-cultura-despide-a-20-miembros-de-la-orquesta-sinfonica/",
-        "published_date": "2026-04-10 11:01:16",
-        "category": "Diplomacy"
+        "url": "https://www.diariocolatino.com/samuel-ramirez-defiende-la-validez-del-informe-del-gipes/",
+        "published_date": "2026-04-18 11:03:33",
+        "category": "Military"
     },
     {
-        "title": "UN head asks to work for world peace",
+        "title": "Peasant organizations denounce lack of public policies and legal security of the land",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/titular-de-onu-pide-trabajar-por-la-paz-mundial/",
-        "published_date": "2026-04-10 10:58:21",
-        "category": "Diplomacy"
+        "url": "https://www.diariocolatino.com/organizaciones-campesinas-denuncian-falta-de-politicas-publicas-y-seguridad-juridica-de-la-tierra/",
+        "published_date": "2026-04-18 11:00:04",
+        "category": "Military"
+    },
+    {
+        "title": "President-elect of Costa Rica admires Salvadoran security",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/presidenta-electa-de-costa-rica-admira-la-seguridad-salvadorena/",
+        "published_date": "2026-04-18 09:32:36",
+        "category": "Military"
+    },
+    {
+        "title": "The Strait of Hormuz is not opened through military means but through peace",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-estrecho-de-ormuz-no-se-abre-por-la-via-militar-sino-mediante-la-paz/",
+        "published_date": "2026-04-18 00:47:21",
+        "category": "Military"
     },
     {
         "title": "Military locates illegal drug plantation in Las Mar\u00edas canton, Izalco",
@@ -249,34 +270,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/el-salvador-y-portugal-fortalecen-cooperacion-en-justicia-y-seguridad/",
         "published_date": "2026-04-16 00:22:18",
-        "category": "Military"
-    },
-    {
-        "title": "Cooperation in justice and innovation between El Salvador and Portugal strengthened",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/fortalecen-cooperacion-en-justicia-e-innovacion-entre-el-salvador-y-portugal/?utm_source=rss&utm_medium=rss&utm_campaign=fortalecen-cooperacion-en-justicia-e-innovacion-entre-el-salvador-y-portugal",
-        "published_date": "2026-04-16 00:05:49",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador and Portugal strengthen cooperation in justice and security",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-y-portugal-fortalecen-cooperacion-en-justicia-y-seguridad/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-portugal-fortalecen-cooperacion-en-justicia-y-seguridad",
-        "published_date": "2026-04-15 22:38:50",
-        "category": "Military"
-    },
-    {
-        "title": "Army arrests man with seven portions of marijuana",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/ejercito-detiene-a-hombre-con-siete-porciones-de-marihuana/",
-        "published_date": "2026-04-15 21:27:17",
-        "category": "Military"
-    },
-    {
-        "title": "Vice President Ulloa highlights in Europe the new direction of El Salvador: security, technology and growth",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/vicepresidente-ulloa-destaca-en-europa-el-nuevo-rumbo-de-el-salvador-seguridad-tecnologia-y-crecimiento/",
-        "published_date": "2026-04-14 23:50:14",
         "category": "Military"
     },
     {
@@ -483,6 +476,104 @@
         "category": "Economy"
     },
     {
+        "title": "Outrage over child affected with pepper spray in CAM operation",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/indignacion-por-nino-afectado-gas-pimienta-operativo-cam/",
+        "published_date": "2026-04-18 11:05:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Political crisis in Chalatenango Sur: Council dismisses mayor",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/crisis-politica-chalatenango-sur-concejo-destituye-alcalde/",
+        "published_date": "2026-04-18 11:04:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "They report 4,663 road accidents so far in 2026",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/reportan-4663-siniestros-viales-en-lo-que-va-de-2026/",
+        "published_date": "2026-04-18 11:02:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Subject is sentenced to 56 years for aggravated femicide",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/sujeto-condenado-56-anos-feminicidio-agravado/",
+        "published_date": "2026-04-18 11:01:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spain closes ranks with Brazil in bilateral summit",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/espana-cierra-filas-con-brasil-en-cumbre-bilateral/",
+        "published_date": "2026-04-18 10:59:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran threatens to close the Strait of Hormuz again if the US blockade continues.",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/iran-amenaza-con-cerrar-de-nuevo-el-estrecho-de-ormuz-si-continua-bloqueo-de-ee-uu/",
+        "published_date": "2026-04-18 09:47:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump says Iran \"accepted everything\"",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/trump-afirma-que-iran-acepto-todo/",
+        "published_date": "2026-04-18 09:44:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador has the largest aircraft maintenance center in the world",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/el-salvador-tiene-el-centro-de-mantenimiento-de-aviones-mas-grande-del-mundo/",
+        "published_date": "2026-04-18 09:35:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "They capture a drunk driver who ran over a mother and her daughter in San Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/capturan-a-conductor-ebrio-que-atropello-a-una-madre-y-su-hija-en-san-salvador/",
+        "published_date": "2026-04-18 09:30:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Customs benefits improve for Salvadorans who wish to return to El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/mejoran-beneficios-aduaneros-para-salvadorenos-que-deseen-retornar-a-el-salvador/",
+        "published_date": "2026-04-18 03:35:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Earth Day: Practical Ways to Reduce E-Waste",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/dia-de-la-tierra-formas-practicas-de-reducir-los-residuos-electronicos/",
+        "published_date": "2026-04-18 03:02:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "They present \u201cNom\u00e1dica\u201d, a new tool to promote national tourism",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presentan-nomadica-nueva-herramienta-para-impulsar-el-turismo-nacional/",
+        "published_date": "2026-04-18 02:54:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Selecta Femenina qualifies for the final round after beating Trinidad and Tobago",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/selecta-femenina-clasifica-a-la-ronda-final-tras-vencer-a-trinidad-y-tobago/",
+        "published_date": "2026-04-18 01:40:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shriners El Salvador: a historic step towards comprehensive child care",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/shriners-el-salvador-un-paso-historico-hacia-atencion-integral-de-la-ninez/",
+        "published_date": "2026-04-18 01:28:51",
+        "category": "Local Events"
+    },
+    {
         "title": "FIFTH COURTYARD",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/quinto-patio/",
@@ -522,104 +613,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/04/rescatan-a-perro-atrapado-en-talud-en-carretera-a-panchimalco/",
         "published_date": "2026-04-17 22:47:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Berlin and the Lady with an Ermine\" is ready to make its global premiere from Seville",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/berlin-y-la-dama-del-armino-esta-lista-para-realizar-su-premier-global-desde-sevilla/",
-        "published_date": "2026-04-17 22:40:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motorcyclist is seriously injured after being hit by a vehicle in San Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/motociclista-resulta-gravemente-herida-tras-ser-impactada-por-vehiculo-en-san-salvador/",
-        "published_date": "2026-04-17 22:30:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Islamic Revolutionary Guard Corps (IRGC) Navy provides details on how ships transit the Strait of Hormuz",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-armada-del-cuerpo-de-la-guardia-revolucionaria-islamica-irgc-ofrece-detalles-sobre-como-los-buques-transitan-por-el-estrecho-de-ormuz/",
-        "published_date": "2026-04-17 22:05:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rains are expected in the east and center of El Salvador for this Friday",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/preven-lluvias-en-el-oriente-y-centro-de-el-salvador-para-este-viernes/",
-        "published_date": "2026-04-17 22:03:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marijuana, cocaine and methamphetamine traffickers sent to prison",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/enviados-a-prision-traficantes-de-marihuana-cocaina-y-metanfetamina/",
-        "published_date": "2026-04-17 21:37:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "They dismantle a structure of extortionists led by a 17-year-old teenager",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/desarticulan-estructura-de-extorsionistas-dirigida-por-adolescente-de-17-anos/",
-        "published_date": "2026-04-17 21:16:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The heat wave ends and gives way to rain with the possibility of hail in the country",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/finaliza-la-ola-de-calor-y-dan-paso-a-lluvias-con-posibilidad-de-granizo-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=finaliza-la-ola-de-calor-y-dan-paso-a-lluvias-con-posibilidad-de-granizo-en-el-pais",
-        "published_date": "2026-04-17 21:01:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Vatican's forceful response to Trump after a false accusation about the Pope and nuclear weapons",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/la-contundente-respuesta-del-vaticano-a-trump-tras-una-acusacion-falsa-sobre-el-papa-y-las-armas-nucleares/",
-        "published_date": "2026-04-17 21:00:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Firefighters control disused tire fire in Acajutla without reporting victims",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/bomberos-controlan-incendio-de-llantas-en-desuso-en-acajutla-sin-reportar-victimas/?utm_source=rss&utm_medium=rss&utm_campaign=bomberos-controlan-incendio-de-llantas-en-desuso-en-acajutla-sin-reportar-victimas",
-        "published_date": "2026-04-17 20:34:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Up to 40 years for 20 gang members from 18 for extorting residents of Apopa",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/hasta-40-anos-para-20-pandilleros-de-la-18-por-extorsionar-a-habitantes-de-apopa/",
-        "published_date": "2026-04-17 20:28:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Civil Protection calls to be prepared for the rains",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/proteccion-civil-llama-a-estar-prevenidos-por-las-lluvias/",
-        "published_date": "2026-04-17 20:19:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "They report high demand for vaccination against HPV with 80 thousand doses applied in the country",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/reportan-alta-demanda-en-vacunacion-contra-el-vph-con-80-mil-dosis-aplicadas-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=reportan-alta-demanda-en-vacunacion-contra-el-vph-con-80-mil-dosis-aplicadas-en-el-pais",
-        "published_date": "2026-04-17 20:11:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Eight injured after explosion in a building in a residential neighborhood of Montevideo, Uruguay",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/ocho-heridos-tras-explosion-en-edificio-de-barrio-residencial-de-montevideo-uruguay-2/",
-        "published_date": "2026-04-17 20:02:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "20 gang members are sentenced for extortion in Apopa",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/condenan-a-20-pandilleros-por-extorsiones-en-apopa/?utm_source=rss&utm_medium=rss&utm_campaign=condenan-a-20-pandilleros-por-extorsiones-en-apopa",
-        "published_date": "2026-04-17 19:50:16",
         "category": "Local Events"
     }
 ]
