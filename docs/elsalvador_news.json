@@ -1,5 +1,19 @@
 [
     {
+        "title": "President Bukele questions the position of \u201cexperts\u201d on MS in international settings",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-cuestiona-postura-de-expertos-sobre-la-ms-en-escenarios-internacionales/",
+        "published_date": "2026-04-20 01:05:56",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "President Bukele questions NGOs for their stance towards gang members in international forums",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-cuestiona-a-ong-por-postura-ante-pandilleros-en-foros-internacionales/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-cuestiona-a-ong-por-postura-ante-pandilleros-en-foros-internacionales",
+        "published_date": "2026-04-20 00:52:29",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Peasant sector of the BRP denounces structural crisis in agriculture and calls for mobilization on May 1",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/sector-campesino-brp-denuncia-crisis-estructural-agro-llama-movilizacion-1-mayo/",
@@ -126,11 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Iranian Foreign Ministry Spokesperson: Talks in Islamabad Failed",
+        "title": "FGR carries out an operation in bars and restaurants for drug trade",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/portavoz-del-ministerio-de-asuntos-exteriores-de-iran-las-conversaciones-en-islamabad-fracasaron/",
-        "published_date": "2026-04-12 05:05:48",
-        "category": "Diplomacy"
+        "url": "https://www.diariocolatino.com/fgr-ejecuta-operativo-en-bares-y-restaurantes-por-comercio-de-drogas/",
+        "published_date": "2026-04-20 11:01:07",
+        "category": "Military"
+    },
+    {
+        "title": "Bukele lost the \u201chistoric opportunity of his life\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/bukele-perdio-la-oportunidad-historica-de-su-vida/",
+        "published_date": "2026-04-20 10:59:47",
+        "category": "Military"
+    },
+    {
+        "title": "Iran will respond and retaliate against US \u201cmaritime and armed robbery\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/iran-respondera-y-tomara-represalias-contra-robo-maritimo-y-a-mano-armada-de-eeuu/",
+        "published_date": "2026-04-20 10:58:49",
+        "category": "Military"
     },
     {
         "title": "MS gunman is captured in San Marcos",
@@ -252,27 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Drunk driver runs over woman and her daughter, arrested after trying to flee",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/conductor-ebrio-atropella-a-mujer-y-su-hija-fue-detenido-tras-intentar-huir/",
-        "published_date": "2026-04-17 17:42:49",
-        "category": "Military"
-    },
-    {
-        "title": "Authorities capture a group of extortionists through an operation",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/autoridades-capturan-a-grupo-de-extorsionistas-mediante-operativo/",
-        "published_date": "2026-04-17 14:48:44",
-        "category": "Military"
-    },
-    {
-        "title": "Israel to maintain 10-kilometer security zone in southern Lebanon during ceasefire, Netanyahu says",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/israel-mantendra-zona-de-seguridad-de-10-kilometros-en-sur-de-libano-durante-cese-al-fuego-dice-netanyahu/",
-        "published_date": "2026-04-17 10:57:52",
-        "category": "Military"
-    },
-    {
         "title": "Back2K ignites 2000s nostalgia with Mosh Plasticine and a night of memories",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/04/back2k-enciende-la-nostalgia-dosmilera-con-plastilina-mosh-y-una-noche-de-recuerdos/",
@@ -336,11 +343,18 @@
         "category": "Energy"
     },
     {
-        "title": "Flores brothers turn on COACHELLA and unleash Salvadoran party",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/hermanos-flores-encienden-coachella-y-desatan-fiesta-salvadorena/?utm_source=rss&utm_medium=rss&utm_campaign=hermanos-flores-encienden-coachella-y-desatan-fiesta-salvadorena",
-        "published_date": "2026-04-12 03:31:51",
-        "category": "Energy"
+        "title": "TSE will buy its headquarters property for $10.1 million with reform to the 2026 Budget",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/tse-comprara-inmueble-de-su-sede-por-10-1-millones-con-reforma-al-presupuesto-2026/",
+        "published_date": "2026-04-20 11:03:30",
+        "category": "Economy"
+    },
+    {
+        "title": "Government supports local economies through culture and tourism",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-apoya-economias-locales-mediante-la-cultura-y-el-turismo/",
+        "published_date": "2026-04-20 03:04:06",
+        "category": "Economy"
     },
     {
         "title": "Surprising change in the Central Bank of Venezuela after lifting of US sanctions",
@@ -469,18 +483,95 @@
         "category": "Economy"
     },
     {
-        "title": "Deputies support financing to illuminate roads with LED technology",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/diputados-apoyan-financiamiento-para-iluminar-carreteras-con-tecnologia-led/",
-        "published_date": "2026-04-13 20:44:35",
-        "category": "Economy"
+        "title": "Nahuat Chair celebrates Mother Earth Day at UTEC with cultural meeting",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/catedra-de-nahuat-celebra-con-encuentro-cultural-el-dia-de-la-madre-tierra-en-la-utec/",
+        "published_date": "2026-04-20 11:07:08",
+        "category": "Local Events"
     },
     {
-        "title": "\u00d3scar Quite\u00f1o Stadium in Santa Ana will be reborn: Assembly endorses funds to renovate it",
+        "title": "Koningsdam cruise ship arrives in Acajutla with more than 2,000 tourists",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/crucero-koningsdam-arriba-a-acajutla-con-mas-de-2000-turistas/",
+        "published_date": "2026-04-20 11:06:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Expo Mango 2026: Ichanmichen celebrates innovation and tourism",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/expo-mango-2026-ichanmichen-celebra-la-innovacion-y-el-turismo/",
+        "published_date": "2026-04-20 11:05:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deputies in favor of El Salvador making a trade agreement with Bolivia",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diputados-a-favor-que-el-salvador-haga-acuerdo-comercial-con-bolivia/",
+        "published_date": "2026-04-20 11:04:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Injuries in traffic accidents increase by 30%",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/lesionados-en-accidentes-de-transito-aumentan-un-30/",
+        "published_date": "2026-04-20 11:02:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Citizens observe one hundred nights of vigils",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ciudadanos-cumplen-cien-noches-de-vigilias/",
+        "published_date": "2026-04-20 11:00:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Why the Venezuelan Professional Baseball League remains the main sports product in Venezuela",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/por-que-la-liga-venezolana-de-beisbol-profesional-sigue-siendo-el-principal-producto-deportivo-de-venezuela/",
+        "published_date": "2026-04-20 05:12:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador will host the International Artificial Intelligence Summit",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/estadio-oscar-quiteno-de-santa-ana-renacera-asamblea-avala-fondos-para-renovarlo/?utm_source=rss&utm_medium=rss&utm_campaign=estadio-oscar-quiteno-de-santa-ana-renacera-asamblea-avala-fondos-para-renovarlo",
-        "published_date": "2026-04-13 20:03:07",
-        "category": "Economy"
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-sera-sede-de-la-cumbre-internacional-de-inteligencia-artificial/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-sera-sede-de-la-cumbre-internacional-de-inteligencia-artificial",
+        "published_date": "2026-04-20 03:25:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"Mission accomplished! We raised El Salvador high\": Nory Flores, vocalist of the Flores Brothers",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/mision-cumplida-pusimos-en-alto-a-el-salvador-nory-flores-vocalista-de-los-hermanos-flores/",
+        "published_date": "2026-04-20 02:44:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Flores brothers return home to applause after historic participation in Coachella",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/hermanos-flores-regresan-a-casa-entre-aplausos-tras-historica-participacion-en-coachella/",
+        "published_date": "2026-04-20 01:35:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Flores Brothers star in a meeting with Snoop Dogg after a performance at Coachella",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/los-hermanos-flores-protagonizan-encuentro-con-snoop-dogg-tras-presentacion-en-coachella/",
+        "published_date": "2026-04-20 00:39:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three people are injured in an accident on the Claudia Lars highway",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/tres-personas-resultan-lesionadas-en-accidente-sobre-periferico-claudia-lars/",
+        "published_date": "2026-04-20 00:33:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "SHOCKING VIDEO: Spectator dies after being hit during the South American Rally in Argentina",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/video-impactante-espectador-muere-tras-ser-embestido-durante-el-rally-sudamericano-en-argentina/",
+        "published_date": "2026-04-20 00:11:05",
+        "category": "Local Events"
     },
     {
         "title": "Prison for subjects who committed the crime of aggravated robbery",
@@ -529,97 +620,6 @@
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/pronostico-del-clima-para-este-domingo-10/",
         "published_date": "2026-04-19 18:25:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The heat continues and possible rain is expected for this Sunday",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/continua-el-calor-y-se-preve-posibles-lluvias-para-este-domingo/",
-        "published_date": "2026-04-19 18:13:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Expo Mango 2026 lives its second and last day in Ichanmichen with flavor, tradition and family atmosphere",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/expo-mango-2026-vive-su-segundo-y-ultimo-dia-en-ichanmichen-con-sabor-tradicion-y-ambiente-familiar/",
-        "published_date": "2026-04-19 17:34:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government successfully carried out a controlled explosion on the Pan-American Highway, Los Chorros section",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-realizo-con-exito-explosion-controlada-en-carretera-panamericana-tramo-los-chorros/",
-        "published_date": "2026-04-19 17:13:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Controlled explosion in Los Chorros forces temporary closure of the Pan-American highway",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/explosion-controlada-en-los-chorros-obliga-a-cierre-temporal-en-la-carretera-panamericana/",
-        "published_date": "2026-04-19 17:12:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "San Salvador bars used for drug sales raided",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/allanan-bares-de-san-salvador-utilizados-para-venta-de-drogas/",
-        "published_date": "2026-04-19 17:01:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Expo Mango 2026 brings together national and foreign visitors",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/expo-mango-2026-reune-a-visitantes-nacionales-y-extranjeros/?utm_source=rss&utm_medium=rss&utm_campaign=expo-mango-2026-reune-a-visitantes-nacionales-y-extranjeros",
-        "published_date": "2026-04-19 16:33:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Islamic Revolutionary Guard Corps rapidly replenishes missile and drone stockpiles",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-guardia-revolucionaria-islamica-reabastece-rapidamente-sus-reservas-de-misiles-y-drones/",
-        "published_date": "2026-04-19 15:16:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Snoop Dogg and Salvadoran cumbia: the unexpected viral moment with Los Hermanos Flores at Coachella",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/snoop-dogg-y-la-cumbia-salvadorena-el-inesperado-momento-viral-junto-a-los-hermanos-flores-en-coachella/",
-        "published_date": "2026-04-19 15:16:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Koningsdam cruise ship arrives in Acajutla with thousands of visitors",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/crucero-koningsdam-llega-a-acajutla-con-miles-de-visitantes/?utm_source=rss&utm_medium=rss&utm_campaign=crucero-koningsdam-llega-a-acajutla-con-miles-de-visitantes",
-        "published_date": "2026-04-19 15:15:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Zacatecoluca hits Fuerte and ignites the fight for relegation",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/zacatecoluca-golpea-al-fuerte-y-enciende-la-lucha-por-el-descenso/",
-        "published_date": "2026-04-19 15:14:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Flores Brothers say goodbye to Coachella with a historic second presentation full of surprises",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/los-hermanos-flores-se-despiden-de-coachella-con-una-historica-segunda-presentacion-llena-de-sorpresas/",
-        "published_date": "2026-04-19 14:55:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "HOW MANY DEAD AND MISSING HAVE REALLY BEEN IN THE ALMOST 7 YEARS OF BUKELE'S GOVERNMENT?",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cuantos-muertos-y-desaparecidos-ha-habido-realmente-en-los-casi-7-anos-de-gobierno-de-bukele/",
-        "published_date": "2026-04-19 14:03:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Flores brothers surprise all Salvadorans with a photo with rapper Snoop Dogg",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/los-hermanos-flores-sorprenden-a-todos-los-salvadorenos-con-una-foto-con-el-rapero-snoop-dogg/?utm_source=rss&utm_medium=rss&utm_campaign=los-hermanos-flores-sorprenden-a-todos-los-salvadorenos-con-una-foto-con-el-rapero-snoop-dogg",
-        "published_date": "2026-04-19 04:31:25",
         "category": "Local Events"
     }
 ]
