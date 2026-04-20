@@ -1,5 +1,33 @@
 [
     {
+        "title": "Cuba confirms meeting with US delegation",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cuba-confirma-encuentro-con-delegacion-de-eeuu/",
+        "published_date": "2026-04-20 23:24:16",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "117 young scholarship holders from the \u201cSemillas\u201d project successfully complete their technical training, with the support of Italian cooperation",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/117-jovenes-becarios-del-proyecto-semillas-culminan-con-exito-su-formacion-tecnica-con-el-apoyo-de-la-cooperacion-italiana/",
+        "published_date": "2026-04-20 20:33:55",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Vice President Ulloa maintains relations with Italian-Latin American organizations for joint initiatives",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/vicepresidente-ulloa-sostiene-relaciones-con-organismos-italo-latinoamericanos-para-iniciativas-conjuntas/",
+        "published_date": "2026-04-20 20:17:10",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The decline of diplomacy in the face of political messianism - Lisandro Prieto Femen\u00eda",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/el-ocaso-de-la-diplomacia-ante-el-mesianismo-politico-lisandro-prieto-femenia/",
+        "published_date": "2026-04-20 20:05:48",
+        "category": "Diplomacy"
+    },
+    {
         "title": "President Bukele questions the position of \u201cexperts\u201d on MS in international settings",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/presidente-bukele-cuestiona-postura-de-expertos-sobre-la-ms-en-escenarios-internacionales/",
@@ -112,32 +140,74 @@
         "category": "Diplomacy"
     },
     {
-        "title": "El Salvador and Paraguay strengthen ties in bilateral meeting",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-y-paraguay-estrechan-vinculos-en-encuentro-bilateral/",
-        "published_date": "2026-04-14 16:30:26",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Guatemalan justice annuls arrest warrant against Colombian ambassador and prosecutor",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/justicia-de-guatemala-anula-orden-de-arresto-contra-embajador-y-fiscal-de-colombia/",
-        "published_date": "2026-04-14 05:33:16",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cooperation between China and El Salvador promotes emblematic projects such as the new National Stadium",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/cooperacion-entre-china-y-el-salvador-impulsa-proyectos-emblematicos-como-el-nuevo-estadio-nacional/",
-        "published_date": "2026-04-13 20:56:23",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "President Bukele warns that artificial intelligence should not replace people in the economy",
+        "title": "Peregrine Falcon returns to its habitat after being rescued in Coatepeque",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-advierte-que-la-inteligencia-artificial-no-debe-sustituir-a-las-personas-en-la-economia/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-advierte-que-la-inteligencia-artificial-no-debe-sustituir-a-las-personas-en-la-economia",
-        "published_date": "2026-04-12 14:44:27",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/halcon-peregrino-vuelve-a-su-habitat-tras-ser-rescatado-en-coatepeque/?utm_source=rss&utm_medium=rss&utm_campaign=halcon-peregrino-vuelve-a-su-habitat-tras-ser-rescatado-en-coatepeque",
+        "published_date": "2026-04-20 21:11:20",
+        "category": "Military"
+    },
+    {
+        "title": "They capture the person responsible for the murder of a woman in Santa Ana",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-al-responsable-del-homicidio-de-una-mujer-en-santa-ana/",
+        "published_date": "2026-04-20 19:50:14",
+        "category": "Military"
+    },
+    {
+        "title": "From the anxiety of gangs to having a successful business in Maryland, USA.",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/de-la-zozobra-de-las-pandillas-a-tener-un-negocio-exitoso-en-maryland-ee-uu/",
+        "published_date": "2026-04-20 19:35:09",
+        "category": "Military"
+    },
+    {
+        "title": "Netanyahu vows 'severe measures' against soldier who hit Jesus statue in Lebanon",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/netanyahu-promete-medidas-severas-contra-soldado-que-golpeo-estatua-de-jesus-en-libano/",
+        "published_date": "2026-04-20 19:27:54",
+        "category": "Military"
+    },
+    {
+        "title": "Security has allowed renovation of the Zacamil neighborhood",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/seguridad-ha-permitido-renovacion-de-la-colonia-zacamil/",
+        "published_date": "2026-04-20 19:08:07",
+        "category": "Military"
+    },
+    {
+        "title": "Courts have sentenced 26 gang leaders in single hearings",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/tribunales-han-condenado-a-26-cabecillas-de-maras-en-audiencias-unicas/",
+        "published_date": "2026-04-20 19:05:45",
+        "category": "Military"
+    },
+    {
+        "title": "Mayor's Office of San Salvador Centro intensifies removal of abandoned vehicles in Mejicanos",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/alcaldia-de-san-salvador-centro-intensifica-retiro-de-vehiculos-abandonados-en-mejicanos/",
+        "published_date": "2026-04-20 18:21:57",
+        "category": "Military"
+    },
+    {
+        "title": "They capture an alleged MS-13 member accused of extortion and drug sales",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/capturan-a-presunto-miembro-de-la-ms-13-acusado-de-extorsion-y-venta-de-droga/",
+        "published_date": "2026-04-20 17:53:03",
+        "category": "Military"
+    },
+    {
+        "title": "They capture an alleged MS-13 gunman in San Marcos",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/capturan-a-presunto-gatillero-de-la-ms-13-en-san-marcos/",
+        "published_date": "2026-04-20 17:15:33",
+        "category": "Military"
+    },
+    {
+        "title": "Government of President Bukele adds 1,193 days without homicides",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/gobierno-del-presidente-bukele-suma-1193-dias-sin-homicidios/",
+        "published_date": "2026-04-20 14:40:20",
+        "category": "Military"
     },
     {
         "title": "FGR carries out an operation in bars and restaurants for drug trade",
@@ -210,74 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "El Salvador accumulates 14 consecutive days without homicides, according to the PNC",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/el-salvador-acumula-14-dias-consecutivos-sin-homicidios-segun-la-pnc/",
-        "published_date": "2026-04-19 20:27:50",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador has 17 days with zero homicides so far in April",
+        "title": "WTI oil experiences a 7% increase after crisis in the Middle East",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-suma-17-dias-con-cero-homicidios-en-lo-que-va-de-abril/",
-        "published_date": "2026-04-19 15:40:25",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador adds 90 days without violent deaths in 2026",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-suma-90-dias-sin-muertes-violentas-en-2026/",
-        "published_date": "2026-04-18 15:25:54",
-        "category": "Military"
-    },
-    {
-        "title": "Samuel Ram\u00edrez defends the validity of the GIPES report",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/samuel-ramirez-defiende-la-validez-del-informe-del-gipes/",
-        "published_date": "2026-04-18 11:03:33",
-        "category": "Military"
-    },
-    {
-        "title": "Peasant organizations denounce lack of public policies and legal security of the land",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/organizaciones-campesinas-denuncian-falta-de-politicas-publicas-y-seguridad-juridica-de-la-tierra/",
-        "published_date": "2026-04-18 11:00:04",
-        "category": "Military"
-    },
-    {
-        "title": "President-elect of Costa Rica admires Salvadoran security",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/presidenta-electa-de-costa-rica-admira-la-seguridad-salvadorena/",
-        "published_date": "2026-04-18 09:32:36",
-        "category": "Military"
-    },
-    {
-        "title": "The Strait of Hormuz is not opened through military means but through peace",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-estrecho-de-ormuz-no-se-abre-por-la-via-militar-sino-mediante-la-paz/",
-        "published_date": "2026-04-18 00:47:21",
-        "category": "Military"
-    },
-    {
-        "title": "Military locates illegal drug plantation in Las Mar\u00edas canton, Izalco",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/militares-localizan-plantacion-ilegal-de-droga-en-canton-las-marias-izalco/",
-        "published_date": "2026-04-17 22:07:37",
-        "category": "Military"
-    },
-    {
-        "title": "Government of President Nayib Bukele creates conditions for investors and commercial innovation",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-del-presidente-nayib-bukele-genera-condiciones-para-inversores-y-la-innovacion-comercial/",
-        "published_date": "2026-04-17 20:27:29",
-        "category": "Military"
-    },
-    {
-        "title": "Subjects who extorted a merchant in La Libertad since 2025 fall",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/caen-sujetos-que-extorsionaban-a-comerciante-en-la-libertad-desde-2025/",
-        "published_date": "2026-04-17 17:54:25",
-        "category": "Military"
+        "url": "https://diariolahuella.com/petroleo-wti-experimenta-un-aumento-del-7-tras-crisis-en-medio-oriente/",
+        "published_date": "2026-04-20 20:40:49",
+        "category": "Energy"
     },
     {
         "title": "Back2K ignites 2000s nostalgia with Mosh Plasticine and a night of memories",
@@ -341,6 +348,13 @@
         "url": "https://croniosv.com/internacionales/precio-del-petroleo-vuelve-a-superar-los-100-tras-fracaso-de-dialogo-de-paz/",
         "published_date": "2026-04-13 06:41:57",
         "category": "Energy"
+    },
+    {
+        "title": "Clear accounts",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cuentas-claras/",
+        "published_date": "2026-04-20 12:15:00",
+        "category": "Economy"
     },
     {
         "title": "TSE will buy its headquarters property for $10.1 million with reform to the 2026 Budget",
@@ -476,150 +490,143 @@
         "category": "Economy"
     },
     {
-        "title": "Construction in El Salvador grows 24.45% in 2025, its highest increase in almost two decades",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/construccion-en-el-salvador-crece-24-45-en-2025-su-mayor-alza-en-casi-dos-decadas/",
-        "published_date": "2026-04-13 21:35:29",
-        "category": "Economy"
-    },
-    {
-        "title": "Nahuat Chair celebrates Mother Earth Day at UTEC with cultural meeting",
+        "title": "Trump says extending ceasefire with Iran 'very unlikely'",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/catedra-de-nahuat-celebra-con-encuentro-cultural-el-dia-de-la-madre-tierra-en-la-utec/",
-        "published_date": "2026-04-20 11:07:08",
+        "url": "https://www.diariocolatino.com/trump-dice-que-es-muy-improbable-extender-cese-al-fuego-con-iran/",
+        "published_date": "2026-04-20 23:27:56",
         "category": "Local Events"
     },
     {
-        "title": "Koningsdam cruise ship arrives in Acajutla with more than 2,000 tourists",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/crucero-koningsdam-arriba-a-acajutla-con-mas-de-2000-turistas/",
-        "published_date": "2026-04-20 11:06:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Expo Mango 2026: Ichanmichen celebrates innovation and tourism",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/expo-mango-2026-ichanmichen-celebra-la-innovacion-y-el-turismo/",
-        "published_date": "2026-04-20 11:05:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Deputies in favor of El Salvador making a trade agreement with Bolivia",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/diputados-a-favor-que-el-salvador-haga-acuerdo-comercial-con-bolivia/",
-        "published_date": "2026-04-20 11:04:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Injuries in traffic accidents increase by 30%",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/lesionados-en-accidentes-de-transito-aumentan-un-30/",
-        "published_date": "2026-04-20 11:02:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Citizens observe one hundred nights of vigils",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ciudadanos-cumplen-cien-noches-de-vigilias/",
-        "published_date": "2026-04-20 11:00:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why the Venezuelan Professional Baseball League remains the main sports product in Venezuela",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/por-que-la-liga-venezolana-de-beisbol-profesional-sigue-siendo-el-principal-producto-deportivo-de-venezuela/",
-        "published_date": "2026-04-20 05:12:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador will host the International Artificial Intelligence Summit",
+        "title": "MS-13 gang members face open hearing for illicit groups in La Paz",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-sera-sede-de-la-cumbre-internacional-de-inteligencia-artificial/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-sera-sede-de-la-cumbre-internacional-de-inteligencia-artificial",
-        "published_date": "2026-04-20 03:25:37",
+        "url": "https://lapagina.com.sv/nacionales/pandilleros-de-la-ms-13-enfrentan-audiencia-abierta-por-agrupaciones-ilicitas-en-la-paz/?utm_source=rss&utm_medium=rss&utm_campaign=pandilleros-de-la-ms-13-enfrentan-audiencia-abierta-por-agrupaciones-ilicitas-en-la-paz",
+        "published_date": "2026-04-20 23:23:45",
         "category": "Local Events"
     },
     {
-        "title": "\"Mission accomplished! We raised El Salvador high\": Nory Flores, vocalist of the Flores Brothers",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/mision-cumplida-pusimos-en-alto-a-el-salvador-nory-flores-vocalista-de-los-hermanos-flores/",
-        "published_date": "2026-04-20 02:44:57",
+        "title": "Apple announces that Tim Cook will become executive chairman and John Ternus new CEO",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/apple-anuncia-que-tim-cook-pasara-a-ser-presidente-ejecutivo-y-john-ternus-nuevo-director-ejecutivo/",
+        "published_date": "2026-04-20 23:10:38",
         "category": "Local Events"
     },
     {
-        "title": "Flores brothers return home to applause after historic participation in Coachella",
+        "title": "They capture a femicide suspect after a crime in Santa Ana",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/hermanos-flores-regresan-a-casa-entre-aplausos-tras-historica-participacion-en-coachella/",
-        "published_date": "2026-04-20 01:35:48",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/capturan-a-sospechoso-de-feminicidio-tras-crimen-en-santa-ana/",
+        "published_date": "2026-04-20 23:08:26",
         "category": "Local Events"
     },
     {
-        "title": "The Flores Brothers star in a meeting with Snoop Dogg after a performance at Coachella",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/los-hermanos-flores-protagonizan-encuentro-con-snoop-dogg-tras-presentacion-en-coachella/",
-        "published_date": "2026-04-20 00:39:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three people are injured in an accident on the Claudia Lars highway",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/tres-personas-resultan-lesionadas-en-accidente-sobre-periferico-claudia-lars/",
-        "published_date": "2026-04-20 00:33:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "SHOCKING VIDEO: Spectator dies after being hit during the South American Rally in Argentina",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/video-impactante-espectador-muere-tras-ser-embestido-durante-el-rally-sudamericano-en-argentina/",
-        "published_date": "2026-04-20 00:11:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prison for subjects who committed the crime of aggravated robbery",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/prision-para-sujetos-que-cometieron-el-delito-de-robo-agravado/",
-        "published_date": "2026-04-19 21:53:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Traffic accident leaves one injured and damages home in Tecoluca",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/accidente-de-transito-deja-un-lesionado-y-danos-en-vivienda-en-tecoluca/",
-        "published_date": "2026-04-19 20:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele consolidates himself as the most approved leader in the world with 94%",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-se-consolida-como-el-lider-mas-aprobado-del-mundo-con-94/",
-        "published_date": "2026-04-19 20:26:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele leads world approval ranking",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-lidera-ranking-mundial-de-aprobacion/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-lidera-ranking-mundial-de-aprobacion",
-        "published_date": "2026-04-19 19:59:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "27 criminals convicted of feminicide and attempt between January and March 2026",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/condenan-a-27-criminales-por-feminicidio-y-tentativa-entre-enero-y-marzo-de-2026/",
-        "published_date": "2026-04-19 19:38:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "PHOTOS \u2013 VIDEOS |Several bars used for drug sales raided in San Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/fotos-videos-allanan-varios-bares-en-san-salvador-utilizados-para-la-venta-de-drogas/",
-        "published_date": "2026-04-19 19:30:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Weather forecast for this Sunday",
+        "title": "Clausura 2026 enters decisive phase with tickets and relegation pending",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/pronostico-del-clima-para-este-domingo-10/",
-        "published_date": "2026-04-19 18:25:48",
+        "url": "https://www.diariocolatino.com/el-clausura-2026-entra-en-fase-decisiva-con-boletos-y-descenso-pendiente/",
+        "published_date": "2026-04-20 23:03:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Accident on the road to Comalapa leaves several injured and generates heavy traffic congestion",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/accidente-en-carretera-a-comalapa-deja-varios-heridos-y-genera-fuerte-congestion-vehicular/?utm_source=rss&utm_medium=rss&utm_campaign=accidente-en-carretera-a-comalapa-deja-varios-heridos-y-genera-fuerte-congestion-vehicular",
+        "published_date": "2026-04-20 23:02:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five injured in serious accident on the highway to Comalapa",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/cinco-lesionados-en-fuerte-accidente-sobre-la-autopista-a-comalapa/",
+        "published_date": "2026-04-20 22:58:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Seville illuminates its April Fair with 28,000 lights",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/sevilla-ilumina-su-feria-de-abril-con-28000-luces/",
+        "published_date": "2026-04-20 22:57:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Provisional prison for drug dealer from San Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/prision-provisional-para-narcomenudista-de-san-salvador/",
+        "published_date": "2026-04-20 22:29:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "April registers excess rain and marks an upward trend in El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/abril-registra-exceso-de-lluvias-y-marca-tendencia-al-alza-en-el-salvador/",
+        "published_date": "2026-04-20 21:45:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 900 people will benefit from a modern drinking water system in La Paz",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/mas-de-900-personas-se-beneficiaran-con-moderno-sistema-de-agua-potable-en-la-paz/",
+        "published_date": "2026-04-20 21:30:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sin Bandera returns to El Salvador: the most romantic night of 2026",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/sin-bandera-vuelve-a-el-salvador-la-noche-mas-romantica-del-2026/",
+        "published_date": "2026-04-20 21:08:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government protects El Salvador against measles by intensifying vaccination days",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-protege-a-el-salvador-contra-el-sarampion-intensificado-jornadas-de-vacunacion/",
+        "published_date": "2026-04-20 21:02:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Week with afternoon rains, accelerated winds and intense heat throughout the country",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/semana-con-lluvias-vespertinas-vientos-acelerados-y-calor-intenso-en-todo-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=semana-con-lluvias-vespertinas-vientos-acelerados-y-calor-intenso-en-todo-el-pais",
+        "published_date": "2026-04-20 20:52:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nine Salvadoran entrepreneurs left for the United States to participate in a business mentoring program",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/nueve-emprendedores-salvadorenos-partieron-hacia-estados-unidos-para-participar-en-programa-de-mentoria-empresarial/?utm_source=rss&utm_medium=rss&utm_campaign=nueve-emprendedores-salvadorenos-partieron-hacia-estados-unidos-para-participar-en-programa-de-mentoria-empresarial",
+        "published_date": "2026-04-20 20:46:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "They foresee a full start of rains in June and warn of the effects of El Ni\u00f1o with a longer heat wave in 2026",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/preven-inicio-pleno-de-lluvias-en-junio-y-advierten-efectos-de-el-nino-con-canicula-mas-prolongada-en-2026/?utm_source=rss&utm_medium=rss&utm_campaign=preven-inicio-pleno-de-lluvias-en-junio-y-advierten-efectos-de-el-nino-con-canicula-mas-prolongada-en-2026",
+        "published_date": "2026-04-20 20:42:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four subjects fall due to violent fights under the influence of alcohol in different parts of the country",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/caen-cuatro-sujetos-por-violentas-rinas-bajo-efectos-del-alcohol-en-distintos-puntos-del-pais/",
+        "published_date": "2026-04-20 20:27:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "They predict increased rainfall from May and warns of the impact of El Ni\u00f1o in 2026",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/preveen-aumento-de-lluvias-desde-mayo-y-advierte-impacto-de-el-nino-en-2026/",
+        "published_date": "2026-04-20 20:24:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice President F\u00e9lix Ulloa strengthens cooperation ties with the International Italian-Latin American Organization (IILA)",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-fortalece-lazos-de-cooperacion-con-la-organizacion-internacional-italo-latinoamericana-iila/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-fortalece-lazos-de-cooperacion-con-la-organizacion-internacional-italo-latinoamericana-iila",
+        "published_date": "2026-04-20 20:21:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government delivers new road access between Nuevo Cuscatl\u00e1n and the highway to Puerto de La Libertad",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-entrega-nuevo-acceso-vial-entre-nuevo-cuscatlan-y-carretera-al-puerto-de-la-libertad/",
+        "published_date": "2026-04-20 20:06:05",
         "category": "Local Events"
     }
 ]
