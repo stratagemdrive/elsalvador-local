@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "IACHR reiterates its call to the GOES to put an end to the continuation of the emergency regime",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cidh-reitera-llamado-al-goes-poner-fin-al-continuado-del-regimen-de-excepcion/",
+        "published_date": "2026-04-22 11:00:02",
+        "category": "Military"
+    },
+    {
+        "title": "Motorcyclist leaves companion injured after accident in Jiquilisco",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/motociclista-deja-a-acompanante-lesionado-tras-accidente-en-jiquilisco/",
+        "published_date": "2026-04-22 00:14:20",
+        "category": "Military"
+    },
+    {
         "title": "Preparations begin for the first corn planting in the country",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/inician-preparativos-para-la-primera-siembra-de-maiz-en-el-pais/",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "They capture a gang member in San Marcos",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-marero-en-san-marcos/",
-        "published_date": "2026-04-19 22:21:33",
-        "category": "Military"
-    },
-    {
-        "title": "Elderly adult is injured after being run over in San Salvador Centro",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/adulto-mayor-resulta-lesionado-tras-ser-atropellado-en-san-salvador-centro/",
-        "published_date": "2026-04-19 22:01:38",
-        "category": "Military"
-    },
-    {
         "title": "SovAI 2026 continues with discussions on artificial intelligence and development",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/sovai-2026-continua-con-debates-sobre-inteligencia-artificial-y-desarrollo/?utm_source=rss&utm_medium=rss&utm_campaign=sovai-2026-continua-con-debates-sobre-inteligencia-artificial-y-desarrollo",
@@ -343,18 +343,11 @@
         "category": "Energy"
     },
     {
-        "title": "Fuel prices will rise again, up to $0.27",
+        "title": "Nuevas Ideas ratifies $576 million in loans for current expenses and Doctor SV",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/precio-de-combustibles-subiran-nuevamente-hasta-0-27/",
-        "published_date": "2026-04-14 11:02:29",
-        "category": "Energy"
-    },
-    {
-        "title": "Fuels suffer another increase of $0.27 starting tomorrow",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/combustibles-sufren-otro-incremento-de-0-27-a-partir-de-manana/",
-        "published_date": "2026-04-14 00:27:14",
-        "category": "Energy"
+        "url": "https://www.diariocolatino.com/nuevas-ideas-ratifica-576-millones-prestamos-gasto-coriente-doctor-sv/",
+        "published_date": "2026-04-22 11:04:12",
+        "category": "Economy"
     },
     {
         "title": "SovAI Summit brings together more than 550 attendees on its first day and highlights advances in AI in El Salvador",
@@ -490,150 +483,143 @@
         "category": "Economy"
     },
     {
-        "title": "The country's financial system exceeds $21,000 million in loans as of February 2026",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/el-sistema-financiero-del-pais-supera-los-21000-millones-en-creditos-a-febrero-de-2026/",
-        "published_date": "2026-04-14 19:15:30",
-        "category": "Economy"
-    },
-    {
-        "title": "ESIAP and ANA of Italy sign memorandum to promote joint training programs for public servants",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/esiap-y-sna-de-italia-firman-memorandum-para-impulsar-programas-conjuntos-de-formacion-para-servidores-publicos/",
-        "published_date": "2026-04-21 23:41:03",
+        "title": "Real Madrid hits Alav\u00e9s in Spanish football",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/real-madrid-golpea-al-alaves-en-el-futbol-espanol/",
+        "published_date": "2026-04-22 11:05:59",
         "category": "Local Events"
     },
     {
-        "title": "Vamos deputy votes against loan to expand digital health services in El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/diputada-de-vamos-vota-en-contra-de-prestamo-para-ampliar-servicios-de-salud-digital-en-el-salvador/",
-        "published_date": "2026-04-21 23:27:45",
+        "title": "COSAVI victims report 13 deaths without recovering their savings",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/afectados-de-cosavi-reportan-13-fallecidos-sin-recuperar-sus-ahorros/",
+        "published_date": "2026-04-22 11:04:05",
         "category": "Local Events"
     },
     {
-        "title": "Mayor of Santa Ana announces jobs that seek to improve access and mobility in communities",
+        "title": "\u201cWe were not listened to\u201d: parents mobilize for the dismissal of a school principal",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/no-fuimos-escuchados-padres-se-movilizan-por-despido-de-directora-en-centro-escolar/",
+        "published_date": "2026-04-22 11:03:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sentenced to 35 years in prison for femicide in San Juan Opico",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/condenado-a-35-anos-de-prision-por-feminicidio-en-san-juan-opico/",
+        "published_date": "2026-04-22 11:02:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban Elite Baseball League: a commitment to the nation",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/liga-elite-del-beisbol-cubano-un-compromiso-con-la-nacion/",
+        "published_date": "2026-04-22 11:01:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "LESSONS FROM THE ORWELLIAN FARM FOR OUR COUNTRY",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/lecciones-de-la-granja-orwelliana-para-nuestro-pais/",
+        "published_date": "2026-04-22 10:59:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump extends US-Iran ceasefire, uncertainty over talks",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/trump-extiende-alto-el-fuego-eeuu-iran-incertidumbre-sobre-platicas/",
+        "published_date": "2026-04-22 10:58:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Macron asks Israel to renounce its territorial desires in Lebanon",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/macron-pide-a-israel-renunciar-a-sus-ansias-territoriales-en-libano/",
+        "published_date": "2026-04-22 10:57:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "New infrastructure includes drainage, sidewalks and modern signage on the road to the Port of La Libertad",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/alcalde-de-santa-ana-anuncia-trabajos-que-buscan-mejorar-acceso-y-movilidad-en-comunidades/?utm_source=rss&utm_medium=rss&utm_campaign=alcalde-de-santa-ana-anuncia-trabajos-que-buscan-mejorar-acceso-y-movilidad-en-comunidades",
-        "published_date": "2026-04-21 23:19:47",
+        "url": "https://lapagina.com.sv/nacionales/nueva-infraestructura-incluye-drenajes-aceras-y-senalizacion-moderna-en-carretera-al-puerto-de-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=nueva-infraestructura-incluye-drenajes-aceras-y-senalizacion-moderna-en-carretera-al-puerto-de-la-libertad",
+        "published_date": "2026-04-22 04:11:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "FAS thrashes Dragon and advances with authority to the quarterfinals",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/fas-golea-a-dragon-y-avanza-con-autoridad-a-cuartos-de-final/",
+        "published_date": "2026-04-22 03:54:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Witnesses point to the MS-13 gang as responsible for more than 9,000 crimes",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/testigos-senalan-a-ranfla-de-la-ms-13-como-responsable-de-mas-de-9-mil-crimenes/?utm_source=rss&utm_medium=rss&utm_campaign=testigos-senalan-a-ranfla-de-la-ms-13-como-responsable-de-mas-de-9-mil-crimenes",
+        "published_date": "2026-04-22 02:36:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nayib Bukele was present in tribute to Dr. V\u00edctor Saca",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/nayib-bukele-estuvo-presente-en-homenaje-al-dr-victor-saca/?utm_source=rss&utm_medium=rss&utm_campaign=nayib-bukele-estuvo-presente-en-homenaje-al-dr-victor-saca",
+        "published_date": "2026-04-22 02:29:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele accompanies posthumous tribute to prominent Salvadoran businessman",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-acompana-homenaje-postumo-a-destacado-empresario-salvadoreno/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-acompana-homenaje-postumo-a-destacado-empresario-salvadoreno",
+        "published_date": "2026-04-22 02:21:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "The disorder is over: fines of up to $900 are imposed for abandoned vehicles in San Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/se-acabo-el-desorden-sancionan-con-multas-de-hasta-900-por-vehiculos-abandonados-en-san-salvador/",
+        "published_date": "2026-04-22 02:09:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "With 4-2 overall, Alianza eliminates Metap\u00e1n and remains firm in the President Cup",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/con-global-4-2-alianza-elimina-a-metapan-y-sigue-firme-en-la-copa-presidente/",
+        "published_date": "2026-04-22 01:54:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fuerte San Francisco, first classified to the quarterfinals of the President Cup",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/fuerte-san-francisco-primer-clasificado-a-cuartos-de-final-de-la-copa-presidente/",
+        "published_date": "2026-04-22 01:45:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "It marks one year since the death of Pope Francis, leader of the Catholic Church",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/se-cumple-un-ano-de-la-muerte-del-papa-francisco-lider-de-la-iglesia-catolica/",
+        "published_date": "2026-04-22 01:31:04",
         "category": "Local Events"
     },
     {
         "title": "Digicel adds ZTE to its portfolio and presents the nubia NEO 3, designed for the gaming segment",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/digicel-incorpora-zte-a-su-portafolio-y-presenta-el-nubia-neo-3-disenado-para-el-segmento-gaming/",
-        "published_date": "2026-04-21 22:26:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Senior Women's Team already knows rival and venue for the Concacaf W Championship 2026",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/seleccion-mayor-femenina-ya-conoce-rival-y-sede-para-el-concacaf-w-championship-2026/",
-        "published_date": "2026-04-21 22:19:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "USAR El Salvador Group reinforces its preparation in regional emergency response exercises",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/grupo-usar-el-salvador-refuerza-su-preparacion-en-ejercicios-regionales-de-respuesta-a-emergencias/?utm_source=rss&utm_medium=rss&utm_campaign=grupo-usar-el-salvador-refuerza-su-preparacion-en-ejercicios-regionales-de-respuesta-a-emergencias",
-        "published_date": "2026-04-21 21:27:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government inaugurates modern Sertraen branch in Apopa",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-inaugura-moderna-sucursal-de-sertraen-en-apopa/",
-        "published_date": "2026-04-21 21:17:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Madonna denounces wardrobe theft after her surprise appearance at Coachella with Sabrina Carpenter",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/madonna-denuncia-robo-de-vestuario-tras-su-aparicion-sorpresa-en-coachella-junto-a-sabrina-carpenter/",
-        "published_date": "2026-04-21 20:59:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "United Kingdom promotes historic tobacco ban for new generations",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/reino-unido-impulsa-prohibicion-historica-del-tabaco-para-nuevas-generaciones/?utm_source=rss&utm_medium=rss&utm_campaign=reino-unido-impulsa-prohibicion-historica-del-tabaco-para-nuevas-generaciones",
-        "published_date": "2026-04-21 20:51:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trial continues against 486 leaders of the MS for more than 47 thousand crimes in El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/continua-juicio-contra-486-cabecillas-de-la-ms-por-mas-de-47-mil-delitos-en-el-salvador/",
-        "published_date": "2026-04-21 20:46:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mercado Due\u00f1as closes for cleaning and the mayor's office enables alternatives in Santa Tecla",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mercado-duenas-cierra-por-limpieza-y-alcaldia-habilita-alternativas-en-santa-tecla/?utm_source=rss&utm_medium=rss&utm_campaign=mercado-duenas-cierra-por-limpieza-y-alcaldia-habilita-alternativas-en-santa-tecla",
-        "published_date": "2026-04-21 20:36:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trial advances against MS-13 leaders",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/avanza-juicio-contra-cabecillas-de-la-ms-13/?utm_source=rss&utm_medium=rss&utm_campaign=avanza-juicio-contra-cabecillas-de-la-ms-13",
-        "published_date": "2026-04-21 20:25:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "SovAI 2026 Summit boosts tourism and positions El Salvador as an international technological destination",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cumbre-sovai-2026-dinamiza-el-turismo-y-posiciona-a-el-salvador-como-destino-tecnologico-internacional/?utm_source=rss&utm_medium=rss&utm_campaign=cumbre-sovai-2026-dinamiza-el-turismo-y-posiciona-a-el-salvador-como-destino-tecnologico-internacional",
-        "published_date": "2026-04-21 20:15:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young woman reported missing found safe and sound",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/localizan-sana-y-salva-a-joven-reportada-como-desaparecida/",
-        "published_date": "2026-04-21 19:57:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prosecutor's Office bets on artificial intelligence to modernize the reception of complaints and speed up judicial processes",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/fiscalia-apuesta-a-la-inteligencia-artificial-para-modernizar-la-recepcion-de-denuncias-y-agilizar-procesos-judiciales/?utm_source=rss&utm_medium=rss&utm_campaign=fiscalia-apuesta-a-la-inteligencia-artificial-para-modernizar-la-recepcion-de-denuncias-y-agilizar-procesos-judiciales",
-        "published_date": "2026-04-21 19:35:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dictator Daniel Ortega attacks Trump after sanctions against his children",
         "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/dictador-daniel-ortega-arremete-contra-trump-tras-sanciones-a-sus-hijos/",
-        "published_date": "2026-04-21 19:26:08",
+        "url": "https://croniosv.com/principal/principal1/digicel-incorpora-zte-a-su-portafolio-y-presenta-el-nubia-neo-3-disenado-para-el-segmento-gaming/",
+        "published_date": "2026-04-22 00:48:35",
         "category": "Local Events"
     },
     {
-        "title": "Record cruise season consolidates El Salvador as an international tourist destination",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/temporada-record-de-cruceros-consolida-a-el-salvador-como-destino-turistico-internacional/",
-        "published_date": "2026-04-21 19:14:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador positions itself as a pioneer in sovereign artificial intelligence at the SovAI Summit",
+        "title": "More than a thousand young people and community leaders attend the university fair and the inauguration of the Integration headquarters in San Miguel",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-salvador-se-posiciona-como-pionero-en-inteligencia-artificial-soberana-en-la-sovai-summit/",
-        "published_date": "2026-04-21 19:05:13",
+        "url": "https://croniosv.com/principal/principal1/mas-de-mil-jovenes-y-lideres-comunitarios-asisten-a-la-feria-de-universidades-y-la-inauguracion-de-la-sede-de-integracion-en-san-miguel/",
+        "published_date": "2026-04-22 00:37:09",
         "category": "Local Events"
     },
     {
-        "title": "More than 933 thousand opportunities in 15 days: Puma Pris raffles trips to Cartagena today",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/mas-de-933-mil-oportunidades-en-15-dias-puma-pris-sortea-hoy-viajes-a-cartagen/",
-        "published_date": "2026-04-21 18:56:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jaclyn Smith, from Charlie's Angels, refused to be a \u201cBond girl\u201d and did not agree to star in 9 and a half weeks",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/jaclyn-smith-de-los-angeles-de-charlie-rechazo-ser-una-chica-bond-y-tampoco-acepto-protagonizar-9-semanas-y-media/",
-        "published_date": "2026-04-21 18:35:12",
+        "title": "Exemplary conviction for femicide after compelling forensic evidence",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/condena-ejemplar-por-feminicidio-tras-contundentes-pruebas-forenses/?utm_source=rss&utm_medium=rss&utm_campaign=condena-ejemplar-por-feminicidio-tras-contundentes-pruebas-forenses",
+        "published_date": "2026-04-22 00:29:13",
         "category": "Local Events"
     }
 ]
