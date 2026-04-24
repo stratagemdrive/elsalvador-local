@@ -140,6 +140,34 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Two Nicaraguans arrested for hitting a man with a board",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/dos-nicaraguenses-arrestados-por-golpear-a-hombre-con-una-tabla/",
+        "published_date": "2026-04-24 03:04:09",
+        "category": "Military"
+    },
+    {
+        "title": "President Bukele defends his security strategy in the face of international criticism",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-defiende-su-estrategia-de-seguridad-ante-criticas-internacionales/",
+        "published_date": "2026-04-24 02:56:04",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a gang member from 18R in Col\u00f3n, La Libertad Oeste",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/capturan-a-pandillero-de-la-18r-en-colon-la-libertad-oeste/",
+        "published_date": "2026-04-24 02:13:14",
+        "category": "Military"
+    },
+    {
+        "title": "Earthquake drill and tactical training mark CENTAM Guardian 2026",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/simulacro-de-terremoto-y-entrenamientos-tacticos-marcan-el-centam-guardian-2026/",
+        "published_date": "2026-04-24 02:07:40",
+        "category": "Military"
+    },
+    {
         "title": "MS leadership endorsed murdering 80 police officers, eliminating soldiers, prosecutors and attacks on public institutions",
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/cupula-de-ms-avalo-asesinar-a-80-policias-eliminar-soldados-fiscales-y-atentados-en-instituciones-publicas/",
@@ -252,34 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Peregrine Falcon returns to its habitat after being rescued in Coatepeque",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/halcon-peregrino-vuelve-a-su-habitat-tras-ser-rescatado-en-coatepeque/?utm_source=rss&utm_medium=rss&utm_campaign=halcon-peregrino-vuelve-a-su-habitat-tras-ser-rescatado-en-coatepeque",
-        "published_date": "2026-04-20 21:11:20",
-        "category": "Military"
-    },
-    {
-        "title": "They capture the person responsible for the murder of a woman in Santa Ana",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-al-responsable-del-homicidio-de-una-mujer-en-santa-ana/",
-        "published_date": "2026-04-20 19:50:14",
-        "category": "Military"
-    },
-    {
-        "title": "From the anxiety of gangs to having a successful business in Maryland, USA.",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/de-la-zozobra-de-las-pandillas-a-tener-un-negocio-exitoso-en-maryland-ee-uu/",
-        "published_date": "2026-04-20 19:35:09",
-        "category": "Military"
-    },
-    {
-        "title": "Netanyahu vows 'severe measures' against soldier who hit Jesus statue in Lebanon",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/netanyahu-promete-medidas-severas-contra-soldado-que-golpeo-estatua-de-jesus-en-libano/",
-        "published_date": "2026-04-20 19:27:54",
-        "category": "Military"
-    },
-    {
         "title": "Salvadorans are called to report irregular charges on electricity bills",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/llaman-a-salvadorenos-a-denunciar-cobros-irregulares-en-facturas-de-energia-electrica/?utm_source=rss&utm_medium=rss&utm_campaign=llaman-a-salvadorenos-a-denunciar-cobros-irregulares-en-facturas-de-energia-electrica",
@@ -336,11 +336,11 @@
         "category": "Energy"
     },
     {
-        "title": "Marcela Villatoro proposes suspending VAT on fuel, Nuevas Ideas rejects it",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/marcela-villatoro-propone-suspender-iva-a-combustibles-nuevas-ideas-lo-rechaza/",
-        "published_date": "2026-04-16 11:04:43",
-        "category": "Energy"
+        "title": "The City Centro by Marriott hotel is officially inaugurated in the Historic Center of San Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/inauguran-oficialmente-el-hotel-city-centro-by-marriott-en-el-centro-historico-de-san-salvador/",
+        "published_date": "2026-04-24 03:21:38",
+        "category": "Economy"
     },
     {
         "title": "mabe presents a complete ecosystem of innovation for home and business",
@@ -476,11 +476,88 @@
         "category": "Economy"
     },
     {
-        "title": "Assembly approves debt for $250 million for sports venues and \u201cstrategic priorities\u201d",
+        "title": "The mark of Herbert Anaya in the defense of human rights in El Salvador",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/asamblea-aprueba-deuda-por-250-millones-para-escenarios-deportivos-y-prioridades-estrategicas/",
-        "published_date": "2026-04-16 11:02:22",
-        "category": "Economy"
+        "url": "https://www.diariocolatino.com/la-huella-herbert-anaya-defensa-ddhh-el-salvador/",
+        "published_date": "2026-04-24 11:04:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reactivation of mining would put the Tamulasco, Gualsinga and Sumpul rivers at risk",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/reactivacion-de-mineria-pondria-en-riesgo-los-rios-tamulasco-gualsinga-y-sumpul/",
+        "published_date": "2026-04-24 11:03:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran Church maintains support for Pope Leo XIV",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/iglesia-salvadorena-mantiene-apoyo-al-papa-leon-xiv/",
+        "published_date": "2026-04-24 11:02:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "They denounce lack of transparency in the sale of COSAVI portfolio",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/denuncian-falta-de-transparencia-en-venta-de-cartera-de-cosavi/",
+        "published_date": "2026-04-24 11:01:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe criminal trial seeks justice, not revenge\u201d: Henry Fino",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/juicio-penal-busca-justicia-no-venganza-henry-fino/",
+        "published_date": "2026-04-24 11:00:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "WANTING IS EVERYTHING IN LIFE;WITH CONSTANCE NOTHING RESISTS",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-querer-lo-es-todo-en-la-vida-con-la-constancia-nada-se-resiste/",
+        "published_date": "2026-04-24 10:59:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lebanon rejects agreement with Israel without total withdrawal from its territory",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/libano-rechaza-acuerdo-con-israel-sin-retirada-total-de-su-territorio/",
+        "published_date": "2026-04-24 10:58:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Clashes between Haitian gangs described as economic war",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/califican-de-guerra-economica-choques-entre-pandillas-haitianas/",
+        "published_date": "2026-04-24 10:57:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sin Bandera conquers El Salvador with \u201cESCENAS\u201d between successes, nostalgia and love",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/sin-bandera-conquista-el-salvador-con-escenas-entre-exitos-nostalgia-y-amor/?utm_source=rss&utm_medium=rss&utm_campaign=sin-bandera-conquista-el-salvador-con-escenas-entre-exitos-nostalgia-y-amor",
+        "published_date": "2026-04-24 06:16:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Environment reports on proliferation of cyanobacteria in Lake Coatepeque",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/medio-ambiente-informa-sobre-proliferacion-de-cianobacterias-en-el-lago-de-coatepeque/",
+        "published_date": "2026-04-24 01:53:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "First lady's office promotes training for medical personnel",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/despacho-de-la-primera-dama-impulsa-capacitacion-a-personal-medico/",
+        "published_date": "2026-04-24 01:40:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "The \u201cSirra de Tecla\u201d responds to justice for 106 homicides",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-sirra-de-tecla-responde-ante-la-justicia-por-106-homicidios/",
+        "published_date": "2026-04-24 00:36:14",
+        "category": "Local Events"
     },
     {
         "title": "President Bukele responds to Reuters and highlights proceedings against gang leaders",
@@ -536,90 +613,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/la-ninez-con-autismo-fortalece-sus-habilidades-sensoriales-en-jornada-integral-del-isri/",
         "published_date": "2026-04-23 20:13:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Firefighters have put out more than 3,300 fires so far this year",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/bomberos-ha-sofocado-mas-de-3300-incendios-en-lo-que-va-del-ano/",
-        "published_date": "2026-04-23 20:08:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ventanitas de Luz Program continues to benefit the children of Cuscatancingo with delivery of free glasses",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/programa-ventanitas-de-luz-continua-beneficiando-a-la-ninez-de-cuscatancingo-con-entrega-de-lentes-gratuitos/?utm_source=rss&utm_medium=rss&utm_campaign=programa-ventanitas-de-luz-continua-beneficiando-a-la-ninez-de-cuscatancingo-con-entrega-de-lentes-gratuitos",
-        "published_date": "2026-04-23 19:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "CIFCO opens space for young people passionate about acting",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cifco-abre-espacio-para-jovenes-apasionados-por-la-actuacion/?utm_source=rss&utm_medium=rss&utm_campaign=cifco-abre-espacio-para-jovenes-apasionados-por-la-actuacion",
-        "published_date": "2026-04-23 19:49:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attention fans!You can now secure your ticket to see Tini in El Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/atencion-fans-ya-puedes-asegurar-tu-entrada-para-ver-a-tini-en-el-salvador/",
-        "published_date": "2026-04-23 19:46:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Firpo launched a recovery clinic for his players",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/firpo-estreno-una-clinica-de-recuperacion-para-sus-jugadores/",
-        "published_date": "2026-04-23 19:26:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three leaders and 38 members of gang 18 are sentenced to 25 to 60 years in prison",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/condenan-a-tres-jefes-y-38-miembros-de-pandilla-18-a-penas-de-25-a-60-anos-de-carcel/",
-        "published_date": "2026-04-23 19:24:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "AI-powered robots give hope and new perspectives to Germany's industry",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/los-robots-impulsados-por-la-ia-dan-esperanza-y-nuevas-perspectivas-a-la-industria-de-alemania/",
-        "published_date": "2026-04-23 19:07:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "TINI STOESSEL WILL ARRIVE FOR THE FIRST TIME IN EL SALVADOR SEPTEMBER 2026",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/tini-stoessel-llegara-por-primera-vez-a-el-salvador-septiembre-de-2026/?utm_source=rss&utm_medium=rss&utm_campaign=tini-stoessel-llegara-por-primera-vez-a-el-salvador-septiembre-de-2026",
-        "published_date": "2026-04-23 18:06:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "They arrest an alleged member of the ms-13 for moving weapons and drugs",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/detienen-a-presunto-miembro-de-la-ms-13-por-movilizar-armas-y-droga/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-presunto-miembro-de-la-ms-13-por-movilizar-armas-y-droga",
-        "published_date": "2026-04-23 17:58:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Slope stabilization works in Zaragoza are advancing to prevent landslides in the winter season",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/obras-de-estabilizacion-de-talud-en-zaragoza-avanzan-para-prevenir-deslizamientos-en-temporada-invernal/?utm_source=rss&utm_medium=rss&utm_campaign=obras-de-estabilizacion-de-talud-en-zaragoza-avanzan-para-prevenir-deslizamientos-en-temporada-invernal",
-        "published_date": "2026-04-23 17:52:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "12 MS gang members convicted of homicides",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/condenan-a-12-pandilleros-de-la-ms-por-homicidios/?utm_source=rss&utm_medium=rss&utm_campaign=condenan-a-12-pandilleros-de-la-ms-por-homicidios",
-        "published_date": "2026-04-23 17:38:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "They rescue a driver trapped in his vehicle after an accident on Constituci\u00f3n Boulevard",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/rescatan-a-conductor-atrapado-en-su-vehiculo-tras-accidente-en-bulevar-constitucion/",
-        "published_date": "2026-04-23 17:34:32",
         "category": "Local Events"
     }
 ]
