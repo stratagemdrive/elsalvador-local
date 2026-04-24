@@ -1,5 +1,12 @@
 [
     {
+        "title": "President Bukele scolds the media and NGOs for defending MS-13 leaders who face collective trial",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/presidente-bukele-increpa-a-medios-y-ongs-por-defender-a-cabecillas-de-la-ms-13-que-enfrentan-juicio-colectivo/",
+        "published_date": "2026-04-24 15:22:44",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Vice President Ulloa strengthens ties with allied nations",
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/vicepresidente-ulloa-fortalece-lazos-con-naciones-aliadas/",
@@ -126,18 +133,81 @@
         "category": "Diplomacy"
     },
     {
-        "title": "\u201cWhat must be done leaves no room for hesitation\u201d: President Nayib Bukele",
+        "title": "They capture a motorcyclist on Route 201 after attacking a motorcyclist in San Salvador",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/lo-que-debe-hacerse-no-deja-espacio-para-la-vacilacion-presidente-nayib-bukele/",
-        "published_date": "2026-04-16 23:44:18",
-        "category": "Diplomacy"
+        "url": "https://diariolahuella.com/capturan-a-motorista-de-la-ruta-201-tras-agresion-a-motociclista-en-san-salvador/",
+        "published_date": "2026-04-24 23:49:25",
+        "category": "Military"
     },
     {
-        "title": "They promote business opportunities in the Bolivian business sector",
+        "title": "US transfers Zodiac boats and strengthens security in El Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/ee-uu-transfiere-botes-zodiac-y-fortalece-seguridad-en-el-salvador/",
+        "published_date": "2026-04-24 21:32:45",
+        "category": "Military"
+    },
+    {
+        "title": "Gastro-Lab graduates 404 young people and strengthens food security through innovation",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/gastro-lab-gradua-a-404-jovenes-y-fortalece-la-seguridad-alimentaria-a-traves-de-la-innovacion/?utm_source=rss&utm_medium=rss&utm_campaign=gastro-lab-gradua-a-404-jovenes-y-fortalece-la-seguridad-alimentaria-a-traves-de-la-innovacion",
+        "published_date": "2026-04-24 21:10:21",
+        "category": "Military"
+    },
+    {
+        "title": "Security receives boats and pick ups to reinforce maritime and land operations in El Salvador",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/promueven-oportunidades-de-negocio-ante-sector-empresarial-boliviano/",
-        "published_date": "2026-04-16 21:14:53",
-        "category": "Diplomacy"
+        "url": "https://diariolahuella.com/seguridad-recibe-lanchas-y-pick-ups-para-reforzar-operativos-maritimos-y-terrestres-en-el-salvador/",
+        "published_date": "2026-04-24 20:53:26",
+        "category": "Military"
+    },
+    {
+        "title": "Police strengthen capabilities with closing of CENTAM Guardian 2026 courses",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/policia-fortalece-capacidades-con-clausura-de-cursos-de-centam-guardian-2026/?utm_source=rss&utm_medium=rss&utm_campaign=policia-fortalece-capacidades-con-clausura-de-cursos-de-centam-guardian-2026",
+        "published_date": "2026-04-24 19:58:30",
+        "category": "Military"
+    },
+    {
+        "title": "Pentagon chief says US military should win Nobel Peace Prize every year",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/jefe-del-pentagono-dice-que-el-ejercito-de-eeuu-deberia-ganar-el-nobel-de-la-paz-cada-ano/",
+        "published_date": "2026-04-24 19:53:23",
+        "category": "Military"
+    },
+    {
+        "title": "New vessels strengthen maritime reaction and land operations",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/nuevas-embarcaciones-fortalecen-reaccion-maritima-y-operativos-terrestres/?utm_source=rss&utm_medium=rss&utm_campaign=nuevas-embarcaciones-fortalecen-reaccion-maritima-y-operativos-terrestres",
+        "published_date": "2026-04-24 19:37:44",
+        "category": "Military"
+    },
+    {
+        "title": "Islamic Revolutionary Guard Corps Navy seizes container ship Epaminondas in Strait of Hormuz",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-armada-del-cuerpo-de-la-guardia-revolucionaria-islamica-incauta-el-buque-portacontenedores-epaminondas-en-el-estrecho-de-ormuz/",
+        "published_date": "2026-04-24 18:27:31",
+        "category": "Military"
+    },
+    {
+        "title": "Attack in Cali revives security crisis in Colombia amid tensions with El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/internacionales/atentado-en-cali-reaviva-crisis-de-seguridad-en-colombia-en-medio-de-tensiones-con-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=atentado-en-cali-reaviva-crisis-de-seguridad-en-colombia-en-medio-de-tensiones-con-el-salvador",
+        "published_date": "2026-04-24 16:48:07",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador consolidates historical security trend with 95 days without homicides in 2026",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-consolida-tendencia-historica-de-seguridad-con-95-dias-sin-homicidios-en-2026/",
+        "published_date": "2026-04-24 16:18:37",
+        "category": "Military"
+    },
+    {
+        "title": "US soldier accused of betting on Maduro's fall that would have earned him $400,000",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/soldado-de-ee-uu-acusado-por-apostar-sobre-caida-de-maduro-con-lo-que-habria-ganado-400000/",
+        "published_date": "2026-04-24 13:45:32",
+        "category": "Military"
     },
     {
         "title": "Two Nicaraguans arrested for hitting a man with a board",
@@ -203,83 +273,6 @@
         "category": "Military"
     },
     {
-        "title": "They capture a network linked to the theft of more than $115 thousand through duplication of telephone chips in several areas of the country",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/capturan-a-red-vinculada-al-hurto-de-mas-de-115-mil-mediante-duplicacion-de-chips-telefonicos-en-varias-zonas-del-pais/",
-        "published_date": "2026-04-23 17:39:49",
-        "category": "Military"
-    },
-    {
-        "title": "Drain construction works progress in Zona Rosa",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/avanzan-obras-de-construccion-de-drenajes-en-zona-rosa/",
-        "published_date": "2026-04-23 16:08:57",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador adds 20 days without homicides during April",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-suma-20-dias-sin-homicidios-durante-abril/",
-        "published_date": "2026-04-23 16:05:38",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a network that stole more than $115 thousand with the \u201cSIM swapping\u201d method in El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-red-que-robaba-mas-de-115-mil-con-metodo-sim-swapping-en-el-salvador/",
-        "published_date": "2026-04-23 15:41:00",
-        "category": "Military"
-    },
-    {
-        "title": "They dismantle a criminal network dedicated to theft through duplication of telephone chips",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/desarticulan-red-delincuencial-dedicada-al-hurto-mediante-duplicacion-de-chips-telefonicos/",
-        "published_date": "2026-04-23 15:36:32",
-        "category": "Military"
-    },
-    {
-        "title": "GPS system will allow controlling routes, frequency and speed of the units",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/sistema-de-gps-permitira-controlar-rutas-frecuencia-y-velocidad-de-las-unidades/",
-        "published_date": "2026-04-22 18:07:30",
-        "category": "Military"
-    },
-    {
-        "title": "IACHR reiterates its call to the GOES to put an end to the continuation of the emergency regime",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cidh-reitera-llamado-al-goes-poner-fin-al-continuado-del-regimen-de-excepcion/",
-        "published_date": "2026-04-22 11:00:02",
-        "category": "Military"
-    },
-    {
-        "title": "Motorcyclist leaves companion injured after accident in Jiquilisco",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/motociclista-deja-a-acompanante-lesionado-tras-accidente-en-jiquilisco/",
-        "published_date": "2026-04-22 00:14:20",
-        "category": "Military"
-    },
-    {
-        "title": "Preparations begin for the first corn planting in the country",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/inician-preparativos-para-la-primera-siembra-de-maiz-en-el-pais/",
-        "published_date": "2026-04-21 21:10:34",
-        "category": "Military"
-    },
-    {
-        "title": "Getting into Cuba will be expensive for the US, warns Lukashenko",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/meterse-en-cuba-sera-caro-para-eeuu-advierte-lukashenko/",
-        "published_date": "2026-04-21 10:58:51",
-        "category": "Military"
-    },
-    {
-        "title": "MS-13 structure operated systematically and ordered thousands of homicides throughout the country",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/estructura-de-la-ms-13-opero-de-forma-sistematica-y-ordeno-miles-de-homicidios-en-todo-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=estructura-de-la-ms-13-opero-de-forma-sistematica-y-ordeno-miles-de-homicidios-en-todo-el-pais",
-        "published_date": "2026-04-21 02:33:05",
-        "category": "Military"
-    },
-    {
         "title": "Salvadorans are called to report irregular charges on electricity bills",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/llaman-a-salvadorenos-a-denunciar-cobros-irregulares-en-facturas-de-energia-electrica/?utm_source=rss&utm_medium=rss&utm_campaign=llaman-a-salvadorenos-a-denunciar-cobros-irregulares-en-facturas-de-energia-electrica",
@@ -334,6 +327,13 @@
         "url": "https://croniosv.com/principal/principal1/refinadora-costarricense-preve-fuertes-alzas-a-los-combustibles-en-mayo/",
         "published_date": "2026-04-17 09:39:06",
         "category": "Energy"
+    },
+    {
+        "title": "Banco Cuscatl\u00e1n and Tec de Monterrey bring the Family Business Summit to El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/banco-cuscatlan-y-el-tec-de-monterrey-traen-a-el-salvador-el-summit-de-empresas-familiares/",
+        "published_date": "2026-04-24 23:06:46",
+        "category": "Economy"
     },
     {
         "title": "The City Centro by Marriott hotel is officially inaugurated in the Historic Center of San Salvador",
@@ -462,157 +462,143 @@
         "category": "Economy"
     },
     {
-        "title": "Salvadoran coffee exports grow strongly at the beginning of 2026",
+        "title": "President Nayib Bukele questions traditional legal systems and proposes changes in justice",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/crecen-con-fuerza-las-exportaciones-de-cafe-salvadoreno-en-el-inicio-de-2026/?utm_source=rss&utm_medium=rss&utm_campaign=crecen-con-fuerza-las-exportaciones-de-cafe-salvadoreno-en-el-inicio-de-2026",
-        "published_date": "2026-04-16 19:31:36",
-        "category": "Economy"
-    },
-    {
-        "title": "El Salvador attracts regional capital as a Latin American Hub",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/el-salvador-atrae-capital-regional-como-hub-latinoamericano/",
-        "published_date": "2026-04-16 16:32:36",
-        "category": "Economy"
-    },
-    {
-        "title": "The mark of Herbert Anaya in the defense of human rights in El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-huella-herbert-anaya-defensa-ddhh-el-salvador/",
-        "published_date": "2026-04-24 11:04:33",
+        "url": "https://lapagina.com.sv/nacionales/presidente-nayib-bukele-cuestiona-sistemas-legales-tradicionales-y-plantea-cambios-en-la-justicia/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-nayib-bukele-cuestiona-sistemas-legales-tradicionales-y-plantea-cambios-en-la-justicia",
+        "published_date": "2026-04-24 23:40:56",
         "category": "Local Events"
     },
     {
-        "title": "Reactivation of mining would put the Tamulasco, Gualsinga and Sumpul rivers at risk",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/reactivacion-de-mineria-pondria-en-riesgo-los-rios-tamulasco-gualsinga-y-sumpul/",
-        "published_date": "2026-04-24 11:03:40",
+        "title": "The Fedecr\u00e9dito System delivers donations of backpacks in schools",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/el-sistema-fedecredito-entrega-donativo-de-mochilas-en-centros-escolares/",
+        "published_date": "2026-04-24 23:32:44",
         "category": "Local Events"
     },
     {
-        "title": "Salvadoran Church maintains support for Pope Leo XIV",
+        "title": "Sabino Ramos' release was marked by persecution in Usulut\u00e1n",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/iglesia-salvadorena-mantiene-apoyo-al-papa-leon-xiv/",
-        "published_date": "2026-04-24 11:02:04",
+        "url": "https://www.diariocolatino.com/liberacion-de-sabino-ramos-estuvo-marcada-por-la-persecucion-en-usulutan/",
+        "published_date": "2026-04-24 23:32:02",
         "category": "Local Events"
     },
     {
-        "title": "They denounce lack of transparency in the sale of COSAVI portfolio",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/denuncian-falta-de-transparencia-en-venta-de-cartera-de-cosavi/",
-        "published_date": "2026-04-24 11:01:02",
+        "title": "El Salvador shines in an unprecedented celebration in the OECD",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/el-salvador-brilla-en-una-celebracion-sin-precedentes-en-la-ocde/",
+        "published_date": "2026-04-24 22:52:09",
         "category": "Local Events"
     },
     {
-        "title": "\u201cThe criminal trial seeks justice, not revenge\u201d: Henry Fino",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/juicio-penal-busca-justicia-no-venganza-henry-fino/",
-        "published_date": "2026-04-24 11:00:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "WANTING IS EVERYTHING IN LIFE;WITH CONSTANCE NOTHING RESISTS",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-querer-lo-es-todo-en-la-vida-con-la-constancia-nada-se-resiste/",
-        "published_date": "2026-04-24 10:59:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lebanon rejects agreement with Israel without total withdrawal from its territory",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/libano-rechaza-acuerdo-con-israel-sin-retirada-total-de-su-territorio/",
-        "published_date": "2026-04-24 10:58:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Clashes between Haitian gangs described as economic war",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/califican-de-guerra-economica-choques-entre-pandillas-haitianas/",
-        "published_date": "2026-04-24 10:57:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sin Bandera conquers El Salvador with \u201cESCENAS\u201d between successes, nostalgia and love",
+        "title": "Mother and stepfather sentenced to 43 years for murder of child in Usulut\u00e1n",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/sin-bandera-conquista-el-salvador-con-escenas-entre-exitos-nostalgia-y-amor/?utm_source=rss&utm_medium=rss&utm_campaign=sin-bandera-conquista-el-salvador-con-escenas-entre-exitos-nostalgia-y-amor",
-        "published_date": "2026-04-24 06:16:41",
+        "url": "https://lapagina.com.sv/nacionales/madre-y-padrastro-condenados-a-43-anos-por-asesinato-de-nino-en-usulutan/?utm_source=rss&utm_medium=rss&utm_campaign=madre-y-padrastro-condenados-a-43-anos-por-asesinato-de-nino-en-usulutan",
+        "published_date": "2026-04-24 21:58:16",
         "category": "Local Events"
     },
     {
-        "title": "Environment reports on proliferation of cyanobacteria in Lake Coatepeque",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/medio-ambiente-informa-sobre-proliferacion-de-cianobacterias-en-el-lago-de-coatepeque/",
-        "published_date": "2026-04-24 01:53:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "First lady's office promotes training for medical personnel",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/despacho-de-la-primera-dama-impulsa-capacitacion-a-personal-medico/",
-        "published_date": "2026-04-24 01:40:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "The \u201cSirra de Tecla\u201d responds to justice for 106 homicides",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-sirra-de-tecla-responde-ante-la-justicia-por-106-homicidios/",
-        "published_date": "2026-04-24 00:36:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele responds to Reuters and highlights proceedings against gang leaders",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-responde-a-reuters-y-destaca-proceso-contra-cabecillas-de-pandillas/",
-        "published_date": "2026-04-23 22:57:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Warner Bros. Discovery shareholders approve sale to Paramount Skydance",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/accionistas-de-warner-bros-discovery-aprueban-venta-a-paramount-skydance/",
-        "published_date": "2026-04-23 22:32:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "They celebrate a gala night to reward companies, brands and services",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/celebran-noche-de-gala-para-premiar-a-empresas-marcas-y-servicios/",
-        "published_date": "2026-04-23 21:49:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fourth edition of the SNBX Innovation Summit inaugurated in El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/inauguran-cuarta-edicion-del-snbx-innovation-summit-en-el-salvador/",
-        "published_date": "2026-04-23 21:47:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran who participated in the Artemis II project visits schools in La Paz",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/salvadorena-que-participo-en-proyecto-artemis-ii-visita-escuelas-de-la-paz/",
-        "published_date": "2026-04-23 21:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russian mountaineer without legs aims to reach the summit of Everest in a historic feat",
+        "title": "They capture a bus driver who hit a motorcyclist after a traffic incident",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/montanista-ruso-sin-piernas-se-propone-alcanzar-la-cima-del-everest-en-una-hazana-historica/?utm_source=rss&utm_medium=rss&utm_campaign=montanista-ruso-sin-piernas-se-propone-alcanzar-la-cima-del-everest-en-una-hazana-historica",
-        "published_date": "2026-04-23 20:29:19",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-busero-que-golpeo-a-motociclista-tras-incidente-de-trafico/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-busero-que-golpeo-a-motociclista-tras-incidente-de-trafico",
+        "published_date": "2026-04-24 21:53:28",
         "category": "Local Events"
     },
     {
-        "title": "Children from Cuscatancingo communities receive glasses thanks to the \u201cVentanitas de Luz\u201d program",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ninos-de-comunidades-de-cuscatancingo-reciben-lentes-gracias-al-programa-ventanitas-de-luz/",
-        "published_date": "2026-04-23 20:18:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Children with autism strengthen their sensory skills in a comprehensive ISRI day",
+        "title": "Salvadorans can apply for MEXT 2027 scholarships from Japan",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/la-ninez-con-autismo-fortalece-sus-habilidades-sensoriales-en-jornada-integral-del-isri/",
-        "published_date": "2026-04-23 20:13:35",
+        "url": "https://croniosv.com/principal/principal1/salvadorenos-pueden-aplicara-becas-mext-2027-de-japon/",
+        "published_date": "2026-04-24 21:43:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chele Minero faces trial as one of the ringleaders accused of thousands of murders",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/chele-minero-enfrenta-juicio-como-uno-de-los-cabecillas-senalados-por-miles-de-asesinatos/?utm_source=rss&utm_medium=rss&utm_campaign=chele-minero-enfrenta-juicio-como-uno-de-los-cabecillas-senalados-por-miles-de-asesinatos",
+        "published_date": "2026-04-24 21:42:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Moroccan delegation highlights inclusion in Binaes",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/delegacion-marroqui-destaca-inclusion-en-binaes/",
+        "published_date": "2026-04-24 21:37:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "General sale begins for Tini Stoessel's concert in El Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/inicia-venta-general-para-el-concierto-de-tini-stoessel-en-el-salvador/",
+        "published_date": "2026-04-24 20:47:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "The \"Sirra\" killed more people than serial killer Jeffrey Dahmer",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/el-sirra-mato-a-mas-personas-que-el-asesino-serial-jeffrey-dahmer/",
+        "published_date": "2026-04-24 20:45:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Up to 150 years in prison for Barrio 18 gang members for multiple homicides",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/hasta-150-anos-de-prision-para-pandilleros-del-barrio-18-por-multiples-homicidios/",
+        "published_date": "2026-04-24 20:26:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cBolillo\u201d G\u00f3mez announces call for microcycle in San Antonio",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/bolillo-gomez-anuncia-convocatoria-para-el-microciclo-en-san-antonio/",
+        "published_date": "2026-04-24 20:19:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "MS-13 ranflero responds to justice for thousands of attributed crimes",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/ranflero-de-la-ms-13-responde-ante-la-justicia-por-miles-de-crimenes-atribuidos/?utm_source=rss&utm_medium=rss&utm_campaign=ranflero-de-la-ms-13-responde-ante-la-justicia-por-miles-de-crimenes-atribuidos",
+        "published_date": "2026-04-24 20:18:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Panchimalco Chapet\u00f3n that resists imprisonment and celebration with the permission of UNESCO",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-chapeton-de-panchimalco-que-resiste-al-encarcelamiento-y-la-celebracion-con-la-venia-de-la-unesco/",
+        "published_date": "2026-04-24 18:46:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bukele's governments are responsible for 42% of the debt accumulated in more than 50 years",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/a-gobiernos-de-bukele-le-corresponde-42-de-la-deuda-acumulada-en-mas-de-50-anos/",
+        "published_date": "2026-04-24 18:37:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor's Office of San Salvador Centro installs garbage cans and carries out hydrowashing in Plaza San Jos\u00e9",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/alcaldia-de-san-salvador-centro-instala-basureros-y-realiza-hidrolavado-en-plaza-san-jose/?utm_source=rss&utm_medium=rss&utm_campaign=alcaldia-de-san-salvador-centro-instala-basureros-y-realiza-hidrolavado-en-plaza-san-jose",
+        "published_date": "2026-04-24 18:25:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government completes new day of controlled explosion in Los Chorros",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-completa-nueva-jornada-de-explosion-controlada-en-los-chorros/",
+        "published_date": "2026-04-24 17:34:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tea stands out as a practical option for daily well-being",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/el-te-destaca-como-una-opcion-practica-para-el-bienestar-diario/",
+        "published_date": "2026-04-24 17:31:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "ANDA inaugurates Water Observatory to monitor the service in real time on a national scale",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/anda-inaugura-observatorio-del-agua-para-monitorear-en-tiempo-real-el-servicio-a-escala-nacional/",
+        "published_date": "2026-04-24 17:25:59",
         "category": "Local Events"
     }
 ]
