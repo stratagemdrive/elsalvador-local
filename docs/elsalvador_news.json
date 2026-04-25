@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cuba will not accept imperialist \u201cpeace through force,\u201d says Foreign Minister Rodr\u00edguez",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cuba-no-aceptara-paz-mediante-la-fuerza-imperialista-afirma-canciller-rodriguez/",
+        "published_date": "2026-04-25 10:59:01",
+        "category": "Diplomacy"
+    },
+    {
         "title": "President Bukele scolds the media and NGOs for defending MS-13 leaders who face collective trial",
         "source": "Ultima Hora SV",
         "url": "https://ultimahora.sv/presidente-bukele-increpa-a-medios-y-ongs-por-defender-a-cabecillas-de-la-ms-13-que-enfrentan-juicio-colectivo/",
@@ -126,11 +133,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Road work in San Pedro Nonualco improves access and benefits more than 1,800 residents",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/obra-vial-en-san-pedro-nonualco-mejora-acceso-y-beneficia-a-mas-de-1800-residentes/",
-        "published_date": "2026-04-17 01:33:04",
-        "category": "Diplomacy"
+        "title": "They point out contradictions between official discourse and the social situation of the country",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/senalan-contradicciones-entre-discurso-oficial-y-situacion-social-del-pais/",
+        "published_date": "2026-04-25 11:03:16",
+        "category": "Military"
+    },
+    {
+        "title": "Miguel Bos\u00e9 concert venue changed in El Salvador due to weather conditions",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/cambian-venue-del-concierto-de-miguel-bose-en-el-salvador-por-condiciones-climaticas/",
+        "published_date": "2026-04-25 03:23:35",
+        "category": "Military"
+    },
+    {
+        "title": "Armed Forces lead air exercise and strengthen International Cooperation",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/fuerza-armada-lidera-ejercicio-aereo-y-fortalece-cooperacion-internacional/?utm_source=rss&utm_medium=rss&utm_campaign=fuerza-armada-lidera-ejercicio-aereo-y-fortalece-cooperacion-internacional",
+        "published_date": "2026-04-25 02:34:39",
+        "category": "Military"
+    },
+    {
+        "title": "Delcy Rodr\u00edguez and Gustavo Petro address issues of bilateral interest in first meeting",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/delcy-rodriguez-y-gustavo-petro-abordan-temas-de-interes-bilateral-en-primer-encuentro/",
+        "published_date": "2026-04-25 01:34:51",
+        "category": "Military"
     },
     {
         "title": "They capture a motorcyclist on Route 201 after attacking a motorcyclist in San Salvador",
@@ -245,34 +273,6 @@
         "category": "Military"
     },
     {
-        "title": "Salvadoran soldiers stand out in parachuting jump with marines in regional exercise",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/soldados-salvadorenos-destacan-en-salto-de-paracaidismo-junto-a-marines-en-ejercicio-regional/?utm_source=rss&utm_medium=rss&utm_campaign=soldados-salvadorenos-destacan-en-salto-de-paracaidismo-junto-a-marines-en-ejercicio-regional",
-        "published_date": "2026-04-23 22:17:29",
-        "category": "Military"
-    },
-    {
-        "title": "Trial against MS-13 leaders advances with more than 240 defendants in the CECOT",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/juicio-contra-cabecillas-de-la-ms-13-avanza-con-mas-de-240-imputados-en-el-cecot/?utm_source=rss&utm_medium=rss&utm_campaign=juicio-contra-cabecillas-de-la-ms-13-avanza-con-mas-de-240-imputados-en-el-cecot",
-        "published_date": "2026-04-23 21:33:38",
-        "category": "Military"
-    },
-    {
-        "title": "Earthquake drill tests rescue capabilities at CENTAM Guardian 2026",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/simulacro-de-terremoto-pone-a-prueba-capacidades-de-rescate-en-centam-guardian-2026/",
-        "published_date": "2026-04-23 21:05:13",
-        "category": "Military"
-    },
-    {
-        "title": "'Storage Wars' star Darrell Sheets dies: he was allegedly harassed before taking his own life",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/muere-darrell-sheetsestrella-de-storage-wars-habria-sido-acosado-antes-de-quitarse-la-vida/",
-        "published_date": "2026-04-23 18:15:54",
-        "category": "Military"
-    },
-    {
         "title": "Salvadorans are called to report irregular charges on electricity bills",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/llaman-a-salvadorenos-a-denunciar-cobros-irregulares-en-facturas-de-energia-electrica/?utm_source=rss&utm_medium=rss&utm_campaign=llaman-a-salvadorenos-a-denunciar-cobros-irregulares-en-facturas-de-energia-electrica",
@@ -322,11 +322,18 @@
         "category": "Energy"
     },
     {
-        "title": "Costa Rican refiner foresees strong fuel increases in May",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/refinadora-costarricense-preve-fuertes-alzas-a-los-combustibles-en-mayo/",
-        "published_date": "2026-04-17 09:39:06",
-        "category": "Energy"
+        "title": "Ministry of Finance highlights economic growth in El Salvador and new incentives to attract investment",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ministerio-de-hacienda-destaca-crecimiento-economico-de-el-salvador-y-nuevos-incentivos-para-atraer-inversion/",
+        "published_date": "2026-04-25 03:16:22",
+        "category": "Economy"
+    },
+    {
+        "title": "Minister of Finance highlights economic growth in 2025",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/ministro-de-hacienda-destaca-crecimiento-economico-en-el-2025/",
+        "published_date": "2026-04-25 03:00:28",
+        "category": "Economy"
     },
     {
         "title": "Banco Cuscatl\u00e1n and Tec de Monterrey bring the Family Business Summit to El Salvador",
@@ -455,11 +462,88 @@
         "category": "Economy"
     },
     {
-        "title": "El Salvador strengthens its economy with the inauguration of the seventh Aeroman hangar",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-salvador-fortalece-su-economia-con-la-inauguracion-del-septimo-hangar-de-aeroman/",
-        "published_date": "2026-04-17 02:48:33",
-        "category": "Economy"
+        "title": "Sabino Ramos recounts his freedom after four years in prison",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/sabino-ramos-relata-libertad-tras-cuatro-anos-prision/",
+        "published_date": "2026-04-25 11:04:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santa Marta environmentalists face possible third trial despite double acquittal",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ambientalistas-de-santa-marta-enfrentan-posible-tercer-juicio-pese-a-doble-absolucion/",
+        "published_date": "2026-04-25 11:02:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "USAR El Salvador Group executes rescue maneuvers",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/grupo-usar-el-salvador-ejecuta-maniobras-de-rescate/",
+        "published_date": "2026-04-25 11:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe are not willing to remain silent, whoever remains silent grants\u201d: Mirna Perla",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/no-estamos-dispuestas-a-callarnos-quien-calla-otorga-mirna-perla/",
+        "published_date": "2026-04-25 11:00:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador merges art, surfing and tourism with the \u201c3 quarters\u201d exhibition in the Historic Center",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-fusiona-arte-surf-y-turismo-con-la-exposicion-3-cuartos-en-el-centro-historico/",
+        "published_date": "2026-04-25 04:03:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Child care strengthened with new unit at Bloom Hospital",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/fortalecen-atencion-infantil-con-nueva-unidad-en-el-hospital-bloom/?utm_source=rss&utm_medium=rss&utm_campaign=fortalecen-atencion-infantil-con-nueva-unidad-en-el-hospital-bloom",
+        "published_date": "2026-04-25 03:50:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Work progresses on the northern trunk to improve circulation in Guazapa",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/avanzan-trabajos-en-la-troncal-del-norte-para-mejorar-la-circulacion-en-guazapa/?utm_source=rss&utm_medium=rss&utm_campaign=avanzan-trabajos-en-la-troncal-del-norte-para-mejorar-la-circulacion-en-guazapa",
+        "published_date": "2026-04-25 03:14:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "WTW reaffirms its commitment to female leadership at the Woman in Business 2026 forum",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/wtw-reafirma-su-compromiso-con-el-liderazgo-femenino-en-el-foro-woman-in-business-2026/",
+        "published_date": "2026-04-25 02:28:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ortega y Gasset and the role of universities \u2013 Lisandro Prieto Femen\u00eda",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/ortega-y-gasset-y-el-rol-de-las-universidades-lisandro-prieto-femenia/",
+        "published_date": "2026-04-25 02:19:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government strengthens emergency response with Centam Guardian 2026",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-fortalece-respuesta-ante-emergencias-con-centam-guardian-2026/",
+        "published_date": "2026-04-25 01:58:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fedecr\u00e9dito delivers donation of backpacks in schools",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/fedecredito-entrega-donativo-de-mochilas-en-centros-escolares/",
+        "published_date": "2026-04-25 01:52:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "They capture a motorist on Route 201 for attacking a motorcyclist",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/capturan-a-motorista-de-la-ruta-201-por-agredir-a-motociclista/",
+        "published_date": "2026-04-25 00:31:14",
+        "category": "Local Events"
     },
     {
         "title": "President Nayib Bukele questions traditional legal systems and proposes changes in justice",
@@ -515,90 +599,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/chele-minero-enfrenta-juicio-como-uno-de-los-cabecillas-senalados-por-miles-de-asesinatos/?utm_source=rss&utm_medium=rss&utm_campaign=chele-minero-enfrenta-juicio-como-uno-de-los-cabecillas-senalados-por-miles-de-asesinatos",
         "published_date": "2026-04-24 21:42:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Moroccan delegation highlights inclusion in Binaes",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/delegacion-marroqui-destaca-inclusion-en-binaes/",
-        "published_date": "2026-04-24 21:37:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "General sale begins for Tini Stoessel's concert in El Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/inicia-venta-general-para-el-concierto-de-tini-stoessel-en-el-salvador/",
-        "published_date": "2026-04-24 20:47:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "The \"Sirra\" killed more people than serial killer Jeffrey Dahmer",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-sirra-mato-a-mas-personas-que-el-asesino-serial-jeffrey-dahmer/",
-        "published_date": "2026-04-24 20:45:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Up to 150 years in prison for Barrio 18 gang members for multiple homicides",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/hasta-150-anos-de-prision-para-pandilleros-del-barrio-18-por-multiples-homicidios/",
-        "published_date": "2026-04-24 20:26:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cBolillo\u201d G\u00f3mez announces call for microcycle in San Antonio",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/bolillo-gomez-anuncia-convocatoria-para-el-microciclo-en-san-antonio/",
-        "published_date": "2026-04-24 20:19:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "MS-13 ranflero responds to justice for thousands of attributed crimes",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ranflero-de-la-ms-13-responde-ante-la-justicia-por-miles-de-crimenes-atribuidos/?utm_source=rss&utm_medium=rss&utm_campaign=ranflero-de-la-ms-13-responde-ante-la-justicia-por-miles-de-crimenes-atribuidos",
-        "published_date": "2026-04-24 20:18:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Panchimalco Chapet\u00f3n that resists imprisonment and celebration with the permission of UNESCO",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-chapeton-de-panchimalco-que-resiste-al-encarcelamiento-y-la-celebracion-con-la-venia-de-la-unesco/",
-        "published_date": "2026-04-24 18:46:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bukele's governments are responsible for 42% of the debt accumulated in more than 50 years",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/a-gobiernos-de-bukele-le-corresponde-42-de-la-deuda-acumulada-en-mas-de-50-anos/",
-        "published_date": "2026-04-24 18:37:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor's Office of San Salvador Centro installs garbage cans and carries out hydrowashing in Plaza San Jos\u00e9",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/alcaldia-de-san-salvador-centro-instala-basureros-y-realiza-hidrolavado-en-plaza-san-jose/?utm_source=rss&utm_medium=rss&utm_campaign=alcaldia-de-san-salvador-centro-instala-basureros-y-realiza-hidrolavado-en-plaza-san-jose",
-        "published_date": "2026-04-24 18:25:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government completes new day of controlled explosion in Los Chorros",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-completa-nueva-jornada-de-explosion-controlada-en-los-chorros/",
-        "published_date": "2026-04-24 17:34:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tea stands out as a practical option for daily well-being",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/el-te-destaca-como-una-opcion-practica-para-el-bienestar-diario/",
-        "published_date": "2026-04-24 17:31:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "ANDA inaugurates Water Observatory to monitor the service in real time on a national scale",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/anda-inaugura-observatorio-del-agua-para-monitorear-en-tiempo-real-el-servicio-a-escala-nacional/",
-        "published_date": "2026-04-24 17:25:59",
         "category": "Local Events"
     }
 ]
