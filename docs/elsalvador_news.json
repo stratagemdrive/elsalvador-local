@@ -105,11 +105,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Peasant sector of the BRP denounces structural crisis in agriculture and calls for mobilization on May 1",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/sector-campesino-brp-denuncia-crisis-estructural-agro-llama-movilizacion-1-mayo/",
-        "published_date": "2026-04-19 04:30:18",
-        "category": "Diplomacy"
+        "title": "Bus loses control and collides with two vehicles in San Mart\u00edn",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/autobus-pierde-el-control-y-colisiona-con-dos-vehiculos-en-san-martin/",
+        "published_date": "2026-04-27 01:34:57",
+        "category": "Military"
+    },
+    {
+        "title": "Chalatenango celebrates the Coffee Festival and highlights its coffee tradition and tourist attraction",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/chalatenango-celebra-el-festival-del-cafe-y-resalta-su-tradicion-cafetalera-y-atractivo-turistico/?utm_source=rss&utm_medium=rss&utm_campaign=chalatenango-celebra-el-festival-del-cafe-y-resalta-su-tradicion-cafetalera-y-atractivo-turistico",
+        "published_date": "2026-04-27 00:52:35",
+        "category": "Military"
     },
     {
         "title": "They intervene on a woman apparently drunk while carrying a baby in Congo",
@@ -238,20 +245,6 @@
         "category": "Military"
     },
     {
-        "title": "They capture a motorcyclist on Route 201 after attacking a motorcyclist in San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-motorista-de-la-ruta-201-tras-agresion-a-motociclista-en-san-salvador/",
-        "published_date": "2026-04-24 23:49:25",
-        "category": "Military"
-    },
-    {
-        "title": "US transfers Zodiac boats and strengthens security in El Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/ee-uu-transfiere-botes-zodiac-y-fortalece-seguridad-en-el-salvador/",
-        "published_date": "2026-04-24 21:32:45",
-        "category": "Military"
-    },
-    {
         "title": "Night of classics and pure emotion: Vilma Palma made BeSport vibrate",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/04/noche-de-clasicos-y-pura-emocion-vilma-palma-hizo-vibrar-besport/",
@@ -292,6 +285,13 @@
         "url": "https://www.elmetropolitanodigital.com/2026/04/back2k-enciende-la-nostalgia-dosmilera-con-plastilina-mosh-y-una-noche-de-recuerdos/",
         "published_date": "2026-04-19 18:11:32",
         "category": "Energy"
+    },
+    {
+        "title": "MARTE extends the Goya and Dal\u00ed exhibition until June 14",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/marte-extiende-hasta-el-14-de-junio-la-muestra-de-goya-y-dali/",
+        "published_date": "2026-04-27 11:02:41",
+        "category": "Economy"
     },
     {
         "title": "Ministry of Finance highlights economic growth of El Salvador",
@@ -420,6 +420,111 @@
         "category": "Economy"
     },
     {
+        "title": "Teachers' bases denounce violations of labor rights and call to march",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/bases-magisteriales-denuncian-violaciones-a-derechos-laborales-y-convocan-a-marchar/",
+        "published_date": "2026-04-27 11:05:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Monsignor Romero calls to strengthen the Christian vocation on Good Shepherd Sunday",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/monsenor-romero-llama-a-fortalecer-la-vocacion-cristiana-en-el-domingo-del-buen-pastor/",
+        "published_date": "2026-04-27 11:04:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "They denounce water contamination in Tecoluca attributed to CECOT",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/denuncian-contaminacion-de-aguas-en-tecoluca-atribuida-al-cecot/",
+        "published_date": "2026-04-27 11:03:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "They remember Cervantes, Shakespeare and Garcilaso de la Vega",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/recuerdan-a-cervantes-shakespeare-y-garcilaso-de-la-vega/",
+        "published_date": "2026-04-27 11:01:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cUnionists in Exile\u201d collective emerges and denounces labor persecution",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/surge-colectivo-sindicalistas-en-el-exilio-y-denuncia-persecucion-laboral/",
+        "published_date": "2026-04-27 11:00:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bukele will lose the narrative of the \u201cmass trials\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/bukele-perdera-la-narrativa-de-los-juicios-masivos/",
+        "published_date": "2026-04-27 10:59:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death toll rises to 20 due to attack with guerrilla explosives in southwestern Colombia",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/aumentan-a-20-muertos-por-atentado-con-explosivos-de-guerrilla-en-suroeste-de-colombia/",
+        "published_date": "2026-04-27 10:58:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump says the US will no longer send delegations to talk with Iran",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/trump-dice-que-eeuu-ya-no-enviara-delegaciones-para-conversar-con-iran/",
+        "published_date": "2026-04-27 10:57:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "The 'influencer' Katherine Mej\u00eda, 17, is found dead in Honduras",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/hallan-muerta-a-la-influencer-katherine-mejia-de-17-anos-en-honduras/",
+        "published_date": "2026-04-27 03:31:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Art and dance fill the National Theater in celebration of International Dance Day",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-arte-y-la-danza-llenan-el-teatro-nacional-en-celebracion-del-dia-internacional-de-la-danza/?utm_source=rss&utm_medium=rss&utm_campaign=el-arte-y-la-danza-llenan-el-teatro-nacional-en-celebracion-del-dia-internacional-de-la-danza",
+        "published_date": "2026-04-27 02:57:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "They rescue 11 people after a tourist boat capsizes on El Cuco beach",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/rescatan-a-11-personas-tras-vuelco-de-embarcacion-turistica-en-playa-el-cuco/",
+        "published_date": "2026-04-27 02:36:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Leader of the MS-13 is prosecuted for serious crimes and a million-dollar crime order in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/lider-de-la-ms-13-es-procesado-por-graves-delitos-y-millonaria-orden-de-crimenes-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=lider-de-la-ms-13-es-procesado-por-graves-delitos-y-millonaria-orden-de-crimenes-en-el-salvador",
+        "published_date": "2026-04-27 02:25:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cAll tattoo artists are in prison\u201d: activist statements generate controversy and response from President Bukele",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/todos-los-tatuadores-estan-presos-declaraciones-de-activista-generan-controversia-y-respuesta-del-presidente-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=todos-los-tatuadores-estan-presos-declaraciones-de-activista-generan-controversia-y-respuesta-del-presidente-bukele",
+        "published_date": "2026-04-27 01:18:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Otto de Teclas faces trial as one of the ranfleros accused of thousands of murders",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/otto-de-teclas-enfrenta-juicio-como-uno-de-los-ranfleros-senalados-por-miles-de-asesinatos/?utm_source=rss&utm_medium=rss&utm_campaign=otto-de-teclas-enfrenta-juicio-como-uno-de-los-ranfleros-senalados-por-miles-de-asesinatos",
+        "published_date": "2026-04-27 00:44:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Emergency on El Cuco beach leaves 11 people injured after a tourist boat overturns",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/emergencia-en-playa-el-cuco-deja-11-personas-lesionadas-tras-vuelco-de-lancha-turistica/?utm_source=rss&utm_medium=rss&utm_campaign=emergencia-en-playa-el-cuco-deja-11-personas-lesionadas-tras-vuelco-de-lancha-turistica",
+        "published_date": "2026-04-27 00:19:28",
+        "category": "Local Events"
+    },
+    {
         "title": "El Salvador wins bronze and qualifies for the U18 Beach Volleyball World Cup",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/el-salvador-conquista-bronce-y-clasifica-al-mundial-u18-de-voleibol-de-playa/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-conquista-bronce-y-clasifica-al-mundial-u18-de-voleibol-de-playa",
@@ -452,111 +557,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/jornadas-de-limpieza-continuan-con-retiro-de-residuos-voluminosos-en-el-manguito/?utm_source=rss&utm_medium=rss&utm_campaign=jornadas-de-limpieza-continuan-con-retiro-de-residuos-voluminosos-en-el-manguito",
         "published_date": "2026-04-26 21:45:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "SivArt Family Fest fills the Historic Center of San Salvador with culture and tourism",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/sivart-family-fest-llena-de-cultura-y-turismo-el-centro-historico-de-san-salvador/",
-        "published_date": "2026-04-26 21:11:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mining, nuclear accidents and radioactive waste",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/mineria-accidentes-nucleares-y-desechos-radioactivos/",
-        "published_date": "2026-04-26 20:29:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Route 29 bus loses control and causes multiple accidents in Altavista",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/buseta-de-la-ruta-29-pierde-el-control-y-provoca-accidente-multiple-en-altavista/?utm_source=rss&utm_medium=rss&utm_campaign=buseta-de-la-ruta-29-pierde-el-control-y-provoca-accidente-multiple-en-altavista",
-        "published_date": "2026-04-26 20:27:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Idelma Delgado makes history in Madrid with a record that breaks 38 years of waiting",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/idelma-delgado-hace-historia-en-madrid-con-record-que-rompe-38-anos-de-espera/?utm_source=rss&utm_medium=rss&utm_campaign=idelma-delgado-hace-historia-en-madrid-con-record-que-rompe-38-anos-de-espera",
-        "published_date": "2026-04-26 20:22:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ar\u00e9valo and Pavic get off to a good start at the Mutua Madrid Open",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/arevalo-y-pavic-arrancan-con-buen-pie-en-el-mutua-madrid-open/",
-        "published_date": "2026-04-26 19:50:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Netanyahu claims Hezbollah is 'dismantling' Lebanon ceasefire",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/netanyahu-afirma-que-hezbola-esta-desmantelando-el-alto-al-fuego-en-libano/",
-        "published_date": "2026-04-26 19:40:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gunman at press gala targeted senior Trump administration officials",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/hombre-armado-en-gala-de-prensa-tenia-como-objetivo-a-altos-cargos-de-la-administracion-trump/",
-        "published_date": "2026-04-26 19:36:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "At least 16 people are burned in the burning of bulls in Zacatecoluca",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/al-menos-16-personas-resultan-quemadas-en-quema-de-toritos-en-zacatecoluca/",
-        "published_date": "2026-04-26 19:32:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "The first Book Fair celebrates its third day in San Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/la-primera-feria-del-libro-celebra-su-tercer-dia-en-san-salvador/",
-        "published_date": "2026-04-26 19:23:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Government promotes a healthy lifestyle from Early Childhood",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-gobierno-impulsa-el-estilo-de-vida-saludable-desde-la-primera-infancia/",
-        "published_date": "2026-04-26 19:21:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man accused of murdering his life partner will remain detained",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/hombre-acusado-de-asesinar-a-su-companera-de-vida-seguira-detenido/",
-        "published_date": "2026-04-26 19:17:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sabastian Sawe breaks a historic barrier and revolutionizes the world marathon",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/sabastian-sawe-rompe-una-barrera-historica-y-revoluciona-el-maraton-mundial/?utm_source=rss&utm_medium=rss&utm_campaign=sabastian-sawe-rompe-una-barrera-historica-y-revoluciona-el-maraton-mundial",
-        "published_date": "2026-04-26 17:49:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attack in Cauca leaves 19 dead and worsens the violent escalation in Colombia",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/atentado-en-cauca-deja-19-muertos-y-agrava-la-escalada-violenta-en-colombia/?utm_source=rss&utm_medium=rss&utm_campaign=atentado-en-cauca-deja-19-muertos-y-agrava-la-escalada-violenta-en-colombia",
-        "published_date": "2026-04-26 17:29:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Identity of detainee revealed after armed incident in Washington",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/revelan-identidad-de-detenido-tras-incidente-armado-en-washington/",
-        "published_date": "2026-04-26 17:12:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how International Dance Day was celebrated!",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/asi-se-celebro-el-dia-internacional-de-la-danza/",
-        "published_date": "2026-04-26 17:01:41",
         "category": "Local Events"
     }
 ]
