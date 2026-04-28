@@ -91,18 +91,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "President Bukele questions the position of \u201cexperts\u201d on MS in international settings",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-cuestiona-postura-de-expertos-sobre-la-ms-en-escenarios-internacionales/",
-        "published_date": "2026-04-20 01:05:56",
-        "category": "Diplomacy"
+        "title": "ANOTHER ABERRATION OF THE REGIME: THE COLLECTIVE TRIAL",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/otra-aberracion-del-regimen-los-juicios-colectivos/",
+        "published_date": "2026-04-28 10:59:11",
+        "category": "Military"
     },
     {
-        "title": "President Bukele questions NGOs for their stance towards gang members in international forums",
+        "title": "They reveal how the ms-13 coordinated murders against police officers",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-cuestiona-a-ong-por-postura-ante-pandilleros-en-foros-internacionales/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-cuestiona-a-ong-por-postura-ante-pandilleros-en-foros-internacionales",
-        "published_date": "2026-04-20 00:52:29",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/revelan-como-la-ms-13-coordinaba-asesinatos-contra-policias/?utm_source=rss&utm_medium=rss&utm_campaign=revelan-como-la-ms-13-coordinaba-asesinatos-contra-policias",
+        "published_date": "2026-04-28 00:59:57",
+        "category": "Military"
     },
     {
         "title": "Dagoberto Guti\u00e9rrez Scholarships, an opportunity to improve",
@@ -231,18 +231,11 @@
         "category": "Military"
     },
     {
-        "title": "K-9 pairs locate drugs in operation carried out in San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/binomios-k-9-localizan-droga-en-operativo-ejecutado-en-san-salvador/",
-        "published_date": "2026-04-25 16:05:55",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador adds 1,198 days without homicides during Bukele's administration",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-suma-1198-dias-sin-homicidios-durante-gestion-de-bukele/",
-        "published_date": "2026-04-25 15:23:45",
-        "category": "Military"
+        "title": "Fuels register fifth consecutive increase",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/combustibles-registran-quinto-incremento-consecutivo/",
+        "published_date": "2026-04-28 11:03:48",
+        "category": "Energy"
     },
     {
         "title": "Fuel prices increase by $0.07 starting tomorrow",
@@ -413,164 +406,143 @@
         "category": "Economy"
     },
     {
-        "title": "Clear accounts",
+        "title": "FMLN denounces setbacks in labor rights and calls for mobilization on May 1",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cuentas-claras/",
-        "published_date": "2026-04-20 12:15:00",
-        "category": "Economy"
+        "url": "https://www.diariocolatino.com/fmln-denuncia-retrocesos-en-derechos-laborales-y-llama-a-movilizacion-el-1-de-mayo/",
+        "published_date": "2026-04-28 11:05:40",
+        "category": "Local Events"
     },
     {
-        "title": "TSE will buy its headquarters property for $10.1 million with reform to the 2026 Budget",
+        "title": "Deputies endorse transferring properties to FONAVIPO for the benefit of families in Puerto El Triunfo",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/tse-comprara-inmueble-de-su-sede-por-10-1-millones-con-reforma-al-presupuesto-2026/",
-        "published_date": "2026-04-20 11:03:30",
-        "category": "Economy"
+        "url": "https://www.diariocolatino.com/diputados-avalan-transferir-inmuebles-a-fonavipo-en-beneficio-de-familias-de-puerto-el-triunfo/",
+        "published_date": "2026-04-28 11:04:03",
+        "category": "Local Events"
     },
     {
-        "title": "Government supports local economies through culture and tourism",
+        "title": "Colombian mother denounces irregularities and alleged pressure in judicial proceedings against her son in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/madre-colombiana-denuncia-irregularidades-y-presuntas-presiones-en-proceso-judicial-contra-su-hijo-en-el-salvador/",
+        "published_date": "2026-04-28 11:02:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Veterans point out impact of cuts and new functions in INABVE",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/veteranos-senalan-impacto-de-recortes-y-nuevas-funciones-en-el-inabve/",
+        "published_date": "2026-04-28 11:01:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Crisis in the health system and layoffs, union leaders denounce",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/crisis-en-el-sistema-de-salud-y-despidos-denuncian-dirigentes-gremiales/",
+        "published_date": "2026-04-28 11:00:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hezbollah vows to confront Israel and liberate 'every inch' of occupied territories",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/hezbola-promete-enfrentarse-a-israel-y-liberar-cada-centimetro-de-los-territorios-ocupados/",
+        "published_date": "2026-04-28 10:58:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Qalibaf says the US is running out of options",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/qalibaf-afirma-que-estados-unidos-se-esta-quedando-sin-opciones/",
+        "published_date": "2026-04-28 10:57:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "From trusted Uber to murderer: The brutal story of Glenda Hern\u00e1ndez that shocked El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/del-uber-de-confianza-al-asesino-la-brutal-historia-de-glenda-hernandez-que-conmociono-el-salvador/",
+        "published_date": "2026-04-28 06:16:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "180 families from La Libertad Costa communities will have their apartments",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/180-familias-de-comunidades-de-la-libertad-costa-tendran-sus-apartamentos/",
+        "published_date": "2026-04-28 03:50:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Asesuisa inaugurates a new branch in El Encuentro de Santa Ana",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/asesuisa-inaugura-nueva-sucursal-en-el-encuentro-de-santa-ana/",
+        "published_date": "2026-04-28 03:23:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Members of the \u201cBarra Brava\u201d of Alianza FC are sentenced for public disturbances",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/condenan-a-miembros-de-la-barra-brava-del-alianza-fc-por-disturbios-publicos/?utm_source=rss&utm_medium=rss&utm_campaign=condenan-a-miembros-de-la-barra-brava-del-alianza-fc-por-disturbios-publicos",
+        "published_date": "2026-04-28 03:08:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drunk driver runs over woman and is captured after trying to flee in Santa Ana",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/conductor-ebrio-atropella-a-mujer-y-es-capturado-tras-intentar-huir-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=conductor-ebrio-atropella-a-mujer-y-es-capturado-tras-intentar-huir-en-santa-ana",
+        "published_date": "2026-04-28 03:01:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Subject runs over woman and runs away",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-apoya-economias-locales-mediante-la-cultura-y-el-turismo/",
-        "published_date": "2026-04-20 03:04:06",
-        "category": "Economy"
+        "url": "https://diariolahuella.com/sujeto-atropella-a-una-mujer-y-se-da-a-la-fuga/",
+        "published_date": "2026-04-28 02:53:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Consultant proposes life sentence for drunk drivers who cause deaths",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/consultor-propone-cadena-perpetua-para-choferes-ebrios-que-causen-muertes/",
+        "published_date": "2026-04-28 02:30:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "A modern street transforms the connectivity between rural and urban areas of San Sebasti\u00e1n Salitrillo, Santa Ana",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/una-moderna-calle-transforma-la-conectividad-entre-zona-rural-y-urbana-de-san-sebastian-salitrillo-santa-ana/",
+        "published_date": "2026-04-28 01:49:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "They eliminate gang graffiti in Ahuachap\u00e1n with a cleaning day",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/eliminan-grafitis-de-pandillas-en-ahuachapan-con-jornada-de-limpieza/?utm_source=rss&utm_medium=rss&utm_campaign=eliminan-grafitis-de-pandillas-en-ahuachapan-con-jornada-de-limpieza",
+        "published_date": "2026-04-28 01:04:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "They remove gate and free street in residential area of \u200b\u200bSan Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/retiran-porton-y-liberan-calle-en-residencial-de-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=retiran-porton-y-liberan-calle-en-residencial-de-san-salvador",
+        "published_date": "2026-04-28 00:53:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Basilico Restaurant receives Family Friendly Seal at the National Library (BINAES)",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/restaurante-basilico-recibe-sello-family-friendly-en-la-biblioteca-nacional-binaes/",
+        "published_date": "2026-04-28 00:39:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice President F\u00e9lix Ulloa holds a meeting with the rector of the University of Bologna",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/vicepresidente-felix-ulloa-sostiene-encuentro-con-rector-de-la-universidad-de-bolonia/",
+        "published_date": "2026-04-28 00:10:09",
+        "category": "Local Events"
     },
     {
         "title": "FMLN will accompany the social movement in the May Day march",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/fmln-acompanara-al-movimiento-social-en-la-marcha-del-primero-de-mayo/",
         "published_date": "2026-04-27 23:15:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "They hold a hearing against more than 480 gang members",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/realizan-audiencia-contra-mas-de-480-mareros/",
-        "published_date": "2026-04-27 23:14:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "The UES leads a project to incorporate professional practices at the beginning of the university career",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/la-ues-lidera-proyecto-para-incorporar-practicas-profesionales-al-inicio-de-la-carrera-universitaria/",
-        "published_date": "2026-04-27 22:45:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "ESIT will teach the course Introduction to networks",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/esit-impartira-el-curso-introduccion-a-redes/",
-        "published_date": "2026-04-27 22:39:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "DOM reports progress in renovation of rural roads in San Sebasti\u00e1n Salitrillo",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/dom-reporta-avance-en-renovacion-de-via-rural-en-san-sebastian-salitrillo/",
-        "published_date": "2026-04-27 22:02:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three injured after accident between harrow and minibus in San Juan Opico",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/tres-lesionados-tras-accidente-entre-rastra-y-microbus-en-san-juan-opico/",
-        "published_date": "2026-04-27 21:59:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wild species released after rehabilitation process in El Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/liberan-especies-silvestres-tras-proceso-de-rehabilitacion-en-el-salvador/",
-        "published_date": "2026-04-27 21:43:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Academic cooperation with University of Bologna opens opportunities for agricultural research and innovation",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cooperacion-academica-con-universidad-de-bolonia-abre-oportunidades-para-investigacion-e-innovacion-agricola/?utm_source=rss&utm_medium=rss&utm_campaign=cooperacion-academica-con-universidad-de-bolonia-abre-oportunidades-para-investigacion-e-innovacion-agricola",
-        "published_date": "2026-04-27 21:36:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Provisional detention is ordered against a man accused of drug possession in San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/decretan-detencion-provisional-contra-hombre-acusado-de-posesion-de-droga-en-san-salvador/",
-        "published_date": "2026-04-27 21:30:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "FESFUT sanctions members of Platense after attacking referee in Copa Presidente",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/fesfut-sanciona-a-miembros-de-platense-tras-agresion-a-arbitro-en-copa-presidente/",
-        "published_date": "2026-04-27 21:27:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The film \u201cMichael\u201d decisively leads the global box office: $217 million",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/la-pelicula-michael-lidera-rotundamente-la-taquilla-mundial-217-millones/",
-        "published_date": "2026-04-27 21:19:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President F\u00e9lix Ulloa promotes educational and scientific alliances with prestigious European universities",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/vicepresidente-felix-ulloa-impulsa-alianzas-educativas-y-cientificas-con-prestigiosa-universidad-europea/",
-        "published_date": "2026-04-27 21:11:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "CRS and Save the Children train members of Civil Protection",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/crs-y-save-the-children-capacita-a-miembros-de-proteccion-civil/",
-        "published_date": "2026-04-27 21:10:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "They carry out a cleaning day in Usulut\u00e1n, due to the accumulation of garbage",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/realizan-jornada-de-limpieza-en-usulutan-por-acumulacion-de-basura/?utm_source=rss&utm_medium=rss&utm_campaign=realizan-jornada-de-limpieza-en-usulutan-por-acumulacion-de-basura",
-        "published_date": "2026-04-27 20:58:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bocadeli joins the soccer fever with a regional campaign in Central America",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/bocadeli-se-suma-a-la-fiebre-del-futbol-con-campana-regional-en-centroamerica/",
-        "published_date": "2026-04-27 20:56:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "They lay the first stone of the new \u201cConchal\u00edo\u201d housing project",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/colocan-primera-piedra-del-nuevo-proyecto-habitacional-conchalio/",
-        "published_date": "2026-04-27 20:17:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Centam Guardian 2026 closes in El Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/clausuran-centam-guardian-2026-en-el-salvador/",
-        "published_date": "2026-04-27 20:12:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele stands out in an international survey as the president with the best favorable image in Colombia",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-destaca-en-encuesta-internacional-como-el-presidente-con-mejor-imagen-favorable-en-colombia/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-destaca-en-encuesta-internacional-como-el-presidente-con-mejor-imagen-favorable-en-colombia",
-        "published_date": "2026-04-27 20:04:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jury for Miss Universe El Salvador revealed",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/revelan-jurado-para-miss-universo-el-salvador/",
-        "published_date": "2026-04-27 20:02:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador exports first Cihuat\u00e1n Rum to Japan",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-realiza-primera-exportacion-de-ron-cihuatan-hacia-japon/",
-        "published_date": "2026-04-27 19:56:35",
         "category": "Local Events"
     }
 ]
