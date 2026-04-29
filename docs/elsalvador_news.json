@@ -70,6 +70,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Authorities raid two properties full of irregular medications",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/autoridades-allanan-dos-inmuebles-repletos-de-medicamentos-irregulares/",
+        "published_date": "2026-04-29 04:56:53",
+        "category": "Military"
+    },
+    {
+        "title": "FGR and PNC dismantle drug distribution network with false vignettes",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/fgr-y-pnc-desmantelan-red-de-distribucion-de-medicamentos-con-vinetas-falsas/",
+        "published_date": "2026-04-29 02:13:28",
+        "category": "Military"
+    },
+    {
+        "title": "They dismantle a network that distributed counterfeit medicines in stores and pharmacies in the country",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/desarticulan-red-que-distribuia-medicamentos-falsificados-en-tiendas-y-farmacias-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=desarticulan-red-que-distribuia-medicamentos-falsificados-en-tiendas-y-farmacias-del-pais",
+        "published_date": "2026-04-29 00:37:00",
+        "category": "Military"
+    },
+    {
         "title": "Germany approves historic cuts in social and health spending to finance military surge",
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/alemania-aprueba-recortes-historicos-en-gasto-social-y-sanitario-para-financiar-el-aumento-militar/",
@@ -189,27 +210,6 @@
         "category": "Military"
     },
     {
-        "title": "Businesses dedicated to the sale of drugs are raided in San Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/allanan-negocios-dedicados-a-la-venta-de-droga-en-san-salvador/",
-        "published_date": "2026-04-26 08:06:04",
-        "category": "Military"
-    },
-    {
-        "title": "Interpol removes red notice against former president Alfredo Cristiani",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/interpol-quita-notificacion-roja-contra-expresidente-alfredo-cristiani/",
-        "published_date": "2026-04-26 03:47:06",
-        "category": "Military"
-    },
-    {
-        "title": "Trump says attacker was captured after evacuation at dinner with White House correspondents",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/trump-afirma-que-atacante-fue-capturado-tras-evacuacion-en-cena-con-corresponsales-de-la-casa-blanca/",
-        "published_date": "2026-04-26 02:14:11",
-        "category": "Military"
-    },
-    {
         "title": "El Salvador maintains the lowest fuel prices in the region",
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/el-salvador-mantiene-los-precios-de-combustibles-mas-bajos-de-la-region/",
@@ -271,6 +271,13 @@
         "url": "https://www.diariocolatino.com/del-analisis-al-espectaculo-la-degradacion-del-debate/",
         "published_date": "2026-04-21 13:04:54",
         "category": "Energy"
+    },
+    {
+        "title": "Provida Program promotes access to housing for 1,750 families with support from CABEI",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/programa-provida-impulsa-acceso-a-vivienda-para-1750-familias-con-apoyo-del-bcie/?utm_source=rss&utm_medium=rss&utm_campaign=programa-provida-impulsa-acceso-a-vivienda-para-1750-familias-con-apoyo-del-bcie",
+        "published_date": "2026-04-29 01:23:32",
+        "category": "Economy"
     },
     {
         "title": "CABEI approves financing of $155 million for road infrastructure projects in El Salvador",
@@ -392,157 +399,143 @@
         "category": "Economy"
     },
     {
-        "title": "Commission agrees to ratify loans for $576 million",
+        "title": "\u201cThe march has no owner, it can go to whoever it pleases\u201d: Marleni Funes",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/comision-acuerda-ratificar-prestamos-por-576-millones/",
-        "published_date": "2026-04-21 11:02:46",
-        "category": "Economy"
-    },
-    {
-        "title": "Assembly authorizes financing to expand the Doctor SV health platform",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/asamblea-autoriza-financiamiento-para-ampliar-la-plataforma-de-salud-doctor-sv/?utm_source=rss&utm_medium=rss&utm_campaign=asamblea-autoriza-financiamiento-para-ampliar-la-plataforma-de-salud-doctor-sv",
-        "published_date": "2026-04-21 04:16:47",
-        "category": "Economy"
-    },
-    {
-        "title": "Mitigation works on the road to Apulo reach 95% completion",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/obras-de-mitigacion-en-carretera-a-apulo-alcanzan-95-de-avance/",
-        "published_date": "2026-04-28 23:52:21",
+        "url": "https://www.diariocolatino.com/la-marcha-no-tiene-dueno-puede-ir-al-que-le-plazca-marleni-funes/",
+        "published_date": "2026-04-29 11:06:02",
         "category": "Local Events"
     },
     {
-        "title": "Trial against 486 MS-13 leaders advances with audios and expert reports on criminal structure",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/juicio-contra-486-cabecillas-de-la-ms-13-avanza-con-audios-y-peritajes-sobre-estructura-criminal/?utm_source=rss&utm_medium=rss&utm_campaign=juicio-contra-486-cabecillas-de-la-ms-13-avanza-con-audios-y-peritajes-sobre-estructura-criminal",
-        "published_date": "2026-04-28 23:45:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "International motorcyclist caravan tours the Port of La Libertad during an event in El Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/caravana-internacional-de-motociclistas-recorre-el-puerto-de-la-libertad-durante-evento-en-el-salvador/",
-        "published_date": "2026-04-28 22:58:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man who murdered a person after an argument is sentenced to 30 years in prison",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/condenan-a-30-anos-de-prision-a-hombre-que-asesino-a-una-persona-tras-una-discusion/?utm_source=rss&utm_medium=rss&utm_campaign=condenan-a-30-anos-de-prision-a-hombre-que-asesino-a-una-persona-tras-una-discusion",
-        "published_date": "2026-04-28 22:52:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crecer exceeds USD $8.6 billion managed and consolidates 28 years of experience",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/crecer-supera-los-usd-8600-millones-administrados-y-consolida-28-anos-de-trayectoria/",
-        "published_date": "2026-04-28 22:40:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four men are helped after a bee swarm attack in Guazapa",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cuatro-hombres-son-auxiliados-tras-ataque-de-enjambre-de-abejas-en-guazapa/?utm_source=rss&utm_medium=rss&utm_campaign=cuatro-hombres-son-auxiliados-tras-ataque-de-enjambre-de-abejas-en-guazapa",
-        "published_date": "2026-04-28 22:40:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "New rule in soccer: red card for covering your mouth to hide discriminatory acts;will apply in the 2026 World Cup",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/nueva-regla-en-el-futbol-tarjeta-roja-por-taparse-la-boca-para-ocultar-actos-discriminatorios-aplicara-en-el-mundial-2026/",
-        "published_date": "2026-04-28 22:19:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "A gesture of light for the little ones: they donate glasses to premature babies",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/un-gesto-de-luz-para-los-mas-pequenos-donan-lentes-a-bebes-prematuros/",
-        "published_date": "2026-04-28 21:51:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "PSG defeated Bayern Munich 5-4 in the first leg of the Champions League semi-finals",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/psg-derroto-5-a-4-a-bayern-munich-en-el-duelo-de-ida-las-semifinales-de-la-champions-league/",
-        "published_date": "2026-04-28 21:21:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities reiterate ban on agricultural burning due to high risk of fires",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/%f0%9f%93%b0-autoridades-reiteran-prohibicion-de-quemas-agricolas-ante-alto-riesgo-de-incendios/",
-        "published_date": "2026-04-28 20:51:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "DoctorSv exceeds 20 thousand daily consultations and consolidates its growth and success in the country",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/doctorsv-supera-las-20-mil-consultas-diarias-y-consolida-su-crecimiento-y-exito-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=doctorsv-supera-las-20-mil-consultas-diarias-y-consolida-su-crecimiento-y-exito-en-el-pais",
-        "published_date": "2026-04-28 20:16:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iberojet enables direct flights to El Salvador from September",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/iberojet-habilita-vuelos-directos-a-el-salvador-desde-septiembre/?utm_source=rss&utm_medium=rss&utm_campaign=iberojet-habilita-vuelos-directos-a-el-salvador-desde-septiembre",
-        "published_date": "2026-04-28 20:15:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Surf City promotes housing project to close the cycle of vulnerability in communities of La Libertad",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/surf-city-impulsa-proyecto-habitacional-para-cerrar-ciclo-de-vulnerabilidad-en-comunidades-de-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=surf-city-impulsa-proyecto-habitacional-para-cerrar-ciclo-de-vulnerabilidad-en-comunidades-de-la-libertad",
-        "published_date": "2026-04-28 20:14:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "They supervise progress in the protection works project located on the Apulo highway and the Oro highway, San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/supervisan-avances-en-proyecto-de-obras-de-proteccion-ubicadas-en-carretera-a-apulo-y-carretera-de-oro-san-salvador/",
-        "published_date": "2026-04-28 19:58:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Work on remodeling a sports center in Carolina, San Miguel Norte is progressing",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/avanzan-trabajos-de-remodelacion-de-polideportivo-en-carolina-san-miguel-norte/",
-        "published_date": "2026-04-28 19:58:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Educational remodeling benefits dozens of students in Cojutepeque",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/remodelacion-educativa-beneficia-a-decenas-de-estudiantes-en-cojutepeque/?utm_source=rss&utm_medium=rss&utm_campaign=remodelacion-educativa-beneficia-a-decenas-de-estudiantes-en-cojutepeque",
-        "published_date": "2026-04-28 19:49:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President Ulloa strengthens ties with Italian cooperation",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/vicepresidente-ulloa-estrecha-lazos-con-la-cooperacion-italiana/",
-        "published_date": "2026-04-28 19:47:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marleni Funes emphasizes that the march has no owner and \u201cwhoever wants to participate\u201d can participate.",
+        "title": "CONADESA and SIMETRISS call to march against the privatization of Health",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/marleni-funes-enfatiza-que-la-marcha-no-tiene-dueno-y-puede-participar-al-que-le-plazca/",
-        "published_date": "2026-04-28 19:33:02",
+        "url": "https://www.diariocolatino.com/conadesa-y-simetriss-llaman-a-marchar-contra-la-privatizacion-de-la-salud/",
+        "published_date": "2026-04-29 11:05:17",
         "category": "Local Events"
     },
     {
-        "title": "Vice President of the Republic of El Salvador meets with the Vice President of the Council of Ministers and Minister of Foreign Affairs and International Cooperation of Italy.In addition, it participates in an important economic forum",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/vicepresidente-de-la-republica-de-el-salvador-se-reune-con-el-vicepresidente-del-consejo-de-ministros-y-ministro-de-asuntos-exteriores-y-de-la-cooperacion-internacional-de-italia-ademas-participa-en/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-de-la-republica-de-el-salvador-se-reune-con-el-vicepresidente-del-consejo-de-ministros-y-ministro-de-asuntos-exteriores-y-de-la-cooperacion-internacional-de-italia-ademas-participa-en",
-        "published_date": "2026-04-28 19:31:00",
+        "title": "SIMEDUCO announces ongoing participation with labor demands",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/simeduco-anuncia-participacion-en-marcha-con-demandas-laborales/",
+        "published_date": "2026-04-29 11:04:02",
         "category": "Local Events"
     },
     {
-        "title": "Buddhist monks arrested in Sri Lanka for alleged trafficking of 110 kilos of cannabis",
+        "title": "PROVIDA promotes community festival for Earth Day in Suchitoto",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/provida-impulsa-festival-comunitario-por-el-dia-de-la-tierra-en-suchitoto/",
+        "published_date": "2026-04-29 11:03:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "VAMOS councilors are held accountable after two years of management in La Libertad Sur",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/concejalas-de-vamos-rinden-cuentas-tras-dos-anos-de-gestion-en-la-libertad-sur/",
+        "published_date": "2026-04-29 11:02:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alianza fans sentenced to 2 years for public disorder",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/condenan-a-2-anos-a-aficionados-de-alianza-por-desordenes-publicos/",
+        "published_date": "2026-04-29 11:01:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cTeachers live in fear, in uncertainty\u201d: Teaching Bases",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/los-maestros-viven-con-miedo-en-incertidumbre-bases-magisteriales/",
+        "published_date": "2026-04-29 11:00:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Kenyan is the fastest. What does it mean?",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/un-keniano-es-el-mas-veloz-que-significa/",
+        "published_date": "2026-04-29 10:59:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Delcy Rodr\u00edguez demands full elimination of sanctions on Venezuela",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/delcy-rodriguez-reclama-eliminacion-plena-de-sanciones-a-venezuela/",
+        "published_date": "2026-04-29 10:58:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "World football will punish discriminatory and inappropriate behavior",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/futbol-mundial-castigara-conductas-discriminatorias-e-inapropiadas/",
+        "published_date": "2026-04-29 10:57:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Environment predicts rain with electrical activity for Wednesday and Thursday",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/medio-ambiente-preve-lluvias-con-actividad-electrica-para-miercoles-y-jueves/",
+        "published_date": "2026-04-29 05:39:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government expands programs and services for the Salvadoran diaspora in Virginia",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/gobierno-amplia-los-programas-y-servicios-para-la-diaspora-salvadorena-en-virginia/",
+        "published_date": "2026-04-29 05:35:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court sentences Chalatenango murderer to 30 years in prison",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/tribunal-condena-a-homicida-de-chalatenango-a-30-anos-de-prision/",
+        "published_date": "2026-04-29 05:29:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Professionals train in anti-corruption at customs",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/profesionales-se-capacitan-en-anticorrupcion-en-las-aduanas/",
+        "published_date": "2026-04-29 05:24:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Selecta dreams and wins in Texas",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/la-selecta-suena-y-gana-en-texas/",
+        "published_date": "2026-04-29 05:08:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Selecta beats The Dreams F.C. 3-0.in a friendly match in San Antonio",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/la-selecta-vence-3-0-a-the-dreams-f-c-en-amistoso-disputado-en-san-antonio/",
+        "published_date": "2026-04-29 03:36:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sentosa Residences 523 advances in La Mascota as one of the vertical projects with the highest investment in San Salvador",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/monjes-budistas-detenidos-en-sri-lanka-por-presunto-trafico-de-110-kilos-de-cannabis/?utm_source=rss&utm_medium=rss&utm_campaign=monjes-budistas-detenidos-en-sri-lanka-por-presunto-trafico-de-110-kilos-de-cannabis",
-        "published_date": "2026-04-28 19:18:46",
+        "url": "https://lapagina.com.sv/nacionales/sentosa-residences-523-avanza-en-la-mascota-como-uno-de-los-proyectos-verticales-de-mayor-inversion-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=sentosa-residences-523-avanza-en-la-mascota-como-uno-de-los-proyectos-verticales-de-mayor-inversion-en-san-salvador",
+        "published_date": "2026-04-29 03:29:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "PSG takes the lead in their semi-final against Bayern",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/el-psg-se-adelanta-en-su-semifinal-ante-el-bayern/",
+        "published_date": "2026-04-29 02:42:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jos\u00e9 Luis Saca begins management at ANEP with a call to strengthen investment, dialogue and business modernization",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/jose-luis-saca-inicia-gestion-en-anep-con-llamado-a-fortalecer-inversion-dialogo-y-modernizacion-empresarial/?utm_source=rss&utm_medium=rss&utm_campaign=jose-luis-saca-inicia-gestion-en-anep-con-llamado-a-fortalecer-inversion-dialogo-y-modernizacion-empresarial",
+        "published_date": "2026-04-29 02:35:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran gastronomy conquers the famous chef and presenter Guy Fieri",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/la-gastronomia-salvadorena-conquista-al-famoso-chef-y-presentador-guy-fieri/",
+        "published_date": "2026-04-29 02:33:45",
         "category": "Local Events"
     }
 ]
