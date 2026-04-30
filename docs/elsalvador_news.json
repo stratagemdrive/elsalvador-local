@@ -1,5 +1,12 @@
 [
     {
+        "title": "Absurd Cuba threatens the US: Foreign Minister Bruno Rodr\u00edguez",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/absurdo-cuba-amenace-a-eeuu-canciller-bruno-rodriguez/",
+        "published_date": "2026-04-30 10:57:16",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Vice President F\u00e9lix Ulloa strengthens the bilateral agenda with Italy during economic forum",
         "source": "Ultima Hora SV",
         "url": "https://ultimahora.sv/vicepresidente-felix-ulloa-fortalece-la-agenda-bilateral-con-italia-durante-foro-economico/",
@@ -61,6 +68,27 @@
         "url": "https://diariolahuella.com/representacion-diplomatica-en-estados-unidos-propicia-llegada-de-ginecologos-para-intercambio-de-conocimientos-y-realizacion-cirugias/",
         "published_date": "2026-04-22 17:41:51",
         "category": "Diplomacy"
+    },
+    {
+        "title": "LNB dedicates LOTRA draw No. 448 to MAG",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/lnb-dedica-sorteo-lotra-no-448-al-mag/",
+        "published_date": "2026-04-30 08:39:01",
+        "category": "Military"
+    },
+    {
+        "title": "Assembly approves extension number 50 of the emergency regime",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/asamblea-aprueba-la-prorroga-numero-50-del-regimen-de-excepcion/",
+        "published_date": "2026-04-30 02:30:59",
+        "category": "Military"
+    },
+    {
+        "title": "President Nayib Bukele questions positions on human rights in security debate",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-nayib-bukele-cuestiona-posturas-sobre-derechos-humanos-en-debate-de-seguridad/",
+        "published_date": "2026-04-30 00:52:04",
+        "category": "Military"
     },
     {
         "title": "LOTRA Giveaway No. 448, Dedicated to the Ministry of Agriculture and Livestock!",
@@ -179,27 +207,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/autobus-pierde-el-control-y-colisiona-con-dos-vehiculos-en-san-martin/",
         "published_date": "2026-04-27 01:34:57",
-        "category": "Military"
-    },
-    {
-        "title": "Chalatenango celebrates the Coffee Festival and highlights its coffee tradition and tourist attraction",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/chalatenango-celebra-el-festival-del-cafe-y-resalta-su-tradicion-cafetalera-y-atractivo-turistico/?utm_source=rss&utm_medium=rss&utm_campaign=chalatenango-celebra-el-festival-del-cafe-y-resalta-su-tradicion-cafetalera-y-atractivo-turistico",
-        "published_date": "2026-04-27 00:52:35",
-        "category": "Military"
-    },
-    {
-        "title": "They intervene on a woman apparently drunk while carrying a baby in Congo",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/intervienen-a-mujer-bajo-aparente-ebriedad-que-cargaba-a-bebe-en-el-congo/",
-        "published_date": "2026-04-26 22:20:27",
-        "category": "Military"
-    },
-    {
-        "title": "Search in Guatemala prison uncovers network of illicit objects inside prison",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/requisa-en-carcel-de-guatemala-destapa-red-de-objetos-ilicitos-dentro-de-penal/?utm_source=rss&utm_medium=rss&utm_campaign=requisa-en-carcel-de-guatemala-destapa-red-de-objetos-ilicitos-dentro-de-penal",
-        "published_date": "2026-04-26 20:52:37",
         "category": "Military"
     },
     {
@@ -399,6 +406,111 @@
         "category": "Economy"
     },
     {
+        "title": "The government does not have a plan for the economic and social development of the country: Alfonso Goitia",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-gobierno-no-tiene-un-plan-para-el-desarrollo-economico-y-social-de-pais-alfonso-goitia/",
+        "published_date": "2026-04-30 11:05:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Organizations call to march this May 1 against dictatorship and for labor rights",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/organizaciones-llaman-a-marchar-este-1-de-mayo-contra-dictadura-y-por-derechos-laborales/",
+        "published_date": "2026-04-30 11:04:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Health sector, teachers and social organizations will march on May 1 in defense of rights",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/sector-salud-magisterio-y-organizaciones-sociales-marcharan-el-1-de-mayo-en-defensa-de-derechos/",
+        "published_date": "2026-04-30 11:03:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marcela Villatoro denounces massive layoffs and calls for unity on this May 1",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/marcela-villatoro-denuncia-despidos-masivos-y-llama-a-la-unidad-en-este-1-de-mayo/",
+        "published_date": "2026-04-30 11:02:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Patricio Pineda warns that non-compliance by the Government would have broken the agreement with the IMF",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/patricio-pineda-advierte-que-incumplimientos-del-gobierno-habrian-roto-acuerdo-con-el-fmi/",
+        "published_date": "2026-04-30 11:01:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Layoffs of workers in El Salvador January 2024 \u2013 March 2026",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/despidos-de-trabajadores-en-el-salvador-enero-2024-marzo-2026/",
+        "published_date": "2026-04-30 10:59:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iranians swear allegiance to new supreme leader in massive rallies",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/iranies-juran-lealtad-a-nuevo-lider-supremo-en-manifestaciones-masivas/",
+        "published_date": "2026-04-30 10:58:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "FIFA announces new modifications towards the World Cup",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fifa-anuncia-nuevas-modificaciones-rumbo-a-la-copa-del-mundo/",
+        "published_date": "2026-04-30 10:56:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shannon Elizabeth took OnlyFans by storm in her first week",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/shannon-elizabeth-arraso-en-onlyfans-en-su-primera-semana/",
+        "published_date": "2026-04-30 09:23:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Founders of the MS continue to be tried",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/fundadores-de-la-ms-continuan-siendo-juzgados/",
+        "published_date": "2026-04-30 09:16:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US FDA renews the authorization of IQOS as a product with lower risk exposure than cigarettes",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/la-fda-de-ee-uu-renueva-la-autorizacion-de-iqos-como-producto-de-menor-exposicion-al-riesgo-que-el-cigarrillo/",
+        "published_date": "2026-04-30 08:48:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Win one of the 48 65\u201d TVs with Rico Pollo!",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/economia/ganate-uno-de-los-48-tv-de-65-con-rico-pollo/",
+        "published_date": "2026-04-30 05:12:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Promotions launched for Junior H concert in El Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/04/lanzan-promociones-para-concierto-de-junior-h-en-el-salvador/",
+        "published_date": "2026-04-30 03:04:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Assembly approves constitutional reforms: diaspora will have legislative representation",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/asamblea-aprueba-reformas-constitucionales-diaspora-tendra-representacion-legislativa/",
+        "published_date": "2026-04-30 02:49:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bus destroys garbage container in San Salvador and is captured on video",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/bus-destruye-recipiente-de-basura-en-san-salvador-y-queda-captado-en-video/",
+        "published_date": "2026-04-30 01:39:15",
+        "category": "Local Events"
+    },
+    {
         "title": "Atl\u00e9tico de Madrid 1-1 Arsenal: an intense draw at the Metropolitano and everything is defined in London",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/04/atletico-de-madrid-1-1-arsenal-un-empate-intenso-en-el-metropolitano-y-todo-se-define-en-londres/",
@@ -431,111 +543,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/04/rico-pollo-rico-pollo-lanza-2026-jugamos-todos-para-premiar-a-los-salvadorenos/",
         "published_date": "2026-04-29 22:19:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadorans will be protected with the Exception Regime for 30 more days",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/salvadorenos-estaran-protegidos-con-el-regimen-de-excepcion-30-dias-mas/",
-        "published_date": "2026-04-29 21:51:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Assembly approves $2 million to strengthen tourism promotion and attract foreign investments",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/asamblea-aprueba-2-millones-para-fortalecer-promocion-turistica-y-atraer-inversiones-extranjeras/?utm_source=rss&utm_medium=rss&utm_campaign=asamblea-aprueba-2-millones-para-fortalecer-promocion-turistica-y-atraer-inversiones-extranjeras",
-        "published_date": "2026-04-29 21:43:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "TPS beneficiaries protest in front of the US Supreme Court in defense of its permanence",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/beneficiarios-del-tps-protestan-frente-a-la-corte-suprema-de-ee-uu-en-defensa-de-su-permanencia/",
-        "published_date": "2026-04-29 20:49:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Itzel Colocho is now eligible for calls for the El Salvador National Teams",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/itzel-colocho-ya-es-elegible-para-convocatorias-de-selecciones-de-el-salvador/",
-        "published_date": "2026-04-29 20:42:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prosecutor's Office seizes packages of counterfeit medicines in San Salvador and confirms arrests",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/fiscalia-decomisa-paquetes-de-medicamentos-falsificados-en-san-salvador-y-confirma-capturas/?utm_source=rss&utm_medium=rss&utm_campaign=fiscalia-decomisa-paquetes-de-medicamentos-falsificados-en-san-salvador-y-confirma-capturas",
-        "published_date": "2026-04-29 20:28:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele asks for support for reform that will give a voice to the diaspora in the Legislative Assembly",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-pide-respaldo-a-reforma-que-dara-voz-a-la-diaspora-en-la-asamblea-legislativa/",
-        "published_date": "2026-04-29 19:43:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nayib Bukele proposes constitutional reform to give direct representation to the diaspora in the Legislative Assembly",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/nayib-bukele-propone-reforma-constitucional-para-dar-representacion-directa-a-la-diaspora-en-la-asamblea-legislativa/",
-        "published_date": "2026-04-29 19:30:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Advances in the Los C\u00f3banos aquaculture station promote strengthening of the fishing sector",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/avances-en-estacion-acuicola-de-los-cobanos-impulsan-fortalecimiento-del-sector-pesquero/?utm_source=rss&utm_medium=rss&utm_campaign=avances-en-estacion-acuicola-de-los-cobanos-impulsan-fortalecimiento-del-sector-pesquero",
-        "published_date": "2026-04-29 19:24:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trial advances against 486 leaders and ranfleros of the MS",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/avanza-juicio-contra-486-cabecillas-y-ranfleros-de-la-ms/",
-        "published_date": "2026-04-29 19:23:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government promotes reform for representation of Salvadorans abroad in the Legislative Assembly",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gobierno-impulsa-reforma-para-representacion-de-salvadorenos-en-el-exterior-en-la-asamblea-legislativa/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-impulsa-reforma-para-representacion-de-salvadorenos-en-el-exterior-en-la-asamblea-legislativa",
-        "published_date": "2026-04-29 19:20:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Palma is about to launch its new municipal market",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/la-palma-esta-a-punto-de-estrenar-su-nuevo-mercado-municipal/",
-        "published_date": "2026-04-29 19:04:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "They deliver a drinking water project that benefits 2,996 inhabitants in Juay\u00faa",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/entregan-proyecto-de-agua-potable-que-beneficia-a-2996-habitantes-en-juayua/",
-        "published_date": "2026-04-29 18:44:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President Ulloa presents investment and cooperation opportunities at the international economic forum",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/vicepresidente-ulloa-expone-oportunidades-de-inversion-y-cooperacion-en-foro-economico-internacional/",
-        "published_date": "2026-04-29 18:43:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Container detaches from harrow and blocks passage around Integration",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/contenedor-se-desprende-de-rastra-y-bloquea-el-paso-en-redondel-integracion/",
-        "published_date": "2026-04-29 18:39:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gabriela de Bukele highlights dance as a school of discipline and personal training",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gabriela-de-bukele-destaca-la-danza-como-escuela-de-disciplina-y-formacion-personal/?utm_source=rss&utm_medium=rss&utm_campaign=gabriela-de-bukele-destaca-la-danza-como-escuela-de-disciplina-y-formacion-personal",
-        "published_date": "2026-04-29 18:00:10",
         "category": "Local Events"
     }
 ]
