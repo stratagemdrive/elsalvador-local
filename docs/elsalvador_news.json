@@ -1,5 +1,12 @@
 [
     {
+        "title": "The US highlights El Salvador as an attractive destination for investments",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/ee-uu-destaca-a-el-salvador-como-destino-atractivo-para-inversiones/?utm_source=rss&utm_medium=rss&utm_campaign=ee-uu-destaca-a-el-salvador-como-destino-atractivo-para-inversiones",
+        "published_date": "2026-05-02 00:59:30",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Minister of Labor, Rolando Castro, highlights support for unionism on Workers' Day from Nayib Bukele",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/ministro-de-trabajo-rolando-castro-resalta-apoyo-al-sindicalismo-en-el-dia-del-trabajador-de-parte-de-nayib-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=ministro-de-trabajo-rolando-castro-resalta-apoyo-al-sindicalismo-en-el-dia-del-trabajador-de-parte-de-nayib-bukele",
@@ -82,6 +89,27 @@
         "url": "https://ultimahora.sv/presidente-bukele-increpa-a-medios-y-ongs-por-defender-a-cabecillas-de-la-ms-13-que-enfrentan-juicio-colectivo/",
         "published_date": "2026-04-24 15:22:44",
         "category": "Diplomacy"
+    },
+    {
+        "title": "The US highlights El Salvador as a key partner and promotes investment from more than 75 companies",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/ee-uu-destaca-a-el-salvador-como-socio-clave-y-promueve-inversion-de-mas-de-75-empresas/",
+        "published_date": "2026-05-02 07:48:53",
+        "category": "Military"
+    },
+    {
+        "title": "Bolivian high magistrate shot to death",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/asesinan-a-balazos-a-alto-magistrado-de-bolivia/",
+        "published_date": "2026-05-02 05:44:56",
+        "category": "Military"
+    },
+    {
+        "title": "A gunman linked to the Mao Mao gang is captured in Puerto El Triunfo",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/capturan-en-puerto-el-triunfo-a-gatillero-vinculado-a-la-pandilla-mao-mao/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-en-puerto-el-triunfo-a-gatillero-vinculado-a-la-pandilla-mao-mao",
+        "published_date": "2026-05-02 01:16:36",
+        "category": "Military"
     },
     {
         "title": "Paul Steiner highlights transformation of El Salvador in the face of criticism from NGOs and international media",
@@ -200,27 +228,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/desarticulan-red-que-distribuia-medicamentos-falsificados-en-tiendas-y-farmacias-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=desarticulan-red-que-distribuia-medicamentos-falsificados-en-tiendas-y-farmacias-del-pais",
         "published_date": "2026-04-29 00:37:00",
-        "category": "Military"
-    },
-    {
-        "title": "Germany approves historic cuts in social and health spending to finance military surge",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/alemania-aprueba-recortes-historicos-en-gasto-social-y-sanitario-para-financiar-el-aumento-militar/",
-        "published_date": "2026-04-28 23:59:36",
-        "category": "Military"
-    },
-    {
-        "title": "Fonat strengthens road safety with new school committee in La Libertad",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-fonat-fortalece-la-seguridad-vial-con-nuevo-comite-escolar-en-la-libertad/",
-        "published_date": "2026-04-28 17:44:56",
-        "category": "Military"
-    },
-    {
-        "title": "ANOTHER ABERRATION OF THE REGIME: THE COLLECTIVE TRIAL",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/otra-aberracion-del-regimen-los-juicios-colectivos/",
-        "published_date": "2026-04-28 10:59:11",
         "category": "Military"
     },
     {
@@ -413,150 +420,143 @@
         "category": "Economy"
     },
     {
-        "title": "The City Centro by Marriott hotel is officially inaugurated in the Historic Center of San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/inauguran-oficialmente-el-hotel-city-centro-by-marriott-en-el-centro-historico-de-san-salvador/",
-        "published_date": "2026-04-24 03:21:38",
-        "category": "Economy"
-    },
-    {
-        "title": "Trump declares war with Iran over but does not withdraw troops",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/trump-declara-terminada-la-guerra-con-iran-pero-no-retira-tropas/",
-        "published_date": "2026-05-01 23:01:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "VAMOS accompanies the May Day march carried out by social and union organizations",
+        "title": "All voices and causes are present in the May Day march\u201d: Claudia Ortiz",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/vamos-acompana-la-marcha-del-primero-de-mayo-realizada-por-las-organizaciones-sociales-y-sindicales/",
-        "published_date": "2026-05-01 22:35:37",
+        "url": "https://www.diariocolatino.com/todas-las-voces-y-causas-estan-presentes-en-la-marcha-del-primero-de-mayo-claudia-ortiz/",
+        "published_date": "2026-05-02 11:03:53",
         "category": "Local Events"
     },
     {
-        "title": "Commission studies ratifying constitutional reforms",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/comision-estudia-ratificar-reformas-constitucionales/",
-        "published_date": "2026-05-01 22:25:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Organizations take to the streets on International Working Class Day",
+        "title": "\u201cIt controls everything\u201d: Gerson Mart\u00ednez criticizes concentration of power in the Government",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/organizaciones-se-toman-las-calles-en-el-dia-internacional-de-la-clase-trabajadora/",
-        "published_date": "2026-05-01 22:07:22",
+        "url": "https://www.diariocolatino.com/lo-controla-todo-gerson-martinez-critica-concentracion-de-poder-en-el-gobierno/",
+        "published_date": "2026-05-02 11:01:32",
         "category": "Local Events"
     },
     {
-        "title": "Bishop originally from Chalatenango is appointed by Pope Leo XIV to lead diocese in West Virginia",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/obispo-originario-de-chalatenango-es-nombrado-por-el-papa-leon-xiv-para-liderar-diocesis-en-west-virginia/",
-        "published_date": "2026-05-01 21:14:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "MOP carries out cleaning after vandalism during the May 1 march",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mop-ejecuta-limpieza-tras-vandalismo-durante-marcha-del-1-de-mayo/?utm_source=rss&utm_medium=rss&utm_campaign=mop-ejecuta-limpieza-tras-vandalismo-durante-marcha-del-1-de-mayo",
-        "published_date": "2026-05-01 21:14:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bank deposits in El Salvador grew 16.8% as of February and exceeded $22.6 billion",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/depositos-bancarios-en-el-salvador-crecieron-16-8-a-febrero-y-superan-los-22600-millones/",
-        "published_date": "2026-05-01 21:11:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cleaning operation restores order in San Salvador after May 1 march",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/operativo-de-limpieza-restablece-orden-en-san-salvador-tras-marcha-del-1-de-mayo/?utm_source=rss&utm_medium=rss&utm_campaign=operativo-de-limpieza-restablece-orden-en-san-salvador-tras-marcha-del-1-de-mayo",
-        "published_date": "2026-05-01 21:03:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Integra fair provided more than 1,500 services in Ilobasco",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/la-feria-integra-brindo-mas-de-1500-atenciones-en-ilobasco/",
-        "published_date": "2026-05-01 20:56:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "May 1 marches in San Salvador between union slogans and reports of damage in public spaces",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/marchas-del-1-de-mayo-en-san-salvador-entre-consignas-sindicales-y-reportes-de-danos-en-espacios-publicos/",
-        "published_date": "2026-05-01 20:55:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Families took advantage of the May 1 holiday to enjoy the Costa del Sol",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/familias-aprovecharon-el-asueto-del-1-de-mayo-para-disfrutar-en-costa-del-sol/",
-        "published_date": "2026-05-01 19:51:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Commander highlights the preparation of the Iranian army to combat threats",
+        "title": "Organizations march to denounce layoffs, repressive policies and privatization of health",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/comandante-destaca-la-preparacion-del-ejercito-irani-para-combatir-las-amenazas/",
-        "published_date": "2026-05-01 18:02:32",
+        "url": "https://www.diariocolatino.com/organizaciones-marchan-para-denunciar-despidos-politicas-represivas-y-privatizacion-de-la-salud/",
+        "published_date": "2026-05-02 11:00:53",
         "category": "Local Events"
     },
     {
-        "title": "Claudia Ortiz's criticisms contrast with the low call for VAMOS on May 1",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/criticas-de-claudia-ortiz-contrastan-con-baja-convocatoria-de-vamos-en-marcha-del-1-de-mayo/?utm_source=rss&utm_medium=rss&utm_campaign=criticas-de-claudia-ortiz-contrastan-con-baja-convocatoria-de-vamos-en-marcha-del-1-de-mayo",
-        "published_date": "2026-05-01 17:30:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Criticisms of Teaching Bases mark the May 1 march due to demands far from the current educational reality",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/criticas-a-bases-magisteriales-marcan-marcha-del-1-de-mayo-por-demandas-alejadas-de-la-realidad-educativa-actual/?utm_source=rss&utm_medium=rss&utm_campaign=criticas-a-bases-magisteriales-marcan-marcha-del-1-de-mayo-por-demandas-alejadas-de-la-realidad-educativa-actual",
-        "published_date": "2026-05-01 16:18:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister of Labor highlights massive participation in commemoration of Labor Day",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ministro-de-trabajo-destaca-masiva-participacion-en-conmemoracion-del-dia-del-trabajo/?utm_source=rss&utm_medium=rss&utm_campaign=ministro-de-trabajo-destaca-masiva-participacion-en-conmemoracion-del-dia-del-trabajo",
-        "published_date": "2026-05-01 16:03:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heat and rain for this May 1",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/calor-y-lluvias-para-este-1-de-mayo/",
-        "published_date": "2026-05-01 15:12:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Veterans demand an increase in pension, compensation and land during the May 1 march",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/veteranos-exigen-aumento-de-pension-indemnizacion-y-tierras-durante-marcha-del-1-de-mayo/?utm_source=rss&utm_medium=rss&utm_campaign=veteranos-exigen-aumento-de-pension-indemnizacion-y-tierras-durante-marcha-del-1-de-mayo",
-        "published_date": "2026-05-01 15:11:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Flick sees the injured Lamine Yamal at the World Cup",
+        "title": "Spirit Airlines faces possible closure after bailout deal falls apart",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/flick-ve-al-lesionado-lamine-yamal-en-el-mundial/",
-        "published_date": "2026-05-01 14:31:23",
+        "url": "https://croniosv.com/principal/principal1/spirit-airlines-enfrenta-posible-cierre-tras-caida-de-acuerdo-de-rescate/",
+        "published_date": "2026-05-02 06:45:05",
         "category": "Local Events"
     },
     {
-        "title": "They condemn members of an extermination group in the eastern zone",
+        "title": "Markets in downtown San Salvador have everything necessary to celebrate the Day of the Cross",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/condenan-a-miembros-de-grupo-de-exterminio-en-la-zona-oriental/",
-        "published_date": "2026-05-01 13:51:59",
+        "url": "https://croniosv.com/principal/principal1/mercados-de-san-salvador-centro-cuentan-con-todo-lo-necesario-para-celebracion-del-dia-de-la-cruz/",
+        "published_date": "2026-05-02 06:42:19",
         "category": "Local Events"
     },
     {
-        "title": "El Salvador commemorates International Labor Day between marches and labor demands",
+        "title": "Binaes will celebrate Star Wars Day with activities for three days",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/binaes-celebrara-el-dia-de-star-wars-con-actividades-durante-tres-dias/",
+        "published_date": "2026-05-02 06:37:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Academy vetoes actors and scripts made with AI for the Oscars",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/la-academia-veta-a-actores-y-guiones-hechos-con-ia-para-los-oscars/",
+        "published_date": "2026-05-02 05:50:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump announces that he will raise tariffs on EU cars and trucks to 25%",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/trump-anuncia-que-elevara-los-aranceles-de-autos-y-camiones-de-la-ue-al-25/",
+        "published_date": "2026-05-02 05:49:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "The United States will take control of Cuba, says President Donald Trump",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/estados-unidos-tomara-el-control-de-cuba-afirma-el-presidente-donald-trump/",
+        "published_date": "2026-05-02 05:42:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hunger and drowning: the dangerous route of migrants between Africa and Arabia",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/hambre-y-ahogamientos-la-peligrosa-ruta-de-los-migrantes-entre-africa-y-arabia/",
+        "published_date": "2026-05-02 05:39:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump assures that the United States \u201cwill take control of Cuba almost immediately\u201d",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/el-salvador-conmemora-el-dia-internacional-del-trabajo-entre-marchas-y-exigencias-laborales/",
-        "published_date": "2026-05-01 12:10:04",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/trump-asegura-que-estados-unidos-tomara-el-control-de-cuba-casi-de-inmediato/",
+        "published_date": "2026-05-02 04:01:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "San Salvador's Historic Center attracts tourists with live music and family atmosphere during the long holiday",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/centro-historico-de-san-salvador-atrae-a-turistas-con-musica-en-vivo-y-ambiente-familiar-durante-el-feriado-largo/?utm_source=rss&utm_medium=rss&utm_campaign=centro-historico-de-san-salvador-atrae-a-turistas-con-musica-en-vivo-y-ambiente-familiar-durante-el-feriado-largo",
+        "published_date": "2026-05-02 03:32:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Panini launches the official album of the 2026 FIFA World Cup in El Salvador with more than 1,000 stickers",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/panini-lanza-en-el-salvador-el-album-oficial-del-mundial-fifa-2026-con-mas-de-1000-stickers/",
+        "published_date": "2026-05-02 03:26:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Manuel Flores calls for a \u201clong labor struggle\u201d in the May 1 march",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/manuel-flores-llama-a-larga-lucha-laboral-en-marcha-del-1-de-mayo/",
+        "published_date": "2026-05-02 02:18:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Libertad Sur Mayor's Office inaugurates community house in Las Palmeras",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/alcaldia-de-la-libertad-sur-inaugura-casa-comunal-en-las-palmeras/?utm_source=rss&utm_medium=rss&utm_campaign=alcaldia-de-la-libertad-sur-inaugura-casa-comunal-en-las-palmeras",
+        "published_date": "2026-05-02 02:15:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Church bus crashes and falls into a ravine in El Jalacatal, San Miguel",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/autobus-de-iglesia-se-accidenta-y-cae-a-barranco-en-el-jalacatal-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=autobus-de-iglesia-se-accidenta-y-cae-a-barranco-en-el-jalacatal-san-miguel",
+        "published_date": "2026-05-02 01:50:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"I joined as a citizen concerned about the direction of our nation\": Francisco Lira at the march",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/me-sume-como-ciudadano-preocupado-por-el-rumbo-de-nuestra-nacion-francisco-lira-en-la-marcha/",
+        "published_date": "2026-05-02 01:21:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trying to understand the mystery of suicide - Lisandro Prieto Femen\u00eda",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/intentando-comprender-el-misterio-del-suicidio-lisandro-prieto-femenia/",
+        "published_date": "2026-05-02 00:40:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "THE BOOK AND READING: HISTORICAL DEVELOPMENT AND CURRENT PERSPECTIVES.(*)",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-libro-y-la-lectura-desarrollo-historico-y-perspectivas-actuales/",
+        "published_date": "2026-05-02 00:40:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government will deliver housing projects in San Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/gobierno-entregara-proyectos-habitacionales-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-entregara-proyectos-habitacionales-en-san-salvador",
+        "published_date": "2026-05-02 00:29:36",
         "category": "Local Events"
     }
 ]
