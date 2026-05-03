@@ -84,11 +84,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuba will not accept imperialist \u201cpeace through force,\u201d says Foreign Minister Rodr\u00edguez",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cuba-no-aceptara-paz-mediante-la-fuerza-imperialista-afirma-canciller-rodriguez/",
-        "published_date": "2026-04-25 10:59:01",
-        "category": "Diplomacy"
+        "title": "Man arrested in Austria accused of poisoning baby food",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/detienen-en-austria-a-un-hombre-acusado-de-envenenar-comida-para-bebes/",
+        "published_date": "2026-05-03 01:54:39",
+        "category": "Military"
     },
     {
         "title": "\u201cThe Rock\u201d is intervened by the police in Los Angeles",
@@ -221,13 +221,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/04/asamblea-aprueba-la-prorroga-numero-50-del-regimen-de-excepcion/",
         "published_date": "2026-04-30 02:30:59",
-        "category": "Military"
-    },
-    {
-        "title": "President Nayib Bukele questions positions on human rights in security debate",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-nayib-bukele-cuestiona-posturas-sobre-derechos-humanos-en-debate-de-seguridad/",
-        "published_date": "2026-04-30 00:52:04",
         "category": "Military"
     },
     {
@@ -406,18 +399,81 @@
         "category": "Economy"
     },
     {
-        "title": "Ministry of Finance highlights economic growth in El Salvador and new incentives to attract investment",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ministerio-de-hacienda-destaca-crecimiento-economico-de-el-salvador-y-nuevos-incentivos-para-atraer-inversion/",
-        "published_date": "2026-04-25 03:16:22",
-        "category": "Economy"
+        "title": "Firefighters control structural fire in homes in Santa Tecla",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/bomberos-controlan-incendio-estructural-en-viviendas-de-santa-tecla/",
+        "published_date": "2026-05-03 10:09:34",
+        "category": "Local Events"
     },
     {
-        "title": "Minister of Finance highlights economic growth in 2025",
+        "title": "Trump says he is studying a new proposal from Iran to end the war",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/ministro-de-hacienda-destaca-crecimiento-economico-en-el-2025/",
-        "published_date": "2026-04-25 03:00:28",
-        "category": "Economy"
+        "url": "https://www.elmetropolitanodigital.com/2026/05/trump-afirma-que-estudia-una-nueva-propuesta-de-iran-para-poner-fin-a-la-guerra/",
+        "published_date": "2026-05-03 08:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "They promote responsible adoption of pets in the Historic Center of San Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/promueven-adopcion-responsable-de-mascotas-en-el-centro-historico-de-san-salvador/",
+        "published_date": "2026-05-03 08:16:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shakira, Shakira!Two million people came to his free concert in Copacabana",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/shakira-shakira-dos-millones-de-personas-llegaron-a-su-concierto-gratuito-en-copacabana/",
+        "published_date": "2026-05-03 07:29:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Joy that transforms lives: pet adoption fills the historic center of San Salvador with hope",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/alegria-que-transforma-vidas-adopcion-de-mascotas-llena-de-esperanza-el-centro-historico-de-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=alegria-que-transforma-vidas-adopcion-de-mascotas-llena-de-esperanza-el-centro-historico-de-san-salvador",
+        "published_date": "2026-05-03 03:54:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele announces university scholarship to young student",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-anuncia-beca-universitaria-a-joven-estudiante/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-anuncia-beca-universitaria-a-joven-estudiante",
+        "published_date": "2026-05-03 03:48:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three people drowned in the El Chorrer\u00f3n Pool, Moraz\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/tres-personas-mueren-ahogadas-en-la-poza-el-chorreron-morazan/",
+        "published_date": "2026-05-03 02:11:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death toll from rains and floods in Pernambuco, Brazil rises to five",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/suben-a-cinco-los-muertos-por-lluvias-e-inundaciones-en-pernambuco-brasil/",
+        "published_date": "2026-05-03 01:45:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cAudio only\u201d: New York opens a \u201cbookstore without books\u201d",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/tecnologia/solo-audio-nueva-york-abre-una-libreria-sin-libros/",
+        "published_date": "2026-05-03 01:38:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Between streaming and artificial intelligence: this is how the way of watching Star Wars evolves",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/tecnologia/entre-streaming-e-inteligencia-artificial-asi-evoluciona-la-forma-de-ver-star-wars/",
+        "published_date": "2026-05-03 01:34:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "My assessments on the progress of the 1st.of may",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/mis-valoraciones-sobre-la-marcha-del-1o-de-mayo/",
+        "published_date": "2026-05-03 00:51:37",
+        "category": "Local Events"
     },
     {
         "title": "El Salvador prepares for a unique reality show: The search for Miss Universe El Salvador 2026 begins",
@@ -480,83 +536,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/05/spirit-airlines-colapsa-y-cancela-todos-sus-vuelos/",
         "published_date": "2026-05-02 19:33:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rains with electrical activity and heat for this Saturday",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/lluvias-con-actividad-electrica-y-calor-para-este-sabado/",
-        "published_date": "2026-05-02 19:24:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mexico will host the 2026 U-20 Championship.",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/mexico-sera-sede-del-campeonato-sub-20-de-2026/",
-        "published_date": "2026-05-02 18:37:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The quarterfinals are on!Classics, revenge and pending accounts in the Clausura 2026",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/se-prenden-los-cuartos-de-final-clasicos-revancha-y-cuentas-pendientes-en-el-clausura-2026/",
-        "published_date": "2026-05-02 18:36:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 36,000 high school graduates begin academic reinforcements to qualify for a scholarship",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/mas-de-36000-bachilleres-inician-refuerzos-academicos-para-optar-a-una-beca/",
-        "published_date": "2026-05-02 18:25:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Saturday with thunderstorms and hot weather in the national territory",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sabado-con-lluvias-electricas-y-ambiente-caluroso-en-el-territorio-nacional/",
-        "published_date": "2026-05-02 18:10:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Municipal markets are now ready for the celebration of the day of the cross in San Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mercados-municipales-ya-estan-listos-para-la-celebracion-del-dia-de-la-cruz-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=mercados-municipales-ya-estan-listos-para-la-celebracion-del-dia-de-la-cruz-en-san-salvador",
-        "published_date": "2026-05-02 18:06:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Markets in the center of San Salvador offer products to celebrate the Day of the Cross",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/mercados-del-centro-de-san-salvador-ofrecen-productos-para-celebrar-el-dia-de-la-cruz/",
-        "published_date": "2026-05-02 18:03:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "They carry out a comprehensive cleaning day in Mejicanos, San Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/realizan-jornada-integral-de-limpieza-en-mejicanos-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=realizan-jornada-integral-de-limpieza-en-mejicanos-san-salvador",
-        "published_date": "2026-05-02 17:38:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fire destroys several stalls in Armenia's municipal market",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/incendio-destruye-varios-puestos-en-mercado-municipal-de-armenia/",
-        "published_date": "2026-05-02 17:33:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nom\u00e1dica announces agenda of activities for May in El Salvador",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/nomadica-anuncia-agenda-de-actividades-para-mayo-en-el-salvador/",
-        "published_date": "2026-05-02 14:55:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shakira shakes Copacabana with a historic show in front of the sea",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/shakira-sacude-copacabana-con-un-show-historico-frente-al-mar/",
-        "published_date": "2026-05-02 12:07:00",
         "category": "Local Events"
     }
 ]
