@@ -1,5 +1,12 @@
 [
     {
+        "title": "Discussion between bowling ends with one captured and one injured",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/discusion-entre-bolos-termina-con-un-capturado-y-un-herido/",
+        "published_date": "2026-05-03 18:17:14",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Minister of Labor calls to purge unionism and strengthen labor justice",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/ministro-de-trabajo-llama-a-depurar-el-sindicalismo-y-fortalecer-la-justicia-laboral/?utm_source=rss&utm_medium=rss&utm_campaign=ministro-de-trabajo-llama-a-depurar-el-sindicalismo-y-fortalecer-la-justicia-laboral",
@@ -77,11 +84,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Araqchi briefs Pakistan on Iran's stance on ceasefire",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/araqchi-informa-a-pakistan-sobre-la-postura-de-iran-respecto-al-alto-el-fuego/",
-        "published_date": "2026-04-25 14:15:19",
-        "category": "Diplomacy"
+        "title": "Forest fires controlled in Japan after 11 days of combat in Iwate",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/controlan-incendios-forestales-en-japon-tras-11-dias-de-combate-en-iwate/",
+        "published_date": "2026-05-03 16:27:07",
+        "category": "Military"
     },
     {
         "title": "Man arrested in Austria accused of poisoning baby food",
@@ -214,13 +221,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/lnb-dedica-sorteo-lotra-no-448-al-mag/",
         "published_date": "2026-04-30 08:39:01",
-        "category": "Military"
-    },
-    {
-        "title": "Assembly approves extension number 50 of the emergency regime",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/04/asamblea-aprueba-la-prorroga-numero-50-del-regimen-de-excepcion/",
-        "published_date": "2026-04-30 02:30:59",
         "category": "Military"
     },
     {
@@ -392,11 +392,88 @@
         "category": "Economy"
     },
     {
-        "title": "Ministry of Finance highlights economic growth of El Salvador",
+        "title": "American proposes marriage to Salvadoran woman after meeting on social networks",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/ministerio-de-hacienda-destaca-crecimiento-economico-de-el-salvador/",
-        "published_date": "2026-04-25 14:56:36",
-        "category": "Economy"
+        "url": "https://croniosv.com/redes/virales/estadounidense-le-propone-matrimonio-a-salvadorena-tras-conocerse-en-redes-sociales/",
+        "published_date": "2026-05-03 23:49:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Firefighters rescue a man who fell into a ravine in the Manuel Enrique Araujo mall in San Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/bomberos-rescatan-a-hombre-que-cayo-en-quebrada-de-la-alameda-manuel-enrique-araujo-en-san-salvador/",
+        "published_date": "2026-05-03 23:25:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "VIDEO |Motorcyclist crashes after speeding in San Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/video-motociclista-se-accidenta-tras-exceso-de-velocidad-en-san-salvador/",
+        "published_date": "2026-05-03 22:53:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pedestrian dies after being hit by cargo truck",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/peaton-muere-tras-ser-atropellado-por-camion-de-carga/",
+        "published_date": "2026-05-03 19:21:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Nayib Bukele calls the national network this Sunday night",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/el-presidente-nayib-bukele-convoca-a-cadena-nacional-este-domingo-por-la-noche/",
+        "published_date": "2026-05-03 19:10:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Messi, the \"star\" of the Miami Grand Prix",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/messi-la-estrella-del-gran-premio-de-miami/",
+        "published_date": "2026-05-03 18:45:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Maradona's daughter says that \"there was a plan\" to control her father that \"got out of hand\"",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/jetset/hija-de-maradona-dice-que-habia-un-plan-para-controlar-a-su-padre-que-se-fue-de-las-manos/",
+        "published_date": "2026-05-03 18:36:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Heavy rains leave eight dead and more than 3,700 evacuated in northeastern Brazil",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/fuertes-lluvias-dejan-ocho-fallecidos-y-mas-de-3700-evacuados-en-el-noreste-de-brasil/",
+        "published_date": "2026-05-03 16:18:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "They release 1,700 wild species and return them to their natural habitat",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/liberan-1700-especies-silvestres-y-las-devuelve-a-su-habitat-natural/",
+        "published_date": "2026-05-03 16:05:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Day of the Cross: a living tradition that merges faith and customs in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/dia-de-la-cruz-viva-tradicion-que-fusiona-fe-y-costumbres-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=dia-de-la-cruz-viva-tradicion-que-fusiona-fe-y-costumbres-en-el-salvador",
+        "published_date": "2026-05-03 15:14:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Nayib Bukele calls the national network this Sunday at 7:00 pm",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/presidente-nayib-bukele-convoca-a-cadena-nacional-este-domingo-a-las-700-pm/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-nayib-bukele-convoca-a-cadena-nacional-este-domingo-a-las-700-pm",
+        "published_date": "2026-05-03 15:09:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Heat and rain with electrical activity for this Sunday",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/calor-y-lluvias-con-actividad-electrica-para-este-domingo/",
+        "published_date": "2026-05-03 14:58:24",
+        "category": "Local Events"
     },
     {
         "title": "Firefighters control structural fire in homes in Santa Tecla",
@@ -452,90 +529,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/suben-a-cinco-los-muertos-por-lluvias-e-inundaciones-en-pernambuco-brasil/",
         "published_date": "2026-05-03 01:45:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cAudio only\u201d: New York opens a \u201cbookstore without books\u201d",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/tecnologia/solo-audio-nueva-york-abre-una-libreria-sin-libros/",
-        "published_date": "2026-05-03 01:38:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Between streaming and artificial intelligence: this is how the way of watching Star Wars evolves",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/tecnologia/entre-streaming-e-inteligencia-artificial-asi-evoluciona-la-forma-de-ver-star-wars/",
-        "published_date": "2026-05-03 01:34:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "My assessments on the progress of the 1st.of may",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/mis-valoraciones-sobre-la-marcha-del-1o-de-mayo/",
-        "published_date": "2026-05-03 00:51:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador prepares for a unique reality show: The search for Miss Universe El Salvador 2026 begins",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-salvador-se-prepara-para-un-reality-unico-la-busqueda-de-miss-universe-el-salvador-2026-comienza/",
-        "published_date": "2026-05-02 22:57:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barcelona beats Osasuna 2-1 and can be crowned this Sunday",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/el-barcelona-gana-2-1-a-osasuna-y-puede-coronarse-este-domingo/",
-        "published_date": "2026-05-02 22:39:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "A \u201cDream Team\u201d from La Selecta generates reactions on social networks",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/un-dream-team-de-la-selecta-genera-reacciones-en-redes-sociales/",
-        "published_date": "2026-05-02 21:37:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "VIDEO |Woman stars in scandal after discovering her partner's infidelity",
-        "source": "Cronio",
-        "url": "https://croniosv.com/redes/virales/video-mujer-protagoniza-escandalo-tras-descubrir-infidelidad-de-su-pareja/",
-        "published_date": "2026-05-02 21:31:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Acts of vandalism and attacks on communicators during the May 1st march due to opposition",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/actos-vandalicos-y-agresiones-a-comunicadores-en-marcha-del-1-o-de-mayo-por-oposicion/",
-        "published_date": "2026-05-02 20:57:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "65 patients benefit during urological sessions",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/benefician-a-65-pacientes-durante-jornadas-urologicas/",
-        "published_date": "2026-05-02 20:49:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Summary of the last week of April to May 2, 2026",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/resumen-de-la-ultima-semana-de-abril-al-2-de-mayo-de-2026/",
-        "published_date": "2026-05-02 20:20:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "BINAES will celebrate Star Wars Day with exhibitions, cosplay and activities for the whole family",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/binaes-celebrara-el-dia-de-star-wars-con-exposiciones-cosplay-y-actividades-para-toda-la-familia/",
-        "published_date": "2026-05-02 19:57:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spirit Airlines collapses and cancels all its flights",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/spirit-airlines-colapsa-y-cancela-todos-sus-vuelos/",
-        "published_date": "2026-05-02 19:33:45",
         "category": "Local Events"
     }
 ]
