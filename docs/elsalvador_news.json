@@ -1,5 +1,40 @@
 [
     {
+        "title": "Meeting in the Legislative Assembly to strengthen ties between El Salvador and the United States",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/rncuentro-en-la-asamblea-legislativa-fortalece-lazos-entre-el-salvador-y-estados-unidos/?utm_source=rss&utm_medium=rss&utm_campaign=rncuentro-en-la-asamblea-legislativa-fortalece-lazos-entre-el-salvador-y-estados-unidos",
+        "published_date": "2026-05-05 22:47:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Outgoing president of Costa Rica was appointed super minister by his successor",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/presidente-saliente-de-costa-rica-fue-designado-superministro-por-su-sucesora/",
+        "published_date": "2026-05-05 20:31:20",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Spanish writer Bel\u00e9n de Le\u00f3n highlights President Bukele as an international inspiration",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/escritora-espanola-belen-de-leon-destaca-al-presidente-bukele-como-inspiracion-internacional/?utm_source=rss&utm_medium=rss&utm_campaign=escritora-espanola-belen-de-leon-destaca-al-presidente-bukele-como-inspiracion-internacional",
+        "published_date": "2026-05-05 19:57:58",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "UN Tourism highlights the Family Friendly seal",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/onu-turismo-destaca-el-sello-family-friendly/",
+        "published_date": "2026-05-05 19:31:10",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Foreign Ministry, RNPN and TSE provide technical opinion on representation of the diaspora in the Legislative Assembly",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/cancilleria-rnpn-y-tse-brindan-opinion-tecnica-sobre-representacion-de-la-diaspora-en-asamblea-legislativa/",
+        "published_date": "2026-05-05 19:24:57",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Deputies will listen to vice minister of RREE, RNPN and TSE for constitutional reforms",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/diputados-escucharan-a-viceministra-de-rree-rnpn-y-tse-por-reformas-constitucionales/",
@@ -89,6 +124,27 @@
         "url": "https://ultimahora.sv/vicepresidente-felix-ulloa-fortalece-la-agenda-bilateral-con-italia-durante-foro-economico/",
         "published_date": "2026-04-28 16:24:09",
         "category": "Diplomacy"
+    },
+    {
+        "title": "They capture two people with drugs on the road to the Port of La Libertad",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/capturan-a-dos-personas-con-droga-en-carretera-al-puerto-de-la-libertad/",
+        "published_date": "2026-05-05 22:23:30",
+        "category": "Military"
+    },
+    {
+        "title": "They arrest the alleged person responsible for the feminicide that occurred on April 30",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/detienen-a-presunto-responsable-del-feminicidio-ocurrido-el-30-de-abril/",
+        "published_date": "2026-05-05 19:38:09",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador brings together international experts in aviation safety at IFIS 2026",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/el-salvador-reune-a-expertos-internacionales-en-seguridad-aerea-en-el-ifis-2026/",
+        "published_date": "2026-05-05 14:04:51",
+        "category": "Military"
     },
     {
         "title": "Threats attributed to the United Arab Emirates provoke a strong Iranian reaction",
@@ -210,27 +266,6 @@
         "category": "Military"
     },
     {
-        "title": "\u201cThe Rock\u201d is intervened by the police in Los Angeles",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/la-roca-es-intervenido-por-la-policia-en-los-angeles/",
-        "published_date": "2026-05-02 22:33:09",
-        "category": "Military"
-    },
-    {
-        "title": "Salvadorans and foreigners enjoy the beaches in Surf City during the long weekend",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/salvadorenos-y-extranjeros-disfrutan-de-las-playas-en-surf-city-durante-el-fin-de-semana-largo/",
-        "published_date": "2026-05-02 20:12:35",
-        "category": "Military"
-    },
-    {
-        "title": "Minister of Defense participates in international cup for the anniversary of the Armed Forces",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ministro-de-defensa-participa-en-copa-internacional-por-aniversario-de-la-fuerza-armada/?utm_source=rss&utm_medium=rss&utm_campaign=ministro-de-defensa-participa-en-copa-internacional-por-aniversario-de-la-fuerza-armada",
-        "published_date": "2026-05-02 20:00:31",
-        "category": "Military"
-    },
-    {
         "title": "Brent oil soars after escalation in the Middle East and global fears over supply",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/petroleo-brent-se-dispara-tras-escalada-en-medio-oriente-y-temor-global-por-el-suministro/",
@@ -280,18 +315,32 @@
         "category": "Energy"
     },
     {
-        "title": "Fuel prices increase by $0.07 starting tomorrow",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/aumentan-0-07-los-combustibles-a-partir-de-manana/",
-        "published_date": "2026-04-27 23:17:57",
-        "category": "Energy"
+        "title": "El Salvador participates in regional summit against illicit trade",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-participa-en-cumbre-regional-contra-el-comercio-ilicito/",
+        "published_date": "2026-05-05 23:20:12",
+        "category": "Economy"
     },
     {
-        "title": "Oil price continues to rise due to tensions in the Middle East",
+        "title": "Iran steps up threats over US operation in Hormuz",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/iran-intensifica-sus-amenazas-por-la-operacion-de-ee-uu-en-ormuz/",
+        "published_date": "2026-05-05 20:11:13",
+        "category": "Economy"
+    },
+    {
+        "title": "El Salvador aims to become a technology supplier to the US",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/el-salvador-apunta-a-convertirse-en-proveedor-tecnologico-de-ee-uu/",
+        "published_date": "2026-05-05 20:05:34",
+        "category": "Economy"
+    },
+    {
+        "title": "Santa Tecla promotes urban order and local commerce with the removal of abandoned vehicles and improvements in the Mercadito Tecle\u00f1o",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/precio-del-petroleo-continua-en-aumento-por-tensiones-en-medio-oriente/?utm_source=rss&utm_medium=rss&utm_campaign=precio-del-petroleo-continua-en-aumento-por-tensiones-en-medio-oriente",
-        "published_date": "2026-04-27 15:00:37",
-        "category": "Energy"
+        "url": "https://lapagina.com.sv/nacionales/santa-tecla-impulsa-el-orden-urbano-y-el-comercio-local-con-retiro-de-vehiculos-abandonados-y-mejoras-en-el-mercadito-tecleno/?utm_source=rss&utm_medium=rss&utm_campaign=santa-tecla-impulsa-el-orden-urbano-y-el-comercio-local-con-retiro-de-vehiculos-abandonados-y-mejoras-en-el-mercadito-tecleno",
+        "published_date": "2026-05-05 17:36:58",
+        "category": "Economy"
     },
     {
         "title": "CABEI, European Union and KfW support advances in the circular economy and business strengthening in The Union",
@@ -406,150 +455,143 @@
         "category": "Economy"
     },
     {
-        "title": "My Financial Journey strengthens economic education in Salvadoran students",
+        "title": "Alexia Rivas: \u201cIt is not yet defined how many deputies there will be for the new constituency from abroad nor what the form of election will be\u201d",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/alexia-rivas-aun-no-esta-definido-cuantos-diputados-seran-por-la-nueva-circunscripcion-del-exterior-ni-como-sera-la-forma-de-eleccion/",
+        "published_date": "2026-05-05 23:48:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "MS13 gang member captured with arrest warrants in San Miguel",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mi-viaje-financiero-fortalece-educacion-economica-en-estudiantes-salvadorenos/?utm_source=rss&utm_medium=rss&utm_campaign=mi-viaje-financiero-fortalece-educacion-economica-en-estudiantes-salvadorenos",
-        "published_date": "2026-04-27 21:21:13",
-        "category": "Economy"
-    },
-    {
-        "title": "VAMOS would not make alliances with political parties reiterates Claudia Ortiz",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/vamos-no-haria-alianzas-con-partidos-politicos-reitera-claudia-ortiz/",
-        "published_date": "2026-05-05 11:03:23",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-pandillero-de-la-ms13-con-ordenes-de-arresto-en-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-pandillero-de-la-ms13-con-ordenes-de-arresto-en-san-miguel",
+        "published_date": "2026-05-05 23:29:54",
         "category": "Local Events"
     },
     {
-        "title": "Deputy Lira questions lack of policies on economic issues",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/diputado-lira-cuestiona-falta-de-politicas-en-tema-economico/",
-        "published_date": "2026-05-05 11:02:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "PRO-VIDA commemorates Labor Day with projects focused on the autonomy of women",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/pro-vida-conmemora-el-dia-del-trabajo-con-proyectos-enfocados-en-la-autonomia-de-mujeres/",
-        "published_date": "2026-05-05 11:01:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Student community of the National Institute of Sensuntepeque demands reinstatement of teachers",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/comunidad-estudiantil-del-instituto-nacional-de-sensuntepeque-exige-reinstalo-de-profesores/",
-        "published_date": "2026-05-05 11:00:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "It is time to defend sovereignty, says president of Mexico",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/es-tiempo-de-defensa-de-la-soberania-afirma-presidenta-de-mexico/",
-        "published_date": "2026-05-05 10:59:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "DICTATOR BUKELE'S NATIONAL CHAINS ARE SOUP OF WHISTLES",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/las-cadenas-nacionales-del-dictador-bukele-son-sopa-de-pitos/",
-        "published_date": "2026-05-05 10:55:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Selecta will have another training session with the World Cup team",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/selecta-tendra-otro-fogueo-con-seleccion-mundialista/",
-        "published_date": "2026-05-05 07:38:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "They promote an early warning system against forest fires",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/impulsan-sistema-de-alerta-temprana-contra-incendios-forestales/",
-        "published_date": "2026-05-05 07:23:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Chapo asks US authorities to transfer him to Mexico",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-chapo-pide-a-las-autoridades-de-ee-uu-que-le-transfieran-a-mexico/",
-        "published_date": "2026-05-05 06:42:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "The PGR accredited 28 new conflict mediators",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/la-pgr-acredito-a-28-nuevos-mediadores-de-conflictos/",
-        "published_date": "2026-05-05 05:23:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "The eternal search for unity and labor fragmentation",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-eterna-busqueda-de-unidad-y-la-fragmentacion-laboral/",
-        "published_date": "2026-05-05 03:15:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elderly adult is rescued after spending hours in a ravine in Nejapa",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/adulto-mayor-es-rescatado-tras-pasar-horas-en-una-quebrada-en-nejapa/",
-        "published_date": "2026-05-05 02:07:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Analysis of proposal for representation of the diaspora in the Legislative Assembly continues",
+        "title": "They rule in favor of the Salvadoran diaspora having seats for the Legislative Assembly",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/continua-analisis-de-propuesta-para-representacion-de-la-diaspora-en-asamblea-legislativa/",
-        "published_date": "2026-05-05 01:49:51",
+        "url": "https://diariolahuella.com/dictaminan-a-favor-de-que-diaspora-salvadorena-tenga-escanos-para-asamblea-legislativa/",
+        "published_date": "2026-05-05 22:35:43",
         "category": "Local Events"
     },
     {
-        "title": "MS veteran captured during patrol in Ilopango",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-veterano-de-la-ms-durante-patrullaje-en-ilopango/",
-        "published_date": "2026-05-05 00:22:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reconstruction works of three bridges in San Miguel advance",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/avanzan-obras-de-reconstruccion-de-tres-puentes-en-san-miguel/",
-        "published_date": "2026-05-05 00:19:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prosecutor's Office presents key audios in proceedings against 486 MS-13 leaders",
+        "title": "Arsenal beat Atl\u00e9tico de Madrid 1-0 and is the first finalist in the Champions League",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/fiscalia-presenta-audios-clave-en-proceso-contra-486-lideres-de-la-ms-13/",
-        "published_date": "2026-05-05 00:14:04",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/arsenal-le-gano-1-a-0-a-atletico-de-madrid-y-es-el-primer-finalista-de-la-champions-league/",
+        "published_date": "2026-05-05 22:11:26",
         "category": "Local Events"
     },
     {
-        "title": "Atl\u00e9tico has final ambitions",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-atletico-tiene-ambicion-de-final/",
-        "published_date": "2026-05-05 00:14:00",
+        "title": "Prosecuted for aggravated femicide will remain detained while he goes to trial in San Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/procesado-por-feminicidio-agravado-seguira-detenido-mientras-avanza-a-juicio-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=procesado-por-feminicidio-agravado-seguira-detenido-mientras-avanza-a-juicio-en-san-salvador",
+        "published_date": "2026-05-05 22:10:24",
         "category": "Local Events"
     },
     {
-        "title": "Roma thrash Fiorentina and continue in the fight for the next Champions League",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/la-roma-golea-a-la-fiorentina-y-sigue-en-la-pugna-por-la-proxima-champions/",
-        "published_date": "2026-05-05 00:12:14",
+        "title": "Intensive cleaning in Ayutuxtepeque seeks to stop sources of garbage and prevent flooding",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/limpieza-intensiva-en-ayutuxtepeque-busca-frenar-focos-de-basura-y-prevenir-inundaciones/?utm_source=rss&utm_medium=rss&utm_campaign=limpieza-intensiva-en-ayutuxtepeque-busca-frenar-focos-de-basura-y-prevenir-inundaciones",
+        "published_date": "2026-05-05 21:44:06",
         "category": "Local Events"
     },
     {
-        "title": "Shakira achieves historical record with concert before 2.5 million in Copacabana",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/shakira-logra-record-historico-con-concierto-ante-2-5-millones-en-copacabana/",
-        "published_date": "2026-05-05 00:09:24",
+        "title": "DOM delivers completely rebuilt school in Acajutla, Sonsonate",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/dom-entrega-escuela-completamente-reconstruida-en-acajutla-sonsonate/",
+        "published_date": "2026-05-05 21:24:51",
         "category": "Local Events"
     },
     {
-        "title": "Britney Spears admits to reckless driving in agreement with justice",
+        "title": "El Salvador receives the National Ballet of Kosovo for an international dance gala",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-recibe-al-ballet-nacional-de-kosovo-para-una-gala-internacional-de-danza/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-recibe-al-ballet-nacional-de-kosovo-para-una-gala-internacional-de-danza",
+        "published_date": "2026-05-05 20:44:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Moli\u00e8re returns to the scene thanks to a work created with AI",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/britney-spears-admite-haber-manejado-de-forma-imprudente-en-acuerdo-con-la-justicia/",
-        "published_date": "2026-05-04 23:55:14",
+        "url": "https://croniosv.com/principal/principal1/moliere-vuelve-a-escena-gracias-a-una-obra-creada-con-ia/",
+        "published_date": "2026-05-05 20:29:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador aims to improve its position before the ILO",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-apunta-a-mejorar-su-posicion-ante-la-oit/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-apunta-a-mejorar-su-posicion-ante-la-oit",
+        "published_date": "2026-05-05 20:12:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "They remove illegal structure on the sidewalk of Colonia Luz to free up pedestrian crossing",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/retiran-estructura-ilegal-en-acera-de-colonia-luz-para-liberar-paso-peatonal/",
+        "published_date": "2026-05-05 20:10:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele consolidates his role as a statesman, says political analyst",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/presidente-bukele-consolida-su-funcion-de-estadista-afirma-analista-politico/",
+        "published_date": "2026-05-05 20:07:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 1.8 million are already participating: puma pris presents winners and raffles off new trips to Cartagena today",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/mas-de-1-8-millones-ya-participan-puma-pris-presenta-ganadores-y-sortea-hoy-nuevos-viajes-a-cartagena/",
+        "published_date": "2026-05-05 19:56:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Governments of El Salvador and Italy deliver housing complex in San Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/gobiernos-de-el-salvador-e-italia-entregan-complejo-habitacional-en-san-salvador/",
+        "published_date": "2026-05-05 19:50:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Argentina commemorates the 125th anniversary of the birth of Consuelo Sunc\u00edn",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/argentina-conmemora-el-125-aniversario-del-natalicio-de-consuelo-suncin/",
+        "published_date": "2026-05-05 19:47:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Construction of Plaza Mundo Ahuachap\u00e1n announced",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/anuncian-construccion-de-plaza-mundo-ahuachapan/",
+        "published_date": "2026-05-05 19:40:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government and FAO bet on agriculture",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/gobierno-y-fao-apuestan-por-la-agricultura/",
+        "published_date": "2026-05-05 19:37:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "122 older adults participated in the monthly meeting of the Integrando Abuelos program",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/122-adultos-mayores-participaron-en-reunion-mensual-del-programa-integrando-abuelos/",
+        "published_date": "2026-05-05 19:33:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "They deliver a housing complex in the Center of San Salvador with international support",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/entregan-complejo-habitacional-en-el-centro-de-san-salvador-con-apoyo-internacional/",
+        "published_date": "2026-05-05 19:33:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "ICE captures \u201cTony Playboy\u201d, a fugitive for a shooting in Texas that occurred in 1989",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/internacionales/ice-captura-a-tony-playboy-profugo-por-tiroteo-en-texas-ocurrido-en-1989/?utm_source=rss&utm_medium=rss&utm_campaign=ice-captura-a-tony-playboy-profugo-por-tiroteo-en-texas-ocurrido-en-1989",
+        "published_date": "2026-05-05 19:26:51",
         "category": "Local Events"
     }
 ]
