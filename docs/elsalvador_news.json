@@ -126,11 +126,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Vice President F\u00e9lix Ulloa strengthens the bilateral agenda with Italy during economic forum",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/vicepresidente-felix-ulloa-fortalece-la-agenda-bilateral-con-italia-durante-foro-economico/",
-        "published_date": "2026-04-28 16:24:09",
-        "category": "Diplomacy"
+        "title": "Ombudsman launches program to reinforce product safety and protect consumers",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/defensoria-lanza-programa-para-reforzar-la-seguridad-de-productos-y-proteger-a-los-consumidores/?utm_source=rss&utm_medium=rss&utm_campaign=defensoria-lanza-programa-para-reforzar-la-seguridad-de-productos-y-proteger-a-los-consumidores",
+        "published_date": "2026-05-06 20:04:58",
+        "category": "Military"
+    },
+    {
+        "title": "Ombudsman launches program to guarantee the safety of products in the market",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/defensoria-lanza-programa-para-garantizar-la-seguridad-de-productos-en-el-mercado/",
+        "published_date": "2026-05-06 19:47:33",
+        "category": "Military"
+    },
+    {
+        "title": "Government launches Product Safety Compliance program for the Protection of Consumers",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-lanza-programa-de-cumplimiento-en-seguridad-de-productos-para-la-proteccion-de-los-consumidores/",
+        "published_date": "2026-05-06 19:28:30",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a gang member deported from the United States",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-pandillero-deportado-de-estados-unidos/",
+        "published_date": "2026-05-06 17:04:01",
+        "category": "Military"
     },
     {
         "title": "PNC arrests alleged person responsible for femicide in Santa Ana",
@@ -245,34 +266,6 @@
         "category": "Military"
     },
     {
-        "title": "Iran is prepared for any scenario in the Strait of Hormuz: military source",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/iran-esta-preparado-para-cualquier-escenario-en-el-estrecho-de-ormuz-fuente-militar/",
-        "published_date": "2026-05-04 13:49:51",
-        "category": "Military"
-    },
-    {
-        "title": "Security drives increase in school enrollment in previously affected areas",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/seguridad-impulsa-aumento-de-matricula-escolar-en-zonas-antes-afectadas/",
-        "published_date": "2026-05-04 02:18:13",
-        "category": "Military"
-    },
-    {
-        "title": "202nd anniversary Cup of the Armed Forces brings together national and international shooters",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/copa-202-aniversario-de-la-fuerza-armada-reune-a-tiradores-nacionales-e-intermacionales/?utm_source=rss&utm_medium=rss&utm_campaign=copa-202-aniversario-de-la-fuerza-armada-reune-a-tiradores-nacionales-e-intermacionales",
-        "published_date": "2026-05-04 00:05:32",
-        "category": "Military"
-    },
-    {
-        "title": "Forest fires controlled in Japan after 11 days of combat in Iwate",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/controlan-incendios-forestales-en-japon-tras-11-dias-de-combate-en-iwate/",
-        "published_date": "2026-05-03 16:27:07",
-        "category": "Military"
-    },
-    {
         "title": "Brent oil soars after escalation in the Middle East and global fears over supply",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/petroleo-brent-se-dispara-tras-escalada-en-medio-oriente-y-temor-global-por-el-suministro/",
@@ -301,18 +294,25 @@
         "category": "Energy"
     },
     {
-        "title": "El Salvador maintains the lowest fuel prices in the region",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-salvador-mantiene-los-precios-de-combustibles-mas-bajos-de-la-region/",
-        "published_date": "2026-04-28 17:49:03",
-        "category": "Energy"
+        "title": "\u201cYou are always welcome to El Salvador\u201d: President Bukele to Congresswoman Anna Paulina Luna",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/siempre-eres-bienvenida-a-el-salvador-presidente-bukele-a-congresista-anna-paulina-luna/",
+        "published_date": "2026-05-06 22:42:57",
+        "category": "Economy"
     },
     {
-        "title": "El Salvador keeps fuel prices below $5 while the region reports increases",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-mantiene-combustibles-por-debajo-de-5-mientras-region-reporta-alzas/",
-        "published_date": "2026-04-28 15:52:50",
-        "category": "Energy"
+        "title": "n1co announces the launch of the n1co Coupons platform, a new digital showcase to boost business growth",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/n1co-anuncia-el-lanzamiento-de-la-plataforma-n1co-cupones-una-nueva-vitrina-digital-para-impulsar-el-crecimiento-de-comercios/",
+        "published_date": "2026-05-06 21:39:26",
+        "category": "Economy"
+    },
+    {
+        "title": "Tax collection exceeds projections and reaches $2,100.3 million at the end of March",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/recaudacion-tributaria-supera-proyecciones-y-alcanza-2100-3-millones-al-cierre-de-marzo/",
+        "published_date": "2026-05-06 16:14:45",
+        "category": "Economy"
     },
     {
         "title": "Assembly endorses third extension of exemption for foreign missions",
@@ -434,164 +434,143 @@
         "category": "Economy"
     },
     {
-        "title": "Treasury urges taxpayers to submit income tax returns before the deadline",
+        "title": "Audios from the FGR show detailed surveillance and control of the MS-13 in the execution of homicides",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/hacienda-insta-a-contribuyentes-a-presentar-declaracion-de-renta-antes-del-vencimiento-del-plazo/?utm_source=rss&utm_medium=rss&utm_campaign=hacienda-insta-a-contribuyentes-a-presentar-declaracion-de-renta-antes-del-vencimiento-del-plazo",
-        "published_date": "2026-04-29 15:27:32",
-        "category": "Economy"
+        "url": "https://lapagina.com.sv/nacionales/audios-de-la-fgr-evidencian-vigilancia-detallada-y-control-de-la-ms-13-en-la-ejecucion-de-homicidios/?utm_source=rss&utm_medium=rss&utm_campaign=audios-de-la-fgr-evidencian-vigilancia-detallada-y-control-de-la-ms-13-en-la-ejecucion-de-homicidios",
+        "published_date": "2026-05-06 23:52:25",
+        "category": "Local Events"
     },
     {
-        "title": "Provida Program promotes access to housing for 1,750 families with support from CABEI",
+        "title": "Consuelo Porras concludes her management within the Public Ministry of Guatemala amid criticism and controversies",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/programa-provida-impulsa-acceso-a-vivienda-para-1750-familias-con-apoyo-del-bcie/?utm_source=rss&utm_medium=rss&utm_campaign=programa-provida-impulsa-acceso-a-vivienda-para-1750-familias-con-apoyo-del-bcie",
-        "published_date": "2026-04-29 01:23:32",
-        "category": "Economy"
-    },
-    {
-        "title": "CABEI approves financing of $155 million for road infrastructure projects in El Salvador",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/bcie-aprueba-financiamiento-de-155-millones-para-proyectos-de-infraestructura-vial-en-el-salvador/",
-        "published_date": "2026-04-28 21:01:23",
-        "category": "Economy"
-    },
-    {
-        "title": "Two Schools X Day Program reaches 700 educational centers intervened",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/programa-dos-escuelas-x-dia-alcanza-700-centros-educativos-intervenidos/",
-        "published_date": "2026-05-06 12:33:42",
+        "url": "https://lapagina.com.sv/internacionales/consuelo-porras-concluye-su-gestion-dentro-del-ministerio-publico-de-guatemala-en-medio-de-criticas-y-controversias/?utm_source=rss&utm_medium=rss&utm_campaign=consuelo-porras-concluye-su-gestion-dentro-del-ministerio-publico-de-guatemala-en-medio-de-criticas-y-controversias",
+        "published_date": "2026-05-06 23:50:45",
         "category": "Local Events"
     },
     {
-        "title": "\u201cRuth flourishes in freedom\u201d",
+        "title": "APES registers 426 attacks against Salvadoran journalists in 2025",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ruth-florece-en-libertad/",
-        "published_date": "2026-05-06 11:07:51",
+        "url": "https://www.diariocolatino.com/apes-registra-426-agresiones-contra-periodistas-salvadorenos-en-2025/",
+        "published_date": "2026-05-06 23:47:12",
         "category": "Local Events"
     },
     {
-        "title": "They agree to ratify constitutional reform for a new constituency and that TSE is not proposed by parties",
+        "title": "May Day march in Los Angeles California, on International Workers' Day",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/acuerdan-ratificar-reforma-constitucional-para-nueva-circunscripcion-y-que-tse-no-sea-a-propuesta-de-partidos/",
-        "published_date": "2026-05-06 11:06:22",
+        "url": "https://www.diariocolatino.com/marcha-del-primero-de-mayo-en-los-angeles-california-en-el-dia-internacional-del-trabajador/",
+        "published_date": "2026-05-06 23:33:53",
         "category": "Local Events"
     },
     {
-        "title": "Economist points out reduction in schools and lower educational investment",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/economista-senala-reduccion-de-escuelas-y-menor-inversion-educativa/",
-        "published_date": "2026-05-06 11:04:29",
+        "title": "Puma Pris presents winners and raffles off new trips to Cartagena",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/puma-pris-presenta-ganadores-y-sortea-nuevos-viajes-a-cartagena/",
+        "published_date": "2026-05-06 23:24:14",
         "category": "Local Events"
     },
     {
-        "title": "VAMOS requests that all parties be audited by the CCR",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/vamos-pide-que-todos-los-partidos-sean-auditados-por-la-ccr/",
-        "published_date": "2026-05-06 11:03:16",
+        "title": "FEDECR\u00c9DITO SYSTEM supports the Alfa climber Karina Arru\u00e9 and promotes Salvadoran talent",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/sistema-fedecredito-apoya-a-la-escaladora-alfa-karina-arrue-e-impulsa-el-talento-salvadoreno/",
+        "published_date": "2026-05-06 23:17:24",
         "category": "Local Events"
     },
     {
-        "title": "Red Cross of El Salvador, Honduras and Guatemala carry out simulation of humanitarian assistance",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cruz-roja-de-el-salvador-honduras-y-guatemala-realizan-simulacion-de-asistencia-humanitaria/",
-        "published_date": "2026-05-06 11:01:14",
+        "title": "LOTRA Raffle No. 449 pays tribute to the Birth with Love Law",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/sorteo-lotra-n-449-homenajea-a-la-ley-nacer-con-carino/",
+        "published_date": "2026-05-06 23:06:21",
         "category": "Local Events"
     },
     {
-        "title": "Manuel Flores questions government management and defends the social policy legacy of the FMLN",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/manuel-flores-cuestiona-gestion-gubernamental-y-defiende-legado-en-politicas-sociales-del-fmln/",
-        "published_date": "2026-05-06 11:00:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "IS IT POSSIBLE FOR THE WEST, FOR OUR COUNTRY, TO STILL INSTALL EFFECTIVE DEMOCRACIES IN THE FACE OF THE PROGRESS OF THE DARK ENLIGHTENMENT IN THE US?",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/es-posible-para-occidente-para-nuestro-pais-instalar-aun-democracias-efectivas-de-frente-a-los-progresos-de-la-ilustracion-oscura-en-los-eu/",
-        "published_date": "2026-05-06 10:59:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Arsenal, first finalist of UEFA Champions League 2026",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/arsenal-primer-finalista-de-uefa-champions-league-2026/",
-        "published_date": "2026-05-06 10:58:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Junior H confirms his arrival in El Salvador in May 2026",
+        "title": "LOTRA Raffle No. 449, dedicated to the Birth with Love Law, in honor of the health personnel who accompany the mother, her baby and her family!",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/junior-h-confirma-su-llegada-a-el-salvador-en-mayo-del-2026/",
-        "published_date": "2026-05-06 03:16:36",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/sorteo-lotra-no-449-dedicado-a-la-ley-nacer-con-carino-en-honor-al-personal-de-salud-que-acompana-a-la-mama-su-bebe-y-su-familia/",
+        "published_date": "2026-05-06 23:05:18",
         "category": "Local Events"
     },
     {
-        "title": "El Salvador assumes leadership role in global forum on migration",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-asume-rol-de-liderazgo-en-foro-global-sobre-migracion/",
-        "published_date": "2026-05-06 00:37:43",
+        "title": "Hearing advances against 486 historical leaders of the MS",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/avanza-audiencia-contra-486-lideres-historicos-de-la-ms/",
+        "published_date": "2026-05-06 22:56:12",
         "category": "Local Events"
     },
     {
-        "title": "They remove obstacles and punish offenders in the Escal\u00f3n neighborhood",
+        "title": "Congresswoman Ana Paulina Luna highlights progress in El Salvador after meeting with President Bukele",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/congresista-ana-paulina-luna-destaca-avances-de-el-salvador-tras-reunion-con-el-presidente-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=congresista-ana-paulina-luna-destaca-avances-de-el-salvador-tras-reunion-con-el-presidente-bukele",
+        "published_date": "2026-05-06 22:51:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "US has had \u201cvery good\u201d talks with Iran in the last 24 hours, says Trump",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/eeuu-ha-sostenido-muy-buenas-conversaciones-con-iran-en-las-ultimas-24-horas-dice-trump/",
+        "published_date": "2026-05-06 22:48:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The FEDECR\u00c9DITO SYSTEM supports the international climber Alfa Karina Arru\u00e9 and promotes Salvadoran talent",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/el-sistema-fedecredito-apoya-a-la-escaladora-internacional-alfa-karina-arrue-e-impulsa-el-talento-salvadoreno/?utm_source=rss&utm_medium=rss&utm_campaign=el-sistema-fedecredito-apoya-a-la-escaladora-internacional-alfa-karina-arrue-e-impulsa-el-talento-salvadoreno",
+        "published_date": "2026-05-06 22:47:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "New road in El Play\u00f3n seeks to speed up connection between the Litoral and Pan-American Highways",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/nueva-via-en-el-playon-busca-agilizar-conexion-entre-la-carretera-del-litoral-y-panamericana/?utm_source=rss&utm_medium=rss&utm_campaign=nueva-via-en-el-playon-busca-agilizar-conexion-entre-la-carretera-del-litoral-y-panamericana",
+        "published_date": "2026-05-06 22:30:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Suspect of attacking Salvadoran carrier captured in Guatemala",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/retiran-obstaculos-y-sancionan-infractores-en-la-colonia-escalon/",
-        "published_date": "2026-05-06 00:07:07",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/capturan-en-guatemala-a-sospechoso-de-atacar-a-transportista-salvadoreno/",
+        "published_date": "2026-05-06 22:21:36",
         "category": "Local Events"
     },
     {
-        "title": "Claudia Ortiz reiterates that they will not make an alliance with other political parties",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/claudia-ortiz-reitera-que-no-haran-alianza-con-otros-partidos-politicos/",
-        "published_date": "2026-05-06 00:05:54",
+        "title": "Fedecr\u00e9dito supports Alfa Karina Arru\u00e9 and promotes Salvadoran talent",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/fedecredito-apoya-a-alfa-karina-arrue-e-impulsa-talento-salvadoreno/",
+        "published_date": "2026-05-06 22:10:14",
         "category": "Local Events"
     },
     {
-        "title": "Alexia Rivas: \u201cIt is not yet defined how many deputies there will be for the new constituency from abroad nor what the form of election will be\u201d",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/alexia-rivas-aun-no-esta-definido-cuantos-diputados-seran-por-la-nueva-circunscripcion-del-exterior-ni-como-sera-la-forma-de-eleccion/",
-        "published_date": "2026-05-05 23:48:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "MS13 gang member captured with arrest warrants in San Miguel",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-pandillero-de-la-ms13-con-ordenes-de-arresto-en-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-pandillero-de-la-ms13-con-ordenes-de-arresto-en-san-miguel",
-        "published_date": "2026-05-05 23:29:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "They rule in favor of the Salvadoran diaspora having seats for the Legislative Assembly",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/dictaminan-a-favor-de-que-diaspora-salvadorena-tenga-escanos-para-asamblea-legislativa/",
-        "published_date": "2026-05-05 22:35:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Arsenal beat Atl\u00e9tico de Madrid 1-0 and is the first finalist in the Champions League",
+        "title": "PSG suffered in the final 1-1 against Bayern Munich, but will play in the Champions League final again",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/arsenal-le-gano-1-a-0-a-atletico-de-madrid-y-es-el-primer-finalista-de-la-champions-league/",
-        "published_date": "2026-05-05 22:11:26",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/psg-sufrio-en-el-final-1-1-ante-bayern-munich-pero-jugara-otra-vez-la-final-de-la-champions-league/",
+        "published_date": "2026-05-06 22:07:23",
         "category": "Local Events"
     },
     {
-        "title": "Prosecuted for aggravated femicide will remain detained while he goes to trial in San Salvador",
+        "title": "President Bukele helps transport injured compatriot in Guatemala",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/presidente-bukele-ayuda-a-trasladar-a-compatriota-lesionado-en-guatemala/",
+        "published_date": "2026-05-06 21:57:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than one hundred patients benefit from a visual health day at Zacamil hospital",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/mas-de-cien-pacientes-son-beneficiados-con-jornada-de-salud-visual-en-hospital-zacamil/",
+        "published_date": "2026-05-06 20:55:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marcelo Ar\u00e9valo reaffirms his place in the world tennis elite after training with Novak Djokovic in Rome",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/procesado-por-feminicidio-agravado-seguira-detenido-mientras-avanza-a-juicio-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=procesado-por-feminicidio-agravado-seguira-detenido-mientras-avanza-a-juicio-en-san-salvador",
-        "published_date": "2026-05-05 22:10:24",
+        "url": "https://lapagina.com.sv/deportes/marcelo-arevalo-reafirma-su-lugar-en-la-elite-del-tenis-mundial-tras-entrenar-con-novak-djokovic-en-roma/?utm_source=rss&utm_medium=rss&utm_campaign=marcelo-arevalo-reafirma-su-lugar-en-la-elite-del-tenis-mundial-tras-entrenar-con-novak-djokovic-en-roma",
+        "published_date": "2026-05-06 20:47:42",
         "category": "Local Events"
     },
     {
-        "title": "Intensive cleaning in Ayutuxtepeque seeks to stop sources of garbage and prevent flooding",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/limpieza-intensiva-en-ayutuxtepeque-busca-frenar-focos-de-basura-y-prevenir-inundaciones/?utm_source=rss&utm_medium=rss&utm_campaign=limpieza-intensiva-en-ayutuxtepeque-busca-frenar-focos-de-basura-y-prevenir-inundaciones",
-        "published_date": "2026-05-05 21:44:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "DOM delivers completely rebuilt school in Acajutla, Sonsonate",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/dom-entrega-escuela-completamente-reconstruida-en-acajutla-sonsonate/",
-        "published_date": "2026-05-05 21:24:51",
+        "title": "The FEDECR\u00c9DITO SYSTEM supports the international climber Alfa Karina Arru\u00e9 and promotes Salvadoran talent",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/el-sistema-fedecredito-apoya-a-la-escaladora-internacional-alfa-karina-arrue-e-impulsa-el-talento-salvadoreno/",
+        "published_date": "2026-05-06 20:46:31",
         "category": "Local Events"
     }
 ]
