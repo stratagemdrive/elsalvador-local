@@ -1,5 +1,12 @@
 [
     {
+        "title": "El Salvador stands out at the UN with leadership in International Migration",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-resalta-en-la-onu-con-liderazgo-en-migracion-internacional/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-resalta-en-la-onu-con-liderazgo-en-migracion-internacional",
+        "published_date": "2026-05-06 00:56:14",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Meeting in the Legislative Assembly to strengthen ties between El Salvador and the United States",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/rncuentro-en-la-asamblea-legislativa-fortalece-lazos-entre-el-salvador-y-estados-unidos/?utm_source=rss&utm_medium=rss&utm_campaign=rncuentro-en-la-asamblea-legislativa-fortalece-lazos-entre-el-salvador-y-estados-unidos",
@@ -124,6 +131,13 @@
         "url": "https://ultimahora.sv/vicepresidente-felix-ulloa-fortalece-la-agenda-bilateral-con-italia-durante-foro-economico/",
         "published_date": "2026-04-28 16:24:09",
         "category": "Diplomacy"
+    },
+    {
+        "title": "PNC arrests alleged person responsible for femicide in Santa Ana",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/pnc-detiene-a-presunto-responsable-del-feminicidio-en-santa-ana/",
+        "published_date": "2026-05-06 11:02:50",
+        "category": "Military"
     },
     {
         "title": "They capture two people with drugs on the road to the Port of La Libertad",
@@ -259,13 +273,6 @@
         "category": "Military"
     },
     {
-        "title": "Man arrested in Austria accused of poisoning baby food",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/detienen-en-austria-a-un-hombre-acusado-de-envenenar-comida-para-bebes/",
-        "published_date": "2026-05-03 01:54:39",
-        "category": "Military"
-    },
-    {
         "title": "Brent oil soars after escalation in the Middle East and global fears over supply",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/petroleo-brent-se-dispara-tras-escalada-en-medio-oriente-y-temor-global-por-el-suministro/",
@@ -308,11 +315,11 @@
         "category": "Energy"
     },
     {
-        "title": "Fuels register fifth consecutive increase",
+        "title": "Assembly endorses third extension of exemption for foreign missions",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/combustibles-registran-quinto-incremento-consecutivo/",
-        "published_date": "2026-04-28 11:03:48",
-        "category": "Energy"
+        "url": "https://www.diariocolatino.com/asamblea-avala-tercera-prorroga-de-exoneracion-para-misiones-extranjeras/",
+        "published_date": "2026-05-06 11:05:04",
+        "category": "Economy"
     },
     {
         "title": "El Salvador participates in regional summit against illicit trade",
@@ -448,11 +455,95 @@
         "category": "Economy"
     },
     {
-        "title": "Banco CUSCATLAN and the TEC of Monterrey bring the Family Business Summit to El Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/banco-cuscatlan-y-el-tec-de-monterrey-traen-a-el-salvador-el-summit-de-empresas-familiares-2/",
-        "published_date": "2026-04-28 18:50:47",
-        "category": "Economy"
+        "title": "Two Schools X Day Program reaches 700 educational centers intervened",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/programa-dos-escuelas-x-dia-alcanza-700-centros-educativos-intervenidos/",
+        "published_date": "2026-05-06 12:33:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cRuth flourishes in freedom\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ruth-florece-en-libertad/",
+        "published_date": "2026-05-06 11:07:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "They agree to ratify constitutional reform for a new constituency and that TSE is not proposed by parties",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/acuerdan-ratificar-reforma-constitucional-para-nueva-circunscripcion-y-que-tse-no-sea-a-propuesta-de-partidos/",
+        "published_date": "2026-05-06 11:06:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Economist points out reduction in schools and lower educational investment",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/economista-senala-reduccion-de-escuelas-y-menor-inversion-educativa/",
+        "published_date": "2026-05-06 11:04:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "VAMOS requests that all parties be audited by the CCR",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/vamos-pide-que-todos-los-partidos-sean-auditados-por-la-ccr/",
+        "published_date": "2026-05-06 11:03:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Red Cross of El Salvador, Honduras and Guatemala carry out simulation of humanitarian assistance",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cruz-roja-de-el-salvador-honduras-y-guatemala-realizan-simulacion-de-asistencia-humanitaria/",
+        "published_date": "2026-05-06 11:01:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Manuel Flores questions government management and defends the social policy legacy of the FMLN",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/manuel-flores-cuestiona-gestion-gubernamental-y-defiende-legado-en-politicas-sociales-del-fmln/",
+        "published_date": "2026-05-06 11:00:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "IS IT POSSIBLE FOR THE WEST, FOR OUR COUNTRY, TO STILL INSTALL EFFECTIVE DEMOCRACIES IN THE FACE OF THE PROGRESS OF THE DARK ENLIGHTENMENT IN THE US?",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/es-posible-para-occidente-para-nuestro-pais-instalar-aun-democracias-efectivas-de-frente-a-los-progresos-de-la-ilustracion-oscura-en-los-eu/",
+        "published_date": "2026-05-06 10:59:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Arsenal, first finalist of UEFA Champions League 2026",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/arsenal-primer-finalista-de-uefa-champions-league-2026/",
+        "published_date": "2026-05-06 10:58:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Junior H confirms his arrival in El Salvador in May 2026",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/junior-h-confirma-su-llegada-a-el-salvador-en-mayo-del-2026/",
+        "published_date": "2026-05-06 03:16:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador assumes leadership role in global forum on migration",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-asume-rol-de-liderazgo-en-foro-global-sobre-migracion/",
+        "published_date": "2026-05-06 00:37:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "They remove obstacles and punish offenders in the Escal\u00f3n neighborhood",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/retiran-obstaculos-y-sancionan-infractores-en-la-colonia-escalon/",
+        "published_date": "2026-05-06 00:07:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Claudia Ortiz reiterates that they will not make an alliance with other political parties",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/claudia-ortiz-reitera-que-no-haran-alianza-con-otros-partidos-politicos/",
+        "published_date": "2026-05-06 00:05:54",
+        "category": "Local Events"
     },
     {
         "title": "Alexia Rivas: \u201cIt is not yet defined how many deputies there will be for the new constituency from abroad nor what the form of election will be\u201d",
@@ -501,97 +592,6 @@
         "source": "Ultima Hora SV",
         "url": "https://ultimahora.sv/dom-entrega-escuela-completamente-reconstruida-en-acajutla-sonsonate/",
         "published_date": "2026-05-05 21:24:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador receives the National Ballet of Kosovo for an international dance gala",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-recibe-al-ballet-nacional-de-kosovo-para-una-gala-internacional-de-danza/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-recibe-al-ballet-nacional-de-kosovo-para-una-gala-internacional-de-danza",
-        "published_date": "2026-05-05 20:44:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Moli\u00e8re returns to the scene thanks to a work created with AI",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/moliere-vuelve-a-escena-gracias-a-una-obra-creada-con-ia/",
-        "published_date": "2026-05-05 20:29:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador aims to improve its position before the ILO",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-apunta-a-mejorar-su-posicion-ante-la-oit/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-apunta-a-mejorar-su-posicion-ante-la-oit",
-        "published_date": "2026-05-05 20:12:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "They remove illegal structure on the sidewalk of Colonia Luz to free up pedestrian crossing",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/retiran-estructura-ilegal-en-acera-de-colonia-luz-para-liberar-paso-peatonal/",
-        "published_date": "2026-05-05 20:10:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele consolidates his role as a statesman, says political analyst",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/presidente-bukele-consolida-su-funcion-de-estadista-afirma-analista-politico/",
-        "published_date": "2026-05-05 20:07:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 1.8 million are already participating: puma pris presents winners and raffles off new trips to Cartagena today",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/mas-de-1-8-millones-ya-participan-puma-pris-presenta-ganadores-y-sortea-hoy-nuevos-viajes-a-cartagena/",
-        "published_date": "2026-05-05 19:56:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Governments of El Salvador and Italy deliver housing complex in San Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/gobiernos-de-el-salvador-e-italia-entregan-complejo-habitacional-en-san-salvador/",
-        "published_date": "2026-05-05 19:50:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Argentina commemorates the 125th anniversary of the birth of Consuelo Sunc\u00edn",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/argentina-conmemora-el-125-aniversario-del-natalicio-de-consuelo-suncin/",
-        "published_date": "2026-05-05 19:47:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Construction of Plaza Mundo Ahuachap\u00e1n announced",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/anuncian-construccion-de-plaza-mundo-ahuachapan/",
-        "published_date": "2026-05-05 19:40:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government and FAO bet on agriculture",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/gobierno-y-fao-apuestan-por-la-agricultura/",
-        "published_date": "2026-05-05 19:37:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "122 older adults participated in the monthly meeting of the Integrando Abuelos program",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/122-adultos-mayores-participaron-en-reunion-mensual-del-programa-integrando-abuelos/",
-        "published_date": "2026-05-05 19:33:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "They deliver a housing complex in the Center of San Salvador with international support",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/entregan-complejo-habitacional-en-el-centro-de-san-salvador-con-apoyo-internacional/",
-        "published_date": "2026-05-05 19:33:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICE captures \u201cTony Playboy\u201d, a fugitive for a shooting in Texas that occurred in 1989",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/ice-captura-a-tony-playboy-profugo-por-tiroteo-en-texas-ocurrido-en-1989/?utm_source=rss&utm_medium=rss&utm_campaign=ice-captura-a-tony-playboy-profugo-por-tiroteo-en-texas-ocurrido-en-1989",
-        "published_date": "2026-05-05 19:26:51",
         "category": "Local Events"
     }
 ]
