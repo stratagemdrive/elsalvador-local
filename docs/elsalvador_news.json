@@ -126,11 +126,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The US highlights El Salvador as an attractive destination for investments",
+        "title": "Armed Forces dismantle camp used by alleged MS-13 gang members in Olocuilta",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/fuerza-armada-desmantela-campamento-utilizado-por-presuntos-pandilleros-de-la-ms-13-en-olocuilta/",
+        "published_date": "2026-05-10 02:06:14",
+        "category": "Military"
+    },
+    {
+        "title": "MS camp dismantled in Olocuilta",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ee-uu-destaca-a-el-salvador-como-destino-atractivo-para-inversiones/?utm_source=rss&utm_medium=rss&utm_campaign=ee-uu-destaca-a-el-salvador-como-destino-atractivo-para-inversiones",
-        "published_date": "2026-05-02 00:59:30",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/desmantelan-campamento-de-la-ms-en-olocuilta/?utm_source=rss&utm_medium=rss&utm_campaign=desmantelan-campamento-de-la-ms-en-olocuilta",
+        "published_date": "2026-05-10 01:50:40",
+        "category": "Military"
     },
     {
         "title": "Subject is arrested after injuring a woman with a glass container",
@@ -256,20 +263,6 @@
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/camara-confirma-sentencia-contra-tres-exmandos-militares-por-crimen-de-periodistas-neerlandeses/",
         "published_date": "2026-05-07 11:01:02",
-        "category": "Military"
-    },
-    {
-        "title": "May 7, 1980 in San Luis, dark and defining conspiracies",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/7-de-mayo-de-1980-en-la-san-luis-conspiraciones-sombrias-y-definitorias/",
-        "published_date": "2026-05-07 10:45:06",
-        "category": "Military"
-    },
-    {
-        "title": "Lula and Trump seek rapprochement in Washington amid tensions over trade and regional security",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/lula-y-trump-buscan-acercamiento-en-washington-en-medio-de-tensiones-por-comercio-y-seguridad-regional/?utm_source=rss&utm_medium=rss&utm_campaign=lula-y-trump-buscan-acercamiento-en-washington-en-medio-de-tensiones-por-comercio-y-seguridad-regional",
-        "published_date": "2026-05-07 02:57:18",
         "category": "Military"
     },
     {
@@ -462,6 +455,48 @@
         "category": "Economy"
     },
     {
+        "title": "Dora Escobar, a mother who turned dreams into legacy",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/dora-escobar-una-madre-que-convirtio-los-suenos-en-legado/",
+        "published_date": "2026-05-10 11:11:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "High voltage semi-finals!FAS, Firpo and \u00c1guila advance in the fight for the title!",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/semifinales-de-alto-voltaje-fas-firpo-y-aguila-avanzan-en-la-lucha-por-el-titulo/",
+        "published_date": "2026-05-10 04:48:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities locate drugs and ammunition in the MS camp in Olocuilta",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/autoridades-localizan-drogas-y-municiones-en-campamento-de-la-ms-en-olocuilta/",
+        "published_date": "2026-05-10 02:43:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lake Coatepeque becomes the setting for an exclusive \u201cWellness\u201d experience",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/lago-de-coatepeque-se-convierte-en-escenario-de-exclusiva-experiencia-wellness/",
+        "published_date": "2026-05-10 01:40:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vladimir Putin says war in Ukraine is coming to an end",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/vladimir-putin-dice-que-la-guerra-en-ucrania-esta-llegando-a-su-fin/",
+        "published_date": "2026-05-09 23:59:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mothers of Panchimalco are honored during the patron saint festivities of Las Palmas",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/madres-de-panchimalco-son-homenajeadas-durante-las-fiestas-patronales-de-las-palmas/",
+        "published_date": "2026-05-09 23:57:47",
+        "category": "Local Events"
+    },
+    {
         "title": "Iran threatens \"strong retaliation\" after US attacks on its oil tankers",
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/iran-amenaza-con-fuerte-represalia-luego-de-ataques-de-estados-unidos-a-sus-petroleros/",
@@ -483,6 +518,20 @@
         "category": "Local Events"
     },
     {
+        "title": "S\u00edvar Seguro cameras capture people throwing garbage on public roads",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/camaras-de-sivar-seguro-capta-a-personas-arrojando-basura-en-la-via-publica/",
+        "published_date": "2026-05-09 22:49:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "San Salvador Centro has 115 routes for the collection of solid waste",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/san-salvador-centro-dispone-de-115-rutas-para-la-recoleccion-de-desechos-solidos/",
+        "published_date": "2026-05-09 22:40:35",
+        "category": "Local Events"
+    },
+    {
         "title": "Canadian businessmen seek to invest in El Salvador",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/empresarios-canadienses-buscan-invertir-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=empresarios-canadienses-buscan-invertir-en-el-salvador",
@@ -494,6 +543,13 @@
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/mamita-levantese-la-necesito-hijo-suplica-junto-al-cuerpo-de-su-madre-tras-tragedia-con-autobus/",
         "published_date": "2026-05-09 21:35:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Arbeloa spoke about the Valverde-Tchouam\u00e9ni fight: \u201cI am not going to burn them in a public bonfire\u201d",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/arbeloa-hablo-sobre-la-pelea-valverde-tchouameni-no-voy-a-quemarlos-en-una-hoguera-publica/",
+        "published_date": "2026-05-09 21:34:09",
         "category": "Local Events"
     },
     {
@@ -536,69 +592,6 @@
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/las-setas-de-sevilla-recibe-al-elenco-de-berlin-y-la-dama-del-armino/",
         "published_date": "2026-05-09 20:27:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Extreme temperatures and heat wave in El Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/temperaturas-extremas-y-ola-de-calor-en-el-salvador-2/",
-        "published_date": "2026-05-09 20:11:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 900 tourists arrive in El Salvador on the Volendam cruise",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mas-de-900-turistas-llegan-a-el-salvador-en-crucero-volendam/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-900-turistas-llegan-a-el-salvador-en-crucero-volendam",
-        "published_date": "2026-05-09 20:02:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador and Kosovo strengthened their cultural ties with the International Ballet Gala",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/el-salvador-y-kosovo-fortalecieron-sus-lazos-culturales-con-la-gala-internacional-de-ballet/",
-        "published_date": "2026-05-09 19:11:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Bermeja Cemetery prepares to receive visitors for Mother's Day",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cementerio-la-bermeja-se-prepara-para-recibir-visitas-por-el-dia-de-las-madres/?utm_source=rss&utm_medium=rss&utm_campaign=cementerio-la-bermeja-se-prepara-para-recibir-visitas-por-el-dia-de-las-madres",
-        "published_date": "2026-05-09 17:20:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "3-year-old boy dies after being forgotten by his drunk mother in a car",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/nino-de-3-anos-muere-tras-ser-olvidado-por-su-madre-ebria-dentro-de-un-carro/",
-        "published_date": "2026-05-09 17:05:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Manuel \u201cEl Chino\u201d Flores sends greetings from Moscow and reiterates criticism of the Government",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/manuel-el-chino-flores-envia-saludo-desde-moscu-y-reitera-criticas-al-gobierno/",
-        "published_date": "2026-05-09 16:22:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President Ulloa participates in the investiture of the new president of Costa Rica",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/vicepresidente-ulloa-participa-en-investidura-de-nueva-presidenta-de-costa-rica/",
-        "published_date": "2026-05-09 15:58:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "They propose eliminating Parlacen from the Electoral Code and other regulations",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/proponen-eliminar-al-parlacen-del-codigo-electoral-y-otras-normativas/",
-        "published_date": "2026-05-09 15:20:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President Ulloa attends the presidential inauguration of Laura Fern\u00e1ndez in Costa Rica",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/vicepresidente-ulloa-asiste-a-investidura-presidencial-de-laura-fernandez-en-costa-rica/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-ulloa-asiste-a-investidura-presidencial-de-laura-fernandez-en-costa-rica",
-        "published_date": "2026-05-09 15:16:11",
         "category": "Local Events"
     }
 ]
