@@ -1,5 +1,19 @@
 [
     {
+        "title": "Italy and El Salvador celebrate 165 years of maintaining diplomatic relations",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/italia-y-el-salvador-cumplen-165-anos-de-mantener-relaciones-diplomaticas/",
+        "published_date": "2026-05-11 23:39:33",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "El Salvador and Singapore strengthen relations with the business sector",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-y-singapur-fortalecen-relaciones-con-el-sector-empresarial/",
+        "published_date": "2026-05-11 16:31:14",
+        "category": "Diplomacy"
+    },
+    {
         "title": "API denounces new Government offensive against El Faro and warns about more attacks",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/api-denuncia-nueva-ofensiva-del-gobierno-contra-el-faro-y-alerta-sobre-mas-ataques/",
@@ -119,11 +133,88 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Discussion between bowling ends with one captured and one injured",
+        "title": "Three people are arrested after attacking and threatening a man in Plazuela Col\u00f3n",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/detienen-a-tres-personas-luego-de-agredir-y-amenazar-a-un-hombre-en-la-plazuela-colon/",
+        "published_date": "2026-05-11 22:26:34",
+        "category": "Military"
+    },
+    {
+        "title": "Man is captured in flagrante delicto when he attacked his life partner and daughter in Santa Ana",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/hombre-es-capturado-en-flagrancia-cuando-agredia-a-su-companera-de-vida-e-hija-en-santa-ana/",
+        "published_date": "2026-05-11 22:11:47",
+        "category": "Military"
+    },
+    {
+        "title": "FOVIAL inaugurates the World Road Safety Week 2026",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/fovial-inaugura-la-semana-mundial-para-la-seguridad-vial-2026/",
+        "published_date": "2026-05-11 22:02:37",
+        "category": "Military"
+    },
+    {
+        "title": "An alleged gang member from the 18 Sure\u00f1os is captured in La Paz Centro",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/capturan-en-la-paz-centro-a-presunto-pandillero-de-la-18-surenos/",
+        "published_date": "2026-05-11 21:26:51",
+        "category": "Military"
+    },
+    {
+        "title": "AmCham identifies security and economy as key axes for national development",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/amcham-identifica-seguridad-y-economia-como-ejes-clave-para-el-desarrollo-nacional/",
+        "published_date": "2026-05-11 17:56:21",
+        "category": "Military"
+    },
+    {
+        "title": "World Road Safety Week 2026 inaugurated",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/discusion-entre-bolos-termina-con-un-capturado-y-un-herido/",
-        "published_date": "2026-05-03 18:17:14",
-        "category": "Diplomacy"
+        "url": "https://diariolahuella.com/inauguran-la-semana-mundial-para-la-seguridad-vial-2026/",
+        "published_date": "2026-05-11 17:29:10",
+        "category": "Military"
+    },
+    {
+        "title": "Third generation privatizations",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/privatizaciones-de-tercera-generacion/",
+        "published_date": "2026-05-11 16:38:36",
+        "category": "Military"
+    },
+    {
+        "title": "248 new agents begin today the mission of safeguarding the lives of Salvadorans",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/248-nuevos-agentes-comienzan-hoy-la-mision-de-salvaguardar-la-vida-de-salvadorenos/",
+        "published_date": "2026-05-11 15:47:57",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador adds a new day without homicides",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-suma-un-nuevo-dia-sin-homicidios-2/",
+        "published_date": "2026-05-11 15:20:15",
+        "category": "Military"
+    },
+    {
+        "title": "Promotion 136 of the ANSP joins the police deployment in El Salvador",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/promocion-136-de-la-ansp-se-suma-al-despliegue-policial-en-el-salvador/",
+        "published_date": "2026-05-11 15:15:15",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a subject who attacked his own daughter and life partner",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-sujeto-que-agredio-a-su-propia-hija-y-companera-de-vida/",
+        "published_date": "2026-05-11 14:30:43",
+        "category": "Military"
+    },
+    {
+        "title": "248 new agents will strengthen security in different parts of the country",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/248-nuevos-agentes-fortaleceran-la-seguridad-en-diferentes-puntos-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=248-nuevos-agentes-fortaleceran-la-seguridad-en-diferentes-puntos-del-pais",
+        "published_date": "2026-05-11 14:29:19",
+        "category": "Military"
     },
     {
         "title": "Security cameras allow capture of subject who stole motorcycle in San Miguel",
@@ -182,88 +273,25 @@
         "category": "Military"
     },
     {
-        "title": "MS camp dismantled in Olocuilta",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/desmantelan-campamento-de-la-ms-en-olocuilta/?utm_source=rss&utm_medium=rss&utm_campaign=desmantelan-campamento-de-la-ms-en-olocuilta",
-        "published_date": "2026-05-10 01:50:40",
-        "category": "Military"
+        "title": "El Salvador maintains the lowest fuel prices in the region",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/el-salvador-mantiene-los-precios-mas-bajos-de-los-combustibles-en-la-region/",
+        "published_date": "2026-05-11 19:39:48",
+        "category": "Energy"
     },
     {
-        "title": "Subject is arrested after injuring a woman with a glass container",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sujeto-es-detenido-tras-lesionar-a-mujer-con-envase-de-vidrio/",
-        "published_date": "2026-05-09 20:54:51",
-        "category": "Military"
-    },
-    {
-        "title": "Man attacks his mother with a crowbar in La Uni\u00f3n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/hombre-ataca-con-corvo-a-su-madre-en-la-union/",
-        "published_date": "2026-05-09 20:40:28",
-        "category": "Military"
-    },
-    {
-        "title": "Man injures his 85-year-old mother with a crook in La Uni\u00f3n",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/hombre-lesiona-con-un-corvo-a-su-madre-de-85-anos-en-la-union/",
-        "published_date": "2026-05-09 16:10:15",
-        "category": "Military"
-    },
-    {
-        "title": "GOES proposes free DUI renewal if they expire before the 2027 elections",
+        "title": "New increase in gasoline and prices worries the FMLN",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/goes-propone-renovacion-gratuita-del-dui-si-vencen-antes-de-elecciones-de-2027/",
-        "published_date": "2026-05-09 11:05:12",
-        "category": "Military"
+        "url": "https://www.diariocolatino.com/nuevo-aumento-de-gasolina-y-precios-preocupa-al-fmln/",
+        "published_date": "2026-05-11 18:52:00",
+        "category": "Energy"
     },
     {
-        "title": "At least 17 checkpoints and surveillance complaints marked Labor Day mobilization",
+        "title": "Fuels will rise $0.11 starting tomorrow",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/al-menos-17-retenes-y-denuncias-de-vigilancia-marcaron-movilizacion-del-dia-del-trabajo/",
-        "published_date": "2026-05-09 11:04:07",
-        "category": "Military"
-    },
-    {
-        "title": "Mara Salvatrucha attributed homicides to the Black Shadow to mislead investigations",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/mara-salvatrucha-adjudicaba-homicidios-a-la-sombra-negra-para-despistar-investigaciones/",
-        "published_date": "2026-05-08 22:53:31",
-        "category": "Military"
-    },
-    {
-        "title": "They arrest a gang member from the Arce Malditos Locos Salvatruchos clique",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/detienen-a-pandillero-de-la-clica-arce-malditos-locos-salvatruchos/",
-        "published_date": "2026-05-08 22:12:31",
-        "category": "Military"
-    },
-    {
-        "title": "Laura Fern\u00e1ndez begins her mandate in Costa Rica with promises of security and political continuity",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/laura-fernandez-inicia-su-mandato-en-costa-rica-con-promesas-de-seguridad-y-continuidad-politica/?utm_source=rss&utm_medium=rss&utm_campaign=laura-fernandez-inicia-su-mandato-en-costa-rica-con-promesas-de-seguridad-y-continuidad-politica",
-        "published_date": "2026-05-08 20:30:52",
-        "category": "Military"
-    },
-    {
-        "title": "PNC captures alleged gang member of the 18 Revolucionarios in Cuscatl\u00e1n Norte",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/pnc-captura-a-presunto-pandillero-de-la-18-revolucionarios-en-cuscatlan-norte/",
-        "published_date": "2026-05-08 15:34:33",
-        "category": "Military"
-    },
-    {
-        "title": "Trump denies Lula's invasion of Cuba, but his actions contradict him",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/trump-le-niega-a-lula-invasion-a-cuba-pero-sus-actos-le-contradicen/",
-        "published_date": "2026-05-08 10:59:10",
-        "category": "Military"
-    },
-    {
-        "title": "Armed Forces receive 63 new cadets",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/fuerza-armada-recibe-a-63-nuevos-cadetes/",
-        "published_date": "2026-05-08 08:08:51",
-        "category": "Military"
+        "url": "https://www.diariocolatino.com/combustibles-subiran-0-11-a-partir-de-manana/",
+        "published_date": "2026-05-11 15:50:14",
+        "category": "Energy"
     },
     {
         "title": "Energy consumption explains variations in billing, clarifies AES El Salvador",
@@ -448,143 +476,143 @@
         "category": "Economy"
     },
     {
-        "title": "MARN reports that El Salvador reached 40.5 degrees during a heat wave",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/marn-informa-que-el-salvador-alcanzo-los-40-5-grados-durante-ola-de-calor/",
-        "published_date": "2026-05-11 13:07:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Expert warns of risk of \u201csymbolic\u201d representation for the diaspora",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/experto-advierte-riesgo-de-representacion-simbolica-para-la-diaspora/",
-        "published_date": "2026-05-11 11:05:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "The \u201cMothers for Freedom\u201d movement is born, made up of mothers of innocent detainees",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/nace-el-movimiento-madres-por-la-libertad-conformado-por-madres-de-inocentes-detenidos/",
-        "published_date": "2026-05-11 11:04:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "FGR fails in another attempt to repeat the trial against environmentalists from Santa Marta",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fgr-fracasa-en-otro-intento-por-repetir-juicio-contra-ambientalistas-de-santa-marta/",
-        "published_date": "2026-05-11 11:03:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "On Mother's Day, the Cathedral Crypt highlights maternal love",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/en-el-dia-de-la-madre-cripta-de-la-catedral-resalta-el-amor-maternal/",
-        "published_date": "2026-05-11 11:02:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran Red Cross reports several injuries in different road mishaps",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cruz-roja-salvadorena-reporta-varios-lesionados-en-distintos-percances-viales/",
-        "published_date": "2026-05-11 11:01:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe reforms are done, the trap is done\u201d",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/hechas-las-reformas-hecha-la-trampa/",
-        "published_date": "2026-05-11 10:59:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Delcy Rodr\u00edguez in the Netherlands to participate in the ICJ hearing",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/delcy-rodriguez-en-paises-bajos-para-participar-en-audiencia-de-cij/",
-        "published_date": "2026-05-11 10:58:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Operation continues to capture the person responsible for feminicide in La Libertad Costa",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/continua-operativo-para-capturar-a-responsable-de-feminicidio-en-la-libertad-costa/",
-        "published_date": "2026-05-11 02:06:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "FC Barcelona is proclaimed champion of Spanish football",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-fc-barcelona-es-proclamado-campeon-del-futbol-de-esapana/",
-        "published_date": "2026-05-11 01:25:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran mothers enjoy live music in El Centro Historico",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/madres-salvadorenas-disfrutan-de-musica-en-vivo-en-el-centro-historico/?utm_source=rss&utm_medium=rss&utm_campaign=madres-salvadorenas-disfrutan-de-musica-en-vivo-en-el-centro-historico",
-        "published_date": "2026-05-11 01:24:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Panchimalco celebrates its traditional Brotherhood of Flowers and Palms",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/panchimalco-celebra-su-tradicional-cofradia-de-las-flores-y-las-palmas/",
-        "published_date": "2026-05-11 01:15:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ministry of Culture entertains mothers with delivery of cookies in the Historic Center",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ministerio-de-cultura-agasaja-a-las-madres-con-entrega-de-galletas-en-centro-historico/",
-        "published_date": "2026-05-11 00:51:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The occupants of the cruise ship affected by hantavirus fly to their countries",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/los-ocupantes-del-crucero-afectado-por-hantavirus-vuelan-a-sus-paises/",
-        "published_date": "2026-05-10 23:27:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santa Rosa de Lima exceeded 41 \u00b0C this Sunday",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/santa-rosa-de-lima-supero-los-41-c-este-domingo/",
-        "published_date": "2026-05-10 23:16:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Search continues for young man swept away by return current on El Espino beach",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/continua-busqueda-de-joven-arrastrado-por-corriente-de-retorno-en-playa-el-espino/",
-        "published_date": "2026-05-10 23:06:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barcelona conquers La Liga after beating Real Madrid in El Cl\u00e1sico",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/barcelona-conquista-la-liga-luego-de-vencer-al-real-madrid-en-el-clasico/?utm_source=rss&utm_medium=rss&utm_campaign=barcelona-conquista-la-liga-luego-de-vencer-al-real-madrid-en-el-clasico",
-        "published_date": "2026-05-10 21:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barcelona champion: they beat Real Madrid 2-0 and took the League trophy",
+        "title": "Selecta Mayor Femenina already knows its rivals for Santo Domingo 2026",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/barcelona-campeon-le-gano-2-a-0-a-real-madrid-y-se-quedo-con-el-trofeo-de-la-liga/",
-        "published_date": "2026-05-10 21:40:19",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/selecta-mayor-femenina-ya-conoce-a-sus-rivales-para-santo-domingo-2026/",
+        "published_date": "2026-05-11 23:56:59",
         "category": "Local Events"
     },
     {
-        "title": "Barcelona defeats Real Madrid 2-0 and is crowned Spanish LaLiga champion",
+        "title": "They prosecute seven defendants for the millionaire Argoz scam",
         "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/barcelona-derrota-2-0-al-real-madrid-y-se-corona-campeon-de-laliga-espanola/",
-        "published_date": "2026-05-10 21:20:15",
+        "url": "https://croniosv.com/principal/principal1/procesan-a-siete-imputados-por-la-millonaria-estafa-de-argoz/",
+        "published_date": "2026-05-11 23:43:18",
         "category": "Local Events"
     },
     {
-        "title": "They capture an MS gang member who was hiding in Apopa",
+        "title": "The presence of Saharan dust remains in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/se-mantiene-la-presencia-del-polvo-del-sahara-en-el-salvador/",
+        "published_date": "2026-05-11 23:31:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Walter Alem\u00e1n: \u201cThe diaspora will continue to be an active part of the country's decisions\u201d",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-pandillero-de-la-ms-que-se-escondia-en-apopa/",
-        "published_date": "2026-05-10 19:46:07",
+        "url": "https://diariolahuella.com/walter-aleman-la-diaspora-seguira-siendo-parte-activa-de-las-decisiones-del-pais/",
+        "published_date": "2026-05-11 23:17:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities reiterate ban on agricultural burning due to high risk of fires",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/autoridades-reiteran-prohibicion-de-quemas-agricolas-ante-alto-riesgo-de-incendios/",
+        "published_date": "2026-05-11 23:15:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran journalism is in mourning after the departure of Mar\u00eda de los \u00c1ngeles Rom\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/el-periodismo-salvadoreno-esta-de-luto-tras-la-partida-de-maria-de-los-angeles-roman/",
+        "published_date": "2026-05-11 22:53:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Journalist Marielos Rom\u00e1n, LPG collaborator, dies in a road accident",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/muere-en-accidente-vial-la-periodista-marielos-roman-colaboradora-de-lpg/",
+        "published_date": "2026-05-11 22:50:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Study begins on reforms to secondary laws after constitutional changes in electoral matters",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/inicia-estudio-de-reformas-a-leyes-secundarias-tras-cambios-constitucionales-en-materia-electoral/",
+        "published_date": "2026-05-11 22:44:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "The ARENA party proposed that prisoners could vote",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-partido-arena-propuso-que-reos-pudieran-votar/?utm_source=rss&utm_medium=rss&utm_campaign=el-partido-arena-propuso-que-reos-pudieran-votar",
+        "published_date": "2026-05-11 22:29:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "They teach self-care and healthy eating workshops to pregnant women",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/imparten-talleres-de-autocuidado-y-alimentacion-saludable-a-embarazadas/",
+        "published_date": "2026-05-11 22:22:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Star Wars music will come to life in immersive concert by the El Salvador Philharmonic Orchestra",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/la-musica-de-star-wars-cobrara-vida-en-concierto-inmersivo-de-la-orquesta-filarmonica-de-el-salvador/",
+        "published_date": "2026-05-11 21:47:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rains are expected in Santa Ana, Chalatenango and Ahuachap\u00e1n for this Monday in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/se-preve-lluvias-en-santa-ana-chalatenango-y-ahuachapan-para-este-lunes-en-el-salvador/",
+        "published_date": "2026-05-11 19:18:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rapist of a teenager is sentenced to more than 26 years in prison",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/violador-de-adolescente-es-condenado-a-mas-de-26-anos-de-prision/",
+        "published_date": "2026-05-11 19:08:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sentence of up to 81 years in prison for Nejapa gang members",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/condena-de-hasta-81-anos-de-carcel-para-pandilleros-de-nejapa/",
+        "published_date": "2026-05-11 19:00:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trial begins against members of a gang dedicated to the illegal dispossession of properties and vehicles in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/inicia-juicio-contra-integrantes-de-banda-dedicada-al-despojo-ilegal-de-inmuebles-y-vehiculos-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=inicia-juicio-contra-integrantes-de-banda-dedicada-al-despojo-ilegal-de-inmuebles-y-vehiculos-en-el-salvador",
+        "published_date": "2026-05-11 18:29:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government recovers $6.3 million in favor of consumers so far in 2026",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-recupera-6-3-millones-a-favor-de-consumidores-en-lo-que-va-del-2026/",
+        "published_date": "2026-05-11 17:47:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "FROM FINANCIAL FRAUD TO THE INTERNATIONAL BANK",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/del-fraude-financiero-al-banquillo-internacional/",
+        "published_date": "2026-05-11 17:02:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nayib Bukele points out that the political opposition has double standards for rejecting the representation of the diaspora",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/nayib-bukele-senala-a-la-oposicion-politica-de-doble-moral-por-rechazar-la-representacion-de-la-diaspora/?utm_source=rss&utm_medium=rss&utm_campaign=nayib-bukele-senala-a-la-oposicion-politica-de-doble-moral-por-rechazar-la-representacion-de-la-diaspora",
+        "published_date": "2026-05-11 16:24:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marcela Villatoro (ARENA) calls on the opposition to \u201cjoin forces\u201d",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/marcela-villatoro-arena-llama-a-la-oposicion-a-unir-fuerzas/?utm_source=rss&utm_medium=rss&utm_campaign=marcela-villatoro-arena-llama-a-la-oposicion-a-unir-fuerzas",
+        "published_date": "2026-05-11 16:08:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador International Airport is among the three best in Central America and the Caribbean in 2026",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/aeropuerto-internacional-de-el-salvador-figura-entre-los-tres-mejores-de-centroamerica-y-el-caribe-en-2026/",
+        "published_date": "2026-05-11 15:49:11",
         "category": "Local Events"
     }
 ]
