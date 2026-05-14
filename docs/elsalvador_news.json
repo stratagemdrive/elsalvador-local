@@ -1,5 +1,12 @@
 [
     {
+        "title": "Donald Trump arrived in China, everything ready for his meeting with Xi Jinping",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/donald-trump-llego-a-china-todo-listo-para-su-reunion-con-xi-jinping/",
+        "published_date": "2026-05-14 01:14:28",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Future scholarship recipients receive Poverty DNA course",
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/futuros-becados-reciben-curso-adn-de-la-pobreza/",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Let us not forget lessons from our Victory",
+        "title": "THE RUMBLE OF THE SUMPUL",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/no-olvidemos-lecciones-de-nuestra-victoria/",
-        "published_date": "2026-05-07 10:59:36",
-        "category": "Diplomacy"
+        "url": "https://www.diariocolatino.com/el-retumbo-del-sumpul/",
+        "published_date": "2026-05-14 11:01:26",
+        "category": "Military"
+    },
+    {
+        "title": "They capture two men accused of the murder of a woman in Nejapa",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/capturan-a-dos-hombres-acusados-del-homicidio-de-una-mujer-en-nejapa/",
+        "published_date": "2026-05-14 00:16:22",
+        "category": "Military"
     },
     {
         "title": "Gang member and an accomplice murdered a woman on May 9",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "248 new agents begin today the mission of safeguarding the lives of Salvadorans",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/248-nuevos-agentes-comienzan-hoy-la-mision-de-salvaguardar-la-vida-de-salvadorenos/",
-        "published_date": "2026-05-11 15:47:57",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador adds a new day without homicides",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-suma-un-nuevo-dia-sin-homicidios-2/",
-        "published_date": "2026-05-11 15:20:15",
-        "category": "Military"
-    },
-    {
         "title": "Truck runs out of brakes and has an accident in Los Pr\u00f3ceres",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/camion-se-queda-sin-frenos-y-se-accidenta-en-los-proceres/",
@@ -383,6 +383,20 @@
         "url": "https://croniosv.com/principal/principal1/gasolina-super-y-regular-superan-los-6-en-costa-rica/",
         "published_date": "2026-05-07 03:43:44",
         "category": "Energy"
+    },
+    {
+        "title": "Deputies agree to ratify $150 million in loan for PRODEPORTE II",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diputados-acuerdan-ratificar-150-millones-en-prestamo-para-prodeporte-ii/",
+        "published_date": "2026-05-14 11:04:43",
+        "category": "Economy"
+    },
+    {
+        "title": "Trump predicts a \"fantastic future\" for the US and China as he begins summit with Xi",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/trump-augura-un-futuro-fantastico-para-eeuu-y-china-al-iniciar-cumbre-con-xi/",
+        "published_date": "2026-05-14 06:35:34",
+        "category": "Economy"
     },
     {
         "title": "Casa Mu\u00f1oz expands operations in Soyapango with a new branch on Paseo Venecia",
@@ -511,11 +525,102 @@
         "category": "Economy"
     },
     {
-        "title": "Assembly endorses third extension of exemption for foreign missions",
+        "title": "Trade union organizations denounce \u201ctricks\u201d by the government to evade ILO control",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/asamblea-avala-tercera-prorroga-de-exoneracion-para-misiones-extranjeras/",
-        "published_date": "2026-05-06 11:05:04",
-        "category": "Economy"
+        "url": "https://www.diariocolatino.com/organizaciones-sindicales-denuncian-artimanas-del-gobierno-para-evadir-el-control-de-la-oit/",
+        "published_date": "2026-05-14 11:06:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "MOVIE demands from the PGR adequate defense for people without ties to gangs",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/movir-exige-a-la-pgr-defensa-adecuada-para-personas-sin-vinculos-con-pandillas/",
+        "published_date": "2026-05-14 11:05:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deputies endorse free DUI renewal for 400 thousand Salvadorans",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diputados-avalan-renovacion-gratuita-del-dui-para-400-mil-salvadorenos/",
+        "published_date": "2026-05-14 11:03:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Priest reported for alleged sexual abuse dies in Guatemala",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fallece-en-guatemala-sacerdote-denunciado-por-presunto-abuso-sexual/",
+        "published_date": "2026-05-14 11:02:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cPolitical power prevails over law\u201d: Roxana Cardona",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-poder-politico-se-impone-sobre-el-derecho-roxana-cardona/",
+        "published_date": "2026-05-14 11:00:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Firpo beats \u00c1guila 2 to 1 in San Miguel, but the series remains open",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/firpo-golpea-2-a-1-al-aguila-en-san-miguel-pero-queda-abierta-la-serie/",
+        "published_date": "2026-05-14 10:59:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hondurasgate: background and consequences for C. A.",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/hondurasgate-antecedentes-y-consecuencias-para-c-a/",
+        "published_date": "2026-05-14 10:58:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "FBI director scolds Democratic senator for \u201cdrinking margaritas in El Salvador\u201d",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/director-de-fbi-increpa-a-senador-democrata-por-beber-margaritas-en-el-salvador/",
+        "published_date": "2026-05-14 05:29:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "San Marcos Parish reports the death of a priest investigated for sexual abuse",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/parroquia-de-san-marcos-informa-el-fallecimiento-de-sacerdote-investigado-por-abuso-sexual/",
+        "published_date": "2026-05-14 05:05:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Found guilty of tax evasion for US$207 thousand",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/encuentra-culpable-de-evasion-de-impuestos-por-us207-mil/",
+        "published_date": "2026-05-14 04:16:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unseen Transformation: Strategic Power of Invisible Infrastructure",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/transformacion-que-no-se-ve-poder-estrategico-de-infraestructura-invisible/",
+        "published_date": "2026-05-14 03:42:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fake FIFA sites scam ahead of the 2026 World Cup",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/falsos-sitios-de-fifa-estafan-previo-a-la-copa-del-mundo-2026/",
+        "published_date": "2026-05-14 03:34:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u26ea President Bukele participates in the historic dedication of the Virgin of F\u00e1tima Church",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/%e2%9b%aa-presidente-bukele-participa-en-historica-dedicacion-de-la-iglesia-virgen-de-fatima/",
+        "published_date": "2026-05-14 01:59:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "LOTRA Giveaway No. 450 dedicated to the El Salvador \u201cFamily Friendly\u201d Strategy!",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/sorteo-lotra-n-450-dedicado-a-la-estrategia-el-salvador-family-friendly/",
+        "published_date": "2026-05-14 00:56:11",
+        "category": "Local Events"
     },
     {
         "title": "LA Fercha and Wayla Montana light up the scene with \u201cBandida\u201d",
@@ -557,104 +662,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/fast-and-furious-celebra-sus-25-anos-en-el-festival-de-cannes/",
         "published_date": "2026-05-13 22:37:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kosovo and El Salvador seal artistic success",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/kosovo-y-el-salvador-sellan-exito-artistico/",
-        "published_date": "2026-05-13 22:34:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Real Madrid says it has won a court battle over noise pollution at the Bernab\u00e9u",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-real-madrid-dice-haber-ganado-batalla-judicial-por-contaminacion-acustica-del-bernabeu/",
-        "published_date": "2026-05-13 22:31:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Defending rights is not a crime",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/defender-derechos-no-es-delito/",
-        "published_date": "2026-05-13 22:28:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Commission agrees to free renewal of the DUI whose expiration is between November 29, 2026 and February 2027",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/comision-acuerda-renovacion-gratuita-del-dui-cuyo-vencimiento-sea-entre-el-29-de-noviembre-2026-a-febrero-2027/",
-        "published_date": "2026-05-13 22:12:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chinese scientists develop \u201cJiuzhang 4.0\u201d and set new world record in quantum computing",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/cientificos-chinos-desarrollan-jiuzhang-4-0-y-establecen-nuevo-record-mundial-en-computacion-cuantica/",
-        "published_date": "2026-05-13 22:07:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nothing indicates that the Andes strain of hantavirus has mutated, estimates EU health agency",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/nada-indica-que-la-cepa-andes-del-hantavirus-haya-mutado-estima-agencia-sanitaria-de-la-ue/",
-        "published_date": "2026-05-13 22:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Public Works improves spaces for safe mobility",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/obras-publicas-mejora-espacios-para-la-movilidad-segura/",
-        "published_date": "2026-05-13 21:58:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "International operation leaves 14 captured and 63 bales of drugs seized on the high seas",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/operativo-internacional-deja-14-capturados-y-63-fardos-de-droga-incautados-en-altamar/?utm_source=rss&utm_medium=rss&utm_campaign=operativo-internacional-deja-14-capturados-y-63-fardos-de-droga-incautados-en-altamar",
-        "published_date": "2026-05-13 21:54:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Provisional prison for two brothers accused of drug trafficking in San Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/prision-provisional-para-dos-hermanos-acusados-de-trafico-de-drogas-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=prision-provisional-para-dos-hermanos-acusados-de-trafico-de-drogas-en-san-salvador",
-        "published_date": "2026-05-13 21:36:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Experiences that celebrate mom and strengthen family financial well-being",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/experiencias-que-celebran-a-mama-y-fortalecen-el-bienestar-financiero-familiar/",
-        "published_date": "2026-05-13 21:33:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Presentation of evidence continues against 486 MS leaders accused of multiple crimes",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/continua-presentacion-de-pruebas-contra-486-lideres-de-la-ms-acusados-de-multiples-crimenes/",
-        "published_date": "2026-05-13 21:27:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brothers accused of drug trafficking will continue in provisional prison",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/hermanos-acusados-de-trafico-de-drogas-continuaran-en-prision-provisional/",
-        "published_date": "2026-05-13 21:16:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "San Salvador Centro Mayor's Office promotes responsible kitten adoption campaign",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/alcaldia-de-san-salvador-centro-impulsa-campana-de-adopcion-responsable-de-gatitos/?utm_source=rss&utm_medium=rss&utm_campaign=alcaldia-de-san-salvador-centro-impulsa-campana-de-adopcion-responsable-de-gatitos",
-        "published_date": "2026-05-13 20:50:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Melania Trump's absence steals attention during Donald Trump's official visit to China",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ausencia-de-melania-trump-roba-atencion-durante-visita-oficial-de-donald-trump-a-china/",
-        "published_date": "2026-05-13 20:39:22",
         "category": "Local Events"
     }
 ]
