@@ -1,5 +1,19 @@
 [
     {
+        "title": "Noboa at the OAS: \u201cProbably the neighbor is the enemy\u201d",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/noboa-en-la-oea-probablemente-el-vecino-es-el-enemigo/",
+        "published_date": "2026-05-14 17:07:37",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Xi hosts welcome banquet for Trump",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/xi-ofrece-banquete-de-bienvenida-a-trump/",
+        "published_date": "2026-05-14 13:48:09",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Donald Trump arrived in China, everything ready for his meeting with Xi Jinping",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/donald-trump-llego-a-china-todo-listo-para-su-reunion-con-xi-jinping/",
@@ -126,18 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Lines of work and country advances are presented at an innovation and development event for young people",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presentan-lineas-de-trabajo-y-avances-de-pais-en-evento-de-innovacion-y-desarrollo-para-jovenes/",
-        "published_date": "2026-05-07 20:35:54",
-        "category": "Diplomacy"
+        "title": "\"This year we hope to end it with 4.2 million international visitors\": Alejandra Dur\u00e1n, director of Corsatur",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/este-ano-esperamos-finalizarlo-con-4-2-millones-de-visitantes-internacionales-alejandra-duran-directora-de-corsatur/",
+        "published_date": "2026-05-14 21:25:48",
+        "category": "Military"
     },
     {
-        "title": "Marco Rubio and Pope Leo XIV discuss peace and diplomatic relations at the Vatican",
+        "title": "Government of President Nayib Bukele transforms access to housing and promotes financial inclusion",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-del-presidente-nayib-bukele-transforma-el-acceso-a-vivienda-y-fomenta-inclusion-financiera/",
+        "published_date": "2026-05-14 20:27:52",
+        "category": "Military"
+    },
+    {
+        "title": "Children learn about road rules in the Historic Center",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/marco-rubio-y-el-papa-leon-xiv-dialogan-en-el-vaticano-sobre-paz-y-relaciones-diplomaticas/?utm_source=rss&utm_medium=rss&utm_campaign=marco-rubio-y-el-papa-leon-xiv-dialogan-en-el-vaticano-sobre-paz-y-relaciones-diplomaticas",
-        "published_date": "2026-05-07 19:46:30",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/ninos-aprenden-sobre-normas-viales-en-el-centro-historico/?utm_source=rss&utm_medium=rss&utm_campaign=ninos-aprenden-sobre-normas-viales-en-el-centro-historico",
+        "published_date": "2026-05-14 20:10:29",
+        "category": "Military"
     },
     {
         "title": "THE RUMBLE OF THE SUMPUL",
@@ -259,27 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "AmCham identifies security and economy as key axes for national development",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/amcham-identifica-seguridad-y-economia-como-ejes-clave-para-el-desarrollo-nacional/",
-        "published_date": "2026-05-11 17:56:21",
-        "category": "Military"
-    },
-    {
-        "title": "World Road Safety Week 2026 inaugurated",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/inauguran-la-semana-mundial-para-la-seguridad-vial-2026/",
-        "published_date": "2026-05-11 17:29:10",
-        "category": "Military"
-    },
-    {
-        "title": "Third generation privatizations",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/privatizaciones-de-tercera-generacion/",
-        "published_date": "2026-05-11 16:38:36",
-        "category": "Military"
-    },
-    {
         "title": "Truck runs out of brakes and has an accident in Los Pr\u00f3ceres",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/camion-se-queda-sin-frenos-y-se-accidenta-en-los-proceres/",
@@ -383,6 +383,13 @@
         "url": "https://croniosv.com/principal/principal1/gasolina-super-y-regular-superan-los-6-en-costa-rica/",
         "published_date": "2026-05-07 03:43:44",
         "category": "Energy"
+    },
+    {
+        "title": "$150 million loan ratified to strengthen sports infrastructure in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/ratifican-prestamo-de-150-millones-para-fortalecer-infraestructura-deportiva-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=ratifican-prestamo-de-150-millones-para-fortalecer-infraestructura-deportiva-en-el-salvador",
+        "published_date": "2026-05-14 21:40:18",
+        "category": "Economy"
     },
     {
         "title": "Deputies agree to ratify $150 million in loan for PRODEPORTE II",
@@ -504,164 +511,143 @@
         "category": "Economy"
     },
     {
-        "title": "\u201cYou are always welcome to El Salvador\u201d: President Bukele to Congresswoman Anna Paulina Luna",
+        "title": "\u201cEl Callej\u00f3n\u201d is emerging as a new family and commercial meeting point in Santa Ana Oeste",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-callejon-se-perfila-como-nuevo-punto-de-encuentro-familiar-y-comercial-en-santa-ana-oeste/?utm_source=rss&utm_medium=rss&utm_campaign=el-callejon-se-perfila-como-nuevo-punto-de-encuentro-familiar-y-comercial-en-santa-ana-oeste",
+        "published_date": "2026-05-14 23:49:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gang members must spend up to more than 140 years in prison",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/siempre-eres-bienvenida-a-el-salvador-presidente-bukele-a-congresista-anna-paulina-luna/",
-        "published_date": "2026-05-06 22:42:57",
-        "category": "Economy"
+        "url": "https://diariolahuella.com/pandilleros-deberan-pasar-hasta-mas-de-140-anos-de-prision/",
+        "published_date": "2026-05-14 23:27:17",
+        "category": "Local Events"
     },
     {
-        "title": "n1co announces the launch of the n1co Coupons platform, a new digital showcase to boost business growth",
+        "title": "Truck loaded with pigs overturns on the Pan-American highway in Cojutepeque",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/n1co-anuncia-el-lanzamiento-de-la-plataforma-n1co-cupones-una-nueva-vitrina-digital-para-impulsar-el-crecimiento-de-comercios/",
-        "published_date": "2026-05-06 21:39:26",
-        "category": "Economy"
-    },
-    {
-        "title": "Tax collection exceeds projections and reaches $2,100.3 million at the end of March",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/recaudacion-tributaria-supera-proyecciones-y-alcanza-2100-3-millones-al-cierre-de-marzo/",
-        "published_date": "2026-05-06 16:14:45",
-        "category": "Economy"
-    },
-    {
-        "title": "Trade union organizations denounce \u201ctricks\u201d by the government to evade ILO control",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/organizaciones-sindicales-denuncian-artimanas-del-gobierno-para-evadir-el-control-de-la-oit/",
-        "published_date": "2026-05-14 11:06:45",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/camion-cargado-con-cerdos-vuelca-sobre-la-carretera-panamericana-en-cojutepeque/",
+        "published_date": "2026-05-14 23:22:15",
         "category": "Local Events"
     },
     {
-        "title": "MOVIE demands from the PGR adequate defense for people without ties to gangs",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/movir-exige-a-la-pgr-defensa-adecuada-para-personas-sin-vinculos-con-pandillas/",
-        "published_date": "2026-05-14 11:05:36",
+        "title": "President of the Legislative Assembly highlights reforms for the representation of the diaspora",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/presidente-de-la-asamblea-legislativa-destaca-reformas-para-la-representacion-de-la-diaspora/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-de-la-asamblea-legislativa-destaca-reformas-para-la-representacion-de-la-diaspora",
+        "published_date": "2026-05-14 22:51:43",
         "category": "Local Events"
     },
     {
-        "title": "Deputies endorse free DUI renewal for 400 thousand Salvadorans",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/diputados-avalan-renovacion-gratuita-del-dui-para-400-mil-salvadorenos/",
-        "published_date": "2026-05-14 11:03:30",
+        "title": "Reforms are approved to create an electoral constituency for Salvadorans abroad and make the TSE non-partisan",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/aprueban-reformas-para-crear-circunscripcion-electoral-de-salvadorenos-en-el-exterior-y-despartidizar-el-tse/",
+        "published_date": "2026-05-14 22:29:05",
         "category": "Local Events"
     },
     {
-        "title": "Priest reported for alleged sexual abuse dies in Guatemala",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fallece-en-guatemala-sacerdote-denunciado-por-presunto-abuso-sexual/",
-        "published_date": "2026-05-14 11:02:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cPolitical power prevails over law\u201d: Roxana Cardona",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-poder-politico-se-impone-sobre-el-derecho-roxana-cardona/",
-        "published_date": "2026-05-14 11:00:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Firpo beats \u00c1guila 2 to 1 in San Miguel, but the series remains open",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/firpo-golpea-2-a-1-al-aguila-en-san-miguel-pero-queda-abierta-la-serie/",
-        "published_date": "2026-05-14 10:59:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hondurasgate: background and consequences for C. A.",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/hondurasgate-antecedentes-y-consecuencias-para-c-a/",
-        "published_date": "2026-05-14 10:58:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "FBI director scolds Democratic senator for \u201cdrinking margaritas in El Salvador\u201d",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/director-de-fbi-increpa-a-senador-democrata-por-beber-margaritas-en-el-salvador/",
-        "published_date": "2026-05-14 05:29:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "San Marcos Parish reports the death of a priest investigated for sexual abuse",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/parroquia-de-san-marcos-informa-el-fallecimiento-de-sacerdote-investigado-por-abuso-sexual/",
-        "published_date": "2026-05-14 05:05:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Found guilty of tax evasion for US$207 thousand",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/encuentra-culpable-de-evasion-de-impuestos-por-us207-mil/",
-        "published_date": "2026-05-14 04:16:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unseen Transformation: Strategic Power of Invisible Infrastructure",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/transformacion-que-no-se-ve-poder-estrategico-de-infraestructura-invisible/",
-        "published_date": "2026-05-14 03:42:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fake FIFA sites scam ahead of the 2026 World Cup",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/falsos-sitios-de-fifa-estafan-previo-a-la-copa-del-mundo-2026/",
-        "published_date": "2026-05-14 03:34:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u26ea President Bukele participates in the historic dedication of the Virgin of F\u00e1tima Church",
+        "title": "Legislative Assembly approves free renewal of the DUI prior to the 2027 elections",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/%e2%9b%aa-presidente-bukele-participa-en-historica-dedicacion-de-la-iglesia-virgen-de-fatima/",
-        "published_date": "2026-05-14 01:59:12",
+        "url": "https://diariolahuella.com/asamblea-legislativa-aprueba-renovacion-gratuita-del-dui-previo-a-elecciones-de-2027/",
+        "published_date": "2026-05-14 21:58:03",
         "category": "Local Events"
     },
     {
-        "title": "LOTRA Giveaway No. 450 dedicated to the El Salvador \u201cFamily Friendly\u201d Strategy!",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/sorteo-lotra-n-450-dedicado-a-la-estrategia-el-salvador-family-friendly/",
-        "published_date": "2026-05-14 00:56:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "LA Fercha and Wayla Montana light up the scene with \u201cBandida\u201d",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/la-fercha-y-wayla-montana-encienden-la-escena-con-bandida/",
-        "published_date": "2026-05-13 22:53:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador exceeded expectations of the US delegation led by Undersecretary Orr",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-salvador-supero-expectativas-de-delegacion-estadounidense-liderada-por-subsecretario-orr/",
-        "published_date": "2026-05-13 22:45:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Priest investigated for alleged sexual abuse dies in Guatemala",
+        "title": "Iran did not receive visas to travel to the United States and play in the World Cup",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/sacerdote-investigado-por-presunto-abuso-sexual-fallece-en-guatemala/",
-        "published_date": "2026-05-13 22:42:29",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/iran-no-recibio-los-visados-para-viajar-a-estados-unidos-y-jugar-el-mundial/",
+        "published_date": "2026-05-14 21:49:35",
         "category": "Local Events"
     },
     {
-        "title": "The pre-enrollment period will be extended to one year",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/se-ampliara-a-un-ano-el-periodo-del-preenrolamiento/",
-        "published_date": "2026-05-13 22:42:00",
+        "title": "Assembly approves electoral reform that will allow electing deputies from the Salvadoran diaspora",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/asamblea-aprueba-reforma-electoral-que-permitira-elegir-diputados-de-la-diaspora-salvadorena/",
+        "published_date": "2026-05-14 21:42:34",
         "category": "Local Events"
     },
     {
-        "title": "They issue three opinions to harmonize electoral laws with reforms",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/emiten-tres-dictamenes-para-armonizar-leyes-electorales-con-reformas/",
-        "published_date": "2026-05-13 22:40:05",
+        "title": "New water quality laboratory in San Miguel enters final stage of construction",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/nuevo-laboratorio-de-calidad-del-agua-en-san-miguel-entra-en-etapa-final-de-construccion/?utm_source=rss&utm_medium=rss&utm_campaign=nuevo-laboratorio-de-calidad-del-agua-en-san-miguel-entra-en-etapa-final-de-construccion",
+        "published_date": "2026-05-14 21:31:22",
         "category": "Local Events"
     },
     {
-        "title": "\"Fast and Furious\" celebrates its 25th anniversary at the Cannes Film Festival",
+        "title": "Free DUI renewal approved for more than 400 thousand Salvadorans before the 2027 elections",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/aprueban-renovacion-gratuita-del-dui-para-mas-de-400-mil-salvadorenos-antes-de-las-elecciones-de-2027/?utm_source=rss&utm_medium=rss&utm_campaign=aprueban-renovacion-gratuita-del-dui-para-mas-de-400-mil-salvadorenos-antes-de-las-elecciones-de-2027",
+        "published_date": "2026-05-14 21:21:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "They rule in favor of advancing the renewal of DUI",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/fast-and-furious-celebra-sus-25-anos-en-el-festival-de-cannes/",
-        "published_date": "2026-05-13 22:37:37",
+        "url": "https://croniosv.com/principal/principal1/dictaminan-a-favor-de-adelantar-la-renovacion-de-dui/",
+        "published_date": "2026-05-14 21:18:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alexia Rivas questions ARENA and VAMOS for voting on the diaspora",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/alexia-cuestiona-a-arena-y-vamos-por-votacion-sobre-la-diaspora/?utm_source=rss&utm_medium=rss&utm_campaign=alexia-cuestiona-a-arena-y-vamos-por-votacion-sobre-la-diaspora",
+        "published_date": "2026-05-14 21:12:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pel\u00e9, Maradona, Zidane, Messi: the legendary eleven of the World Cup",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/pele-maradona-zidane-messi-el-once-de-leyenda-del-mundial/",
+        "published_date": "2026-05-14 21:11:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran diaspora will have six seats in the Legislative Assembly",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/diaspora-salvadorena-tendra-seis-curules-en-asamblea-legislativa/",
+        "published_date": "2026-05-14 21:08:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deputies approve reforms that will allow the diaspora to elect representatives in the Legislative Assembly",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/diputados-aprueban-reformas-que-permitiran-a-la-diaspora-elegir-representantes-en-la-asamblea-legislativa/?utm_source=rss&utm_medium=rss&utm_campaign=diputados-aprueban-reformas-que-permitiran-a-la-diaspora-elegir-representantes-en-la-asamblea-legislativa",
+        "published_date": "2026-05-14 21:07:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Priest investigated for sexual abuse \u201ccommitted suicide,\u201d confirms the Archbishopric",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/sacerdote-investigado-por-abuso-sexual-se-suicido-confirma-el-arzobispado/",
+        "published_date": "2026-05-14 21:06:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Extreme temperatures and heat wave in El Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/temperaturas-extremas-y-ola-de-calor-en-el-salvador-3/",
+        "published_date": "2026-05-14 20:43:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Legislative plenary session will analyze reforms to achieve political representation of the Salvadoran diaspora",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/pleno-legislativo-analizara-reformas-para-concretar-representacion-politica-de-la-diaspora-salvadorena/?utm_source=rss&utm_medium=rss&utm_campaign=pleno-legislativo-analizara-reformas-para-concretar-representacion-politica-de-la-diaspora-salvadorena",
+        "published_date": "2026-05-14 20:29:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "New Water Quality Laboratory exceeds 90% progress",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/nuevo-laboratorio-de-calidad-del-agua-supera-el-90-de-avance/",
+        "published_date": "2026-05-14 20:02:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today marks the 46th anniversary of the Sumpul River massacre,",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/hoy-se-conmemora-el-46-aniversario-de-la-masacre-del-rio-sumpul/",
+        "published_date": "2026-05-14 19:59:14",
         "category": "Local Events"
     }
 ]
