@@ -1,5 +1,19 @@
 [
     {
+        "title": "The Pope will visit France from September 25 to 28",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/el-papa-visitara-francia-del-25-al-28-de-septiembre/",
+        "published_date": "2026-05-16 20:21:14",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Six arrested in France for displaying a Palestinian flag on the Eiffel Tower",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/seis-detenidos-en-francia-por-desplegar-una-bandera-palestina-en-la-torre-eiffel/",
+        "published_date": "2026-05-16 20:09:36",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Vice President F\u00e9lix Ulloa strengthens cooperation and political dialogue with Japan",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/vicepresidente-felix-ulloa-fortalece-cooperacion-y-dialogo-politico-con-japon/",
@@ -126,18 +140,74 @@
         "category": "Diplomacy"
     },
     {
-        "title": "El Salvador and Singapore strengthen relations with the business sector",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-y-singapur-fortalecen-relaciones-con-el-sector-empresarial/",
-        "published_date": "2026-05-11 16:31:14",
-        "category": "Diplomacy"
+        "title": "They arrest a man accused of stealing a delivery company's vehicle in San Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/detienen-a-hombre-acusado-de-hurtar-vehiculo-de-empresa-repartidora-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-hombre-acusado-de-hurtar-vehiculo-de-empresa-repartidora-en-san-salvador",
+        "published_date": "2026-05-16 23:38:32",
+        "category": "Military"
     },
     {
-        "title": "API denounces new Government offensive against El Faro and warns about more attacks",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/api-denuncia-nueva-ofensiva-del-gobierno-contra-el-faro-y-alerta-sobre-mas-ataques/",
-        "published_date": "2026-05-11 11:00:04",
-        "category": "Diplomacy"
+        "title": "At least 8 dead in Bangkok when a train and a bus collide",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/al-menos-8-muertos-en-bangkok-al-colisionar-un-tren-y-un-autobus/",
+        "published_date": "2026-05-16 23:20:34",
+        "category": "Military"
+    },
+    {
+        "title": "FESFUT suspends authorization of temporary stands in Usulut\u00e1n for security reasons",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/fesfut-suspende-autorizacion-de-graderios-temporales-en-usulutan-por-motivos-de-seguridad/?utm_source=rss&utm_medium=rss&utm_campaign=fesfut-suspende-autorizacion-de-graderios-temporales-en-usulutan-por-motivos-de-seguridad",
+        "published_date": "2026-05-16 23:14:31",
+        "category": "Military"
+    },
+    {
+        "title": "New attack causes five deaths in Ecuador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/nuevo-ataque-causa-cinco-muertos-en-ecuador/",
+        "published_date": "2026-05-16 23:12:33",
+        "category": "Military"
+    },
+    {
+        "title": "They find abandoned sports clothing in a blind spot in Santa Ana Oeste",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/encuentran-ropa-deportiva-abandonada-en-punto-ciego-de-santa-ana-oeste/?utm_source=rss&utm_medium=rss&utm_campaign=encuentran-ropa-deportiva-abandonada-en-punto-ciego-de-santa-ana-oeste",
+        "published_date": "2026-05-16 22:22:58",
+        "category": "Military"
+    },
+    {
+        "title": "Government began lighting project on more than 100 kilometers of roads in the country",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/gobierno-inicio-proyecto-de-iluminacion-en-mas-de-100-kilometros-de-carreteras-del-pais/",
+        "published_date": "2026-05-16 22:22:08",
+        "category": "Military"
+    },
+    {
+        "title": "They capture an alleged MS13 palabrero in Barra Salada, Sonsonate",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/capturan-a-presunto-palabrero-de-la-ms13-en-barra-salada-sonsonate/",
+        "published_date": "2026-05-16 21:10:32",
+        "category": "Military"
+    },
+    {
+        "title": "MS13 leader accused of threats and extortion captured in Sonsonate Este",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-en-sonsonate-este-a-palabrero-de-la-ms13-acusado-de-amenazas-y-extorsiones/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-en-sonsonate-este-a-palabrero-de-la-ms13-acusado-de-amenazas-y-extorsiones",
+        "published_date": "2026-05-16 20:25:46",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador maintains historical trend of homicide reduction",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-mantiene-tendencia-historica-de-reduccion-de-homicidios/",
+        "published_date": "2026-05-16 16:40:50",
+        "category": "Military"
+    },
+    {
+        "title": "New bridge in Villa Lourdes is now enabled",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/nuevo-puente-en-villa-lourdes-ya-esta-habilitado/",
+        "published_date": "2026-05-16 14:59:55",
+        "category": "Military"
     },
     {
         "title": "Up to 249 thousand people could face food insecurity in El Salvador",
@@ -207,76 +277,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/05/capturan-a-menor-acusado-de-hurtar-450-de-un-negocio-en-chalatenango/",
         "published_date": "2026-05-15 19:13:13",
-        "category": "Military"
-    },
-    {
-        "title": "Michelle Sol highlights the real estate boom and assures that security drives investment in El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/michelle-sol-destaca-auge-inmobiliario-y-asegura-que-la-seguridad-impulsa-la-inversion-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=michelle-sol-destaca-auge-inmobiliario-y-asegura-que-la-seguridad-impulsa-la-inversion-en-el-salvador",
-        "published_date": "2026-05-15 03:35:54",
-        "category": "Military"
-    },
-    {
-        "title": "Attack on journalists at an official event ends with President Asfura's apology to the press in Tegucigalpa",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/agresion-a-periodistas-en-acto-oficial-termina-con-disculpas-del-presidente-asfura-a-la-prensa-en-tegucigalpa/?utm_source=rss&utm_medium=rss&utm_campaign=agresion-a-periodistas-en-acto-oficial-termina-con-disculpas-del-presidente-asfura-a-la-prensa-en-tegucigalpa",
-        "published_date": "2026-05-15 02:35:02",
-        "category": "Military"
-    },
-    {
-        "title": "Work on El Pedregal street seeks to improve the mobility and safety of pedestrians and cyclists",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/trabajos-en-calle-el-pedregal-buscan-mejorar-la-movilidad-y-seguridad-de-peatones-y-ciclistas/?utm_source=rss&utm_medium=rss&utm_campaign=trabajos-en-calle-el-pedregal-buscan-mejorar-la-movilidad-y-seguridad-de-peatones-y-ciclistas",
-        "published_date": "2026-05-15 00:35:36",
-        "category": "Military"
-    },
-    {
-        "title": "\"This year we hope to end it with 4.2 million international visitors\": Alejandra Dur\u00e1n, director of Corsatur",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/este-ano-esperamos-finalizarlo-con-4-2-millones-de-visitantes-internacionales-alejandra-duran-directora-de-corsatur/",
-        "published_date": "2026-05-14 21:25:48",
-        "category": "Military"
-    },
-    {
-        "title": "Government of President Nayib Bukele transforms access to housing and promotes financial inclusion",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-del-presidente-nayib-bukele-transforma-el-acceso-a-vivienda-y-fomenta-inclusion-financiera/",
-        "published_date": "2026-05-14 20:27:52",
-        "category": "Military"
-    },
-    {
-        "title": "Children learn about road rules in the Historic Center",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ninos-aprenden-sobre-normas-viales-en-el-centro-historico/?utm_source=rss&utm_medium=rss&utm_campaign=ninos-aprenden-sobre-normas-viales-en-el-centro-historico",
-        "published_date": "2026-05-14 20:10:29",
-        "category": "Military"
-    },
-    {
-        "title": "THE RUMBLE OF THE SUMPUL",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-retumbo-del-sumpul/",
-        "published_date": "2026-05-14 11:01:26",
-        "category": "Military"
-    },
-    {
-        "title": "They capture two men accused of the murder of a woman in Nejapa",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/capturan-a-dos-hombres-acusados-del-homicidio-de-una-mujer-en-nejapa/",
-        "published_date": "2026-05-14 00:16:22",
-        "category": "Military"
-    },
-    {
-        "title": "Gang member and an accomplice murdered a woman on May 9",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/pandillero-y-un-complice-asesinaron-a-una-mujer-el-9-de-mayo/",
-        "published_date": "2026-05-13 22:43:27",
-        "category": "Military"
-    },
-    {
-        "title": "They capture two men accused of murdering a woman in Nejapa",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-dos-hombres-acusados-de-homicidio-de-una-mujer-en-nejapa/",
-        "published_date": "2026-05-13 21:37:41",
         "category": "Military"
     },
     {
@@ -455,178 +455,143 @@
         "category": "Economy"
     },
     {
-        "title": "A manipulative headline, warns Villalona",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/un-titular-manipulador-advierte-villalona/",
-        "published_date": "2026-05-08 23:58:24",
-        "category": "Economy"
+        "title": "Iceland confirms success of four-day work week",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/islandia-confirma-exito-de-la-semana-laboral-de-cuatro-dias/",
+        "published_date": "2026-05-16 23:57:40",
+        "category": "Local Events"
     },
     {
-        "title": "US officials and investors announce visit to El Salvador",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/funcionarios-e-inversionistas-estadounidenses-anuncian-visita-a-el-salvador/",
-        "published_date": "2026-05-08 22:03:22",
-        "category": "Economy"
+        "title": "Motorcyclist injured in accident with minibus on Modelo Street in San Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/motociclista-lesionado-en-accidente-con-microbus-sobre-la-calle-modelo-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=motociclista-lesionado-en-accidente-con-microbus-sobre-la-calle-modelo-en-san-salvador",
+        "published_date": "2026-05-16 23:56:46",
+        "category": "Local Events"
     },
     {
-        "title": "Government activates price verification operation prior to Mother's Day",
+        "title": "Manchester City wins the FA Cup after beating Chelsea 1-0",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/manchester-city-gana-la-fa-cup-tras-imponerse-1-0-al-chelsea/",
+        "published_date": "2026-05-16 23:35:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Putin travels to China days after Trump",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/putin-viaja-a-china-dias-despues-de-trump/",
+        "published_date": "2026-05-16 23:22:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several injured in multiple accident on the Pan-American highway in Ilopango",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-activa-operativo-de-verificacion-de-precios-previo-al-dia-de-la-madre/",
-        "published_date": "2026-05-08 21:10:54",
-        "category": "Economy"
+        "url": "https://diariolahuella.com/varios-lesionados-en-multiple-accidente-sobre-la-carretera-panamericana-en-ilopango/",
+        "published_date": "2026-05-16 23:19:56",
+        "category": "Local Events"
     },
     {
-        "title": "Aerocluster and Expertise France promote job opportunities for young people",
+        "title": "Government will promote LED lighting on four strategic roads in the country",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/aerocluster-y-expertise-france-impulsan-oportunidades-laborales-para-jovenes/?utm_source=rss&utm_medium=rss&utm_campaign=aerocluster-y-expertise-france-impulsan-oportunidades-laborales-para-jovenes",
-        "published_date": "2026-05-08 20:05:10",
-        "category": "Economy"
-    },
-    {
-        "title": "Consumer Ombudsman supervises prices and guides purchases for Mother's Day",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/defensoria-del-consumidor-supervisa-precios-y-orienta-compras-por-el-dia-de-la-madre/?utm_source=rss&utm_medium=rss&utm_campaign=defensoria-del-consumidor-supervisa-precios-y-orienta-compras-por-el-dia-de-la-madre",
-        "published_date": "2026-05-08 17:41:26",
-        "category": "Economy"
-    },
-    {
-        "title": "Araujo and Mirna Perla warn about the crisis of political representation in El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/araujo-y-mirna-perla-advierten-sobre-la-crisis-de-representacion-politica-en-el-salvador/",
-        "published_date": "2026-05-16 11:04:00",
+        "url": "https://lapagina.com.sv/nacionales/gobierno-impulsara-iluminacion-led-en-cuatro-carreteras-estrategicas-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-impulsara-iluminacion-led-en-cuatro-carreteras-estrategicas-del-pais",
+        "published_date": "2026-05-16 22:06:11",
         "category": "Local Events"
     },
     {
-        "title": "Assembly ratifies loans for road lighting and repair of sports venues",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/asamblea-ratifica-prestamos-para-luminaria-vial-y-reparacion-escenarios-deportivos/",
-        "published_date": "2026-05-16 11:03:23",
+        "title": "Heat wave!High temperatures continue this Saturday throughout the country",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ola-de-calor-altas-temperaturas-continuan-en-este-sabado-en-todo-el-pais/",
+        "published_date": "2026-05-16 22:02:30",
         "category": "Local Events"
     },
     {
-        "title": "Teacher Bases demand to stop arbitrary measures against educators in Chalatenango",
+        "title": "Summary of the second week of the month of May 2026",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/bases-magisteriales-exige-frenar-medidas-arbitrarias-contra-educadores-en-chalatenango/",
-        "published_date": "2026-05-16 11:02:01",
+        "url": "https://www.diariocolatino.com/resumen-de-la-segunda-semana-del-mes-de-mayo-2026/",
+        "published_date": "2026-05-16 21:39:16",
         "category": "Local Events"
     },
     {
-        "title": "The Cultural Center of Spain inaugurates an exhibition dedicated to the artistic legacy of Salarru\u00e9",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-centro-cultural-de-espana-inaugura-muestra-dedicada-al-legado-artistico-de-salarrue/",
-        "published_date": "2026-05-16 11:01:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "DISSIPATE WETIKO",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/disipando-wetiko/",
-        "published_date": "2026-05-16 10:59:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "China hopes that the US will take concrete measures to safeguard peace and stability across the Taiwan Strait",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/china-espera-que-eeuu-adopte-medidas-concretas-para-salvaguardar-paz-y-estabilidad-entre-ambos-lados-del-estrecho-de-taiwan/",
-        "published_date": "2026-05-16 10:58:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Merchants begin voluntary dismantling of stalls in a new phase of reorganization of the Historic Center",
+        "title": "World Cup crush?Who is Clovis Nienow, the Host who \"caught Shakira's attention\"",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/comerciantes-inician-desmontaje-voluntario-de-puestos-en-nueva-fase-de-reordenamiento-del-centro-historico/",
-        "published_date": "2026-05-16 03:29:48",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/flechazo-mundialista-quien-es-clovis-nienow-el-host-que-llamo-la-atencion-de-shakira/",
+        "published_date": "2026-05-16 21:37:03",
         "category": "Local Events"
     },
     {
-        "title": "Voluntary disassembly of posts begins in the Historic Center of San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/inicia-desmontaje-voluntario-de-puestos-en-centro-historico-de-san-salvador/",
-        "published_date": "2026-05-16 03:04:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gabriela de Bukele congratulates the nursing staff on their day",
+        "title": "Multiple crash in front of the Ilopango cemetery leaves several injured",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gabriela-de-bukele-felicita-al-personal-de-enfermeria-en-su-dia/?utm_source=rss&utm_medium=rss&utm_campaign=gabriela-de-bukele-felicita-al-personal-de-enfermeria-en-su-dia",
-        "published_date": "2026-05-16 03:04:02",
+        "url": "https://lapagina.com.sv/nacionales/choque-multiple-frente-al-cementerio-de-ilopango-deja-varios-lesionados/?utm_source=rss&utm_medium=rss&utm_campaign=choque-multiple-frente-al-cementerio-de-ilopango-deja-varios-lesionados",
+        "published_date": "2026-05-16 21:26:01",
         "category": "Local Events"
     },
     {
-        "title": "\ud835\uddd7\ud835\uddd8\ud835\udddf \ud835\udde9\ud835\udde2\ud835\udddf\ud835\uddde\ud835\udde6\ud835\uddda\ud835\uddd8\ud835\udde5\ud835\udddc\ud835\uddd6\ud835\udddb\ud835\udde7\ud835\udde6\ud835\udddb\ud835\udde2\ud835\uddd9 \ud835\uddd4 \ud835\udddf\ud835\uddd4\ud835\udde6\ud835\uddd4\ud835\udde8\ud835\uddd7\ud835\udddc\ud835\uddd8\ud835\udde1\ud835\uddd6\ud835\udddc\ud835\uddd4\ud835\udde6 \u00da\ud835\udde1\ud835\udddc\ud835\uddd6\ud835\uddd4\ud835\udde6",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/del-voksgerichtshof-a-las-audiencias-unicas/",
-        "published_date": "2026-05-16 01:43:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two Ecuadorians sentenced for trafficking cocaine in Salvadoran waters",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/condenan-a-dos-ecuatorianos-por-traficar-cocaina-en-aguas-salvadorenas/",
-        "published_date": "2026-05-16 01:14:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Concern about temporary stands installed in the visiting sector of the Sergio Torres Stadium",
+        "title": "More than 100 children enjoy a recreational day of \u201cLet's go to the Cinema\u201d with Mario Dur\u00e1n",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/preocupacion-por-graderios-provisionales-instalados-en-sector-visitante-del-estadio-sergio-torres/?utm_source=rss&utm_medium=rss&utm_campaign=preocupacion-por-graderios-provisionales-instalados-en-sector-visitante-del-estadio-sergio-torres",
-        "published_date": "2026-05-16 00:27:41",
+        "url": "https://lapagina.com.sv/nacionales/mas-de-100-ninos-disfrutan-jornada-recreativa-de-vamos-al-cine-junto-a-mario-duran/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-100-ninos-disfrutan-jornada-recreativa-de-vamos-al-cine-junto-a-mario-duran",
+        "published_date": "2026-05-16 21:03:41",
         "category": "Local Events"
     },
     {
-        "title": "Marco Antonio Sol\u00eds will conquer the Cuscatl\u00e1n Stadium this Saturday with his \u201cGratitud Tour 2026\u201d",
+        "title": "Merchants advance with voluntary dismantling in the streets of the Historic Center of San Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/comerciantes-avanzan-con-desmontaje-voluntario-en-calles-del-centro-historico-de-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=comerciantes-avanzan-con-desmontaje-voluntario-en-calles-del-centro-historico-de-san-salvador",
+        "published_date": "2026-05-16 20:32:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ebola epidemic hits DR Congo and leaves one dead in Uganda",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/epidemia-de-ebola-azota-rd-congo-y-deja-un-muerto-en-uganda/",
+        "published_date": "2026-05-16 19:57:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Free renewal of the DUI will benefit Salvadorans with documents about to expire before 2027",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/renovacion-gratuita-del-dui-beneficiara-a-salvadorenos-con-documentos-proximos-a-vencer-antes-de-2027/?utm_source=rss&utm_medium=rss&utm_campaign=renovacion-gratuita-del-dui-beneficiara-a-salvadorenos-con-documentos-proximos-a-vencer-antes-de-2027",
+        "published_date": "2026-05-16 19:52:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court of Accounts carries out 233 audit processes this year",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/corte-de-cuentas-realiza-233-procesos-de-auditoria-este-ano/",
+        "published_date": "2026-05-16 19:12:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Elephant will roar again in El Salvador with a concert in August 2026",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/marco-antonio-solis-conquistara-el-estadio-cuscatlan-este-sabado-con-su-gratitud-tour-2026/",
-        "published_date": "2026-05-16 00:20:09",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/elefante-volvera-a-rugir-en-el-salvador-con-concierto-en-agosto-de-2026/",
+        "published_date": "2026-05-16 17:53:09",
         "category": "Local Events"
     },
     {
-        "title": "Accused of trying to steal a cell phone in a shopping center will remain detained",
+        "title": "Lewandowski leaves Barcelona after four seasons with his \"mission accomplished\"",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/lewandowski-deja-el-barcelona-tras-cuatro-temporadas-con-la-mision-cumplida/",
+        "published_date": "2026-05-16 16:13:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mobile road park arrives in Salvador del Mundo this weekend",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/parque-vial-movil-llega-al-salvador-del-mundo-este-fin-de-semana/",
+        "published_date": "2026-05-16 15:47:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump warns Taiwan to refrain from declaring independence from China",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/acusado-de-intentar-robar-celular-en-centro-comercial-seguira-detenido/",
-        "published_date": "2026-05-16 00:13:03",
+        "url": "https://diariolahuella.com/trump-advierte-a-taiwan-de-abstenerse-de-declarar-independencia-de-china/",
+        "published_date": "2026-05-16 15:00:26",
         "category": "Local Events"
     },
     {
-        "title": "FESFUT rejects Firpo's request to install temporary stands",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/fesfut-rechaza-solicitud-de-firpo-para-instalar-graderios-provisionales/",
-        "published_date": "2026-05-16 00:10:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "English in Central America VIII",
+        "title": "Organizations celebrate ruling that confirms innocence of environmentalist leaders from Caba\u00f1as",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ingleses-en-centroamerica-viii/",
-        "published_date": "2026-05-16 00:05:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Recognition of Luis Ch\u00e1vez",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/reconocimiento-a-luis-chavez/",
-        "published_date": "2026-05-16 00:02:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Angels of Health",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/angeles-de-la-salud/",
-        "published_date": "2026-05-15 23:58:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "A LIFE IN THE CINEMA OF ALBERTO MASFERRER",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/una-vida-en-el-cine-de-alberto-masferrer/",
-        "published_date": "2026-05-15 23:55:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "CLOSET V",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/almario-v/",
-        "published_date": "2026-05-15 23:52:30",
+        "url": "https://www.diariocolatino.com/organizaciones-celebran-fallo-que-ratifica-inocencia-de-lideres-ambientalistas-de-cabanas/",
+        "published_date": "2026-05-16 13:01:01",
         "category": "Local Events"
     }
 ]
