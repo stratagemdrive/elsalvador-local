@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Cuban government denounces US campaign to justify military aggression",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/gobierno-cubano-denuncia-campana-de-eeuu-para-justificar-agresion-militar/",
+        "published_date": "2026-05-23 00:22:42",
+        "category": "Military"
+    },
+    {
         "title": "Man captured for smuggling merchandise in Santa Ana Este",
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/capturan-a-hombre-por-contrabando-de-mercaderia-en-santa-ana-este/",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Marco Rubio accuses the Cuban military elite of deepening the crisis on the island and proposes a \u201cnew path\u201d between the US and Cuba",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/marco-rubio-acusa-a-elite-militar-cubana-de-profundizar-crisis-en-la-isla-y-propone-nuevo-camino-entre-ee-uu-y-cuba/",
-        "published_date": "2026-05-20 20:09:38",
-        "category": "Military"
-    },
-    {
         "title": "82 families receive decent homes in the Ahuachap\u00e1n housing project",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/82-familias-reciben-viviendas-dignas-en-proyecto-habitacional-de-ahuachapan/",
@@ -312,13 +312,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/alcaldia-de-la-libertad-sur-desmiente-aumento-de-tasas-tras-cambios-en-recibos-de-delsur/?utm_source=rss&utm_medium=rss&utm_campaign=alcaldia-de-la-libertad-sur-desmiente-aumento-de-tasas-tras-cambios-en-recibos-de-delsur",
         "published_date": "2026-05-15 19:40:10",
-        "category": "Energy"
-    },
-    {
-        "title": "Oil flow through the Strait of Hormuz fell 30 percent in the quarter",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/flujo-petrolero-por-estrecho-de-ormuz-cayo-30-por-ciento-en-trimestre/",
-        "published_date": "2026-05-15 03:16:47",
         "category": "Energy"
     },
     {
@@ -385,6 +378,111 @@
         "category": "Economy"
     },
     {
+        "title": "Salvadoran writer in New York signals that fear dominates the country",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/escritora-salvadorena-en-nueva-york-senal-que-en-el-pais-domina-el-miedo/",
+        "published_date": "2026-05-23 11:05:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cNew Ideas seek to concentrate power at any cost\u201d: Francisco Lira",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/nuevas-ideas-busca-concentrar-el-poder-cueste-lo-que-cueste-francisco-lira/",
+        "published_date": "2026-05-23 11:04:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Amanelli Project puts the environmental balance of Lake Coatepeque at risk",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/proyecto-amanelli-pone-en-riesgo-equilibrio-ambiental-del-lago-de-coatepeque/",
+        "published_date": "2026-05-23 11:03:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "GOES asks to allocate $8 million to the DOM to build markets and schools",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/goes-pide-asignar-8-millones-a-la-dom-para-construir-mercados-y-escuelas/",
+        "published_date": "2026-05-23 11:02:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "CAPRES requests reinforcement of $2.1 million for internet installation in 440 public places",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/capres-solicita-refuerzo-de-2-1-millones-para-instalacion-de-internet-en-440-sitios-publicos/",
+        "published_date": "2026-05-23 11:01:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "US congressman demands meeting between Embassy and COSAVI victims",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/congresista-estadounidense-exige-reunion-entre-embajada-y-victimas-de-cosavi/",
+        "published_date": "2026-05-23 11:00:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "FAS and \u00c1guila, the final that Salvadoran soccer waited 17 years with a pending rematch",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fas-y-aguila-la-final-que-el-futbol-salvadoreno-espero-17-anos-con-una-revancha-pendiente/",
+        "published_date": "2026-05-23 10:59:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jesse & Joy conquer El Salvador with a night full of emotions",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/jesse-joy-conquistan-el-salvador-con-una-noche-llena-de-emociones/",
+        "published_date": "2026-05-23 07:48:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor's Office intervenes in case of alleged animal abuse in Cuscatancingo",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/alcaldia-interviene-caso-de-presunto-maltrato-animal-en-cuscatancingo/",
+        "published_date": "2026-05-23 03:49:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "They capture alias \u201cEl Toro\u201d, a Mao Mao gang member with a record since 2014",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-alias-el-toro-pandillero-de-la-mao-mao-con-antecedentes-desde-2014/",
+        "published_date": "2026-05-23 03:49:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The grand final of Clausura 2026 between FAS and \u00c1guila is coming",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/se-viene-la-gran-final-del-clausura-2026-entre-fas-y-aguila/",
+        "published_date": "2026-05-23 02:30:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mao Mao gang member \u201cal Toro\u201d captured in Ciudad Delgado",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-al-toro-pandillero-de-la-mao-mao-en-ciudad-delgado/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-al-toro-pandillero-de-la-mao-mao-en-ciudad-delgado",
+        "published_date": "2026-05-23 01:54:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lula widens his lead against Fl\u00e1vio Bolsonaro and is a favorite for re-election, poll says",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/lula-amplia-ventaja-contra-flavio-bolsonaro-y-es-favorito-a-la-reeleccion-asegura-encuesta/",
+        "published_date": "2026-05-23 01:45:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "A man is sentenced to 35 years in prison for kidnapping committed in 2001",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/condenan-a-35-anos-de-carcel-a-un-hombre-por-secuestro-cometido-en-2001/",
+        "published_date": "2026-05-23 00:57:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Heart Keys",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/teclenos-de-corazon/",
+        "published_date": "2026-05-23 00:19:27",
+        "category": "Local Events"
+    },
+    {
         "title": "CLOSET VI",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/almario-vi/",
@@ -417,111 +515,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/estudiante-de-la-ues-es-seleccionada-para-viajar-a-la-nasa-en-houston-texas/",
         "published_date": "2026-05-22 23:55:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "A man is sentenced to 35 years in prison for kidnapping committed in 2001",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/condenan-a-35-anos-de-carcel-a-un-hombre-por-secuestro-cometido-en-2001/",
-        "published_date": "2026-05-22 23:52:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "UES students strengthen knowledge about safe medications for health",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/estudiantes-de-la-ues-fortalecen-los-conocimientos-sobre-medicamentos-seguros-para-la-salud/",
-        "published_date": "2026-05-22 23:48:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "They prosecute 200 MS gang members who commit crimes in Chalatenango",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/procesan-a-200-pandilleros-de-la-ms-que-delinquian-en-chalatenango/",
-        "published_date": "2026-05-22 23:39:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador delivers school packages to students from the ex-bolsones",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/el-salvador-entrega-paquetes-escolares-a-estudiantes-de-los-exbolsones/",
-        "published_date": "2026-05-22 23:34:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "American crocodile babies are born in Protected Natural Areas of El Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/nacen-crias-de-cocodrilo-americano-en-areas-naturales-protegidas-de-el-salvador/",
-        "published_date": "2026-05-22 22:47:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Donald Trump's Director of National Intelligence, Tulsi Gabbard, resigns",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/renuncio-la-directora-de-inteligencia-nacional-de-donald-trump-tulsi-gabbard/",
-        "published_date": "2026-05-22 22:46:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five Dipampco agents found dismembered and burned in Omoa",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/hallan-descuartizados-y-quemados-a-cinco-agentes-de-la-dipampco-en-omoa/",
-        "published_date": "2026-05-22 22:27:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "They carry out cleaning and washing days in Plaza Zurita and sectors of San Jacinto",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/realizan-jornadas-de-limpieza-y-lavado-en-plaza-zurita-y-sectores-de-san-jacinto/?utm_source=rss&utm_medium=rss&utm_campaign=realizan-jornadas-de-limpieza-y-lavado-en-plaza-zurita-y-sectores-de-san-jacinto",
-        "published_date": "2026-05-22 22:18:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Can El Salvador become the next culinary Peru?",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/puede-el-salvador-convertirse-en-el-proximo-peru-culinario/",
-        "published_date": "2026-05-22 21:43:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Women deprived of liberty graduate from the Apanteos job training center",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mujeres-privadas-de-libertad-se-graduan-en-centro-de-formacion-laboral-de-apanteos/?utm_source=rss&utm_medium=rss&utm_campaign=mujeres-privadas-de-libertad-se-graduan-en-centro-de-formacion-laboral-de-apanteos",
-        "published_date": "2026-05-22 21:34:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "First graduation from the Job Training Center in Apanteos prison",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/realizan-primera-graduacion-del-centro-de-formacion-laboral-en-penal-de-apanteos/",
-        "published_date": "2026-05-22 21:28:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Referees refine criteria and review key plays before the final between \u00c1guila and FAS",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/arbitros-afinan-criterios-y-repasan-jugadas-clave-antes-de-la-final-entre-aguila-y-fas/?utm_source=rss&utm_medium=rss&utm_campaign=arbitros-afinan-criterios-y-repasan-jugadas-clave-antes-de-la-final-entre-aguila-y-fas",
-        "published_date": "2026-05-22 21:07:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nahulingo already has free internet from the \u201cConnecting El Salvador\u201d project",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/nahulingo-ya-cuenta-con-internet-gratuito-del-proyecto-conectando-a-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=nahulingo-ya-cuenta-con-internet-gratuito-del-proyecto-conectando-a-el-salvador",
-        "published_date": "2026-05-22 20:34:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Everything ready for the Pineapple and La Palanca Festival at the Former Presidential House",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/todo-listo-para-el-festival-de-la-pina-y-la-palanca-en-la-ex-casa-presidencial/",
-        "published_date": "2026-05-22 20:07:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Strike is internationally recognized as the right of the Working Class",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-huelga-es-reconocida-internacionalmente-como-derecho-de-la-clase-trabajadora/",
-        "published_date": "2026-05-22 19:02:23",
         "category": "Local Events"
     }
 ]
