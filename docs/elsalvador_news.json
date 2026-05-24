@@ -140,6 +140,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Guatemala shields border after violence",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/guatemala-blinda-frontera-tras-violencia/",
+        "published_date": "2026-05-23 23:10:01",
+        "category": "Military"
+    },
+    {
+        "title": "FGR orders the arrest of three alleged drug distributors in San Miguel",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/fgr-ordena-captura-de-tres-presuntos-distribuidores-de-droga-en-san-miguel/",
+        "published_date": "2026-05-23 22:06:50",
+        "category": "Military"
+    },
+    {
+        "title": "Police confront protesters with gas to unblock roads in Bolivia",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/policias-se-enfrentan-con-gases-a-manifestantes-para-desbloquear-carreteras-en-bolivia/",
+        "published_date": "2026-05-23 21:32:34",
+        "category": "Military"
+    },
+    {
         "title": "Cuban government denounces US campaign to justify military aggression",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/gobierno-cubano-denuncia-campana-de-eeuu-para-justificar-agresion-militar/",
@@ -259,27 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Member of the MS13 with an international arrest warrant falls into the hands of Salvadoran justice",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cae-en-manos-de-la-justicia-salvadorena-integrante-de-la-ms13-con-orden-internacional-de-captura/?utm_source=rss&utm_medium=rss&utm_campaign=cae-en-manos-de-la-justicia-salvadorena-integrante-de-la-ms13-con-orden-internacional-de-captura",
-        "published_date": "2026-05-21 04:16:44",
-        "category": "Military"
-    },
-    {
-        "title": "Spider monkey found in the urban area of \u200b\u200bLa Libertad Oeste is sheltered",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/resguardan-mono-arana-hallado-en-zona-urbana-de-la-libertad-oeste/",
-        "published_date": "2026-05-21 03:40:35",
-        "category": "Military"
-    },
-    {
-        "title": "President Bukele calls to strengthen the rule of law and the comprehensive security of the country",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-llama-a-fortalecer-el-estado-de-derecho-y-la-seguridad-integral-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-llama-a-fortalecer-el-estado-de-derecho-y-la-seguridad-integral-del-pais",
-        "published_date": "2026-05-21 03:23:03",
-        "category": "Military"
-    },
-    {
         "title": "82 families receive decent homes in the Ahuachap\u00e1n housing project",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/82-familias-reciben-viviendas-dignas-en-proyecto-habitacional-de-ahuachapan/",
@@ -305,13 +305,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/05/una-noche-de-lagrimas-corridos-y-euforia-junior-h-conquista-al-publico-salvadoreno/",
         "published_date": "2026-05-17 08:23:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Mayor's Office of La Libertad Sur denies increase in rates after changes in DELSUR receipts",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/alcaldia-de-la-libertad-sur-desmiente-aumento-de-tasas-tras-cambios-en-recibos-de-delsur/?utm_source=rss&utm_medium=rss&utm_campaign=alcaldia-de-la-libertad-sur-desmiente-aumento-de-tasas-tras-cambios-en-recibos-de-delsur",
-        "published_date": "2026-05-15 19:40:10",
         "category": "Energy"
     },
     {
@@ -371,150 +364,143 @@
         "category": "Economy"
     },
     {
-        "title": "El Salvador increases its Bitcoin reserve and exceeds 7,653 BTC",
+        "title": "Minister of Labor highlights labor achievements prior to the ILO Assembly",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-aumenta-su-reserva-de-bitcoin-y-supera-los-7653-btc/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-aumenta-su-reserva-de-bitcoin-y-supera-los-7653-btc",
-        "published_date": "2026-05-15 21:49:40",
-        "category": "Economy"
-    },
-    {
-        "title": "Salvadoran writer in New York signals that fear dominates the country",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/escritora-salvadorena-en-nueva-york-senal-que-en-el-pais-domina-el-miedo/",
-        "published_date": "2026-05-23 11:05:37",
+        "url": "https://lapagina.com.sv/nacionales/ministro-de-trabajo-destaca-logros-laborales-previo-a-asamblea-de-la-oit/?utm_source=rss&utm_medium=rss&utm_campaign=ministro-de-trabajo-destaca-logros-laborales-previo-a-asamblea-de-la-oit",
+        "published_date": "2026-05-24 00:02:52",
         "category": "Local Events"
     },
     {
-        "title": "\u201cNew Ideas seek to concentrate power at any cost\u201d: Francisco Lira",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/nuevas-ideas-busca-concentrar-el-poder-cueste-lo-que-cueste-francisco-lira/",
-        "published_date": "2026-05-23 11:04:25",
+        "title": "SpaceX launches the latest version of its Starship megarocket",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/spacex-lanza-la-ultima-version-de-su-megacohete-starship/",
+        "published_date": "2026-05-23 23:25:34",
         "category": "Local Events"
     },
     {
-        "title": "Amanelli Project puts the environmental balance of Lake Coatepeque at risk",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/proyecto-amanelli-pone-en-riesgo-equilibrio-ambiental-del-lago-de-coatepeque/",
-        "published_date": "2026-05-23 11:03:32",
+        "title": "Pentagon releases more UFO files",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/pentagono-publica-mas-archivos-de-ovnis/",
+        "published_date": "2026-05-23 23:20:05",
         "category": "Local Events"
     },
     {
-        "title": "GOES asks to allocate $8 million to the DOM to build markets and schools",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/goes-pide-asignar-8-millones-a-la-dom-para-construir-mercados-y-escuelas/",
-        "published_date": "2026-05-23 11:02:02",
+        "title": "Measles outbreak has killed more than 500 children in Bangladesh since March",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/brote-de-sarampion-provoco-la-muerte-de-mas-de-500-ninos-en-banglades-desde-marzo/",
+        "published_date": "2026-05-23 21:56:24",
         "category": "Local Events"
     },
     {
-        "title": "CAPRES requests reinforcement of $2.1 million for internet installation in 440 public places",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/capres-solicita-refuerzo-de-2-1-millones-para-instalacion-de-internet-en-440-sitios-publicos/",
-        "published_date": "2026-05-23 11:01:14",
+        "title": "Iran claims it is in the \u201cfinalization phase\u201d of a protocol agreement with the US.",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/iran-afirma-que-esta-en-fase-de-finalizacion-de-un-protocolo-de-acuerdo-con-ee-uu/",
+        "published_date": "2026-05-23 21:46:11",
         "category": "Local Events"
     },
     {
-        "title": "US congressman demands meeting between Embassy and COSAVI victims",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/congresista-estadounidense-exige-reunion-entre-embajada-y-victimas-de-cosavi/",
-        "published_date": "2026-05-23 11:00:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "FAS and \u00c1guila, the final that Salvadoran soccer waited 17 years with a pending rematch",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fas-y-aguila-la-final-que-el-futbol-salvadoreno-espero-17-anos-con-una-revancha-pendiente/",
-        "published_date": "2026-05-23 10:59:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jesse & Joy conquer El Salvador with a night full of emotions",
+        "title": "Trump says the Iran deal is practically negotiated and the Strait of Hormuz will reopen",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/jesse-joy-conquistan-el-salvador-con-una-noche-llena-de-emociones/",
-        "published_date": "2026-05-23 07:48:35",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/trump-dice-que-el-acuerdo-con-iran-ya-esta-practicamente-negociado-y-que-el-estrecho-de-ormuz-volvera-a-abrirse/",
+        "published_date": "2026-05-23 21:33:41",
         "category": "Local Events"
     },
     {
-        "title": "Mayor's Office intervenes in case of alleged animal abuse in Cuscatancingo",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/alcaldia-interviene-caso-de-presunto-maltrato-animal-en-cuscatancingo/",
-        "published_date": "2026-05-23 03:49:21",
+        "title": "They forgot about \u201cdemocracy and freedoms\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/se-olvidaron-de-la-democracia-y-las-libertades/",
+        "published_date": "2026-05-23 20:39:49",
         "category": "Local Events"
     },
     {
-        "title": "They capture alias \u201cEl Toro\u201d, a Mao Mao gang member with a record since 2014",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-alias-el-toro-pandillero-de-la-mao-mao-con-antecedentes-desde-2014/",
-        "published_date": "2026-05-23 03:49:19",
+        "title": "They capture drug distributors in San Miguel and Soyapango",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-distribuidores-de-droga-en-san-miguel-y-soyapango/",
+        "published_date": "2026-05-23 20:20:26",
         "category": "Local Events"
     },
     {
-        "title": "The grand final of Clausura 2026 between FAS and \u00c1guila is coming",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/se-viene-la-gran-final-del-clausura-2026-entre-fas-y-aguila/",
-        "published_date": "2026-05-23 02:30:55",
+        "title": "Rub\u00e9n Alvarado's new game",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-nueva-partida-de-ruben-alvarado/",
+        "published_date": "2026-05-23 19:59:55",
         "category": "Local Events"
     },
     {
-        "title": "Mao Mao gang member \u201cal Toro\u201d captured in Ciudad Delgado",
+        "title": "THE SECT OF THE ANGELS",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-secta-de-los-angeles/",
+        "published_date": "2026-05-23 19:55:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Summary of the third week of May 2026",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/resumen-de-la-tercera-semana-del-mes-de-mayo-2026/",
+        "published_date": "2026-05-23 19:49:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tropical wave will cause rain during the weekend in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/onda-tropical-provocara-lluvias-durante-el-fin-de-semana-en-el-salvador/",
+        "published_date": "2026-05-23 19:38:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "They capture a man with drugs in Sierra Morena, Soyapango",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-al-toro-pandillero-de-la-mao-mao-en-ciudad-delgado/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-al-toro-pandillero-de-la-mao-mao-en-ciudad-delgado",
-        "published_date": "2026-05-23 01:54:58",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-hombre-con-droga-en-sierra-morena-soyapango/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-hombre-con-droga-en-sierra-morena-soyapango",
+        "published_date": "2026-05-23 19:23:13",
         "category": "Local Events"
     },
     {
-        "title": "Lula widens his lead against Fl\u00e1vio Bolsonaro and is a favorite for re-election, poll says",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/lula-amplia-ventaja-contra-flavio-bolsonaro-y-es-favorito-a-la-reeleccion-asegura-encuesta/",
-        "published_date": "2026-05-23 01:45:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "A man is sentenced to 35 years in prison for kidnapping committed in 2001",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/condenan-a-35-anos-de-carcel-a-un-hombre-por-secuestro-cometido-en-2001/",
-        "published_date": "2026-05-23 00:57:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heart Keys",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/teclenos-de-corazon/",
-        "published_date": "2026-05-23 00:19:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "CLOSET VI",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/almario-vi/",
-        "published_date": "2026-05-23 00:11:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rebecca Hall and Gael Garc\u00eda Bernal challenge immortality in Cannes",
+        "title": "Strong multiple accident reported on the road to Quezaltepeque",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/rebecca-hall-y-gael-garcia-bernal-desafian-la-inmortalidad-en-cannes/",
-        "published_date": "2026-05-23 00:06:08",
+        "url": "https://croniosv.com/nacionales/reportan-fuerte-accidente-multiple-en-carretera-a-quezaltepeque/",
+        "published_date": "2026-05-23 18:47:34",
         "category": "Local Events"
     },
     {
-        "title": "Olivia Rodrigo gives a second dose with \"The Cure\"",
+        "title": "Plot to assassinate Ivanka Trump, daughter of the US president, is discovered",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/descubren-complot-para-asesinar-a-ivanka-trump-hija-del-presidente-de-eua/",
+        "published_date": "2026-05-23 18:42:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Construction of homes begins for two families affected by fire in Comasagua",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/olivia-rodrigo-regala-una-segunda-dosis-con-the-cure/",
-        "published_date": "2026-05-23 00:04:18",
+        "url": "https://croniosv.com/nacionales/inician-construccion-de-viviendas-para-dos-familias-afectadas-por-incendio-en-comasagua/",
+        "published_date": "2026-05-23 18:04:01",
         "category": "Local Events"
     },
     {
-        "title": "English in Central America IX",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ingleses-en-centro-america-ix/",
-        "published_date": "2026-05-23 00:03:03",
+        "title": "OFFICIAL VIDEO |Shakira connects Uganda with the world in her new anthem 'Dai Dai'",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/video-oficial-shakira-conecta-a-uganda-con-el-mundo-en-su-nuevo-himno-dai-dai/",
+        "published_date": "2026-05-23 16:37:34",
         "category": "Local Events"
     },
     {
-        "title": "UES student is selected to travel to NASA in Houston, Texas",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/estudiante-de-la-ues-es-seleccionada-para-viajar-a-la-nasa-en-houston-texas/",
-        "published_date": "2026-05-22 23:55:35",
+        "title": "Minister Rolando Castro highlights progress made by El Salvador before the ILO",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/ministro-rolando-castro-destaca-avances-de-el-salvador-ante-la-oit/?utm_source=rss&utm_medium=rss&utm_campaign=ministro-rolando-castro-destaca-avances-de-el-salvador-ante-la-oit",
+        "published_date": "2026-05-23 16:04:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "FAS and \u00c1guila meet again with history 17 years later in a grand final",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/fas-y-aguila-vuelven-a-citarse-con-la-historia-17-anos-despues-en-una-gran-final/",
+        "published_date": "2026-05-23 15:40:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "An alleged gang member with a record of homicide, robbery and sexual assaults is captured in Ciudad Delgado",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/capturan-en-ciudad-delgado-a-presunto-pandillero-con-antecedentes-por-homicidio-robo-y-agresiones-sexuales/",
+        "published_date": "2026-05-23 15:15:44",
         "category": "Local Events"
     }
 ]
