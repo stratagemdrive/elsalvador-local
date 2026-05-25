@@ -280,6 +280,13 @@
         "category": "Military"
     },
     {
+        "title": "They report stability in fuel prices for the next fortnight",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/informan-estabilidad-en-los-precios-de-los-combustibles-para-la-proxima-quincena/?utm_source=rss&utm_medium=rss&utm_campaign=informan-estabilidad-en-los-precios-de-los-combustibles-para-la-proxima-quincena",
+        "published_date": "2026-05-25 14:09:30",
+        "category": "Energy"
+    },
+    {
         "title": "82 families receive decent homes in the Ahuachap\u00e1n housing project",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/82-familias-reciben-viviendas-dignas-en-proyecto-habitacional-de-ahuachapan/",
@@ -298,13 +305,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/aes-promete-corregir-cobros-irregulares-y-reflejar-ajustes-en-proximas-facturas/?utm_source=rss&utm_medium=rss&utm_campaign=aes-promete-corregir-cobros-irregulares-y-reflejar-ajustes-en-proximas-facturas",
         "published_date": "2026-05-17 20:04:10",
-        "category": "Energy"
-    },
-    {
-        "title": "A night of tears, bullfights and euphoria: Junior H conquers the Salvadoran public",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/una-noche-de-lagrimas-corridos-y-euforia-junior-h-conquista-al-publico-salvadoreno/",
-        "published_date": "2026-05-17 08:23:00",
         "category": "Energy"
     },
     {
@@ -364,6 +364,104 @@
         "category": "Economy"
     },
     {
+        "title": "Shell El Salvador celebrates its second anniversary and presents its new campaign \u201cFeel the Formula\u201d",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/shell-el-salvador-celebra-su-segundo-aniversario-y-presenta-su-nueva-campana-siente-la-formula/",
+        "published_date": "2026-05-25 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran delegation will seek to remove the country from the ILO Short List, affirms Rolando Castro",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/delegacion-salvadorena-buscara-sacar-al-pais-de-la-lista-corta-de-la-oit-afirma-rolando-castro/",
+        "published_date": "2026-05-25 12:26:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Crypt Community commemorates 27 years preserving the legacy of Monsignor Romero",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comunidad-de-la-cripta-conmemora-27-anos-preservando-el-legado-de-monsenor-romero/",
+        "published_date": "2026-05-25 11:04:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Communities of Santa Cruz Porrillo denounce excessive water charges by ANDA",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comunidades-de-santa-cruz-porrillo-denuncian-cobros-excesivos-de-agua-por-parte-de-anda/",
+        "published_date": "2026-05-25 11:03:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "MARN predicts that the heat wave will end in the coming days due to increased rainfall",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/marn-preve-que-la-ola-de-calor-finalice-en-los-proximos-dias-por-incremento-de-lluvias/",
+        "published_date": "2026-05-25 11:02:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "PRO-VIDA reaffirms social commitment during 45th General Assembly",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/pro-vida-reafirma-compromiso-social-durante-45-asamblea-general/",
+        "published_date": "2026-05-25 11:01:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Case against Ruth L\u00f3pez has weakened, according to sources",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/caso-contra-ruth-lopez-se-ha-debilitado-segun-fuentes/",
+        "published_date": "2026-05-25 11:00:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two ministers \u201cout of the ordinary\u201d in reverse",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/dos-ministras-fuera-de-serie-a-la-inversa/",
+        "published_date": "2026-05-25 10:59:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "FAS destroys \u00c1guila under the storm and regains its throne in Salvadoran football",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fas-destroza-aguila-bajo-la-tormenta-y-retoma-su-trono-en-el-futbol-salvadoreno/",
+        "published_date": "2026-05-25 10:58:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "US is prepared for further nuclear talks if Iran opens Strait of Hormuz, Rubio says",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/eeuu-esta-preparado-para-posteriores-conversaciones-nucleares-si-iran-abre-estrecho-de-ormuz-afirma-rubio/",
+        "published_date": "2026-05-25 10:57:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban government thanks China for initial donation of 15,000 tons of rice",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/gobierno-cubano-agradece-a-china-donacion-inicial-de-15-000-toneladas-de-arroz/",
+        "published_date": "2026-05-25 10:56:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "They locate a man's body under the Sensunap\u00e1n River bridge in Sonsonate",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/localizan-cuerpo-de-hombre-bajo-puente-del-rio-sensunapan-en-sonsonate/",
+        "published_date": "2026-05-25 04:16:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Art and Design Festival promotes creative and entrepreneurial talent in Costa del Sol",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/festival-arte-y-diseno-impulsa-el-talento-creativo-y-emprendedor-en-costa-del-sol/?utm_source=rss&utm_medium=rss&utm_campaign=festival-arte-y-diseno-impulsa-el-talento-creativo-y-emprendedor-en-costa-del-sol",
+        "published_date": "2026-05-25 00:36:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new Central American poetry written by women (and 7)",
+        "source": "Cronio",
+        "url": "https://croniosv.com/opinet/la-nueva-poesia-centroamericana-escrita-por-mujeres-y-7/",
+        "published_date": "2026-05-25 00:09:14",
+        "category": "Local Events"
+    },
+    {
         "title": "Heat wave continues to affect several areas of El Salvador despite a slight decrease in temperatures",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/ola-de-calor-continua-afectando-varias-zonas-de-el-salvador-pese-a-leve-disminucion-de-temperaturas/",
@@ -403,104 +501,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/fundaciones-llevan-alegria-y-esperanza-a-familias-de-san-isidro-panchimalco/",
         "published_date": "2026-05-24 20:25:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Honduras demands justice for those responsible for massacres",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/honduras-clama-justicia-para-responsables-de-matanzas/",
-        "published_date": "2026-05-24 20:22:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "DR Congo suspends passenger flights to Ebola-affected town, Bunia",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/rd-del-congo-suspende-vuelos-de-pasajeros-a-localidad-afectada-por-ebola-bunia/",
-        "published_date": "2026-05-24 19:29:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture an unlicensed driver who ran over a CAM agent",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-conductor-sin-licencia-que-atropello-a-agente-del-cam/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-conductor-sin-licencia-que-atropello-a-agente-del-cam",
-        "published_date": "2026-05-24 19:28:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nineteen people could be trapped after a building collapse in the Philippines",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/diecinueve-personas-podrian-estar-atrapadas-tras-el-derrumbe-de-un-edificio-en-filipinas/",
-        "published_date": "2026-05-24 19:23:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "FESFUT orders international evaluation after drainage problems in the \u201cM\u00e1gico\u201d Gonz\u00e1lez during the final",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/fesfut-ordena-evaluacion-internacional-tras-problemas-de-drenaje-en-el-magico-gonzalez-durante-la-final/",
-        "published_date": "2026-05-24 19:08:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Streak of road accidents leaves at least eight dead",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/racha-de-accidentes-viales-deja-al-menos-ocho-fallecidos/",
-        "published_date": "2026-05-24 18:29:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "CAM agent dies after being hit by a coaster in the center of San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/agente-del-cam-fallece-tras-ser-arrollado-por-coaster-en-el-centro-de-san-salvador/",
-        "published_date": "2026-05-24 16:45:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "FAS wins its 20th title and once again becomes the king of Salvadoran soccer cups",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/fas-conquista-su-titulo-20-y-se-convierte-nuevamente-en-el-rey-de-copas-del-futbol-salvadoreno/",
-        "published_date": "2026-05-24 14:35:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "FAS crushes \u00c1guila and lifts its twentieth national title",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/fas-aplasta-a-aguila-y-levanta-su-vigesimo-titulo-nacional/",
-        "published_date": "2026-05-24 14:26:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran's strategy for the Persian Gulf and the Strait of Hormuz will shape a new regional order",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-estrategia-de-iran-para-el-golfo-persico-y-el-estrecho-de-ormuz-dara-forma-a-un-nuevo-orden-regional/",
-        "published_date": "2026-05-24 13:00:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Football, family and values \u200b\u200bstar in a home run promoted by the Duarte Salazar Foundation",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/futbol-familia-y-valores-protagonizan-cuadrangular-impulsado-por-la-fundacion-duarte-salazar/",
-        "published_date": "2026-05-24 12:33:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "FAS is crowned champion of Salvadoran soccer after beating \u00c1guila",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/fas-se-corona-campeon-del-futbol-salvadoreno-tras-vencer-a-aguila/?utm_source=rss&utm_medium=rss&utm_campaign=fas-se-corona-campeon-del-futbol-salvadoreno-tras-vencer-a-aguila",
-        "published_date": "2026-05-24 07:16:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "FAS liquidates \u00c1guila in 15 minutes and wins the Clausura 2026",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fas-liquida-a-aguila-en-15-minutos-y-conquista-el-clausura-2026/",
-        "published_date": "2026-05-24 03:24:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "They will review drainage of the \u201cM\u00e1gico\u201d Gonz\u00e1lez stadium after accumulation of water",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/revisaran-drenaje-del-estadio-magico-gonzalez-tras-acumulacion-de-agua/?utm_source=rss&utm_medium=rss&utm_campaign=revisaran-drenaje-del-estadio-magico-gonzalez-tras-acumulacion-de-agua",
-        "published_date": "2026-05-24 02:08:25",
         "category": "Local Events"
     }
 ]
