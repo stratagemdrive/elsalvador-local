@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cuba questions double standards of the European Union in the face of the US blockade",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cuba-cuestiona-doble-rasero-de-la-union-europea-ante-bloqueo-de-eeuu/",
+        "published_date": "2026-05-26 10:56:08",
+        "category": "Diplomacy"
+    },
+    {
         "title": "El Salvador and Japan strengthen bilateral cooperation ties",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/el-salvador-y-japon-fortalecen-lazos-de-cooperacion-bilateral/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-japon-fortalecen-lazos-de-cooperacion-bilateral",
@@ -133,17 +140,31 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The United Kingdom ambassador to El Salvador defends sovereignty and supports the country's right to decide its political course",
+        "title": "CIA HORRORS IN GUATEMALA",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/horrores-de-la-cia-en-guatemala/",
+        "published_date": "2026-05-26 10:59:26",
+        "category": "Military"
+    },
+    {
+        "title": "Government begins installation of walkway on the highway to the port of freedom",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-embajador-del-reino-unido-en-el-salvador-defiende-la-soberania-y-respalda-el-derecho-del-pais-a-decidir-su-rumbo-politico/?utm_source=rss&utm_medium=rss&utm_campaign=el-embajador-del-reino-unido-en-el-salvador-defiende-la-soberania-y-respalda-el-derecho-del-pais-a-decidir-su-rumbo-politico",
-        "published_date": "2026-05-19 19:40:04",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/gobierno-inicia-instalacion-de-pasarela-en-carretera-al-puerto-de-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-inicia-instalacion-de-pasarela-en-carretera-al-puerto-de-la-libertad",
+        "published_date": "2026-05-26 03:34:45",
+        "category": "Military"
     },
     {
         "title": "Guatemalan soldiers repel with shots an armed group that invaded from Honduras",
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/militares-de-guatemala-repelen-a-tiros-a-grupo-armado-que-incursiono-desde-honduras/",
         "published_date": "2026-05-25 23:36:39",
+        "category": "Military"
+    },
+    {
+        "title": "Authorities begin the installation of the modern pedestrian walkway in Zaragoza",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/autoridades-inician-la-instalacion-de-la-moderna-pasarela-peatonal-en-zaragoza/",
+        "published_date": "2026-05-25 19:13:09",
         "category": "Military"
     },
     {
@@ -259,25 +280,18 @@
         "category": "Military"
     },
     {
-        "title": "PNC rescues and releases wildlife in Ahuachap\u00e1n and Santa Ana",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/pnc-rescata-y-libera-fauna-silvestre-en-ahuachapan-y-santa-ana/",
-        "published_date": "2026-05-22 02:17:01",
-        "category": "Military"
+        "title": "Fuels will maintain their prices until June 8",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/combustibles-mantendran-su-precio-hasta-el-8-de-junio/",
+        "published_date": "2026-05-26 11:02:07",
+        "category": "Energy"
     },
     {
-        "title": "Government has legalized more than 118 thousand lots and recovered $2 billion in family assets",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gobierno-ha-legalizado-mas-de-118-mil-lotes-y-recuperado-2-mil-millones-en-patrimonio-familiar/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-ha-legalizado-mas-de-118-mil-lotes-y-recuperado-2-mil-millones-en-patrimonio-familiar",
-        "published_date": "2026-05-22 00:41:34",
-        "category": "Military"
-    },
-    {
-        "title": "An alleged 18R gang member known as \u201cConserva\u201d is captured in Apopa",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-en-apopa-a-supuesto-pandillero-de-la-18r-conocido-como-conserva/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-en-apopa-a-supuesto-pandillero-de-la-18r-conocido-como-conserva",
-        "published_date": "2026-05-21 23:19:28",
-        "category": "Military"
+        "title": "Deputies agree to extend the liquefied gas subsidy until May 2027",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diputados-acuerdan-prorrogar-subsidio-al-gas-licuado-hasta-mayo-2027/",
+        "published_date": "2026-05-26 11:01:27",
+        "category": "Energy"
     },
     {
         "title": "Fuel prices will remain the same for the next fortnight",
@@ -320,6 +334,20 @@
         "url": "https://ultimahora.sv/sequia-en-honduras-provoca-cierre-temporal-de-central-hidroelectrica/",
         "published_date": "2026-05-18 14:36:01",
         "category": "Energy"
+    },
+    {
+        "title": "Finance Commission endorses allocating $40.3 million for CEPA, Presidency and DOM",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comision-de-hacienda-avala-asignar-40-3-millones-para-cepa-presidencia-y-dom/",
+        "published_date": "2026-05-26 11:03:03",
+        "category": "Economy"
+    },
+    {
+        "title": "Two alleged drug distributors captured after operations in San Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/capturan-a-dos-presuntos-distribuidores-de-droga-tras-operativos-en-san-salvador/",
+        "published_date": "2026-05-25 17:54:29",
+        "category": "Economy"
     },
     {
         "title": "Conamype and BFA promote financing to strengthen micro and small businesses",
@@ -378,6 +406,76 @@
         "category": "Economy"
     },
     {
+        "title": "Max Mart\u00ednez: I cried and to this day, I don't believe it",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/max-martinez-llore-y-hasta-el-dia-de-hoy-no-me-la-creo/",
+        "published_date": "2026-05-26 13:54:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tourism in El Salvador grows 35% during the first months of 2026",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/turismo-en-el-salvador-crece-35-durante-los-primeros-meses-de-2026/",
+        "published_date": "2026-05-26 12:18:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "TPS for Salvadorans enters critical phase due to possible end in September",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/tps-para-salvadorenos-entra-en-fase-critica-ante-posible-fin-en-septiembre/",
+        "published_date": "2026-05-26 11:05:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "CONADESA calls for the freedom of Ruth L\u00f3pez and an end to political persecution",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/conadesa-pide-la-libertad-de-ruth-lopez-y-el-cese-de-la-persecucion-politica/",
+        "published_date": "2026-05-26 11:04:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Youth promotes viral campaign to stop construction of the CIFCO in El Espino",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/juventud-impulsa-campana-viral-para-frenar-construccion-del-cifco-en-el-espino/",
+        "published_date": "2026-05-26 11:00:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pope Leo XIV presented his encyclical Magnifica Humanitas on AI",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/papa-leon-xiv-presento-su-enciclica-magnifica-humanitas-sobre-la-ia/",
+        "published_date": "2026-05-26 10:58:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Argentine national team, accumulated hopes",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/seleccion-argentina-esperanzas-acumuladas/",
+        "published_date": "2026-05-26 10:58:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador and CERTAL strengthen ties for the professionalization of the public service",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/el-salvador-y-certal-fortalecen-lazos-para-la-profesionalizacion-de-la-funcion-publica/",
+        "published_date": "2026-05-26 04:32:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Field of the \u201cEl Magico\u201d Gonz\u00e1les stadium will undergo treatment after defects were detected in the ground",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/cancha-del-estadio-el-magico-gonzales-sera-sometida-a-tratamiento-tras-detectarse-fallas-en-el-suelo/?utm_source=rss&utm_medium=rss&utm_campaign=cancha-del-estadio-el-magico-gonzales-sera-sometida-a-tratamiento-tras-detectarse-fallas-en-el-suelo",
+        "published_date": "2026-05-26 01:05:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice President F\u00e9lix Ulloa and CERTAL promote cooperation for digital transformation and technological training",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-y-certal-impulsan-cooperacion-para-la-transformacion-digital-y-formacion-tecnologica/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-y-certal-impulsan-cooperacion-para-la-transformacion-digital-y-formacion-tecnologica",
+        "published_date": "2026-05-26 00:30:07",
+        "category": "Local Events"
+    },
+    {
         "title": "Uninet El Salvador participates in LACNIC 45: consolidating its commitment to technological innovation and the best connectivity",
         "source": "Cronio",
         "url": "https://croniosv.com/negocios/empresarial/uninet-el-salvador-participa-en-lacnic-45-consolidando-su-compromiso-con-la-innovacion-tecnologica-y-la-mejor-conectividad/",
@@ -389,6 +487,13 @@
         "source": "Cronio",
         "url": "https://croniosv.com/principal/principal1/juez-solicita-certificaciones-de-condenas-por-crimenes-que-ordenaron-486-cabecillas-de-la-ms/",
         "published_date": "2026-05-25 23:25:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Experts confirm good condition of the drainage in the \u201cEl M\u00e1gico\u201d stadium after technical inspection",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/expertos-confirman-buen-estado-del-drenaje-en-el-estadio-el-magico-tras-inspeccion-tecnica/",
+        "published_date": "2026-05-25 23:05:14",
         "category": "Local Events"
     },
     {
@@ -420,101 +525,24 @@
         "category": "Local Events"
     },
     {
+        "title": "Mayor's Office begins sanctioning process after complaint of animal abandonment and abuse in San Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/alcaldia-inicia-proceso-sancionatorio-tras-denuncia-de-abandono-y-maltrato-animal-en-san-salvador/",
+        "published_date": "2026-05-25 21:30:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "They arrest a motorist on Route 201 after allegedly causing an accident in Santa Tecla",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/detienen-a-motorista-de-la-ruta-201-tras-presuntamente-provocar-accidente-en-santa-tecla/",
+        "published_date": "2026-05-25 21:14:05",
+        "category": "Local Events"
+    },
+    {
         "title": "After years of waiting, families from Los Puentes receive their deeds in San Miguel",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/despues-de-anos-de-espera-familias-de-los-puentes-reciben-sus-escrituras-en-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=despues-de-anos-de-espera-familias-de-los-puentes-reciben-sus-escrituras-en-san-miguel",
         "published_date": "2026-05-25 20:58:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador in the top 10 of the best ecosystems for startups in Latin America",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-salvador-en-el-top-10-de-los-mejores-ecosistemas-para-startups-de-america-latina/",
-        "published_date": "2026-05-25 20:38:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "They issue a favorable opinion to extend the liquefied gas subsidy until 2027",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/emiten-dictamen-favorable-para-prorrogar-subsidio-del-gas-licuado-hasta-2027/",
-        "published_date": "2026-05-25 20:34:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "WHO warns that Ebola outbreak exceeds response capacity in Africa",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/oms-alerta-que-brote-de-ebola-supera-capacidad-de-respuesta-en-africa/?utm_source=rss&utm_medium=rss&utm_campaign=oms-alerta-que-brote-de-ebola-supera-capacidad-de-respuesta-en-africa",
-        "published_date": "2026-05-25 20:31:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mexico says it agrees to host Iran in the 2026 World Cup",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/mexico-dice-que-acepta-acoger-a-iran-en-el-mundial-2026/",
-        "published_date": "2026-05-25 20:29:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Firefighters extinguished fire in Aguilares market",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/bomberos-liquido-incendio-en-mercado-de-aguilares/",
-        "published_date": "2026-05-25 20:25:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Consulate in Vancouver, Canada, strengthens academic cooperation",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-consulado-en-vancouver-canada-fortalece-la-cooperacion-academica/",
-        "published_date": "2026-05-25 20:23:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pope Leo XIV asks in his first encyclical to fight against the \"domination\" of AI",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/el-papa-leon-xiv-pide-en-su-primera-enciclica-luchar-contra-el-dominio-de-la-ia/",
-        "published_date": "2026-05-25 20:20:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Students from the Bel\u00e9n G\u00fcijat canton, in Metap\u00e1n, will have a renovated school center",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/alumnos-del-canton-belen-guijat-en-metapan-contaran-con-un-renovado-centro-escolar/",
-        "published_date": "2026-05-25 20:18:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "TSE evaluates system of registration and transmission of records with internal testing at the national level",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/tse-evalua-sistema-de-registro-y-transmision-de-actas-con-prueba-interna-a-nivel-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=tse-evalua-sistema-de-registro-y-transmision-de-actas-con-prueba-interna-a-nivel-nacional",
-        "published_date": "2026-05-25 20:11:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "International tourism grows 35% in El Salvador until April",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/turismo-internacional-crece-35-en-el-salvador-hasta-abril/",
-        "published_date": "2026-05-25 20:07:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador becomes a regional reference in penitentiary issues",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-se-convierte-en-referente-regional-en-temas-penitenciarios/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-se-convierte-en-referente-regional-en-temas-penitenciarios",
-        "published_date": "2026-05-25 19:48:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ebola outbreak leaves 11 confirmed dead in Africa",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/brote-de-ebola-deja-11-fallecidos-confirmados-en-africa/",
-        "published_date": "2026-05-25 19:37:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government of President Nayib Bukele recovers $9.5 million in favor of consumers",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-del-presidente-nayib-bukele-recupera-9-5-millones-a-favor-de-consumidores/",
-        "published_date": "2026-05-25 19:30:36",
         "category": "Local Events"
     }
 ]
