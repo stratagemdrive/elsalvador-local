@@ -1,5 +1,19 @@
 [
     {
+        "title": "Economic Diplomacy leads El Salvador to participate in the Canadian fair",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/diplomacia-economica-lleva-a-el-salvador-a-participar-en-feria-canadiense/",
+        "published_date": "2026-05-26 17:42:21",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Ulloa receives the regional director of the Japanese Foreign Ministry",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/ulloa-recibe-a-director-regional-de-la-cancilleria-de-japon/",
+        "published_date": "2026-05-26 15:59:29",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuba questions double standards of the European Union in the face of the US blockade",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/cuba-cuestiona-doble-rasero-de-la-union-europea-ante-bloqueo-de-eeuu/",
@@ -126,18 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Foreign Ministry certifies returned Salvadorans in electricity",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/cancilleria-certifica-en-electricidad-a-salvadorenos-retornados/",
-        "published_date": "2026-05-19 21:08:15",
-        "category": "Diplomacy"
+        "title": "Suspected MS13 extortionist captured in San Marcos",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/capturan-en-san-marcos-a-presunto-extorsionista-de-la-ms13/",
+        "published_date": "2026-05-26 21:21:14",
+        "category": "Military"
     },
     {
-        "title": "Xi and Putin strengthen bilateral relations during meeting in Beijing, China",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/xi-y-putin-fortalecen-relaciones-bilaterales-durante-reunion-en-pekin-china/?utm_source=rss&utm_medium=rss&utm_campaign=xi-y-putin-fortalecen-relaciones-bilaterales-durante-reunion-en-pekin-china",
-        "published_date": "2026-05-19 20:14:42",
-        "category": "Diplomacy"
+        "title": "Guatemalan vice consul captured for allegedly participating in a patricide",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/capturan-a-viceconsul-guatemalteca-por-presuntamente-participar-en-un-parricidio/",
+        "published_date": "2026-05-26 17:34:33",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador and Japan strengthen diplomatic ties during the Second Meeting of Political Consultations",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-y-japon-fortalecen-vinculos-diplomaticos-durante-la-ii-reunion-de-consultas-politicas/",
+        "published_date": "2026-05-26 15:50:34",
+        "category": "Military"
     },
     {
         "title": "CIA HORRORS IN GUATEMALA",
@@ -259,25 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Contraband cigarettes and money seized in Santa Ana Este",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/incautan-cigarrillos-de-contrabando-y-dinero-en-santa-ana-este/",
-        "published_date": "2026-05-22 20:29:14",
-        "category": "Military"
-    },
-    {
-        "title": "Subject arrested with contraband merchandise and cash",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/detienen-a-sujeto-con-mercaderia-de-contrabando-y-dinero-en-efectivo/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-sujeto-con-mercaderia-de-contrabando-y-dinero-en-efectivo",
-        "published_date": "2026-05-22 20:11:35",
-        "category": "Military"
-    },
-    {
-        "title": "ESIT presents new technology courses for this month",
+        "title": "Commission rules extension for stabilization of gas prices until May 2027",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/la-esit-presenta-nuevos-cursos-en-tecnologia-para-este-mes/",
-        "published_date": "2026-05-22 04:51:12",
-        "category": "Military"
+        "url": "https://croniosv.com/principal/principal1/comision-dictamina-prorroga-para-estabilizacion-en-precios-del-gas-hasta-mayo-de-2027/",
+        "published_date": "2026-05-26 17:08:14",
+        "category": "Energy"
     },
     {
         "title": "Fuels will maintain their prices until June 8",
@@ -329,11 +336,25 @@
         "category": "Energy"
     },
     {
-        "title": "Drought in Honduras causes temporary closure of hydroelectric plant",
+        "title": "Salvadoran exports report an increase during the first quarter of 2026",
         "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/sequia-en-honduras-provoca-cierre-temporal-de-central-hidroelectrica/",
-        "published_date": "2026-05-18 14:36:01",
-        "category": "Energy"
+        "url": "https://ultimahora.sv/exportaciones-salvadorenas-reportan-alza-durante-el-primer-cuatrimestre-de-2026/",
+        "published_date": "2026-05-26 21:48:10",
+        "category": "Economy"
+    },
+    {
+        "title": "Municipal Works would have resources to continue rehabilitating schools and markets",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/obras-municipales-dispondria-de-recursos-para-seguir-rehabilitando-escuelas-y-mercados/",
+        "published_date": "2026-05-26 20:13:35",
+        "category": "Economy"
+    },
+    {
+        "title": "Ministry of Finance publishes assets and liabilities of public officials",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/ministerio-de-hacienda-publica-activos-y-pasivos-de-funcionarios-publicos/",
+        "published_date": "2026-05-26 16:02:21",
+        "category": "Economy"
     },
     {
         "title": "Finance Commission endorses allocating $40.3 million for CEPA, Presidency and DOM",
@@ -406,143 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "Max Mart\u00ednez: I cried and to this day, I don't believe it",
+        "title": "Construction of the new National Stadium reaches 50% progress, reports INDES",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/max-martinez-llore-y-hasta-el-dia-de-hoy-no-me-la-creo/",
-        "published_date": "2026-05-26 13:54:51",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/construccion-del-nuevo-estadio-nacional-alcanza-50-de-avance-informa-indes/",
+        "published_date": "2026-05-27 00:03:52",
         "category": "Local Events"
     },
     {
-        "title": "Tourism in El Salvador grows 35% during the first months of 2026",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/turismo-en-el-salvador-crece-35-durante-los-primeros-meses-de-2026/",
-        "published_date": "2026-05-26 12:18:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "TPS for Salvadorans enters critical phase due to possible end in September",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/tps-para-salvadorenos-entra-en-fase-critica-ante-posible-fin-en-septiembre/",
-        "published_date": "2026-05-26 11:05:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "CONADESA calls for the freedom of Ruth L\u00f3pez and an end to political persecution",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/conadesa-pide-la-libertad-de-ruth-lopez-y-el-cese-de-la-persecucion-politica/",
-        "published_date": "2026-05-26 11:04:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Youth promotes viral campaign to stop construction of the CIFCO in El Espino",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/juventud-impulsa-campana-viral-para-frenar-construccion-del-cifco-en-el-espino/",
-        "published_date": "2026-05-26 11:00:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pope Leo XIV presented his encyclical Magnifica Humanitas on AI",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/papa-leon-xiv-presento-su-enciclica-magnifica-humanitas-sobre-la-ia/",
-        "published_date": "2026-05-26 10:58:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Argentine national team, accumulated hopes",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/seleccion-argentina-esperanzas-acumuladas/",
-        "published_date": "2026-05-26 10:58:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador and CERTAL strengthen ties for the professionalization of the public service",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-salvador-y-certal-fortalecen-lazos-para-la-profesionalizacion-de-la-funcion-publica/",
-        "published_date": "2026-05-26 04:32:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Field of the \u201cEl Magico\u201d Gonz\u00e1les stadium will undergo treatment after defects were detected in the ground",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/cancha-del-estadio-el-magico-gonzales-sera-sometida-a-tratamiento-tras-detectarse-fallas-en-el-suelo/?utm_source=rss&utm_medium=rss&utm_campaign=cancha-del-estadio-el-magico-gonzales-sera-sometida-a-tratamiento-tras-detectarse-fallas-en-el-suelo",
-        "published_date": "2026-05-26 01:05:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President F\u00e9lix Ulloa and CERTAL promote cooperation for digital transformation and technological training",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-y-certal-impulsan-cooperacion-para-la-transformacion-digital-y-formacion-tecnologica/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-y-certal-impulsan-cooperacion-para-la-transformacion-digital-y-formacion-tecnologica",
-        "published_date": "2026-05-26 00:30:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Uninet El Salvador participates in LACNIC 45: consolidating its commitment to technological innovation and the best connectivity",
-        "source": "Cronio",
-        "url": "https://croniosv.com/negocios/empresarial/uninet-el-salvador-participa-en-lacnic-45-consolidando-su-compromiso-con-la-innovacion-tecnologica-y-la-mejor-conectividad/",
-        "published_date": "2026-05-26 00:00:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge requests certifications of convictions for crimes ordered by 486 MS leaders",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/juez-solicita-certificaciones-de-condenas-por-crimenes-que-ordenaron-486-cabecillas-de-la-ms/",
-        "published_date": "2026-05-25 23:25:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Experts confirm good condition of the drainage in the \u201cEl M\u00e1gico\u201d stadium after technical inspection",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/expertos-confirman-buen-estado-del-drenaje-en-el-estadio-el-magico-tras-inspeccion-tecnica/",
-        "published_date": "2026-05-25 23:05:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trial begins of 134 terrorists from two MS structures in Sensuntepeque and San Marcos",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/inicia-juicio-de-134-terroristas-de-dos-estructuras-de-ms-de-sensuntepeque-y-san-marcos/",
-        "published_date": "2026-05-25 23:02:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Environment predicts rain with electrical activity for the next few days",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/medio-ambiente-preve-lluvias-con-actividad-electrica-para-los-proximos-dias/",
-        "published_date": "2026-05-25 22:39:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Construction of new footbridge begins on the road to the port of La Libertad",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/inicia-construccion-de-nueva-pasarela-en-carretera-al-puerto-de-la-libertad/",
-        "published_date": "2026-05-25 22:27:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trial begins against 90 members of the MS for crimes committed in Caba\u00f1as",
+        "title": "More than a thousand inhabitants of Suchitoto benefit from the improvement of their drinking water system",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/inicia-juicio-contra-90-miembros-de-la-ms-por-delitos-cometidos-en-cabanas/",
-        "published_date": "2026-05-25 21:46:08",
+        "url": "https://diariolahuella.com/mas-de-mil-habitantes-de-suchitoto-son-beneficiados-con-la-mejora-de-su-sistema-de-agua-potable/",
+        "published_date": "2026-05-26 23:35:57",
         "category": "Local Events"
     },
     {
-        "title": "Mayor's Office begins sanctioning process after complaint of animal abandonment and abuse in San Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/alcaldia-inicia-proceso-sancionatorio-tras-denuncia-de-abandono-y-maltrato-animal-en-san-salvador/",
-        "published_date": "2026-05-25 21:30:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "They arrest a motorist on Route 201 after allegedly causing an accident in Santa Tecla",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/detienen-a-motorista-de-la-ruta-201-tras-presuntamente-provocar-accidente-en-santa-tecla/",
-        "published_date": "2026-05-25 21:14:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "After years of waiting, families from Los Puentes receive their deeds in San Miguel",
+        "title": "Armed convoy breaks into the Esquipulas farm and causes a strong confrontation in the border area",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/despues-de-anos-de-espera-familias-de-los-puentes-reciben-sus-escrituras-en-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=despues-de-anos-de-espera-familias-de-los-puentes-reciben-sus-escrituras-en-san-miguel",
-        "published_date": "2026-05-25 20:58:17",
+        "url": "https://lapagina.com.sv/internacionales/convoy-armado-irrumpe-en-finca-de-esquipulas-y-provoca-fuerte-enfrentamiento-en-zona-fronteriza/?utm_source=rss&utm_medium=rss&utm_campaign=convoy-armado-irrumpe-en-finca-de-esquipulas-y-provoca-fuerte-enfrentamiento-en-zona-fronteriza",
+        "published_date": "2026-05-26 23:16:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorcyclist dies after being hit by a vehicle that fled on the Litoral highway",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/motociclista-fallece-tras-ser-impactado-por-vehiculo-que-huyo-en-carretera-litoral/",
+        "published_date": "2026-05-26 22:50:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "3,000 future DI scholarship recipients enthusiastically receive the masterclass on DNA of Poverty and the Culture of Integration",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/3000-futuros-becados-di-reciben-con-entusiasmo-la-masterclass-sobre-adn-de-la-pobreza-y-la-cultura-de-integracion/",
+        "published_date": "2026-05-26 22:30:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vehicle rollover on the road to Ilobasco leaves two minor injuries",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/volcadura-de-vehiculo-en-carretera-hacia-ilobasco-deja-dos-lesionados-leves/?utm_source=rss&utm_medium=rss&utm_campaign=volcadura-de-vehiculo-en-carretera-hacia-ilobasco-deja-dos-lesionados-leves",
+        "published_date": "2026-05-26 22:09:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Analyzing \u201cMagnifica humanitas\u201d, the first encyclical of Leo XIV - Lisandro Prieto Femen\u00eda",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/analizando-magnifica-humanitas-la-primera-enciclica-de-leon-xiv-lisandro-prieto-femenia/",
+        "published_date": "2026-05-26 21:55:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santa Ana Centro delivers cement to communities to execute local development projects",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/santa-ana-centro-entrega-cemento-a-comunidades-para-ejecutar-proyectos-de-desarrollo-local/?utm_source=rss&utm_medium=rss&utm_campaign=santa-ana-centro-entrega-cemento-a-comunidades-para-ejecutar-proyectos-de-desarrollo-local",
+        "published_date": "2026-05-26 21:42:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santa Ana Centro Mayor's Office delivers cement to 17 communities for local works",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/alcaldia-de-santa-ana-centro-entrega-cemento-a-17-comunidades-para-obras-locales/",
+        "published_date": "2026-05-26 21:20:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "MS extortionist captured in San Marcos",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-extorsionista-de-la-ms-en-san-marcos/",
+        "published_date": "2026-05-26 21:14:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Families receive their new homes delivered by the government in Ahuachap\u00e1n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/familias-reciben-sus-nuevas-viviendas-entregadas-por-el-gobierno-en-ahuachapan/?utm_source=rss&utm_medium=rss&utm_campaign=familias-reciben-sus-nuevas-viviendas-entregadas-por-el-gobierno-en-ahuachapan",
+        "published_date": "2026-05-26 20:34:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Selecta changes venue for friendly against South Korea on FIFA date in June",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/la-selecta-cambia-de-sede-para-amistoso-ante-corea-del-sur-en-fecha-fifa-de-junio/",
+        "published_date": "2026-05-26 20:24:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 3,000 students participate in an educational day promoted by Integration",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/mas-de-3000-estudiantes-participan-en-jornada-educativa-impulsada-por-integracion/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-3000-estudiantes-participan-en-jornada-educativa-impulsada-por-integracion",
+        "published_date": "2026-05-26 20:22:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "MOP intensifies cleaning in streams to prevent flooding during winter 2026",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/mop-intensifica-limpieza-en-quebradas-para-prevenir-inundaciones-durante-invierno-2026/",
+        "published_date": "2026-05-26 20:18:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Families from the 10 de Mayo community in Ahuachap\u00e1n begin moving to their new homes",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/familias-de-comunidad-10-de-mayo-en-ahuachapan-comienzan-traslado-a-sus-nuevas-viviendas/",
+        "published_date": "2026-05-26 20:00:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alexia will leave Bar\u00e7a at the end of this season",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/alexia-dejara-el-barca-al-final-de-la-presente-temporada/",
+        "published_date": "2026-05-26 19:35:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador stands out in international ecological ranking thanks to the El Imposible National Park",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-sobresale-en-ranking-ecologico-internacional-gracias-al-parque-nacional-el-imposible/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-sobresale-en-ranking-ecologico-internacional-gracias-al-parque-nacional-el-imposible",
+        "published_date": "2026-05-26 18:01:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Agreement between the CND and the Integration Directorate will promote projects for Salvadoran youth",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/convenio-entre-el-cnd-y-la-direccion-de-integracion-impulsara-proyectos-para-la-juventud-salvadorena/",
+        "published_date": "2026-05-26 17:51:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Municipal operation leaves notifications and removal of obstacles in the northern trunk",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/operativo-municipal-deja-notificaciones-y-retiro-de-obstaculos-en-troncal-del-norte/?utm_source=rss&utm_medium=rss&utm_campaign=operativo-municipal-deja-notificaciones-y-retiro-de-obstaculos-en-troncal-del-norte",
+        "published_date": "2026-05-26 17:43:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "National rum stands out at important Australian Spirits Festival",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ron-nacional-destaca-en-importante-festival-de-bebidas-espirituosas-de-australia/",
+        "published_date": "2026-05-26 17:36:30",
         "category": "Local Events"
     }
 ]
