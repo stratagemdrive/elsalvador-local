@@ -1,5 +1,19 @@
 [
     {
+        "title": "El Salvador and Italy commemorate 165 years of diplomatic relations and bilateral cooperation",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-e-italia-conmemoran-165-anos-de-relaciones-diplomaticas-y-cooperacion-bilateral/",
+        "published_date": "2026-05-27 23:29:05",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Italy and El Salvador strengthen investment and cooperation ties",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/italia-y-el-salvador-fortalecen-lazos-de-inversion-y-cooperacion/?utm_source=rss&utm_medium=rss&utm_campaign=italia-y-el-salvador-fortalecen-lazos-de-inversion-y-cooperacion",
+        "published_date": "2026-05-27 21:01:34",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Economic Diplomacy leads El Salvador to participate in the Canadian fair",
         "source": "Periodico Equilibrium",
         "url": "https://www.periodicoequilibrium.com/diplomacia-economica-lleva-a-el-salvador-a-participar-en-feria-canadiense/",
@@ -126,18 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Macarena Olona defends the \u201cBukele model\u201d during the premiere of the documentary \u201cuntil we find you\u201d in Madrid",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/opinion/macarena-olona-defiende-el-modelo-bukele-durante-estreno-del-documental-hasta-encontrarte-en-madrid/?utm_source=rss&utm_medium=rss&utm_campaign=macarena-olona-defiende-el-modelo-bukele-durante-estreno-del-documental-hasta-encontrarte-en-madrid",
-        "published_date": "2026-05-20 00:24:13",
-        "category": "Diplomacy"
+        "title": "Extension 51 of the emergency regime is approved to reinforce security",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/aprueban-prorroga-51-del-regimen-de-excepcion-para-reforzar-seguridad/",
+        "published_date": "2026-05-27 21:12:48",
+        "category": "Military"
     },
     {
-        "title": "Putin arrives in China for bilateral and international issues",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/putin-llega-a-china-por-temas-bilaterales-e-internacionales/",
-        "published_date": "2026-05-19 21:33:05",
-        "category": "Diplomacy"
+        "title": "Legislative Assembly approves new extension of the emergency regime",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/asamblea-legislativa-aprueba-nueva-extension-del-regimen-de-excepcion/?utm_source=rss&utm_medium=rss&utm_campaign=asamblea-legislativa-aprueba-nueva-extension-del-regimen-de-excepcion",
+        "published_date": "2026-05-27 20:19:26",
+        "category": "Military"
+    },
+    {
+        "title": "Honduran deputy proposes applying Bukele's security model in Honduras",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/diputado-hondureno-propone-aplicar-modelo-de-seguridad-de-bukele-en-honduras/",
+        "published_date": "2026-05-27 15:32:05",
+        "category": "Military"
+    },
+    {
+        "title": "Deputies propose implementing the \"Bukele Model\" against crime in Honduras",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/diputados-proponen-implementar-el-modelo-bukele-contra-el-crimen-en-honduras/",
+        "published_date": "2026-05-27 15:06:41",
+        "category": "Military"
     },
     {
         "title": "They capture an alleged gang member from Barrio 18 when he tried to enter the country",
@@ -252,32 +280,25 @@
         "category": "Military"
     },
     {
-        "title": "CAM agent loses his life after being hit by a minibus",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/agente-del-cam-pierde-la-vida-tras-ser-impactado-por-un-microbus/",
-        "published_date": "2026-05-24 20:45:02",
-        "category": "Military"
+        "title": "Regulations are extended so that 80% of the population continues buying gas at a low price",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/prorrogan-normativa-para-que-80-de-la-poblacion-continue-comprando-el-gas-a-bajo-precio/",
+        "published_date": "2026-05-27 22:53:42",
+        "category": "Energy"
     },
     {
-        "title": "Shark kills man in northeastern Australia",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/un-tiburon-mata-a-un-hombre-en-el-noreste-de-australia/",
-        "published_date": "2026-05-24 19:11:21",
-        "category": "Military"
+        "title": "Deputies extend law that stabilizes liquefied gas prices until 2027",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/diputados-extienden-hasta-2027-ley-que-estabiliza-precios-del-gas-licuado/?utm_source=rss&utm_medium=rss&utm_campaign=diputados-extienden-hasta-2027-ley-que-estabiliza-precios-del-gas-licuado",
+        "published_date": "2026-05-27 21:09:41",
+        "category": "Energy"
     },
     {
-        "title": "They capture a young man with 27 portions of marijuana in Chalatenango",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-jovencito-con-27-porciones-de-marihuana-en-chalatenango/",
-        "published_date": "2026-05-24 18:43:50",
-        "category": "Military"
-    },
-    {
-        "title": "Accident on Litoral highway leaves two injured",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/accidente-en-carretera-litoral-deja-dos-lesionados/",
-        "published_date": "2026-05-24 18:12:07",
-        "category": "Military"
+        "title": "Legislative Assembly will extend gas subsidy until May 2027",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/asamblea-legislativa-extendera-subsidio-al-gas-hasta-mayo-de-2027/?utm_source=rss&utm_medium=rss&utm_campaign=asamblea-legislativa-extendera-subsidio-al-gas-hasta-mayo-de-2027",
+        "published_date": "2026-05-27 20:55:47",
+        "category": "Energy"
     },
     {
         "title": "Commission rules extension for stabilization of gas prices until May 2027",
@@ -329,11 +350,39 @@
         "category": "Energy"
     },
     {
-        "title": "82 families receive decent homes in the Ahuachap\u00e1n housing project",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/82-familias-reciben-viviendas-dignas-en-proyecto-habitacional-de-ahuachapan/",
-        "published_date": "2026-05-19 20:29:49",
-        "category": "Energy"
+        "title": "Deputy Lira clarifies that his debt was to treat his father's illness",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diputado-lira-aclara-que-su-deuda-fue-para-tratar-enfermedad-de-su-padre/",
+        "published_date": "2026-05-27 20:33:04",
+        "category": "Economy"
+    },
+    {
+        "title": "Salvadoran exports totaled $2,247.8 million until April",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/las-exportaciones-salvadorenas-sumaron-2247-8-millones-hasta-abril/",
+        "published_date": "2026-05-27 18:26:32",
+        "category": "Economy"
+    },
+    {
+        "title": "WHAT APPEARS IN THE TREASURY IS NOT NECESSARILY THE REAL ASSETS",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/lo-que-aparece-en-hacienda-no-necesariamente-es-el-patrimonio-real/",
+        "published_date": "2026-05-27 17:56:34",
+        "category": "Economy"
+    },
+    {
+        "title": "Publication of officials' assets raises suspicions about political use",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/publicacion-de-patrimonio-de-funcionarios-despierta-sospechas-sobre-uso-politico/",
+        "published_date": "2026-05-27 16:25:33",
+        "category": "Economy"
+    },
+    {
+        "title": "El Salvador continues to deliver school packages to students with dual nationality",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/el-salvador-continua-entregando-paquetes-escolares-a-estudiantes-con-doble-nacionalidad/",
+        "published_date": "2026-05-27 14:33:53",
+        "category": "Economy"
     },
     {
         "title": "Treasury enables portal of assets and liabilities of deputies and other public officials",
@@ -434,150 +483,143 @@
         "category": "Economy"
     },
     {
-        "title": "Treasury details new PPP law and assures that it will maintain fiscal control over public-private projects",
+        "title": "Hearing continues against 200 MS-13 gang members in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/continua-audiencia-contra-200-pandilleros-de-la-ms-13-en-el-salvador/",
+        "published_date": "2026-05-28 00:04:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Organizations denounce setbacks in rights after seven years of the Bukele Government",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/organizaciones-denuncian-retrocesos-de-derechos-a-siete-anos-del-gobierno-de-bukele/",
+        "published_date": "2026-05-27 23:44:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice President F\u00e9lix Ulloa participates in the reopening of the Court of Accounts Audit Museum",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/hacienda-detalla-nueva-ley-app-y-asegura-que-mantendra-control-fiscal-sobre-proyectos-publico-privados/?utm_source=rss&utm_medium=rss&utm_campaign=hacienda-detalla-nueva-ley-app-y-asegura-que-mantendra-control-fiscal-sobre-proyectos-publico-privados",
-        "published_date": "2026-05-19 18:03:09",
-        "category": "Economy"
-    },
-    {
-        "title": "82% of the population considers that the country is on the right path",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-82-de-la-poblacion-considera-que-el-pais-va-por-el-rumbo-correcto/?utm_source=rss&utm_medium=rss&utm_campaign=el-82-de-la-poblacion-considera-que-el-pais-va-por-el-rumbo-correcto",
-        "published_date": "2026-05-27 14:28:37",
+        "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-participa-en-reapertura-del-museo-de-la-fiscalizacion-de-la-corte-de-cuentas/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-participa-en-reapertura-del-museo-de-la-fiscalizacion-de-la-corte-de-cuentas",
+        "published_date": "2026-05-27 23:40:57",
         "category": "Local Events"
     },
     {
-        "title": "Iran revealed a draft with the US that could reopen the Strait of Hormuz",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/iran-revelo-un-borrador-con-ee-uu-que-podria-reabrir-el-estrecho-de-ormuz/",
-        "published_date": "2026-05-27 14:24:58",
+        "title": "BREAKING NEWS: Former mayor of Soyapango will face trial stage",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ultima-hora-exalcaldesa-de-soyapango-enfrentara-etapa-de-juicio/",
+        "published_date": "2026-05-27 23:20:07",
         "category": "Local Events"
     },
     {
-        "title": "93% of Salvadorans maintain strong support for President Bukele, according to Cid Gallup",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/93-de-los-salvadorenos-mantienen-fuerte-apoyo-al-presidente-bukele-segun-cid-gallup/",
-        "published_date": "2026-05-27 14:07:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fasista fans will be able to be photographed with the 20 cup in Parque Libertad",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/aficion-fasista-podra-fotografiarse-con-la-copa-20-en-parque-libertad/",
-        "published_date": "2026-05-27 13:32:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hundreds of students receive school packages at the Puente de La Integraci\u00f3n",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/cientos-de-estudiantes-reciben-paquetes-escolares-en-el-puente-de-la-integracion/",
-        "published_date": "2026-05-27 13:15:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Collectives in El Salvador promote international campaign to support Cuba",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/colectivos-en-el-salvador-promueven-campana-internacional-de-apoyo-a-cuba/",
-        "published_date": "2026-05-27 11:03:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "MOVIE denounces that the State has not reviewed alternative measures for Ruth L\u00f3pez",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/movir-denuncia-que-el-estado-no-ha-revisado-medidas-sustitutivas-para-ruth-lopez/",
-        "published_date": "2026-05-27 11:02:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fort\u00edn Maga\u00f1a: the country is going through a model based on 'improvisation' and 'ineptitude'",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fortin-magana-el-pais-atraviesa-un-modelo-basado-en-la-improvisacion-y-la-ineptitud/",
-        "published_date": "2026-05-27 11:00:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "THERE IS NO HORIZON, NO HEAT FROM A BONFIRE",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/no-hay-horizonte-sin-calor-de-hoguera/",
-        "published_date": "2026-05-27 10:59:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "President of Mexico exalts Leo XIV's reflection on technology",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/presidenta-de-mexico-exalta-reflexion-de-leon-xiv-sobre-tecnologia/",
-        "published_date": "2026-05-27 10:58:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "President in charge announces restructuring of the Venezuelan Government",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/presidenta-encargada-anuncia-reestructuracion-de-gobierno-venezolano/",
-        "published_date": "2026-05-27 10:57:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "COASPAE is ordered to return $462,000 to 25 members",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/ordenan-a-coaspae-la-devolucion-de-462-mil-a-25-socios/",
-        "published_date": "2026-05-27 06:26:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drunk man who carried a gun is sentenced to 10 years in prison",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/ebrio-que-portaba-arma-es-condenado-a-10-anos-de-carcel/",
-        "published_date": "2026-05-27 06:05:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Accused of stealing more than $29,000 will face public hearing",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/acusada-de-hurtar-mas-de-29000-enfrentara-vista-publica/",
-        "published_date": "2026-05-27 05:39:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gang member accused of double homicide in La Libertad faces public hearing",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/pandillera-acusada-de-doble-homicidio-en-la-libertad-enfrenta-vista-publica/",
-        "published_date": "2026-05-27 05:36:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities intensify cleaning of rivers and streams to reduce the risk of flooding in winter",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/autoridades-intensifican-limpieza-de-rios-y-quebradas-para-reducir-riesgo-de-inundaciones-en-invierno/",
-        "published_date": "2026-05-27 05:29:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Threats affecting fans of the 2026 World Cup",
+        "title": "Former Mayor Nercy Montano faces Preliminary Hearing for Arbitrary Acts and Disobedience",
         "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/amenazas-que-afectarian-a-los-aficionados-de-la-copa-del-mundo-2026/",
-        "published_date": "2026-05-27 03:33:58",
+        "url": "https://www.periodicoequilibrium.com/exalcaldesa-nercy-montano-enfrenta-audiencia-preliminar-por-actos-arbitrarios-y-desobediencia/",
+        "published_date": "2026-05-27 22:41:05",
         "category": "Local Events"
     },
     {
-        "title": "FAS exhibits its 20th title and unleashes the party of its fans in Parque Libertad",
+        "title": "Divers find five of seven people trapped in a cave in Laos alive",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/buzos-hallan-con-vida-a-cinco-de-siete-personas-atrapadas-en-una-cueva-en-laos/",
+        "published_date": "2026-05-27 22:27:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "ARENA deputy promotes discrimination campaign from the Assembly",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/diputada-de-arena-impulsa-campana-de-discriminacion-desde-la-asamblea/",
+        "published_date": "2026-05-27 22:23:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Opposition governor of Mexico denounces persecution in case of CIA agents",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/gobernadora-opositora-de-mexico-denuncia-persecucion-por-caso-de-agentes-de-la-cia/",
+        "published_date": "2026-05-27 21:57:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Increase in rains and storms expected in El Salvador due to influence of tropical wave",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/fas-exhibe-su-titulo-20-y-desata-la-fiesta-de-sus-aficionados-en-el-parque-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=fas-exhibe-su-titulo-20-y-desata-la-fiesta-de-sus-aficionados-en-el-parque-libertad",
-        "published_date": "2026-05-27 03:04:50",
+        "url": "https://lapagina.com.sv/nacionales/preven-incremento-de-lluvias-y-tormentas-en-el-salvador-por-influencia-de-onda-tropical/?utm_source=rss&utm_medium=rss&utm_campaign=preven-incremento-de-lluvias-y-tormentas-en-el-salvador-por-influencia-de-onda-tropical",
+        "published_date": "2026-05-27 21:51:49",
         "category": "Local Events"
     },
     {
-        "title": "Three reasons to free Ruth L\u00f3pez",
+        "title": "Santa Ana Centro Mayor's Office continues to improve local roads in Natividad canton",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/alcaldia-de-santa-ana-centro-continua-mejorando-caminos-vecinales-en-canton-natividad/?utm_source=rss&utm_medium=rss&utm_campaign=alcaldia-de-santa-ana-centro-continua-mejorando-caminos-vecinales-en-canton-natividad",
+        "published_date": "2026-05-27 21:35:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unique in Latin America: The Audit Museum of the Court of Accounts reopens",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/unico-en-america-latina-el-museo-de-la-fiscalizacion-de-la-corte-de-cuentas-se-reinaugura/",
+        "published_date": "2026-05-27 21:35:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former mayor of Soyapango faces hearing for alleged illegal dismissals and disobedience",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/exalcaldesa-de-soyapango-enfrenta-audiencia-por-presuntos-despidos-ilegales-y-desobediencia/",
+        "published_date": "2026-05-27 21:29:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "They point out on networks that the remains of the alias \u201cOld Lin\u201d are still in the morgue",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/senalan-en-redes-que-restos-de-alias-viejo-lin-continuan-en-la-morgue/",
+        "published_date": "2026-05-27 21:26:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador strengthens its international projection with a tourism and coffee event in Austria",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/el-salvador-fortalece-su-proyeccion-internacional-con-evento-turistico-y-cafetalero-en-austria/",
+        "published_date": "2026-05-27 21:22:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador reaffirms its commitment to responsible and sustainable tourism",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/el-salvador-reafirma-su-compromiso-con-el-turismo-responsable-y-sostenible/",
+        "published_date": "2026-05-27 21:11:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court imposes sentences of up to 60 years on the MS-13 structure in Cuscatl\u00e1n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/tribunal-impone-penas-de-hasta-60-anos-a-estructura-de-la-ms-13-en-cuscatlan/?utm_source=rss&utm_medium=rss&utm_campaign=tribunal-impone-penas-de-hasta-60-anos-a-estructura-de-la-ms-13-en-cuscatlan",
+        "published_date": "2026-05-27 21:02:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Expansion Law accelerates investments in Salvadoran food, industry and textiles",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/ley-de-expansion-acelera-inversiones-en-alimentos-industria-y-textil-salvadoreno/?utm_source=rss&utm_medium=rss&utm_campaign=ley-de-expansion-acelera-inversiones-en-alimentos-industria-y-textil-salvadoreno",
+        "published_date": "2026-05-27 20:53:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador between the Short List and international ridicule: The ILO and the dispute to hide the labor crisis",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/tres-razones-para-liberar-a-ruth-lopez/",
-        "published_date": "2026-05-27 02:41:21",
+        "url": "https://www.diariocolatino.com/el-salvador-entre-la-lista-corta-y-el-escarnio-internacional-la-oit-y-la-disputa-por-ocultar-la-crisis-laboral/",
+        "published_date": "2026-05-27 20:42:58",
         "category": "Local Events"
     },
     {
-        "title": "El Salvador is committed to positioning labor advances in the ILO international forum",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-apuesta-por-posicionar-avances-laborales-en-foro-internacional-de-la-oit/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-apuesta-por-posicionar-avances-laborales-en-foro-internacional-de-la-oit",
-        "published_date": "2026-05-27 02:34:03",
+        "title": "Officials approve new extension to the emergency regime",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/oficialismo-aprueba-nueva-prorroga-al-regimen-de-excepcion/",
+        "published_date": "2026-05-27 20:36:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador and Spain commemorate 40 years of cooperation and commitment in favor of the development of the population",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-y-espana-conmemoran-40-anos-de-cooperacion-y-compromiso-a-favor-del-desarrollo-de-la-poblacion/",
+        "published_date": "2026-05-27 20:36:39",
         "category": "Local Events"
     }
 ]
