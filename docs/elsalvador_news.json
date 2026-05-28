@@ -1,5 +1,12 @@
 [
     {
+        "title": "Organizations disapprove of Nayib Bukele's seven years of government",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/organizaciones-desaprueban-los-siete-anos-de-gobierno-de-nayib-bukele/",
+        "published_date": "2026-05-28 11:01:53",
+        "category": "Diplomacy"
+    },
+    {
         "title": "El Salvador and Italy commemorate 165 years of diplomatic relations and bilateral cooperation",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/el-salvador-e-italia-conmemoran-165-anos-de-relaciones-diplomaticas-y-cooperacion-bilateral/",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Honduras responds to El Salvador after incident involving the delivery of school packages in the border area",
+        "title": "Dangerous leader of the MS13 wanted for multiple crimes captured in San Miguel",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/honduras-responde-a-el-salvador-tras-incidente-por-entrega-de-paquetes-escolares-en-zona-fronteriza/",
-        "published_date": "2026-05-20 00:58:36",
-        "category": "Diplomacy"
+        "url": "https://www.elmetropolitanodigital.com/2026/05/capturan-en-san-miguel-a-peligroso-cabecilla-de-la-ms13-buscado-por-multiples-delitos/",
+        "published_date": "2026-05-28 14:25:15",
+        "category": "Military"
     },
     {
         "title": "Extension 51 of the emergency regime is approved to reinforce security",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Suspect in shooting near White House dies after being shot by agents",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/muere-sospechoso-de-tiroteo-cerca-de-la-casa-blanca-tras-sufrir-disparos-de-agentes/",
-        "published_date": "2026-05-24 21:10:41",
-        "category": "Military"
-    },
-    {
         "title": "Regulations are extended so that 80% of the population continues buying gas at a low price",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/prorrogan-normativa-para-que-80-de-la-poblacion-continue-comprando-el-gas-a-bajo-precio/",
@@ -348,6 +348,13 @@
         "url": "https://lapagina.com.sv/general/informan-estabilidad-en-los-precios-de-los-combustibles-para-la-proxima-quincena/?utm_source=rss&utm_medium=rss&utm_campaign=informan-estabilidad-en-los-precios-de-los-combustibles-para-la-proxima-quincena",
         "published_date": "2026-05-25 14:09:30",
         "category": "Energy"
+    },
+    {
+        "title": "Financing for neighborhood stores exceeds $2.5 million, reports CONAMYPE",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/financiamiento-para-tiendas-de-barrio-supera-2-5-millones-informa-conamype/?utm_source=rss&utm_medium=rss&utm_campaign=financiamiento-para-tiendas-de-barrio-supera-2-5-millones-informa-conamype",
+        "published_date": "2026-05-28 14:23:11",
+        "category": "Economy"
     },
     {
         "title": "Deputy Lira clarifies that his debt was to treat his father's illness",
@@ -469,157 +476,143 @@
         "category": "Economy"
     },
     {
-        "title": "The Treasury points out that the new PPP Law streamlines processes and times without sacrificing fiscal control",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/hacienda-senala-que-nueva-ley-de-app-agiliza-procesos-y-tiempos-sin-sacrificar-control-fiscal/",
-        "published_date": "2026-05-20 11:03:26",
-        "category": "Economy"
-    },
-    {
-        "title": "Claudia Ortiz questions the Treasury for possible fiscal risks",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/claudia-ortiz-cuestiona-a-hacienda-por-posibles-riesgos-fiscales/",
-        "published_date": "2026-05-20 11:02:24",
-        "category": "Economy"
-    },
-    {
-        "title": "Hearing continues against 200 MS-13 gang members in El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/continua-audiencia-contra-200-pandilleros-de-la-ms-13-en-el-salvador/",
-        "published_date": "2026-05-28 00:04:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Organizations denounce setbacks in rights after seven years of the Bukele Government",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/organizaciones-denuncian-retrocesos-de-derechos-a-siete-anos-del-gobierno-de-bukele/",
-        "published_date": "2026-05-27 23:44:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President F\u00e9lix Ulloa participates in the reopening of the Court of Accounts Audit Museum",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-participa-en-reapertura-del-museo-de-la-fiscalizacion-de-la-corte-de-cuentas/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-participa-en-reapertura-del-museo-de-la-fiscalizacion-de-la-corte-de-cuentas",
-        "published_date": "2026-05-27 23:40:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "BREAKING NEWS: Former mayor of Soyapango will face trial stage",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ultima-hora-exalcaldesa-de-soyapango-enfrentara-etapa-de-juicio/",
-        "published_date": "2026-05-27 23:20:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former Mayor Nercy Montano faces Preliminary Hearing for Arbitrary Acts and Disobedience",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/exalcaldesa-nercy-montano-enfrenta-audiencia-preliminar-por-actos-arbitrarios-y-desobediencia/",
-        "published_date": "2026-05-27 22:41:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Divers find five of seven people trapped in a cave in Laos alive",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/buzos-hallan-con-vida-a-cinco-de-siete-personas-atrapadas-en-una-cueva-en-laos/",
-        "published_date": "2026-05-27 22:27:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "ARENA deputy promotes discrimination campaign from the Assembly",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/diputada-de-arena-impulsa-campana-de-discriminacion-desde-la-asamblea/",
-        "published_date": "2026-05-27 22:23:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Opposition governor of Mexico denounces persecution in case of CIA agents",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/gobernadora-opositora-de-mexico-denuncia-persecucion-por-caso-de-agentes-de-la-cia/",
-        "published_date": "2026-05-27 21:57:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Increase in rains and storms expected in El Salvador due to influence of tropical wave",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/preven-incremento-de-lluvias-y-tormentas-en-el-salvador-por-influencia-de-onda-tropical/?utm_source=rss&utm_medium=rss&utm_campaign=preven-incremento-de-lluvias-y-tormentas-en-el-salvador-por-influencia-de-onda-tropical",
-        "published_date": "2026-05-27 21:51:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santa Ana Centro Mayor's Office continues to improve local roads in Natividad canton",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/alcaldia-de-santa-ana-centro-continua-mejorando-caminos-vecinales-en-canton-natividad/?utm_source=rss&utm_medium=rss&utm_campaign=alcaldia-de-santa-ana-centro-continua-mejorando-caminos-vecinales-en-canton-natividad",
-        "published_date": "2026-05-27 21:35:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unique in Latin America: The Audit Museum of the Court of Accounts reopens",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/unico-en-america-latina-el-museo-de-la-fiscalizacion-de-la-corte-de-cuentas-se-reinaugura/",
-        "published_date": "2026-05-27 21:35:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former mayor of Soyapango faces hearing for alleged illegal dismissals and disobedience",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/exalcaldesa-de-soyapango-enfrenta-audiencia-por-presuntos-despidos-ilegales-y-desobediencia/",
-        "published_date": "2026-05-27 21:29:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "They point out on networks that the remains of the alias \u201cOld Lin\u201d are still in the morgue",
+        "title": "Woman dies after being hit by a Route 1 bus on Don Bosco Avenue",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/senalan-en-redes-que-restos-de-alias-viejo-lin-continuan-en-la-morgue/",
-        "published_date": "2026-05-27 21:26:36",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/mujer-fallece-tras-ser-atropellada-por-autobus-de-la-ruta-1-en-avenida-don-bosco/",
+        "published_date": "2026-05-28 14:30:18",
         "category": "Local Events"
     },
     {
-        "title": "El Salvador strengthens its international projection with a tourism and coffee event in Austria",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/el-salvador-fortalece-su-proyeccion-internacional-con-evento-turistico-y-cafetalero-en-austria/",
-        "published_date": "2026-05-27 21:22:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador reaffirms its commitment to responsible and sustainable tourism",
+        "title": "Ministry of Public Works denies that new CIFCO will be built in El Espino",
         "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-salvador-reafirma-su-compromiso-con-el-turismo-responsable-y-sostenible/",
-        "published_date": "2026-05-27 21:11:45",
+        "url": "https://ultimahora.sv/ministerio-de-obras-publicas-desmiente-que-nuevo-cifco-sera-construido-en-el-espino/",
+        "published_date": "2026-05-28 13:38:36",
         "category": "Local Events"
     },
     {
-        "title": "Court imposes sentences of up to 60 years on the MS-13 structure in Cuscatl\u00e1n",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/tribunal-impone-penas-de-hasta-60-anos-a-estructura-de-la-ms-13-en-cuscatlan/?utm_source=rss&utm_medium=rss&utm_campaign=tribunal-impone-penas-de-hasta-60-anos-a-estructura-de-la-ms-13-en-cuscatlan",
-        "published_date": "2026-05-27 21:02:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Expansion Law accelerates investments in Salvadoran food, industry and textiles",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ley-de-expansion-acelera-inversiones-en-alimentos-industria-y-textil-salvadoreno/?utm_source=rss&utm_medium=rss&utm_campaign=ley-de-expansion-acelera-inversiones-en-alimentos-industria-y-textil-salvadoreno",
-        "published_date": "2026-05-27 20:53:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador between the Short List and international ridicule: The ILO and the dispute to hide the labor crisis",
+        "title": "Environmentalists intensify rejection of CIFCO construction on El Espino farm",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-salvador-entre-la-lista-corta-y-el-escarnio-internacional-la-oit-y-la-disputa-por-ocultar-la-crisis-laboral/",
-        "published_date": "2026-05-27 20:42:58",
+        "url": "https://www.diariocolatino.com/ambientalistas-intensifican-rechazo-a-construccion-del-cifco-en-finca-el-espino/",
+        "published_date": "2026-05-28 11:05:06",
         "category": "Local Events"
     },
     {
-        "title": "Officials approve new extension to the emergency regime",
+        "title": "Those affected by COSAVI present a fourth hearing request to the US embassy",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/oficialismo-aprueba-nueva-prorroga-al-regimen-de-excepcion/",
-        "published_date": "2026-05-27 20:36:55",
+        "url": "https://www.diariocolatino.com/afectados-por-cosavi-presentan-cuarta-solicitud-de-audiencia-a-embajada-de-eeuu/",
+        "published_date": "2026-05-28 11:04:44",
         "category": "Local Events"
     },
     {
-        "title": "El Salvador and Spain commemorate 40 years of cooperation and commitment in favor of the development of the population",
+        "title": "MOVIE presents fourth lawsuit of unconstitutionality against the exception regime",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/movir-presenta-cuarta-demanda-de-inconstitucionalidad-contra-el-regimen-de-excepcion/",
+        "published_date": "2026-05-28 11:03:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lira responds to criticism of her assets: \u201cA debt to pay for my father's battle against cancer\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/lira-responde-criticas-por-sus-activos-una-deuda-para-costear-la-batalla-contra-el-cancer-de-mi-padre/",
+        "published_date": "2026-05-28 11:02:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Assembly approves extension 51 of the emergency regime",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/asamblea-aprueba-extension-51-del-regimen-de-excepcion/",
+        "published_date": "2026-05-28 11:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "TPS, Green Card, remittances, deportation: fear and prohibition",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/tps-green-card-remesas-deportacion-temor-y-prohibicion/",
+        "published_date": "2026-05-28 10:59:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "FAS, Firpo and Alianza already know their path to the 2026 Central American Cup",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fas-firpo-y-alianza-ya-conocen-su-camino-a-la-copa-centroamericana-2026/",
+        "published_date": "2026-05-28 10:58:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pope Leo XIV received the president of the Spanish Government in audience",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/papa-leon-xiv-recibio-en-audiencia-a-presidente-del-gobierno-espanol/",
+        "published_date": "2026-05-28 10:57:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran and the United States continue to exchange messages;disagreements persist",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/iran-y-estados-unidos-continuan-intercambiando-mensajes-persisten-los-desacuerdos/",
+        "published_date": "2026-05-28 10:56:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "New CIFCO will not be built in El Espino",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/nuevo-cifco-no-sera-construido-en-el-espino/?utm_source=rss&utm_medium=rss&utm_campaign=nuevo-cifco-no-sera-construido-en-el-espino",
+        "published_date": "2026-05-28 04:41:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities deny rumors about CIFCO in El Espino",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/autoridades-desmienten-rumores-sobre-cifco-en-el-espino/",
+        "published_date": "2026-05-28 04:18:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prudence tastefully elevates responsibility and pleasure in the intimacy of a couple",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/prudence-eleva-con-sabor-la-responsabilidad-y-el-placer-en-la-intimidad-de-pareja/",
+        "published_date": "2026-05-28 04:00:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Privada Pasatiempo will hold Open House to present its exclusive residential project in Lourdes",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/privada-pasatiempo-realizara-open-house-para-presentar-su-exclusivo-proyecto-residencial-en-lourdes/",
+        "published_date": "2026-05-28 03:48:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "National Lottery holds LOTRA Draw No. 452 dedicated to the III FESAVELA 2026 International Regatta",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/loteria-nacional-realiza-sorteo-lotra-n-452-dedicado-a-la-iii-regata-internacional-fesavela-2026/",
+        "published_date": "2026-05-28 01:41:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "\ud83d\udc95\ud83c\udf34 WAS LOVE BORN?Sheynnis Palacios and Carlos Arias unleash a furor with a romantic getaway in the Bahamas",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-y-espana-conmemoran-40-anos-de-cooperacion-y-compromiso-a-favor-del-desarrollo-de-la-poblacion/",
-        "published_date": "2026-05-27 20:36:39",
+        "url": "https://diariolahuella.com/%f0%9f%92%95%f0%9f%8c%b4-nacio-el-amor-sheynnis-palacios-y-carlos-arias-desatan-furor-con-romantica-escapada-en-bahamas/",
+        "published_date": "2026-05-28 01:40:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "They bring school packages to Salvadoran students from the former Bolsones and strengthen support for historically forgotten communities",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/lleva-paquetes-escolares-a-estudiantes-salvadorenos-de-los-exbolsones-y-fortalece-apoyo-a-comunidades-historicamente-olvidadas/",
+        "published_date": "2026-05-28 01:16:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Incorporation of resources will allow expanding digital connectivity in El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/incorporacion-de-recursos-permitira-ampliar-conectividad-digital-en-el-salvador/",
+        "published_date": "2026-05-28 00:46:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video game 007 First Light debuts with a young and inexperienced James Bond",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/gamers/videojuego-007-first-light-debuta-con-un-james-bond-joven-e-inexperto/",
+        "published_date": "2026-05-28 00:32:32",
         "category": "Local Events"
     }
 ]
