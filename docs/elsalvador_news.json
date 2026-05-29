@@ -1,5 +1,19 @@
 [
     {
+        "title": "Area for CIFCO has already been defined and no more trees will be moved: Chinese Embassy in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/area-para-cifco-ya-ha-sido-definida-y-no-se-movera-ningun-arbol-mas-embajada-china-en-el-salvador/",
+        "published_date": "2026-05-29 11:02:20",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuba reiterates its commitment to dialogue, although it doubts the \u201cseriousness\u201d of the US in the talks",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/413778-2/",
+        "published_date": "2026-05-29 10:58:37",
+        "category": "Diplomacy"
+    },
+    {
         "title": "FESFUT announces new measures after controversy in C.D.Eagle by awards theme",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/05/fesfut-anuncia-nuevas-medidas-tras-polemica-en-c-d-aguila-por-tema-de-premios/",
@@ -124,6 +138,13 @@
         "url": "https://lapagina.com.sv/nacionales/el-salvador-fortalece-cooperacion-aduanera-con-paraguay-para-avanzar-en-acuerdo-regional/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-fortalece-cooperacion-aduanera-con-paraguay-para-avanzar-en-acuerdo-regional",
         "published_date": "2026-05-22 00:07:00",
         "category": "Diplomacy"
+    },
+    {
+        "title": "They arrest alleged drug sellers in different areas of the country",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/detienen-a-presuntos-vendedores-de-droga-en-diferentes-zonas-del-pais/",
+        "published_date": "2026-05-29 13:14:52",
+        "category": "Military"
     },
     {
         "title": "Mario Dur\u00e1n delivers deeds to capital families after decades of waiting",
@@ -259,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "CIA HORRORS IN GUATEMALA",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/horrores-de-la-cia-en-guatemala/",
-        "published_date": "2026-05-26 10:59:26",
-        "category": "Military"
-    },
-    {
         "title": "Regulations are extended so that 80% of the population continues buying gas at a low price",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/prorrogan-normativa-para-que-80-de-la-poblacion-continue-comprando-el-gas-a-bajo-precio/",
@@ -334,6 +348,20 @@
         "url": "https://lapagina.com.sv/general/informan-estabilidad-en-los-precios-de-los-combustibles-para-la-proxima-quincena/?utm_source=rss&utm_medium=rss&utm_campaign=informan-estabilidad-en-los-precios-de-los-combustibles-para-la-proxima-quincena",
         "published_date": "2026-05-25 14:09:30",
         "category": "Energy"
+    },
+    {
+        "title": "Transparency in assets and liabilities was due to pressure from the IMF: Claudia Ortiz",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/transparencia-en-activos-y-pasivos-fue-por-presiones-del-fmi-claudia-ortiz/",
+        "published_date": "2026-05-29 11:03:55",
+        "category": "Economy"
+    },
+    {
+        "title": "El Salvador exceeds $923 million in customs revenues",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-supera-los-923-millones-en-ingresos-aduaneros/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-supera-los-923-millones-en-ingresos-aduaneros",
+        "published_date": "2026-05-29 02:18:23",
+        "category": "Economy"
     },
     {
         "title": "Salvadoran urban graffiti will be exhibited in Seville, Spain",
@@ -462,6 +490,90 @@
         "category": "Economy"
     },
     {
+        "title": "Tropical wave will cause rain and storms in different parts of the country this Friday",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/onda-tropical-provocara-lluvias-y-tormentas-en-diferentes-puntos-del-pais-este-viernes/",
+        "published_date": "2026-05-29 13:43:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Construction in the AMSS exceeds $5.9 billion in investments and accelerates expansion of vertical projects",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/construccion-en-el-amss-supera-los-5900-millones-en-inversiones-y-acelera-expansion-de-proyectos-verticales/",
+        "published_date": "2026-05-29 13:38:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "CD.Platense confirms departure of Alberto Agust\u00edn Castillo after ratification of sanction",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/c-d-platense-confirma-salida-de-alberto-agustin-castillo-tras-ratificacion-de-sancion/",
+        "published_date": "2026-05-29 13:37:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Result of the polls in favor of the Government is because \u201cBukele knows how to sell illusions\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/resultados-encuestas-porque-bukele-sabe-vender-ilusiones/",
+        "published_date": "2026-05-29 11:05:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "MILPA denounces \u201cecocide and ethnocide\u201d before the international community",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/milpa-denuncia-ecocidio-etnocidio-ante-comunidad-internacional/",
+        "published_date": "2026-05-29 11:04:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unionists warn of attempt to hide labor crisis in El Salvador from the ILO",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/sindicalistas-advierten-intento-de-ocultar-crisis-laboral-en-el-salvador-ante-la-oit/",
+        "published_date": "2026-05-29 11:01:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Decree approved by Nuevas Ideas contradicts the MOP on the construction of the CIFCO in Finca El Espino",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/decreto-aprobado-por-nuevas-ideas-contradice-al-mop-sobre-construccion-del-cifco-en-finca-el-espino/",
+        "published_date": "2026-05-29 11:00:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bolivia: insurrection of the poor against the International Monetary Fund",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/bolivia-insurreccion-de-los-pobres-contra-el-fondo-monetario-internacional/",
+        "published_date": "2026-05-29 10:59:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Files of police actions during the dictatorship are delivered to Uruguay",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/entregan-en-uruguay-archivos-de-actuacion-policial-durante-dictadura/",
+        "published_date": "2026-05-29 10:57:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government holds the award ceremony for excellence in higher education 2026",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/gobierno-realiza-la-ceremonia-de-premiacion-a-la-excelencia-de-la-educacion-superior-2026/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-realiza-la-ceremonia-de-premiacion-a-la-excelencia-de-la-educacion-superior-2026",
+        "published_date": "2026-05-29 04:00:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "They intend to seize the house of a disabled poet",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/pretenden-embargar-casa-a-poeta-discapacitado/",
+        "published_date": "2026-05-29 03:07:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "They promote the planting of 20,000 trees in el espino and bicentennial park",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/cultura/impulsan-siembra-de-20000-arboles-en-el-espino-y-parque-bicentenario/?utm_source=rss&utm_medium=rss&utm_campaign=impulsan-siembra-de-20000-arboles-en-el-espino-y-parque-bicentenario",
+        "published_date": "2026-05-29 01:05:32",
+        "category": "Local Events"
+    },
+    {
         "title": "Claudia Ortiz questions polls despite the citizen support reflected by CID Gallup",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/claudia-ortiz-cuestiona-encuestas-pese-al-respaldo-ciudadano-reflejado-por-cid-gallup/",
@@ -515,90 +627,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/fesfut-da-un-ano-para-resolver-caso-de-multipropiedad-en-clubes-del-futbol-salvadoreno/",
         "published_date": "2026-05-28 20:54:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "The capital's mayor's office continues to recover public spaces in the Historic Center",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/alcaldia-capitalina-continua-recuperando-espacios-publicos-en-centro-historico/?utm_source=rss&utm_medium=rss&utm_campaign=alcaldia-capitalina-continua-recuperando-espacios-publicos-en-centro-historico",
-        "published_date": "2026-05-28 20:46:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US Government is pushing to print banknotes with Trump's face",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/el-gobierno-de-eeuu-presiona-para-que-se-impriman-billetes-con-la-cara-de-trump/",
-        "published_date": "2026-05-28 20:40:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mop promotes delivery of plants in the historic center to promote reforestation",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mop-impulsa-entrega-de-plantas-en-el-centro-historico-para-fomentar-la-reforestacion/?utm_source=rss&utm_medium=rss&utm_campaign=mop-impulsa-entrega-de-plantas-en-el-centro-historico-para-fomentar-la-reforestacion",
-        "published_date": "2026-05-28 20:33:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several traffic accidents are reported in San Salvador and the central area of \u200b\u200bthe country",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/reportan-varios-accidentes-de-transito-en-san-salvador-y-zona-central-del-pais/",
-        "published_date": "2026-05-28 20:32:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "China reveals what the new CIFCO will be like",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/china-revela-como-sera-el-nuevo-cifco/",
-        "published_date": "2026-05-28 20:31:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "China continues to leave its mark in El Salvador with historic megaprojects",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/china-sigue-dejando-huella-en-el-salvador-con-megaproyectos-historicos/",
-        "published_date": "2026-05-28 20:16:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "They confirm access 24 hours a day to the Bicentenario Park",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/confirman-acceso-las-24-horas-del-dia-al-parque-bicentenario/?utm_source=rss&utm_medium=rss&utm_campaign=confirman-acceso-las-24-horas-del-dia-al-parque-bicentenario",
-        "published_date": "2026-05-28 20:14:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "They lay the first stone of the new \u201cMontecarlo\u201d housing project",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/colocan-primera-piedra-de-nuevo-proyecto-habitacional-montecarlo/",
-        "published_date": "2026-05-28 20:09:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Improvements begin in the Bicentenario park and massive reforestation in the El Espino forest",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/inician-mejoras-en-el-parque-bicentenario-y-reforestacion-masiva-en-el-bosque-el-espino/",
-        "published_date": "2026-05-28 20:09:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Foreigners are sentenced for vehicle theft and use of false documents",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/extranjeros-reciben-condena-por-hurto-de-vehiculo-y-uso-de-documentos-falsos/?utm_source=rss&utm_medium=rss&utm_campaign=extranjeros-reciben-condena-por-hurto-de-vehiculo-y-uso-de-documentos-falsos",
-        "published_date": "2026-05-28 20:06:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government works on lighting, trails and reforestation in the Bicentennial",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gobierno-trabaja-en-iluminacion-senderos-y-reforestacion-en-el-bicentenario/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-trabaja-en-iluminacion-senderos-y-reforestacion-en-el-bicentenario",
-        "published_date": "2026-05-28 19:58:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Montecarlo Project will generate thousands of jobs in Quezaltepeque",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/proyecto-montecarlo-generara-miles-de-empleos-en-quezaltepeque/?utm_source=rss&utm_medium=rss&utm_campaign=proyecto-montecarlo-generara-miles-de-empleos-en-quezaltepeque",
-        "published_date": "2026-05-28 19:34:47",
         "category": "Local Events"
     }
 ]
