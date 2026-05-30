@@ -1,5 +1,40 @@
 [
     {
+        "title": "English in Central America",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ingleses-en-centroamerica-x/",
+        "published_date": "2026-05-30 00:00:12",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Fonat presents road safety strategies to representatives of Uruguay",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/el-fonat-expone-estrategias-de-seguridad-vial-ante-representantes-de-uruguay/",
+        "published_date": "2026-05-29 20:43:45",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Anthony Gordon signs for five seasons and is Bar\u00e7a's first signing in 2026-27",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/anthony-gordon-firma-por-cinco-temporadas-y-es-el-primer-fichaje-del-barca-2026-27/",
+        "published_date": "2026-05-29 20:40:59",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Canada and OPAMSS explore investments to boost urban development and construction in the AMSS",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/canada-y-opamss-exploran-inversiones-para-impulsar-el-desarrollo-urbano-y-la-construccion-en-el-amss/?utm_source=rss&utm_medium=rss&utm_campaign=canada-y-opamss-exploran-inversiones-para-impulsar-el-desarrollo-urbano-y-la-construccion-en-el-amss",
+        "published_date": "2026-05-29 20:40:29",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Exclusively: Cuba is not an enemy of the US, nor does it want to be",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/en-exclusiva-cuba-no-es-un-enemigo-de-eeuu-ni-quiere-serlo/",
+        "published_date": "2026-05-29 19:11:29",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Area for CIFCO has already been defined and no more trees will be moved: Chinese Embassy in El Salvador",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/area-para-cifco-ya-ha-sido-definida-y-no-se-movera-ningun-arbol-mas-embajada-china-en-el-salvador/",
@@ -105,39 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Salvadorans express solidarity with Basque militants prosecuted in Spain",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/salvadorenos-expresan-solidaridad-con-militantes-vascos-procesados-en-espana/",
-        "published_date": "2026-05-22 11:01:50",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Vice President Ulloa receives a delegation from the government of Costa Rica",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/vicepresidente-ulloa-recibe-a-comitiva-del-gobierno-de-costa-rica/",
-        "published_date": "2026-05-22 00:42:18",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "El Salvador advances in customs cooperation with Paraguay",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-avanza-en-cooperacion-aduanera-con-paraguay/",
-        "published_date": "2026-05-22 00:17:43",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Ulloa meets with high-level delegation from Costa Rica",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/ulloa-se-reune-con-delegacion-de-alto-nivel-de-costa-rica/",
-        "published_date": "2026-05-22 00:13:53",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "El Salvador strengthens customs cooperation with Paraguay to advance the regional agreement",
+        "title": "They capture a subject who threatened cable workers in San Miguel",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-fortalece-cooperacion-aduanera-con-paraguay-para-avanzar-en-acuerdo-regional/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-fortalece-cooperacion-aduanera-con-paraguay-para-avanzar-en-acuerdo-regional",
-        "published_date": "2026-05-22 00:07:00",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-sujeto-que-amenazo-a-trabajadores-de-cable-en-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-sujeto-que-amenazo-a-trabajadores-de-cable-en-san-miguel",
+        "published_date": "2026-05-29 23:55:49",
+        "category": "Military"
+    },
+    {
+        "title": "PNC arrests man who intimidated cable promoters with a knife",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/pnc-arresta-a-hombre-que-intimido-con-arma-blanca-a-promotores-de-cable/",
+        "published_date": "2026-05-29 23:29:09",
+        "category": "Military"
+    },
+    {
+        "title": "Security application launched in New York during the World Cup",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/lanzan-en-nueva-york-aplicacion-sobre-seguridad-durante-el-mundial/",
+        "published_date": "2026-05-29 20:59:37",
+        "category": "Military"
+    },
+    {
+        "title": "PNC captures three people for illicit drug trafficking in San Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/pnc-captura-a-tres-personas-por-trafico-ilicito-de-drogas-en-san-salvador/",
+        "published_date": "2026-05-29 19:40:15",
+        "category": "Military"
     },
     {
         "title": "They arrest alleged drug sellers in different areas of the country",
@@ -252,34 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Municipal operations reinforce cleanliness, order and security in San Salvador Centro",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/operativos-municipales-refuerzan-limpieza-orden-y-seguridad-en-san-salvador-centro/?utm_source=rss&utm_medium=rss&utm_campaign=operativos-municipales-refuerzan-limpieza-orden-y-seguridad-en-san-salvador-centro",
-        "published_date": "2026-05-27 00:50:19",
-        "category": "Military"
-    },
-    {
-        "title": "Suspected MS13 extortionist captured in San Marcos",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/capturan-en-san-marcos-a-presunto-extorsionista-de-la-ms13/",
-        "published_date": "2026-05-26 21:21:14",
-        "category": "Military"
-    },
-    {
-        "title": "Guatemalan vice consul captured for allegedly participating in a patricide",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/capturan-a-viceconsul-guatemalteca-por-presuntamente-participar-en-un-parricidio/",
-        "published_date": "2026-05-26 17:34:33",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador and Japan strengthen diplomatic ties during the Second Meeting of Political Consultations",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-y-japon-fortalecen-vinculos-diplomaticos-durante-la-ii-reunion-de-consultas-politicas/",
-        "published_date": "2026-05-26 15:50:34",
-        "category": "Military"
-    },
-    {
         "title": "Regulations are extended so that 80% of the population continues buying gas at a low price",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/prorrogan-normativa-para-que-80-de-la-poblacion-continue-comprando-el-gas-a-bajo-precio/",
@@ -348,6 +348,20 @@
         "url": "https://lapagina.com.sv/general/informan-estabilidad-en-los-precios-de-los-combustibles-para-la-proxima-quincena/?utm_source=rss&utm_medium=rss&utm_campaign=informan-estabilidad-en-los-precios-de-los-combustibles-para-la-proxima-quincena",
         "published_date": "2026-05-25 14:09:30",
         "category": "Energy"
+    },
+    {
+        "title": "Deputies agree to reinforce the National Markets Directorate with $2.5 million",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diputados-acuerdan-reforzar-con-2-5-millones-a-la-direccion-de-mercados-nacionales/",
+        "published_date": "2026-05-29 23:27:53",
+        "category": "Economy"
+    },
+    {
+        "title": "El Salvador promotes a new era of digital finance in LA",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/el-salvador-impulsa-nueva-era-de-finanzas-digitales-en-al/",
+        "published_date": "2026-05-29 21:18:03",
+        "category": "Economy"
     },
     {
         "title": "Transparency in assets and liabilities was due to pressure from the IMF: Claudia Ortiz",
@@ -476,157 +490,143 @@
         "category": "Economy"
     },
     {
-        "title": "They lay the first stone of the new San Miguel market",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/colocan-primera-piedra-del-nuevo-mercado-de-san-miguel/",
-        "published_date": "2026-05-22 03:33:49",
-        "category": "Economy"
+        "title": "The Tecle\u00f1os Portals",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/los-portales-teclenos/",
+        "published_date": "2026-05-30 00:05:00",
+        "category": "Local Events"
     },
     {
-        "title": "CABEI promotes the modernization of the judicial system of El Salvador",
+        "title": "The Divine Root",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-divina-raiz/",
+        "published_date": "2026-05-30 00:04:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "THE MOST OBSCENE DEVILS OF HELLS",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/los-diablos-mas-obscenos-de-los-infiernos/",
+        "published_date": "2026-05-30 00:03:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "CLOSET VII",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/almario-vii/",
+        "published_date": "2026-05-30 00:01:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "ANA CARPENTER: FIGHT, FAITH AND COURAGE",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ana-carpenter-lucha-fe-y-valentia/",
+        "published_date": "2026-05-29 23:59:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Leader of the \u201cSalvemos El Espino\u201d movement registers as a pre-candidate for deputy of San Salvador in the FMLN",
         "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/bcie-promueve-la-modernizacion-del-sistema-judicial-de-el-salvador/",
-        "published_date": "2026-05-21 19:19:26",
-        "category": "Economy"
+        "url": "https://ultimahora.sv/lideresa-del-movimiento-salvemos-el-espino-se-inscribe-como-precandidata-a-diputada-de-san-salvador-en-el-fmln/",
+        "published_date": "2026-05-29 23:57:10",
+        "category": "Local Events"
     },
     {
-        "title": "Tropical wave will cause rain and storms in different parts of the country this Friday",
+        "title": "Carlos Vela presents at UTEC the impact of the STEM and STEAM approach in education",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/carlos-vela-expone-en-la-utec-el-impacto-del-enfoque-stem-y-steam-en-la-educacion/",
+        "published_date": "2026-05-29 23:19:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "FESFUT reschedules venue for the friendly between La Selecta Femenina and Costa Rica",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/onda-tropical-provocara-lluvias-y-tormentas-en-diferentes-puntos-del-pais-este-viernes/",
-        "published_date": "2026-05-29 13:43:28",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/fesfut-reprograma-sede-del-amistoso-entre-la-selecta-femenina-y-costa-rica/",
+        "published_date": "2026-05-29 23:17:28",
         "category": "Local Events"
     },
     {
-        "title": "Construction in the AMSS exceeds $5.9 billion in investments and accelerates expansion of vertical projects",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/construccion-en-el-amss-supera-los-5900-millones-en-inversiones-y-acelera-expansion-de-proyectos-verticales/",
-        "published_date": "2026-05-29 13:38:11",
+        "title": "Vehicle seized in San Salvador with drugs and weapons passes to the State",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/vehiculo-decomisado-en-san-salvador-con-droga-y-armas-pasa-al-estado/",
+        "published_date": "2026-05-29 23:14:33",
         "category": "Local Events"
     },
     {
-        "title": "CD.Platense confirms departure of Alberto Agust\u00edn Castillo after ratification of sanction",
+        "title": "Young talent shines with Italian music",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/el-talento-joven-brilla-con-la-musica-italiana/",
+        "published_date": "2026-05-29 23:11:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gang member sentenced to 15 years for extortion",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/pandillero-es-condenado-a-15-anos-por-extorsion/",
+        "published_date": "2026-05-29 23:08:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sentences of 25 to 45 years are imposed on 60 terrorists",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/penas-de-25-a-45-anos-son-impuestas-a-60-terroristas/",
+        "published_date": "2026-05-29 23:02:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "MARN warns of fast and high waves on the Salvadoran coast from May 31 to June 2",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/c-d-platense-confirma-salida-de-alberto-agustin-castillo-tras-ratificacion-de-sancion/",
-        "published_date": "2026-05-29 13:37:20",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/marn-advierte-oleaje-rapido-y-alto-en-la-costa-salvadorena-del-31-de-mayo-al-2-de-junio/",
+        "published_date": "2026-05-29 22:53:40",
         "category": "Local Events"
     },
     {
-        "title": "Result of the polls in favor of the Government is because \u201cBukele knows how to sell illusions\u201d",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/resultados-encuestas-porque-bukele-sabe-vender-ilusiones/",
-        "published_date": "2026-05-29 11:05:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "MILPA denounces \u201cecocide and ethnocide\u201d before the international community",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/milpa-denuncia-ecocidio-etnocidio-ante-comunidad-internacional/",
-        "published_date": "2026-05-29 11:04:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unionists warn of attempt to hide labor crisis in El Salvador from the ILO",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/sindicalistas-advierten-intento-de-ocultar-crisis-laboral-en-el-salvador-ante-la-oit/",
-        "published_date": "2026-05-29 11:01:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Decree approved by Nuevas Ideas contradicts the MOP on the construction of the CIFCO in Finca El Espino",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/decreto-aprobado-por-nuevas-ideas-contradice-al-mop-sobre-construccion-del-cifco-en-finca-el-espino/",
-        "published_date": "2026-05-29 11:00:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bolivia: insurrection of the poor against the International Monetary Fund",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/bolivia-insurreccion-de-los-pobres-contra-el-fondo-monetario-internacional/",
-        "published_date": "2026-05-29 10:59:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Files of police actions during the dictatorship are delivered to Uruguay",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/entregan-en-uruguay-archivos-de-actuacion-policial-durante-dictadura/",
-        "published_date": "2026-05-29 10:57:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government holds the award ceremony for excellence in higher education 2026",
+        "title": "Excellence Awards recognize universities for projects that contribute to development and innovation in El Salvador",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gobierno-realiza-la-ceremonia-de-premiacion-a-la-excelencia-de-la-educacion-superior-2026/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-realiza-la-ceremonia-de-premiacion-a-la-excelencia-de-la-educacion-superior-2026",
-        "published_date": "2026-05-29 04:00:25",
+        "url": "https://lapagina.com.sv/nacionales/premios-a-la-excelencia-reconocen-a-universidades-por-proyectos-que-aportan-al-desarrollo-y-la-innovacion-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=premios-a-la-excelencia-reconocen-a-universidades-por-proyectos-que-aportan-al-desarrollo-y-la-innovacion-en-el-salvador",
+        "published_date": "2026-05-29 22:05:33",
         "category": "Local Events"
     },
     {
-        "title": "They intend to seize the house of a disabled poet",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/pretenden-embargar-casa-a-poeta-discapacitado/",
-        "published_date": "2026-05-29 03:07:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "They promote the planting of 20,000 trees in el espino and bicentennial park",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/cultura/impulsan-siembra-de-20000-arboles-en-el-espino-y-parque-bicentenario/?utm_source=rss&utm_medium=rss&utm_campaign=impulsan-siembra-de-20000-arboles-en-el-espino-y-parque-bicentenario",
-        "published_date": "2026-05-29 01:05:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Claudia Ortiz questions polls despite the citizen support reflected by CID Gallup",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/claudia-ortiz-cuestiona-encuestas-pese-al-respaldo-ciudadano-reflejado-por-cid-gallup/",
-        "published_date": "2026-05-28 23:01:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Art and Design Festival promotes creativity and export of Salvadoran brands",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/festival-arte-y-diseno-impulsa-creatividad-y-exportacion-de-marcas-salvadorenas/?utm_source=rss&utm_medium=rss&utm_campaign=festival-arte-y-diseno-impulsa-creatividad-y-exportacion-de-marcas-salvadorenas",
-        "published_date": "2026-05-28 21:44:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Metal stands installed on sidewalk are removed in Ayutuxtepeque",
+        "title": "They inspect a complaint for alleged irregular discarding of poles on the banks of the Acelhuate River",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/retiran-graderio-metalico-instalado-sobre-acera-en-ayutuxtepeque/",
-        "published_date": "2026-05-28 21:41:27",
+        "url": "https://www.elmetropolitanodigital.com/2026/05/inspeccionan-denuncia-por-presunto-descarte-irregular-de-postes-en-riberas-del-rio-acelhuate/",
+        "published_date": "2026-05-29 21:46:49",
         "category": "Local Events"
     },
     {
-        "title": "First decision clubs could lose their category if they do not resolve the timeshare situation",
+        "title": "Man who was reported missing in Sonsonate found dead",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/encuentran-sin-vida-a-hombre-que-fue-reportado-como-desaprecido-en-sonsonate/",
+        "published_date": "2026-05-29 21:36:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador does not meet the democratic or labor conditions to leave the short list",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-salvador-no-cumple-con-las-condiciones-democraticas-ni-laborales-para-salir-de-la-lista-corta/",
+        "published_date": "2026-05-29 21:30:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The United States delivers technological equipment to DoctorSV to strengthen health care and surveillance in El Salvador",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/clubes-de-primera-decision-podrian-perder-su-categoria-si-no-resuelven-situacion-de-multipropiedad/?utm_source=rss&utm_medium=rss&utm_campaign=clubes-de-primera-decision-podrian-perder-su-categoria-si-no-resuelven-situacion-de-multipropiedad",
-        "published_date": "2026-05-28 21:32:00",
+        "url": "https://lapagina.com.sv/nacionales/estados-unidos-entrega-equipo-tecnologico-a-doctorsv-para-fortalecer-la-atencion-y-vigilancia-sanitaria-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=estados-unidos-entrega-equipo-tecnologico-a-doctorsv-para-fortalecer-la-atencion-y-vigilancia-sanitaria-en-el-salvador",
+        "published_date": "2026-05-29 21:20:02",
         "category": "Local Events"
     },
     {
-        "title": "Monetae promotes a platform in El Salvador that unifies payments, savings and digital investment",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/monetae-impulsa-en-el-salvador-una-plataforma-que-unifica-pagos-ahorro-e-inversion-digital/?utm_source=rss&utm_medium=rss&utm_campaign=monetae-impulsa-en-el-salvador-una-plataforma-que-unifica-pagos-ahorro-e-inversion-digital",
-        "published_date": "2026-05-28 21:29:28",
+        "title": "United States Embassy donates technological equipment to DoctorSV",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/embajada-de-estados-unidos-dona-equipo-tecnologico-a-doctorsv/",
+        "published_date": "2026-05-29 21:03:54",
         "category": "Local Events"
     },
     {
-        "title": "Up to 40 years in prison for a palabrero from 18 who operated in Coatepeque",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/hasta-40-anos-de-prision-para-palabrero-de-la-18-que-operaba-en-coatepeque/",
-        "published_date": "2026-05-28 21:07:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "FESFUT enables ticket sales for the duel between La Selecta Femenina and Costa Rica",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/05/fesfut-habilita-venta-de-boletos-para-duelo-entre-la-selecta-femenina-y-costa-rica/",
-        "published_date": "2026-05-28 20:59:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "FESFUT gives one year to resolve timeshare case in Salvadoran soccer clubs",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/fesfut-da-un-ano-para-resolver-caso-de-multipropiedad-en-clubes-del-futbol-salvadoreno/",
-        "published_date": "2026-05-28 20:54:17",
+        "title": "US Embassy strengthens DoctorSV program with donation",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/embajada-de-eua-fortalece-programa-doctorsv-con-donativo/",
+        "published_date": "2026-05-29 20:57:29",
         "category": "Local Events"
     }
 ]
