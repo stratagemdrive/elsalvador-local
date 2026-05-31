@@ -1,5 +1,12 @@
 [
     {
+        "title": "They strengthen ties with Salvadorans abroad",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/fortalecen-vinculos-con-los-salvadorenos-en-el-exterior/?utm_source=rss&utm_medium=rss&utm_campaign=fortalecen-vinculos-con-los-salvadorenos-en-el-exterior",
+        "published_date": "2026-05-31 02:34:53",
+        "category": "Diplomacy"
+    },
+    {
         "title": "El Salvador should not leave the short list due to massive layoffs and persecution in the public sector",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/el-salvador-no-debe-salir-de-la-lista-corta-por-los-despidos-masivos-y-persecucion-en-el-sector-publico/",
@@ -133,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Security application launched in New York during the World Cup",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/tecnologia/lanzan-en-nueva-york-aplicacion-sobre-seguridad-durante-el-mundial-2/",
+        "published_date": "2026-05-31 00:28:19",
+        "category": "Military"
+    },
+    {
         "title": "El Salvador adds another day without homicides nationwide",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/el-salvador-suma-otro-dia-sin-homicidios-a-nivel-nacional-2/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-suma-otro-dia-sin-homicidios-a-nivel-nacional-2",
@@ -263,13 +277,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/internacionales/costa-rica-impulsa-reforma-penitenciaria-con-enfoque-de-mayor-control-en-carceles-de-alta-seguridad/?utm_source=rss&utm_medium=rss&utm_campaign=costa-rica-impulsa-reforma-penitenciaria-con-enfoque-de-mayor-control-en-carceles-de-alta-seguridad",
         "published_date": "2026-05-27 03:42:57",
-        "category": "Military"
-    },
-    {
-        "title": "\u201cBukele Law\u201d proposed for Honduras in the face of high crime rates",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/proponen-ley-bukele-para-honduras-ante-altos-indices-de-criminalidad/",
-        "published_date": "2026-05-27 02:15:45",
         "category": "Military"
     },
     {
@@ -469,6 +476,27 @@
         "category": "Economy"
     },
     {
+        "title": "Thomas Gir\u00f3n: \u201cIf you want to sing, you should not be afraid or ashamed\u201d",
+        "source": "Cronio",
+        "url": "https://croniosv.com/croniotv/thomas-giron-si-desea-cantar-no-debe-tener-miedo-ni-verguenza/",
+        "published_date": "2026-05-31 01:43:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "First-level services return to the Northern Union, thanks to the Integra Fair in Anamor\u00f3s",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/los-servicios-de-primer-nivel-regresan-a-la-union-norte-gracias-a-la-feria-integra-en-anamoros/",
+        "published_date": "2026-05-31 00:44:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sports talent continues to grow in \u201cCommunities Without Borders\u201d",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-talento-deportivo-sigue-creciendo-en-comunidades-sin-fronteras/?utm_source=rss&utm_medium=rss&utm_campaign=el-talento-deportivo-sigue-creciendo-en-comunidades-sin-fronteras",
+        "published_date": "2026-05-31 00:07:32",
+        "category": "Local Events"
+    },
+    {
         "title": "Of dreams and absences, the story of resistance and faith of the Salvadoran Marta Garc\u00eda",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/05/de-suenos-y-ausencias-la-historia-de-resistencia-y-fe-de-la-salvadorena-marta-garcia/",
@@ -585,27 +613,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/italia-fortalece-lazos-con-el-salvador-en-encuentro-estrategico-de-inversion-y-cooperacion/",
         "published_date": "2026-05-30 17:35:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bicentennial Park will remain open 24 hours a day",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/parque-bicentenario-permanecera-abierto-las-24-horas-del-dia/",
-        "published_date": "2026-05-30 17:18:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Summary of the main news of the last week of May 2026",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/resumen-de-las-principales-noticias-de-la-ultima-semana-de-mayo-2026/",
-        "published_date": "2026-05-30 17:17:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "FMLN and ARENA advance with new registrations of pre-candidates",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/fmln-y-arena-avanzan-con-nuevas-inscripciones-de-precandidatos/",
-        "published_date": "2026-05-30 17:10:51",
         "category": "Local Events"
     }
 ]
