@@ -280,6 +280,20 @@
         "category": "Military"
     },
     {
+        "title": "Cuba denies the US Secretary of State about oil acquisition",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cuba-desmiente-al-secretario-de-estado-de-eeuu-sobre-adquisicion-de-petroleo/",
+        "published_date": "2026-06-06 10:58:36",
+        "category": "Energy"
+    },
+    {
+        "title": "Alejandro Gutman teaches DNA Masterclass on Poverty and the Culture of Integration to the 40,000 participants in the Training Process",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/alejandro-gutman-imparte-masterclass-adn-de-la-pobreza-y-la-cultura-de-integracion-a-los-40000-participantes-en-proceso-formativo/",
+        "published_date": "2026-06-06 02:40:39",
+        "category": "Energy"
+    },
+    {
         "title": "Finland advances its plan to store spent and radioactive nuclear fuel underground",
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/finlandia-avanza-en-su-plan-de-almacenar-bajo-tierra-el-combustible-nuclear-gastado-y-radiactivo/",
@@ -343,18 +357,88 @@
         "category": "Economy"
     },
     {
-        "title": "Transparency in assets and liabilities was due to pressure from the IMF: Claudia Ortiz",
+        "title": "Ecological Walk demands repealing metal mining and taking care of the common home",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/transparencia-en-activos-y-pasivos-fue-por-presiones-del-fmi-claudia-ortiz/",
-        "published_date": "2026-05-29 11:03:55",
-        "category": "Economy"
+        "url": "https://www.diariocolatino.com/caminata-ecologica-exige-derogar-la-mineria-metalica-y-cuidar-la-casa-comun/",
+        "published_date": "2026-06-06 11:06:06",
+        "category": "Local Events"
     },
     {
-        "title": "El Salvador exceeds $923 million in customs revenues",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-supera-los-923-millones-en-ingresos-aduaneros/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-supera-los-923-millones-en-ingresos-aduaneros",
-        "published_date": "2026-05-29 02:18:23",
-        "category": "Economy"
+        "title": "Medical College urges to prioritize national talent",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/colegio-medico-insta-a-priorizar-talento-nacional/",
+        "published_date": "2026-06-06 11:05:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Will Salgado will seek candidacy for deputy for San Miguel",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/will-salgado-buscara-candidatura-a-diputado-por-san-miguel/",
+        "published_date": "2026-06-06 11:04:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ondina Ramos and Alejandro N\u00f3chez seek ARENA candidacy for San Salvador Centro",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ondina-ramos-y-alejandro-nochez-buscan-candidatura-de-arena-para-san-salvador-centro/",
+        "published_date": "2026-06-06 11:03:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "GOES asks the Assembly to approve $9.6 million in loan to finance solar plant",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/goes-pide-a-asamblea-aprobar-9-6-millones-en-prestamo-para-financiar-planta-solar/",
+        "published_date": "2026-06-06 11:02:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador Prosecutor's Office presents allegations against 486 MS-13 leaders",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fiscalia-el-salvador-presenta-alegatos-contra-486-cabecillas-ms-13/",
+        "published_date": "2026-06-06 11:01:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "US warships fleeing Oman Sea, Iranian navy says",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/buques-de-guerra-estadounidenses-huyen-del-mar-de-oman-dice-la-armada-irani/",
+        "published_date": "2026-06-06 10:59:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Selecta Femenina shines in front of its fans and ties with Costa Rica in Las Delicias",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/la-selecta-femenina-brilla-ante-su-aficion-y-empata-con-costa-rica-en-las-delicias/",
+        "published_date": "2026-06-06 08:49:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Strong argument between sisters ends with the death of one of them",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/fuerte-discusion-entre-hermanas-termina-con-la-muerte-de-una-de-ellas/",
+        "published_date": "2026-06-06 01:18:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three motorcyclists injured after a serious accident on the Pan-American Highway",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/tres-motociclistas-lesionados-tras-fuerte-accidente-en-carretera-panamericana/",
+        "published_date": "2026-06-06 01:15:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video shows how a man was saved from dying by electrocution by the quick action of his friend",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/video-muestra-como-un-hombre-fue-salvado-de-morir-electrocutado-por-la-rapida-accion-de-su-amigo/",
+        "published_date": "2026-06-06 01:14:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tito Estevez",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/tito-estevez/",
+        "published_date": "2026-06-06 00:15:57",
+        "category": "Local Events"
     },
     {
         "title": "English in Central America XI",
@@ -410,90 +494,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/video-capta-momento-en-que-conductor-huye-tras-arrollar-a-motociclista-en-chalchuapa/",
         "published_date": "2026-06-05 21:18:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two men receive 20 years in prison for assault in La Libertad",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/dos-hombres-reciben-20-anos-de-carcel-por-asalto-en-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=dos-hombres-reciben-20-anos-de-carcel-por-asalto-en-la-libertad",
-        "published_date": "2026-06-05 20:43:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Subject convicted of stealing $59,000 from ISBM",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/condenan-a-sujeto-que-sustrajo-59-mil-del-isbm/?utm_source=rss&utm_medium=rss&utm_campaign=condenan-a-sujeto-que-sustrajo-59-mil-del-isbm",
-        "published_date": "2026-06-05 20:25:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "CHEF of Kalpataru Restaurant, RAFAEL BOLA\u00d1OS MIRANDA RECEIVES THE \u201cCHEF OF THE YEAR 2026\u201d RECOGNITION AWARDED BY The Restaurant Association of El Salvador-ARES",
-        "source": "Cronio",
-        "url": "https://croniosv.com/negocios/chef-de-restaurante-kalpataru-rafael-bolanos-miranda-recibe-el-reconocimiento-chef-del-ano-2026-otorgado-por-la-asociacion-de-restaurantes-de-el-salvador-ares/",
-        "published_date": "2026-06-05 20:04:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court condemns MS-13 gang members who operated in Usulut\u00e1n",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/tribunal-condena-a-pandilleros-de-la-ms-13-que-operaban-en-usulutan/?utm_source=rss&utm_medium=rss&utm_campaign=tribunal-condena-a-pandilleros-de-la-ms-13-que-operaban-en-usulutan",
-        "published_date": "2026-06-05 20:03:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "PHOTOS |Work to remove harrows keeps the old highway to Nejapa blocked",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/fotos-labores-para-retirar-rastra-mantienen-bloqueada-la-carretera-antigua-a-nejapa/",
-        "published_date": "2026-06-05 19:33:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Old highway to Nejapa closed due to removal of harrow that fell into the Tomayate River",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/cerrada-carretera-antigua-a-nejapa-por-retiro-de-rastra-que-cayo-al-rio-tomayate/",
-        "published_date": "2026-06-05 19:15:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "They deliver new houses to 52 families in Acajutla",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/entregan-nuevas-casas-a-52-familias-de-acajutla/?utm_source=rss&utm_medium=rss&utm_campaign=entregan-nuevas-casas-a-52-familias-de-acajutla",
-        "published_date": "2026-06-05 19:01:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Driver of Route 101 is saved after a spectacular accident in Antiguo Cuscatl\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/conductor-de-la-ruta-101-se-salva-tras-aparatoso-accidente-en-antiguo-cuscatlan/",
-        "published_date": "2026-06-05 18:22:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abraham P\u00e9rez, Mexican actor remembered for his participation in La Familia P. Luche, dies",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/jetset/muere-abraham-perez-actor-mexicano-recordado-por-su-participacion-en-la-familia-p-luche/",
-        "published_date": "2026-06-05 17:47:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "US Senate approves $70 billion for Trump's immigration offensive",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/senado-de-estados-unidos-aprueba-70000-millones-de-dolares-para-la-ofensiva-migratoria-de-trump/",
-        "published_date": "2026-06-05 17:33:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two injured and material damage after collision between motorcyclists in Nejapa",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/dos-heridos-y-danos-materiales-tras-colision-de-motociclistas-en-nejapa/?utm_source=rss&utm_medium=rss&utm_campaign=dos-heridos-y-danos-materiales-tras-colision-de-motociclistas-en-nejapa",
-        "published_date": "2026-06-05 17:29:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "82 students with dual nationality from Chalatenango Sur receive their school packages",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/82-alumnos-con-doble-nacionalidad-de-chalatenango-sur-reciben-sus-paquetes-escolares/?utm_source=rss&utm_medium=rss&utm_campaign=82-alumnos-con-doble-nacionalidad-de-chalatenango-sur-reciben-sus-paquetes-escolares",
-        "published_date": "2026-06-05 17:17:08",
         "category": "Local Events"
     }
 ]
