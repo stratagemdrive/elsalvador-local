@@ -1,5 +1,19 @@
 [
     {
+        "title": "New national stadium will be the largest and most modern in Central America",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/nuevo-estadio-nacional-sera-el-mas-grande-y-moderno-de-centroamerica/?utm_source=rss&utm_medium=rss&utm_campaign=nuevo-estadio-nacional-sera-el-mas-grande-y-moderno-de-centroamerica",
+        "published_date": "2026-06-06 21:56:51",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "New National Stadium reaches 50% progress and enters its final stage of construction",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/nuevo-estadio-nacional-alcanza-el-50-de-avance-y-entra-en-su-etapa-final-de-construccion/",
+        "published_date": "2026-06-06 17:11:10",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Salvadoran soldier is injured during attack on UN peacekeeping mission in Lebanon",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/06/soldado-salvadoreno-resulta-herido-durante-ataque-en-mision-de-paz-de-la-onu-en-libano/",
@@ -126,18 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "English in Central America",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ingleses-en-centroamerica-x/",
-        "published_date": "2026-05-30 00:00:12",
-        "category": "Diplomacy"
+        "title": "After the Honduras Gate... what's next...",
+        "source": "Cronio",
+        "url": "https://croniosv.com/opinet/despues-del-honduras-gate-que-es-lo-que-sigue/",
+        "published_date": "2026-06-06 23:41:09",
+        "category": "Military"
     },
     {
-        "title": "Fonat presents road safety strategies to representatives of Uruguay",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/el-fonat-expone-estrategias-de-seguridad-vial-ante-representantes-de-uruguay/",
-        "published_date": "2026-05-29 20:43:45",
-        "category": "Diplomacy"
+        "title": "Captured for attacking his drinking buddy in San Vicente",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturado-por-atacar-con-corvo-a-su-companero-de-copas-en-san-vicente/?utm_source=rss&utm_medium=rss&utm_campaign=capturado-por-atacar-con-corvo-a-su-companero-de-copas-en-san-vicente",
+        "published_date": "2026-06-06 20:47:24",
+        "category": "Military"
+    },
+    {
+        "title": "19-year-old captured for illegal possession of a firearm",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/capturan-a-joven-de-19-anos-por-portacion-ilegal-de-arma-de-fuego/",
+        "published_date": "2026-06-06 17:59:00",
+        "category": "Military"
+    },
+    {
+        "title": "Young man captured in possession of an illegal weapon",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-joven-en-posesion-de-un-arma-ilegal/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-joven-en-posesion-de-un-arma-ilegal",
+        "published_date": "2026-06-06 14:54:56",
+        "category": "Military"
     },
     {
         "title": "An alleged MS-13 gang member who remained evading justice is captured in Quezaltepeque",
@@ -252,34 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "They dismantle a family drug dealing network that operated in Moraz\u00e1n and La Uni\u00f3n",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/desarticulan-red-familiar-de-narcomenudeo-que-operaba-en-morazan-y-la-union/?utm_source=rss&utm_medium=rss&utm_campaign=desarticulan-red-familiar-de-narcomenudeo-que-operaba-en-morazan-y-la-union",
-        "published_date": "2026-06-04 01:12:49",
-        "category": "Military"
-    },
-    {
-        "title": "The Police locate and capture alias \u201cChiky\u201d in Sonsonate",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/la-policia-localiza-y-captura-a-alias-chiky-en-sonsonate/?utm_source=rss&utm_medium=rss&utm_campaign=la-policia-localiza-y-captura-a-alias-chiky-en-sonsonate",
-        "published_date": "2026-06-04 01:01:06",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a Poserz 13 gang member, deported from the United States",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/capturan-a-pandillero-de-poserz-13-deportado-desde-estados-unidos/",
-        "published_date": "2026-06-03 23:57:29",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a woman accused of generating child sexual exploitation material in San Miguel",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/capturan-a-mujer-acusada-de-generar-material-de-explotacion-sexual-infantil-en-san-miguel/",
-        "published_date": "2026-06-03 23:03:58",
-        "category": "Military"
-    },
-    {
         "title": "Cuba denies the US Secretary of State about oil acquisition",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/cuba-desmiente-al-secretario-de-estado-de-eeuu-sobre-adquisicion-de-petroleo/",
@@ -343,157 +343,143 @@
         "category": "Economy"
     },
     {
-        "title": "Deputies agree to reinforce the National Markets Directorate with $2.5 million",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/diputados-acuerdan-reforzar-con-2-5-millones-a-la-direccion-de-mercados-nacionales/",
-        "published_date": "2026-05-29 23:27:53",
-        "category": "Economy"
-    },
-    {
-        "title": "El Salvador promotes a new era of digital finance in LA",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/el-salvador-impulsa-nueva-era-de-finanzas-digitales-en-al/",
-        "published_date": "2026-05-29 21:18:03",
-        "category": "Economy"
-    },
-    {
-        "title": "Ecological Walk demands repealing metal mining and taking care of the common home",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/caminata-ecologica-exige-derogar-la-mineria-metalica-y-cuidar-la-casa-comun/",
-        "published_date": "2026-06-06 11:06:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Medical College urges to prioritize national talent",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/colegio-medico-insta-a-priorizar-talento-nacional/",
-        "published_date": "2026-06-06 11:05:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Will Salgado will seek candidacy for deputy for San Miguel",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/will-salgado-buscara-candidatura-a-diputado-por-san-miguel/",
-        "published_date": "2026-06-06 11:04:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ondina Ramos and Alejandro N\u00f3chez seek ARENA candidacy for San Salvador Centro",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ondina-ramos-y-alejandro-nochez-buscan-candidatura-de-arena-para-san-salvador-centro/",
-        "published_date": "2026-06-06 11:03:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "GOES asks the Assembly to approve $9.6 million in loan to finance solar plant",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/goes-pide-a-asamblea-aprobar-9-6-millones-en-prestamo-para-financiar-planta-solar/",
-        "published_date": "2026-06-06 11:02:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador Prosecutor's Office presents allegations against 486 MS-13 leaders",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fiscalia-el-salvador-presenta-alegatos-contra-486-cabecillas-ms-13/",
-        "published_date": "2026-06-06 11:01:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "US warships fleeing Oman Sea, Iranian navy says",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/buques-de-guerra-estadounidenses-huyen-del-mar-de-oman-dice-la-armada-irani/",
-        "published_date": "2026-06-06 10:59:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Selecta Femenina shines in front of its fans and ties with Costa Rica in Las Delicias",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/la-selecta-femenina-brilla-ante-su-aficion-y-empata-con-costa-rica-en-las-delicias/",
-        "published_date": "2026-06-06 08:49:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Strong argument between sisters ends with the death of one of them",
+        "title": "Los Angeles stadium workers authorize a possible strike at the World Cup",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/fuerte-discusion-entre-hermanas-termina-con-la-muerte-de-una-de-ellas/",
-        "published_date": "2026-06-06 01:18:12",
+        "url": "https://croniosv.com/internacionales/trabajadores-del-estadio-de-los-angeles-autorizan-una-posible-huelga-en-el-mundial/",
+        "published_date": "2026-06-06 23:16:12",
         "category": "Local Events"
     },
     {
-        "title": "Three motorcyclists injured after a serious accident on the Pan-American Highway",
+        "title": "China highlights the new stadium as a symbol of friendship and cooperation with El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/china-destaca-el-nuevo-estadio-como-un-simbolo-de-amistad-y-cooperacion-con-el-salvador/",
+        "published_date": "2026-06-06 22:26:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "New National Stadium will be the largest and most modern in Central America",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/nuevo-estadio-nacional-sera-el-mas-grande-y-moderno-de-centroamerica/",
+        "published_date": "2026-06-06 21:56:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "They arrest a subject who after an argument attacked another man with a corvo in San Vicente Norte",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/tres-motociclistas-lesionados-tras-fuerte-accidente-en-carretera-panamericana/",
-        "published_date": "2026-06-06 01:15:56",
+        "url": "https://croniosv.com/nacionales/arrestan-a-sujeto-que-tras-discusion-ataco-a-otro-hombre-con-un-corvo-en-san-vicente-norte/",
+        "published_date": "2026-06-06 21:47:49",
         "category": "Local Events"
     },
     {
-        "title": "Video shows how a man was saved from dying by electrocution by the quick action of his friend",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/video-muestra-como-un-hombre-fue-salvado-de-morir-electrocutado-por-la-rapida-accion-de-su-amigo/",
-        "published_date": "2026-06-06 01:14:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tito Estevez",
+        "title": "Summary of the first week of June 2026",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/tito-estevez/",
-        "published_date": "2026-06-06 00:15:57",
+        "url": "https://www.diariocolatino.com/resumen-de-la-primera-semana-del-mes-de-junio-de-2026/",
+        "published_date": "2026-06-06 21:41:59",
         "category": "Local Events"
     },
     {
-        "title": "English in Central America XI",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ingleses-en-centroamerica-xi/",
-        "published_date": "2026-06-06 00:13:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "SAPIENTIA",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/sapientia/",
-        "published_date": "2026-06-06 00:10:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "MEMORY OF ALICE LARD\u00c9 OF VENTURINO",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/memoria-de-alice-larde-de-venturino-2/",
-        "published_date": "2026-06-06 00:08:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "CLOSET VIII",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/almario-viii/",
-        "published_date": "2026-06-06 00:04:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Surf City El Salvador Pro 2026 arrived in El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/surf-city-el-salvador-pro-2026-llego-a-el-salvador/",
-        "published_date": "2026-06-05 23:46:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ecological Walk calls to take care of the common home",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/caminata-ecologica-llama-a-cuidar-la-casa-comun/",
-        "published_date": "2026-06-05 22:47:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Repair of main pipe will affect the water supply in several Apopa neighborhoods",
+        "title": "Bakery fined for throwing garbage outside authorized hours",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/reparacion-de-tuberia-principal-afectara-el-suministro-de-agua-en-varias-colonias-de-apopa/?utm_source=rss&utm_medium=rss&utm_campaign=reparacion-de-tuberia-principal-afectara-el-suministro-de-agua-en-varias-colonias-de-apopa",
-        "published_date": "2026-06-05 21:52:25",
+        "url": "https://lapagina.com.sv/nacionales/multan-a-panaderia-por-botar-basura-fuera-de-horario-autorizado/?utm_source=rss&utm_medium=rss&utm_campaign=multan-a-panaderia-por-botar-basura-fuera-de-horario-autorizado",
+        "published_date": "2026-06-06 21:41:06",
         "category": "Local Events"
     },
     {
-        "title": "Video captures moment when driver flees after hitting motorcyclist in Chalchuapa",
+        "title": "VIDEOS |Floods impact several sectors of Santa Ana, including the San Juan de Dios Hospital",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/video-capta-momento-en-que-conductor-huye-tras-arrollar-a-motociclista-en-chalchuapa/",
-        "published_date": "2026-06-05 21:18:45",
+        "url": "https://croniosv.com/nacionales/videos-inundaciones-impactan-varios-sectores-de-santa-ana-incluido-el-hospital-san-juan-de-dios/",
+        "published_date": "2026-06-06 20:43:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "AuronPlay meets Pope Leo XIV while heading to a Bad Bunny concert in Madrid",
+        "source": "Cronio",
+        "url": "https://croniosv.com/redes/virales/auronplay-se-encuentra-con-el-papa-leon-xiv-mientras-se-dirigia-a-un-concierto-de-bad-bunny-en-madrid/",
+        "published_date": "2026-06-06 19:56:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "5-year-old boy dies hit by a truck in Tamanique",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/nino-de-5-anos-muere-atropellado-por-un-camion-en-tamanique/",
+        "published_date": "2026-06-06 19:52:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santa Ana Centro Mayor's Office presents project to reduce flooding in vulnerable areas",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/alcaldia-de-santa-ana-centro-presenta-proyecto-para-reducir-inundaciones-en-zonas-vulnerables/?utm_source=rss&utm_medium=rss&utm_campaign=alcaldia-de-santa-ana-centro-presenta-proyecto-para-reducir-inundaciones-en-zonas-vulnerables",
+        "published_date": "2026-06-06 19:27:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor Gustavo Acevedo announces construction of the first laminar lagoon in Santa Ana Centro",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/alcalde-gustavo-acevedo-anuncia-construccion-de-la-primera-laguna-laminar-de-santa-ana-centro/",
+        "published_date": "2026-06-06 19:21:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Information day on Salvadoran services reaches Houston diaspora",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/jornada-informativa-sobre-servicios-salvadorenos-llega-a-diaspora-de-houston/?utm_source=rss&utm_medium=rss&utm_campaign=jornada-informativa-sobre-servicios-salvadorenos-llega-a-diaspora-de-houston",
+        "published_date": "2026-06-06 17:33:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rains and storms will affect different parts of the country",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/lluvias-y-tormentas-afectaran-distintos-puntos-del-pais/",
+        "published_date": "2026-06-06 17:08:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hondurans seek medical attention at the new Rosales Hospital",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/hondurenos-buscan-atencion-medica-en-el-nuevo-hospital-rosales/",
+        "published_date": "2026-06-06 16:49:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Diver dies after shark attack off the western coast of Australia",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/buceador-fallece-tras-ataque-de-tiburon-en-la-costa-occidental-de-australia/",
+        "published_date": "2026-06-06 16:41:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Florentino P\u00e9rez and Enrique Riquelme dispute Real Madrid's first elections in two decades",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/florentino-perez-y-enrique-riquelme-disputan-las-primeras-elecciones-del-real-madrid-en-dos-decadas/",
+        "published_date": "2026-06-06 16:28:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Civil Protection warns of persistent rains during the coming days",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/proteccion-civil-advierte-sobre-lluvias-persistentes-durante-los-proximos-dias/?utm_source=rss&utm_medium=rss&utm_campaign=proteccion-civil-advierte-sobre-lluvias-persistentes-durante-los-proximos-dias",
+        "published_date": "2026-06-06 15:47:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention!NOTICE issued due to increased rainfall in El Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/atencion-emiten-aviso-por-incremento-de-lluvias-en-el-salvador/",
+        "published_date": "2026-06-06 14:56:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "June continues adding days with zero homicides nationwide",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/junio-continua-sumando-dias-con-cero-homicidios-a-nivel-nacional/",
+        "published_date": "2026-06-06 14:44:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Senate gives Trump a victory by authorizing $70 billion more to finance his immigration offensive",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/el-senado-da-una-victoria-a-trump-al-autorizar-70-000-millones-de-dolares-mas-para-financiar-su-ofensiva-migratoria/",
+        "published_date": "2026-06-06 14:15:36",
         "category": "Local Events"
     }
 ]
