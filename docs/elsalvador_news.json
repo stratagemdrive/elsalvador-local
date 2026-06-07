@@ -126,18 +126,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "El Salvador should not leave the short list due to massive layoffs and persecution in the public sector",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-salvador-no-debe-salir-de-la-lista-corta-por-los-despidos-masivos-y-persecucion-en-el-sector-publico/",
-        "published_date": "2026-05-30 11:04:04",
-        "category": "Diplomacy"
+        "title": "Known thief from La Libertad Costa falls in routine checkpoint",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/cae-reconocido-ladron-de-la-libertad-costa-en-reten-rutinario/?utm_source=rss&utm_medium=rss&utm_campaign=cae-reconocido-ladron-de-la-libertad-costa-en-reten-rutinario",
+        "published_date": "2026-06-07 02:37:08",
+        "category": "Military"
     },
     {
-        "title": "\u201cWe are in mourning\u201d: Somos El Espino denounces environmental damage due to the construction of the new CIFCO",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/estamos-de-luto-somos-el-espino-denuncia-dano-ambiental-por-construccion-del-nuevo-cifco/",
-        "published_date": "2026-05-30 11:02:37",
-        "category": "Diplomacy"
+        "title": "Subject captured for threats with a firearm in Sonsonate",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-sujeto-por-amenazas-con-arma-de-fuego-en-sonsonate/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-sujeto-por-amenazas-con-arma-de-fuego-en-sonsonate",
+        "published_date": "2026-06-07 01:39:08",
+        "category": "Military"
     },
     {
         "title": "After the Honduras Gate... what's next...",
@@ -266,20 +266,6 @@
         "category": "Military"
     },
     {
-        "title": "They order the arrest of a woman accused of sexually assaulting minors and recording pornographic material",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/ordenan-captura-de-mujer-acusada-de-agredir-sexualmente-a-menores-de-edad-y-grabar-material-pornografico/",
-        "published_date": "2026-06-04 16:33:59",
-        "category": "Military"
-    },
-    {
-        "title": "June adds three consecutive days with zero homicides in El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/junio-suma-tres-dias-consecutivos-con-cero-homicidios-en-el-salvador/",
-        "published_date": "2026-06-04 15:37:25",
-        "category": "Military"
-    },
-    {
         "title": "Cuba denies the US Secretary of State about oil acquisition",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/cuba-desmiente-al-secretario-de-estado-de-eeuu-sobre-adquisicion-de-petroleo/",
@@ -341,6 +327,20 @@
         "url": "https://lapagina.com.sv/nacionales/fsv-supera-los-1135-millones-en-inversion-durante-gobierno-del-presidente-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=fsv-supera-los-1135-millones-en-inversion-durante-gobierno-del-presidente-bukele",
         "published_date": "2026-06-01 17:54:56",
         "category": "Economy"
+    },
+    {
+        "title": "They set a ceiling on the price of potatoes after detecting unjustified increases",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/fijan-tope-a-precio-de-la-papa-tras-detectar-aumentos-injustificados/?utm_source=rss&utm_medium=rss&utm_campaign=fijan-tope-a-precio-de-la-papa-tras-detectar-aumentos-injustificados",
+        "published_date": "2026-06-07 01:17:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Photographs reveal that Ruth Eleonora L\u00f3pez was never \"incommunicado\"",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/fotografias-revelan-que-ruth-eleonora-lopez-nunca-estuvo-incomunicada/?utm_source=rss&utm_medium=rss&utm_campaign=fotografias-revelan-que-ruth-eleonora-lopez-nunca-estuvo-incomunicada",
+        "published_date": "2026-06-07 00:18:10",
+        "category": "Local Events"
     },
     {
         "title": "Los Angeles stadium workers authorize a possible strike at the World Cup",
@@ -466,20 +466,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/06/atencion-emiten-aviso-por-incremento-de-lluvias-en-el-salvador/",
         "published_date": "2026-06-06 14:56:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "June continues adding days with zero homicides nationwide",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/junio-continua-sumando-dias-con-cero-homicidios-a-nivel-nacional/",
-        "published_date": "2026-06-06 14:44:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Senate gives Trump a victory by authorizing $70 billion more to finance his immigration offensive",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/el-senado-da-una-victoria-a-trump-al-autorizar-70-000-millones-de-dolares-mas-para-financiar-su-ofensiva-migratoria/",
-        "published_date": "2026-06-06 14:15:36",
         "category": "Local Events"
     }
 ]
