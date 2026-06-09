@@ -1,5 +1,26 @@
 [
     {
+        "title": "Take note: Foreign Ministry announces deadlines to apply for scholarships abroad",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/tome-nota-cancilleria-anuncia-fechas-limites-para-aplicar-a-becas-en-el-exterior/",
+        "published_date": "2026-06-08 20:54:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "El Salvador promotes the Brotherhood of Flowers and Palms of Panchimalco in Japan",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-promueve-en-japon-la-cofradia-de-las-flores-y-las-palmas-de-panchimalco/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-promueve-en-japon-la-cofradia-de-las-flores-y-las-palmas-de-panchimalco",
+        "published_date": "2026-06-08 20:54:20",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Man is injured after the roof of a house collapses in Santiago Nonualco",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/hombre-resulta-lesionado-tras-colapsar-techo-de-vivienda-en-santiago-nonualco/",
+        "published_date": "2026-06-08 20:28:59",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Independent union organizations question the CSA's support for the Salvadoran government and demand a statement from affiliated centers",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/organizaciones-sindicales-independientes-cuestionan-respaldo-de-la-csa-al-gobierno-salvadoreno-y-exigen-pronunciamiento-de-centrales-afiliadas/",
@@ -119,25 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Iran conditions agreement with the United States on ceasefire in Lebanon",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/iran-condiciona-acuerdo-con-estados-unidos-a-alto-el-fuego-en-libano/",
-        "published_date": "2026-06-02 00:13:13",
-        "category": "Diplomacy"
+        "title": "They arrest a woman who tried to bring a TV into prison so that her son and husband could watch the World Cup",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/detienen-a-mujer-que-intento-ingresar-una-tv-a-la-carcel-para-que-su-hijo-y-marido-vieran-el-mundial/",
+        "published_date": "2026-06-08 21:17:22",
+        "category": "Military"
     },
     {
-        "title": "Four people are captured for public disorder after an altercation in Santiago Nonualco",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/capturan-a-cuatro-personas-por-desordenes-publicos-tras-altercado-en-santiago-nonualco/",
-        "published_date": "2026-06-01 16:02:16",
-        "category": "Diplomacy"
+        "title": "The strong waves cause preventive evacuation in Acajutla",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-fuerte-oleaje-provoca-evacuacion-preventiva-en-acajutla/",
+        "published_date": "2026-06-08 21:12:05",
+        "category": "Military"
     },
     {
-        "title": "BRP demands freedom of veterans and communicator detained for 2 years",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/brp-exige-libertad-de-veteranos-y-comunicador-detenidos-desde-hace-2-anos/",
-        "published_date": "2026-06-01 11:04:31",
-        "category": "Diplomacy"
+        "title": "Motorcyclist arrested with marijuana will remain in prison",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/seguira-preso-motociclista-detenido-con-marihuana/",
+        "published_date": "2026-06-08 18:18:35",
+        "category": "Military"
+    },
+    {
+        "title": "Two gang members wanted by Salvadoran justice are captured in Guatemala",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-en-guatemala-a-dos-miembros-de-pandillas-requeridos-por-la-justicia-salvadorena/",
+        "published_date": "2026-06-08 17:22:38",
+        "category": "Military"
     },
     {
         "title": "Iran announces the \"cessation\" of attacks against Israel after Donald Trump's call",
@@ -252,32 +280,18 @@
         "category": "Military"
     },
     {
-        "title": "An alleged MS-13 gang member who remained evading justice is captured in Quezaltepeque",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/capturan-en-quezaltepeque-a-presunto-pandillero-de-la-ms-13-que-permanecia-evadiendo-a-la-justicia/",
-        "published_date": "2026-06-05 20:41:14",
-        "category": "Military"
+        "title": "Fuel prices will remain the same for the next fortnight",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/precios-de-combustibles-se-mantendran-para-la-proxima-quincena-2/",
+        "published_date": "2026-06-08 21:52:56",
+        "category": "Energy"
     },
     {
-        "title": "Emerging risks test the resilience of the food and beverage industry in the region",
+        "title": "These are the new fuel prices in El Salvador",
         "source": "Cronio",
-        "url": "https://croniosv.com/negocios/riesgos-emergentes-ponen-a-prueba-la-resiliencia-de-la-industria-de-alimentos-y-bebidas-en-la-region/",
-        "published_date": "2026-06-05 19:45:21",
-        "category": "Military"
-    },
-    {
-        "title": "Armed Forces locate and hand over MS gang members in Quezaltepeque to the authorities",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/fuerza-armada-ubica-y-entrega-a-las-autoridades-a-pandilleros-de-la-ms-en-quezaltepeque/?utm_source=rss&utm_medium=rss&utm_campaign=fuerza-armada-ubica-y-entrega-a-las-autoridades-a-pandilleros-de-la-ms-en-quezaltepeque",
-        "published_date": "2026-06-05 18:26:53",
-        "category": "Military"
-    },
-    {
-        "title": "PNC deploys security operation during student parades in various parts of the country",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/pnc-despliega-operativo-de-seguridad-durante-desfiles-estudiantiles-en-varios-puntos-del-pais/",
-        "published_date": "2026-06-05 17:55:21",
-        "category": "Military"
+        "url": "https://croniosv.com/nacionales/economia/estos-son-los-nuevos-precios-de-los-combustibles-en-el-salvador-2/",
+        "published_date": "2026-06-08 17:10:39",
+        "category": "Energy"
     },
     {
         "title": "Cuba denies the US Secretary of State about oil acquisition",
@@ -343,143 +357,143 @@
         "category": "Economy"
     },
     {
-        "title": "Rain and storms are forecast for this Monday",
+        "title": "Ministry of Education suspends in-person classes due to the arrival of Tropical Storm Cristina",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/ministerio-de-educacion-suspende-clases-presenciales-por-llegada-de-la-tormenta-tropical-cristina/",
+        "published_date": "2026-06-08 23:45:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "In-person classes suspended throughout the country due to tropical storm Cristina",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/pronostican-lluvias-y-tormentas-para-este-lunes/?utm_source=rss&utm_medium=rss&utm_campaign=pronostican-lluvias-y-tormentas-para-este-lunes",
-        "published_date": "2026-06-08 14:47:41",
+        "url": "https://lapagina.com.sv/nacionales/suspenden-clases-presenciales-en-todo-el-pais-por-tormenta-tropical-cristina/?utm_source=rss&utm_medium=rss&utm_campaign=suspenden-clases-presenciales-en-todo-el-pais-por-tormenta-tropical-cristina",
+        "published_date": "2026-06-08 23:35:31",
         "category": "Local Events"
     },
     {
-        "title": "Route 19 minibus driver saves life of young passenger",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/motorista-de-microbus-de-ruta-19-salva-vida-a-joven-pasajero/",
-        "published_date": "2026-06-08 14:42:47",
+        "title": "Francisco Lira announces his pre-candidacy in ARENA for re-election in the Assembly",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/francisco-lira-anuncia-su-precandidatura-en-arena-para-reeleccion-en-asamblea/",
+        "published_date": "2026-06-08 23:16:23",
         "category": "Local Events"
     },
     {
-        "title": "Rains and storms due to the influence of low pressure and ITCZ",
+        "title": "Mayor's Office of San Salvador Centro activates emergency teams due to rain alert",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/alcaldia-de-san-salvador-centro-activa-equipos-de-emergencia-ante-alerta-por-lluvias/",
+        "published_date": "2026-06-08 22:39:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Civil Protection guarantees ready shelters throughout the national territory",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/lluvias-y-tormentas-por-influencia-de-baja-presion-y-zcit/",
-        "published_date": "2026-06-08 14:35:58",
+        "url": "https://diariolahuella.com/proteccion-civil-garantiza-albergues-listos-en-todo-el-territorio-nacional/",
+        "published_date": "2026-06-08 22:31:46",
         "category": "Local Events"
     },
     {
-        "title": "Rains and storms will continue this day in various areas of El Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/lluvias-y-tormentas-continuaran-este-dia-en-diversas-zonas-de-el-salvador/",
-        "published_date": "2026-06-08 14:07:16",
+        "title": "More than a million faithful attend the Pope's mass in Madrid",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/mas-de-un-millon-de-fieles-acuden-a-misa-del-papa-en-madrid/",
+        "published_date": "2026-06-08 22:27:11",
         "category": "Local Events"
     },
     {
-        "title": "Post-truth and manipulation on display",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/posverdad-y-manipulacion-a-la-vista/",
-        "published_date": "2026-06-08 12:30:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Karina Sosa questions absence of accountability and points out outstanding health debts",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/karina-sosa-cuestiona-ausencia-de-rendicion-de-cuentas-y-senala-deudas-pendientes-en-salud/",
-        "published_date": "2026-06-08 11:04:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Critical Thinking points to deterioration of the rule of law during Bukele's 7 years in office",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/pensamiento-critico-senalan-deterioro-del-estado-de-derecho-durante-los-7-anos-de-gestion-de-bukele/",
-        "published_date": "2026-06-08 11:03:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador: Headquarters of the 18th Circle of Wise Grandmothers and Grandfathers of the Planet",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-salvador-sede-del-18o-circulo-de-abuelas-y-abuelos-sabios-del-planeta/",
-        "published_date": "2026-06-08 11:01:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u00c1ngel Flores participates in France in the Forum of Environmental Human Rights Defenders",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/angel-flores-participa-en-francia-en-foro-de-defensores-de-derechos-humanos-ambientales/",
-        "published_date": "2026-06-08 11:01:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Leonel Herrera: destruction of El Espino shows that the Government does not care about the environment",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/leonel-herrera-destruccion-de-el-espino-demuestra-que-al-gobierno-no-le-importa-el-medio-ambiente/",
-        "published_date": "2026-06-08 11:00:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "The advance campaign initiated by the government",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-campana-adelantada-iniciada-por-el-gobierno/",
-        "published_date": "2026-06-08 10:59:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Honduran journalist dies after being swept away by a sea current on El Zonte beach",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/periodista-hondureno-fallece-tras-ser-arrastrado-por-una-corriente-marina-en-playa-el-zonte/",
-        "published_date": "2026-06-08 00:32:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Peru begins closure of voting centers in second electoral round",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/peru-inicia-cierre-de-centros-de-votacion-en-segunda-vuelta-electoral/",
-        "published_date": "2026-06-08 00:08:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump asks Iran to stop missile attacks against Israel, says he will ask Israeli premier not to retaliate",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/trump-pide-a-iran-detener-ataques-con-misiles-contra-israel-afirma-que-pedira-a-premier-israeli-no-contraatacar/",
-        "published_date": "2026-06-08 00:04:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Civil Protection decrees Green Alert due to low pressure with the potential to become a tropical cyclone",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/proteccion-civil-decreta-alerta-verde-por-baja-presion-con-potencial-de-convertirse-en-ciclon-tropical/",
-        "published_date": "2026-06-07 23:37:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rains flood the pediatric emergency area of \u200b\u200bthe San Juan de Dios Hospital in Santa Ana",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/lluvias-inundan-area-de-emergencia-pediatrica-del-hospital-san-juan-de-dios-de-santa-ana/",
-        "published_date": "2026-06-07 23:10:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "First results in Peru give a slight advantage to Keiko Fujimori",
+        "title": "Civil Protection keeps 180 shelters ready for risk situations",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/primeros-resultados-en-peru-dan-ventaja-a-keiko-fujimori/?utm_source=rss&utm_medium=rss&utm_campaign=primeros-resultados-en-peru-dan-ventaja-a-keiko-fujimori",
-        "published_date": "2026-06-07 23:00:03",
+        "url": "https://lapagina.com.sv/nacionales/proteccion-civil-mantiene-listos-180-albergues-para-situaciones-de-riesgo/?utm_source=rss&utm_medium=rss&utm_campaign=proteccion-civil-mantiene-listos-180-albergues-para-situaciones-de-riesgo",
+        "published_date": "2026-06-08 22:24:45",
         "category": "Local Events"
     },
     {
-        "title": "NOT EVERY FILTRATION IS FREEDOM OF EXPRESSION",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/no-toda-filtracion-es-libertad-de-expresion/",
-        "published_date": "2026-06-07 22:23:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Civil Protection issues green alert due to possible cyclone formation and increased rainfall",
+        "title": "Final arguments continue in mass trial against 485 MS leaders",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/proteccion-civil-emite-alerta-verde-por-posible-formacion-de-ciclon-y-aumento-de-lluvias/?utm_source=rss&utm_medium=rss&utm_campaign=proteccion-civil-emite-alerta-verde-por-posible-formacion-de-ciclon-y-aumento-de-lluvias",
-        "published_date": "2026-06-07 22:17:32",
+        "url": "https://lapagina.com.sv/nacionales/continuan-alegatos-finales-en-juicio-masivo-contra-485-cabecillas-de-la-ms/?utm_source=rss&utm_medium=rss&utm_campaign=continuan-alegatos-finales-en-juicio-masivo-contra-485-cabecillas-de-la-ms",
+        "published_date": "2026-06-08 21:57:37",
         "category": "Local Events"
     },
     {
-        "title": "Trump asks Iran to stop missile attacks against Israel and return to negotiations",
+        "title": "Destroying El Espino, Bukele confirms electoral fraud",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/trump-pide-a-iran-detener-ataques-con-misiles-contra-israel-y-regresar-a-negociaciones/",
-        "published_date": "2026-06-07 21:14:12",
+        "url": "https://www.diariocolatino.com/destruyendo-el-espino-bukele-confirma-el-fraude-electoral/",
+        "published_date": "2026-06-08 21:56:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "FGR requests an exemplary sentence for the 485 leaders of the MS accused of thousands of homicides",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/fgr-pide-condena-ejemplar-para-los-485-cabecillas-de-la-ms-acusados-de-miles-de-homicidios/",
+        "published_date": "2026-06-08 21:53:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "They lead coordination with the ICRC to strengthen care for migrants and displaced people in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/encabezan-coordinacion-con-el-cicr-para-fortalecer-la-atencion-a-migrantes-y-personas-desplazadas-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=encabezan-coordinacion-con-el-cicr-para-fortalecer-la-atencion-a-migrantes-y-personas-desplazadas-en-el-salvador",
+        "published_date": "2026-06-08 21:45:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "The ICRC and the Government strengthen coordination to care for migrants and displaced people in El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-cicr-y-el-gobierno-fortalecen-coordinacion-para-atencion-a-migrantes-y-personas-desplazadas-en-el-salvador/",
+        "published_date": "2026-06-08 21:41:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador in the focus of investors",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/el-salvador-en-el-foco-de-los-inversionistas/",
+        "published_date": "2026-06-08 21:39:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pope Leo XIV meets with diocesan community at the \u201cSantiago Bernab\u00e9u\u201d",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/papa-leon-xiv-se-reune-con-comunidad-diocesana-en-el-santiago-bernabeu/",
+        "published_date": "2026-06-08 21:29:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Civil Protection has 180 shelters due to increased rainfall in the country",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/proteccion-civil-dispone-de-180-albergues-ante-incremento-de-lluvias-en-el-pais/",
+        "published_date": "2026-06-08 21:24:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador in the focus of investors",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/el-salvador-en-el-foco-de-los-inversionistas/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-en-el-foco-de-los-inversionistas",
+        "published_date": "2026-06-08 21:16:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador receives the world's surfing elite in Punta Roca",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/el-salvador-recibe-a-la-elite-mundial-del-surf-en-punta-roca/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-recibe-a-la-elite-mundial-del-surf-en-punta-roca",
+        "published_date": "2026-06-08 21:15:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador continues to receive the world's surfing elite",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-continua-recibiendo-a-la-elite-mundial-del-surf/",
+        "published_date": "2026-06-08 21:14:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "San Salvador Oeste enables preventive shelter in the face of the threat of tropical storm Cristina",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/san-salvador-oeste-habilita-albergue-preventivo-ante-amenaza-de-la-tormenta-tropical-cristina/",
+        "published_date": "2026-06-08 20:57:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Orange alert issued due to the influence of Tropical Storm Cristina",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/emiten-alerta-naranja-por-influencia-de-tormenta-tropical-cristina/",
+        "published_date": "2026-06-08 20:51:28",
         "category": "Local Events"
     }
 ]
