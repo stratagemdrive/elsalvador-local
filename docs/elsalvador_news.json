@@ -140,6 +140,34 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Gang members controlled security cameras from prison in Guatemala",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/pandilleros-controlaban-camaras-de-seguridad-desde-la-carcel-en-guatemala/",
+        "published_date": "2026-06-11 14:16:23",
+        "category": "Military"
+    },
+    {
+        "title": "Enrique Anaya: printed thought, a year in prison",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/enrique-anaya-pensamiento-impreso-un-ano-en-prision/",
+        "published_date": "2026-06-11 10:59:11",
+        "category": "Military"
+    },
+    {
+        "title": "After a complaint on social networks, two alleged gang members are captured in Soyapango",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/tras-denuncia-en-redes-sociales-capturan-a-dos-presuntos-pandilleros-en-soyapango/",
+        "published_date": "2026-06-11 04:31:25",
+        "category": "Military"
+    },
+    {
+        "title": "Two alleged gang members are captured in Soyapango after a complaint spread on social networks",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/capturan-a-dos-presuntos-pandilleros-en-soyapango-tras-denuncia-difundida-en-redes-sociales/",
+        "published_date": "2026-06-11 02:02:00",
+        "category": "Military"
+    },
+    {
         "title": "Iran announces total closure of the Strait of Hormuz",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/iran-anuncia-el-cierre-total-del-estrecho-de-ormuz/",
@@ -252,32 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Two gang members wanted by Salvadoran justice are captured in Guatemala",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-en-guatemala-a-dos-miembros-de-pandillas-requeridos-por-la-justicia-salvadorena/",
-        "published_date": "2026-06-08 17:22:38",
-        "category": "Military"
-    },
-    {
-        "title": "Iran announces the \"cessation\" of attacks against Israel after Donald Trump's call",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/iran-anuncia-el-cese-de-los-ataques-contra-israel-tras-llamamiento-de-donald-trump/",
-        "published_date": "2026-06-08 14:28:38",
-        "category": "Military"
-    },
-    {
-        "title": "June continues adding days with zero homicides nationwide",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/junio-continua-sumando-dias-con-cero-homicidios-a-nivel-nacional/",
-        "published_date": "2026-06-08 14:14:23",
-        "category": "Military"
-    },
-    {
-        "title": "Citizen complaint allows the capture of a gang member in San Miguel",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/denuncia-ciudadana-permite-la-captura-de-un-pandillero-en-san-miguel/",
-        "published_date": "2026-06-08 13:44:48",
-        "category": "Military"
+        "title": "Assembly approves $9.6 million loan for solar power plant",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/asamblea-aprueba-prestamo-de-9-6-millones-para-planta-de-energia-solar/",
+        "published_date": "2026-06-11 11:01:15",
+        "category": "Energy"
     },
     {
         "title": "The IAEA demands more information from Iran about its uranium reserves",
@@ -322,6 +329,13 @@
         "category": "Energy"
     },
     {
+        "title": "Leo XIV in Barcelona exposing the verticality of forgiveness",
+        "source": "Cronio",
+        "url": "https://croniosv.com/opinet/leon-xiv-en-barcelona-exponiendo-la-verticalidad-del-perdon/",
+        "published_date": "2026-06-11 01:49:13",
+        "category": "Economy"
+    },
+    {
         "title": "\u00d3scar Cabrera questions the supposed \u201ceconomic miracle\u201d and warns of risks for the Salvadoran economy",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/oscar-cabrera-cuestiona-el-supuesto-milagro-economico-y-advierte-riesgos-para-la-economia-salvadorena/",
@@ -364,11 +378,130 @@
         "category": "Economy"
     },
     {
-        "title": "Assembly will exempt from taxes the donation of medicines for public hospitals",
+        "title": "Temporary rains and storms will continue in the country",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/continuaran-las-lluvias-y-tormentas-tipo-temporal-en-el-pais/",
+        "published_date": "2026-06-11 14:05:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "They carry out cleaning tasks in drains and gutters of San Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/ejecutan-labores-de-limpieza-en-tragantes-y-cunetas-de-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=ejecutan-labores-de-limpieza-en-tragantes-y-cunetas-de-san-salvador",
+        "published_date": "2026-06-11 13:55:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Temporary rains and storms will continue in the country",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/continuaran-las-lluvias-y-tormentas-tipo-temporal-en-el-pais/",
+        "published_date": "2026-06-11 13:54:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Franklin Mart\u00ednez warns of wear and tear of the ruling party and poses challenges towards 2027",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/asamblea-exonerara-de-impuestos-a-donativo-de-medicinas-para-hospitales-publicos/",
-        "published_date": "2026-06-03 11:02:44",
-        "category": "Economy"
+        "url": "https://www.diariocolatino.com/franklin-martinez-advierte-desgaste-del-oficialismo-y-plantea-retos-rumbo-a-2027/",
+        "published_date": "2026-06-11 11:05:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Organizations demand freedom of the veterans of the National Alliance El Salvador in Peace",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/organizaciones-exigen-libertad-de-los-veteranos-de-la-alianza-nacional-el-salvador-en-paz/",
+        "published_date": "2026-06-11 11:03:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Medical College requests protection measures for health personnel in the face of storm Cristina",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/colegio-medico-pide-medidas-de-proteccion-para-personal-sanitario-ante-tormenta-cristina/",
+        "published_date": "2026-06-11 11:02:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "UES groups ask for a critical stance before F\u00e9lix Ulloa's visit",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/colectivos-de-la-ues-piden-postura-critica-ante-visita-de-felix-ulloa/",
+        "published_date": "2026-06-11 11:00:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro asks Trump not to intervene in the Colombian elections",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/petro-pide-a-trump-no-intervenir-en-las-elecciones-de-colombia/",
+        "published_date": "2026-06-11 10:58:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe backyard\u201d: IN RESISTANCE",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-patio-trasero-en-resistencia/",
+        "published_date": "2026-06-11 10:57:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mexico ready for the opening match of the World Cup against South Africa this Thursday",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/mexico-listo-para-el-partido-inaugural-del-mundial-contra-sudafrica-este-jueves/",
+        "published_date": "2026-06-11 07:00:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today the 2026 FIFA World Cup begins with the participation of 48 teams",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/hoy-inicia-el-mundial-de-futbol-fifa-2026-con-participacion-de-48-selecciones/",
+        "published_date": "2026-06-11 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government and Fe y Alegr\u00eda join forces in favor of returned people",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/gobierno-y-fe-y-alegria-unen-esfuerzos-en-favor-de-personas-retornadas/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-y-fe-y-alegria-unen-esfuerzos-en-favor-de-personas-retornadas",
+        "published_date": "2026-06-11 02:16:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "They strengthen alliances to support people in human mobility",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/fortalecen-alianzas-para-apoyar-a-personas-en-movilidad-humana/?utm_source=rss&utm_medium=rss&utm_campaign=fortalecen-alianzas-para-apoyar-a-personas-en-movilidad-humana",
+        "published_date": "2026-06-11 01:56:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court of Accounts promotes its modernization with new technological equipment",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/corte-de-cuentas-impulsa-su-modernizacion-con-nuevo-equipo-tecnologico/?utm_source=rss&utm_medium=rss&utm_campaign=corte-de-cuentas-impulsa-su-modernizacion-con-nuevo-equipo-tecnologico",
+        "published_date": "2026-06-11 01:47:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador supports the election of the new Secretary General of SICA",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/el-salvador-respalda-la-eleccion-del-nuevo-secretario-general-del-sica/",
+        "published_date": "2026-06-11 01:38:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "LOTRA dedicates its 454th draw to the INDES National Student Sports Games",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/economia/lotra-dedica-su-sorteo-454-a-los-juegos-deportivos-estudiantiles-nacionales-de-indes/",
+        "published_date": "2026-06-11 01:19:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ministry of Education extends suspension of in-person classes due to weather conditions",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/ministerio-de-educacion-extiende-suspension-de-clases-presenciales-por-condiciones-climaticas/",
+        "published_date": "2026-06-11 00:44:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "The competition at the Surf City El Salvador Pro, on Punta Roca beach, continued this Wednesday with tickets for the quarterfinals",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/nacionales-deportes/la-competencia-en-el-surf-city-el-salvador-pro-en-playa-punta-roca-continuo-este-miercoles-con-los-boletos-para-los-cuartos-de-final/",
+        "published_date": "2026-06-11 00:33:00",
+        "category": "Local Events"
     },
     {
         "title": "According to the NHC, Cristina is downgraded to a tropical depression off the coast of Central America",
@@ -382,132 +515,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/sucesos/capturan-en-guatemala-a-salvadoreno-acusado-de-robo-de-joyas-valoradas-en-mas-de-78000/",
         "published_date": "2026-06-10 23:59:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jail for subject who raped his partner and induced her to commit suicide",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/carcel-para-sujeto-que-violo-a-su-pareja-y-la-indujo-al-suicidio/",
-        "published_date": "2026-06-10 23:54:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "In-person classes are suspended again due to tropical depression Cristina",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/suspenden-nuevamente-las-clases-presenciales-por-la-depresion-tropical-cristina/",
-        "published_date": "2026-06-10 23:52:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government extends suspension of classes due to weather conditions",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gobierno-extiende-suspension-de-clases-por-condiciones-climaticas/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-extiende-suspension-de-clases-por-condiciones-climaticas",
-        "published_date": "2026-06-10 23:43:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador reaffirms its commitment to regional integration",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-reafirma-su-compromiso-con-la-integracion-regional/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-reafirma-su-compromiso-con-la-integracion-regional",
-        "published_date": "2026-06-10 22:35:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador supports election of the new general secretary of SICA",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-respalda-eleccion-de-la-nueva-secretaria-general-del-sica/",
-        "published_date": "2026-06-10 22:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "SICA begins a new stage with the election of its General Secretary for 2026-2030",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/sica-inicia-nueva-etapa-con-la-eleccion-de-su-secretaria-general-para-2026-2030/?utm_source=rss&utm_medium=rss&utm_campaign=sica-inicia-nueva-etapa-con-la-eleccion-de-su-secretaria-general-para-2026-2030",
-        "published_date": "2026-06-10 22:25:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elderly adult is taken to the hospital after being bitten by a rattlesnake in Nejapa",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/adulto-mayor-es-trasladado-al-hospital-tras-ser-mordido-por-una-serpiente-cascabel-en-nejapa/",
-        "published_date": "2026-06-10 22:12:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor's Office of San Salvador Centro notifies owners of abandoned vehicles in Ayutuxtepeque",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/alcaldia-de-san-salvador-centro-notifica-a-propietarios-de-vehiculos-abandonados-en-ayutuxtepeque/",
-        "published_date": "2026-06-10 22:04:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "10 years in prison for subject who had an illegal weapon in his possession",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/10-anos-de-prision-para-sujeto-que-tenia-un-arma-ilegal-en-su-poder/?utm_source=rss&utm_medium=rss&utm_campaign=10-anos-de-prision-para-sujeto-que-tenia-un-arma-ilegal-en-su-poder",
-        "published_date": "2026-06-10 21:46:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Box owners of the Azteca Stadium warn to boycott the 2026 World Cup and join the CNTE if their rights are not respected",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/duenos-de-palcos-del-estadio-azteca-advierten-con-boicotear-el-mundial-2026-y-unirse-a-la-cnte-si-no-respetan-sus-derechos/",
-        "published_date": "2026-06-10 21:41:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Francisco Lira questions the price of potatoes despite measures to stabilize the market",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/francisco-lira-cuestiona-precio-de-la-papa-pese-a-medidas-para-estabilizar-mercado/?utm_source=rss&utm_medium=rss&utm_campaign=francisco-lira-cuestiona-precio-de-la-papa-pese-a-medidas-para-estabilizar-mercado",
-        "published_date": "2026-06-10 21:41:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "CAM operatives put a stop to illegal charging for street parking",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/operativos-del-cam-ponen-freno-al-cobro-ilegal-por-estacionamientos-en-las-calles/?utm_source=rss&utm_medium=rss&utm_campaign=operativos-del-cam-ponen-freno-al-cobro-ilegal-por-estacionamientos-en-las-calles",
-        "published_date": "2026-06-10 21:14:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Death toll from 7.8 magnitude earthquake in the Philippines rises to 46",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/ascienden-a-46-los-fallecidos-por-terremoto-de-magnitud-7-8-en-filipinas/",
-        "published_date": "2026-06-10 20:08:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Francisco Lira questions the price of potatoes despite government measures to stabilize the market",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/francisco-lira-cuestiona-precio-de-la-papa-pese-a-medidas-del-gobierno-para-estabilizar-mercado/",
-        "published_date": "2026-06-10 20:00:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Frank Rubio, the astronaut with Salvadoran roots, joins the Artemis III mission",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/entrega-especial/frank-rubio-el-astronauta-con-raices-salvadorenas-se-une-a-la-mision-artemis-iii/",
-        "published_date": "2026-06-10 19:42:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI never victimized anyone,\u201d says Bill Gates at Epstein case hearing",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/nunca-victimice-a-nadie-dice-bill-gates-en-audiencia-sobre-caso-epstein/",
-        "published_date": "2026-06-10 19:12:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump Government hopes to finish the border wall with Mexico by the end of 2027",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/gobierno-trump-espera-terminar-el-muro-fronterizo-con-mexico-a-finales-de-2027/",
-        "published_date": "2026-06-10 18:56:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dog and rabbit rescued for alleged animal abuse in San Salvador Centro",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/rescatan-a-perro-y-un-conejo-por-presunto-maltrato-animal-en-san-salvador-centro/",
-        "published_date": "2026-06-10 18:23:45",
         "category": "Local Events"
     }
 ]
