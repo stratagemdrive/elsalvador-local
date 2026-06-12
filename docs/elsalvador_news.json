@@ -140,6 +140,48 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Man captured for attempted murder in Berlin, Usulut\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-hombre-por-intento-de-homicidio-en-berlin-usulutan/",
+        "published_date": "2026-06-12 14:07:37",
+        "category": "Military"
+    },
+    {
+        "title": "The country adds another day without homicides, according to the PNC",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/el-pais-suma-otro-dia-sin-homicidios-segun-la-pnc/",
+        "published_date": "2026-06-12 13:52:41",
+        "category": "Military"
+    },
+    {
+        "title": "Trump announces that the US will launch a strong attack on Iran and seize its most strategic oil facility",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/trump-anuncia-que-ee-uu-lanzara-un-fuerte-ataque-a-iran-y-se-apoderara-de-su-instalacion-petrolera-mas-estrategica/",
+        "published_date": "2026-06-12 13:31:12",
+        "category": "Military"
+    },
+    {
+        "title": "Complaint on networks discovers toy gun security in San Jacinto",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/denuncia-en-redes-descubre-arma-de-juguete-seguridad-en-san-jacinto/?utm_source=rss&utm_medium=rss&utm_campaign=denuncia-en-redes-descubre-arma-de-juguete-seguridad-en-san-jacinto",
+        "published_date": "2026-06-12 01:11:35",
+        "category": "Military"
+    },
+    {
+        "title": "IT WAS A TOY!Authorities verify complaint in San Jacinto after alert on social networks",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/era-de-juguete-autoridades-verifican-denuncia-en-san-jacinto-tras-alerta-en-redes-sociales/",
+        "published_date": "2026-06-12 01:03:55",
+        "category": "Military"
+    },
+    {
+        "title": "Alleged weapon found in San Jacinto was a toy, authorities report",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/supuesta-arma-hallada-en-san-jacinto-era-un-juguete-informan-autoridades/",
+        "published_date": "2026-06-12 00:24:53",
+        "category": "Military"
+    },
+    {
         "title": "FMLN recognizes progress in security, but questions captures of \u201cinnocents\u201d during the emergency regime",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/fmln-reconoce-avances-en-seguridad-pero-cuestiona-capturas-de-inocentes-durante-el-regimen-de-excepcion/",
@@ -238,48 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Vice President leads meeting with Emirati advanced technology company",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/vicepresidente-encabeza-reunion-con-empresa-emirati-de-tecnologia-avanzada/",
-        "published_date": "2026-06-09 22:42:53",
-        "category": "Military"
-    },
-    {
-        "title": "Strong accident on the Pan-American highway leaves several injured",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/fuerte-accidente-en-carretera-panamericana-deja-varios-lesionados/",
-        "published_date": "2026-06-09 22:31:11",
-        "category": "Military"
-    },
-    {
-        "title": "Multiple accident on the highway leaves one person injured in Rosario de La Paz",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/accidente-multiple-en-la-autopista-deja-una-persona-lesionada-en-rosario-de-la-paz/",
-        "published_date": "2026-06-09 22:22:05",
-        "category": "Military"
-    },
-    {
-        "title": "One injured by gunshot during protests against Ebola quarantine center in Kenya",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/un-herido-de-bala-durante-protestas-contra-centro-de-cuarentena-por-el-ebola-en-kenia/",
-        "published_date": "2026-06-09 18:10:06",
-        "category": "Military"
-    },
-    {
-        "title": "Fallen tree obstructs the road to Cerro Verde and authorities work to enable the passage",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/arbol-caido-obstruye-carretera-al-cerro-verde-y-autoridades-trabajan-para-habilitar-el-paso/",
-        "published_date": "2026-06-09 17:43:06",
-        "category": "Military"
-    },
-    {
-        "title": "Historic trial against the MS: FGR presents allegations for more than 47,400 crimes",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/historico-juicio-contra-la-ms-fgr-presenta-alegatos-por-mas-de-47400-delitos/?utm_source=rss&utm_medium=rss&utm_campaign=historico-juicio-contra-la-ms-fgr-presenta-alegatos-por-mas-de-47400-delitos",
-        "published_date": "2026-06-09 03:52:05",
-        "category": "Military"
-    },
-    {
         "title": "Assembly approves $9.6 million loan for solar power plant",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/asamblea-aprueba-prestamo-de-9-6-millones-para-planta-de-energia-solar/",
@@ -327,6 +327,13 @@
         "url": "https://croniosv.com/nacionales/alejandro-gutman-imparte-masterclass-adn-de-la-pobreza-y-la-cultura-de-integracion-a-los-40000-participantes-en-proceso-formativo/",
         "published_date": "2026-06-06 02:40:39",
         "category": "Energy"
+    },
+    {
+        "title": "They request the unconstitutionality of the decree that transfers part of the El Espino Farm to CIFCO",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/piden-inconstitucionalidad-del-decreto-que-traslada-parte-de-la-finca-el-espino-para-cifco/",
+        "published_date": "2026-06-12 11:00:35",
+        "category": "Economy"
     },
     {
         "title": "Health for the Local: La Constancia and Pilsener celebrate Salvadoran commerce in the year of the 2026 World Cup",
@@ -385,143 +392,143 @@
         "category": "Economy"
     },
     {
-        "title": "This is how the opening of the 2026 World Cup was experienced",
+        "title": "Authorities remove objects that obstructed public roads in San Salvador Este",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/autoridades-retiran-objetos-que-obstruian-la-via-publica-en-san-salvador-este/",
+        "published_date": "2026-06-12 13:56:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rain and storms are expected for the afternoon and evening of this Friday",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/preven-lluvias-y-tormentas-para-la-tarde-y-noche-de-este-viernes/",
+        "published_date": "2026-06-12 13:48:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Taylor Swift becomes the youngest woman to be inducted into the Songwriters Hall of Fame",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/taylor-swift-se-convierte-en-la-mujer-mas-joven-en-entrar-en-el-salon-de-la-fama-de-los-compositores/",
+        "published_date": "2026-06-12 13:46:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "They protect the dog and her puppies after giving birth in the rain in San Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/resguardan-a-perrita-y-sus-cachorros-tras-dar-a-luz-bajo-la-lluvia-en-san-salvador/",
+        "published_date": "2026-06-12 13:24:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister of Education supervises return to classes after suspension due to rain",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/ministra-de-educacion-supervisa-regreso-a-clases-tras-suspension-por-lluvias/",
+        "published_date": "2026-06-12 13:17:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "They celebrate the final acquittal of environmental leaders and demand that the Criminal Chamber eliminate civil conviction",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/asi-se-vivio-la-inauguracion-de-la-copa-del-mundo-2026/",
-        "published_date": "2026-06-12 00:20:11",
+        "url": "https://www.diariocolatino.com/celebran-absolucion-definitiva-de-lideres-ambientalistas-y-exige-a-sala-de-lo-penal-eliminar-condena-civil/",
+        "published_date": "2026-06-12 11:04:33",
         "category": "Local Events"
     },
     {
-        "title": "Ministry of Education announces the return of face-to-face classes nationwide",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/ministerio-de-educacion-anuncia-el-regreso-de-las-clases-presenciales-a-nivel-nacional/",
-        "published_date": "2026-06-12 00:12:32",
+        "title": "Carlos Araujo questions management of the Rosales Hospital, and reiterates that Bukele will not be removed through elections",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/carlos-araujo-cuestiona-gestion-del-hospital-rosales-y-reitera-que-a-bukele-no-se-le-sacara-por-la-via-electoral/",
+        "published_date": "2026-06-12 11:03:50",
         "category": "Local Events"
     },
     {
-        "title": "BREAKING NEWS: In-person classes return this Friday throughout the country",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/ultima-hora-clases-presenciales-regresan-este-viernes-en-todo-pais/?utm_source=rss&utm_medium=rss&utm_campaign=ultima-hora-clases-presenciales-regresan-este-viernes-en-todo-pais",
-        "published_date": "2026-06-12 00:11:01",
+        "title": "MINED reports damage to 124 schools and alerts about 465 centers located in risk areas",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/mined-reporta-danos-en-124-escuelas-y-alerta-sobre-465-centros-ubicados-en-zonas-de-riesgo/",
+        "published_date": "2026-06-12 11:02:18",
         "category": "Local Events"
     },
     {
-        "title": "More than 5,000 schools remain under surveillance due to the rains",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/mas-de-5000-escuelas-permanecen-bajo-vigilancia-por-las-lluvias/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-5000-escuelas-permanecen-bajo-vigilancia-por-las-lluvias",
-        "published_date": "2026-06-11 23:13:45",
+        "title": "PRO-VIDA installs nomenclature in Nahuat to revitalize the indigenous language",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/pro-vida-instala-nomenclatura-en-nahuat-para-revitalizar-la-lengua-indigena/",
+        "published_date": "2026-06-12 11:01:48",
         "category": "Local Events"
     },
     {
-        "title": "Two new shelters are enabled in La Libertad Sur due to rain emergency",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/habilitan-dos-nuevos-albergues-en-la-libertad-sur-ante-emergencia-por-lluvias/",
-        "published_date": "2026-06-11 23:10:49",
+        "title": "False alarm caused closure of the US Pentagon",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/falsa-alarma-provoco-cierre-en-el-pentagono-estadounidense/",
+        "published_date": "2026-06-12 10:59:02",
         "category": "Local Events"
     },
     {
-        "title": "Active education support for students who lost supplies or materials due to the rains",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/educacion-activa-apoyo-para-estudiantes-que-perdieron-utiles-o-materiales-por-las-lluvias/?utm_source=rss&utm_medium=rss&utm_campaign=educacion-activa-apoyo-para-estudiantes-que-perdieron-utiles-o-materiales-por-las-lluvias",
-        "published_date": "2026-06-11 23:10:23",
+        "title": "Mexico lights up the 2026 World Cup with victory over South Africa",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/mexico-enciende-el-mundial-2026-con-triunfo-sobre-sudafrica/",
+        "published_date": "2026-06-12 10:00:41",
         "category": "Local Events"
     },
     {
-        "title": "Cristina weakens, but the rains will continue over the country",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/cristina-se-debilita-pero-las-lluvias-continuaran-sobre-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=cristina-se-debilita-pero-las-lluvias-continuaran-sobre-el-pais",
-        "published_date": "2026-06-11 23:07:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mexico defeats South Africa and starts the 2026 World Cup with victory",
+        "title": "Triumph and leadership: South Korea begins the World Cup with victory over the Czech Republic",
         "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/mexico-derrota-a-sudafrica-y-arranca-con-triunfo-el-mundial-2026/",
-        "published_date": "2026-06-11 22:20:08",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/triunfo-y-liderato-corea-del-sur-inicia-el-mundial-con-victoria-sobre-republica-checa/",
+        "published_date": "2026-06-12 04:57:11",
         "category": "Local Events"
     },
     {
-        "title": "Tropical Storm Cristina ends, but another tropical wave is expected",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/tormenta-tropical-cristina-finaliza-pero-se-espera-otra-onda-tropical/",
-        "published_date": "2026-06-11 22:07:42",
+        "title": "South Korea comes back from the Czech Republic and debuts with victory",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/corea-del-sur-remonta-a-republica-checa-y-debuta-con-victoria/",
+        "published_date": "2026-06-12 04:31:52",
         "category": "Local Events"
     },
     {
-        "title": "Jos\u00e9 Mourinho returns to Real Madrid with a contract until 2029",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/jose-mourinho-regresa-al-real-madrid-con-contrato-hasta-2029/",
-        "published_date": "2026-06-11 22:01:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Argentina calls up Marcos Senesi for the World Cup after the loss of Leonardo Balerdi",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/argentina-convoca-a-marcos-senesi-para-el-mundial-tras-la-baja-de-leonardo-balerdi/",
-        "published_date": "2026-06-11 21:51:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mexico starts the 2026 World Cup with a 2-0 victory against South Africa",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/mexico-arranca-el-mundial-2026-con-triunfo-2-0-ante-sudafrica/",
-        "published_date": "2026-06-11 21:44:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shakira headed the opening ceremony of the 2026 World Cup at the Azteca Stadium",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/jetset/shakira-encabezo-la-ceremonia-inaugural-del-mundial-2026-en-el-estadio-azteca/",
-        "published_date": "2026-06-11 21:44:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Take note: A tropical wave could enter El Salvador on Sunday",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/tome-nota-una-onda-tropical-podria-ingresar-el-domingo-a-el-salvador/",
-        "published_date": "2026-06-11 21:09:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man sentenced to 15 years in prison for aggravated motorcycle theft",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/condenan-a-15-anos-de-prision-a-hombre-por-hurto-agravado-de-motocicleta/?utm_source=rss&utm_medium=rss&utm_campaign=condenan-a-15-anos-de-prision-a-hombre-por-hurto-agravado-de-motocicleta",
-        "published_date": "2026-06-11 20:46:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sentenced to subject who stole a motorcycle from the yard of a home",
+        "title": "\u201cAt least I'm not covering up tattoos that compromise me with the law\u201d: Madison Shantal against Yanira Berr\u00edos",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/sentencian-a-sujeto-que-sustrajo-una-motocicleta-del-patio-de-una-vivienda/",
-        "published_date": "2026-06-11 20:41:35",
+        "url": "https://diariolahuella.com/por-lo-menos-yo-no-me-ando-tapando-tatuajes-que-me-comprometen-con-la-ley-madison-shantal-contra-yanira-berrios/",
+        "published_date": "2026-06-12 03:13:46",
         "category": "Local Events"
     },
     {
-        "title": "The Orange Alert is maintained nationwide due to Tropical Storm Cristina",
+        "title": "Union exile: the most extreme form of persecution against those who defend the rights of the working class",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-exilio-sindical-la-forma-mas-extrema-de-persecucion-contra-quienes-defienden-los-derechos-de-la-clase-trabajadora/",
+        "published_date": "2026-06-12 02:02:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump cancels attacks on Iran in the face of possible agreement",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cancela-trump-ataques-a-iran-ante-eventual-acuerdo/",
+        "published_date": "2026-06-12 01:54:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "\ud83d\udfe1 Country goes down to national yellow alert",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/se-mantiene-la-alerta-naranja-a-escala-nacional-por-tormenta-tropical-cristina/?utm_source=rss&utm_medium=rss&utm_campaign=se-mantiene-la-alerta-naranja-a-escala-nacional-por-tormenta-tropical-cristina",
-        "published_date": "2026-06-11 20:26:59",
+        "url": "https://lapagina.com.sv/general/%f0%9f%9f%a1-pais-baja-a-alerta-amarilla-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=%25f0%259f%259f%25a1-pais-baja-a-alerta-amarilla-nacional",
+        "published_date": "2026-06-12 00:47:18",
         "category": "Local Events"
     },
     {
-        "title": "Traffic accidents leave six injured in Comalapa and San Miguel",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/accidentes-de-transito-dejan-seis-lesionados-en-comalapa-y-san-miguel/",
-        "published_date": "2026-06-11 20:26:09",
+        "title": "New Rosales Hospital will incorporate foreign doctors from different specialties",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/nuevo-hospital-rosales-incorporara-medicos-extranjeros-de-distintas-especialidades/",
+        "published_date": "2026-06-12 00:44:09",
         "category": "Local Events"
     },
     {
-        "title": "Tropical Depression Cristina causes floods and emergencies in Central America",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/depresion-tropical-cristina-provoca-inundaciones-y-emergencias-en-centroamerica/",
-        "published_date": "2026-06-11 20:15:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 2026 World Cup starts in Mexico with party, tourism and global expectation",
+        "title": "Video goes viral aggression near Centenario Park",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/el-mundial-2026-arranca-en-mexico-con-fiesta-turismo-y-expectativa-global/?utm_source=rss&utm_medium=rss&utm_campaign=el-mundial-2026-arranca-en-mexico-con-fiesta-turismo-y-expectativa-global",
-        "published_date": "2026-06-11 19:56:17",
+        "url": "https://lapagina.com.sv/general/video-viraliza-agresion-cerca-del-parque-centenario/?utm_source=rss&utm_medium=rss&utm_campaign=video-viraliza-agresion-cerca-del-parque-centenario",
+        "published_date": "2026-06-12 00:35:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Citizen complaint reports alleged act of violence near Centenario Park in San Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/denuncia-ciudadana-reporta-presunto-hecho-de-violencia-en-cercanias-del-parque-centenario-en-san-salvador/",
+        "published_date": "2026-06-12 00:26:49",
         "category": "Local Events"
     }
 ]
