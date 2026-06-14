@@ -112,6 +112,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Drunk driver is captured after accident that left two dead in Santa Ana",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/conductor-ebrio-es-capturado-tras-accidente-que-dejo-dos-fallecidos-en-santa-ana/",
+        "published_date": "2026-06-14 05:54:42",
+        "category": "Military"
+    },
+    {
+        "title": "Two dead and several injured leaves road accident in Santa Ana",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/dos-fallecidos-y-varios-lesionados-deja-percance-vial-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=dos-fallecidos-y-varios-lesionados-deja-percance-vial-en-santa-ana",
+        "published_date": "2026-06-14 03:26:34",
+        "category": "Military"
+    },
+    {
+        "title": "Two traffic agents are captured for asking for money in exchange for returning license plates",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-dos-agentes-de-transito-por-pedir-dinero-a-cambio-de-devolver-placas/",
+        "published_date": "2026-06-14 00:17:24",
+        "category": "Military"
+    },
+    {
         "title": "VIDEO: Police arrive in a neighborhood to capture a criminal and are greeted with stones from neighbors",
         "source": "Cronio",
         "url": "https://croniosv.com/redes/virales/video-policias-llegan-a-un-barrio-para-capturar-a-un-delincuente-y-son-recibidos-a-pedradas-por-vecinos/",
@@ -231,27 +252,6 @@
         "category": "Military"
     },
     {
-        "title": "100 families from Santa Ana Centro benefit from improved lighting",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/100-familias-de-santa-ana-centro-beneficiados-con-mejoramiento-de-luminarias/?utm_source=rss&utm_medium=rss&utm_campaign=100-familias-de-santa-ana-centro-beneficiados-con-mejoramiento-de-luminarias",
-        "published_date": "2026-06-12 19:58:36",
-        "category": "Military"
-    },
-    {
-        "title": "Guatemalan authorities capture 53 Salvadoran gang members",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/autoridades-guatemaltecas-capturan-a-53-mareros-salvadorenos/",
-        "published_date": "2026-06-12 15:30:15",
-        "category": "Military"
-    },
-    {
-        "title": "June adds another day without violent deaths nationwide",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/junio-suma-otro-dia-sin-muertes-violentas-a-nivel-nacional/",
-        "published_date": "2026-06-12 15:12:26",
-        "category": "Military"
-    },
-    {
         "title": "Assembly approves $9.6 million loan for solar power plant",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/asamblea-aprueba-prestamo-de-9-6-millones-para-planta-de-energia-solar/",
@@ -284,20 +284,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/economia/estos-son-los-nuevos-precios-de-los-combustibles-en-el-salvador-2/",
         "published_date": "2026-06-08 17:10:39",
-        "category": "Energy"
-    },
-    {
-        "title": "Cuba denies the US Secretary of State about oil acquisition",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cuba-desmiente-al-secretario-de-estado-de-eeuu-sobre-adquisicion-de-petroleo/",
-        "published_date": "2026-06-06 10:58:36",
-        "category": "Energy"
-    },
-    {
-        "title": "Alejandro Gutman teaches DNA Masterclass on Poverty and the Culture of Integration to the 40,000 participants in the Training Process",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/alejandro-gutman-imparte-masterclass-adn-de-la-pobreza-y-la-cultura-de-integracion-a-los-40000-participantes-en-proceso-formativo/",
-        "published_date": "2026-06-06 02:40:39",
         "category": "Energy"
     },
     {
@@ -341,6 +327,97 @@
         "url": "https://diariolahuella.com/el-salvador-lidera-en-america-latina-el-gasto-en-salud-como-porcentaje-del-pib-segun-datos-del-banco-mundial-y-la-oms/",
         "published_date": "2026-06-09 16:27:23",
         "category": "Economy"
+    },
+    {
+        "title": "Australia surprises Turkey and debuts with victory in the World Cup",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/australia-sorprende-a-turquia-y-debuta-con-triunfo-en-el-mundial/",
+        "published_date": "2026-06-14 06:23:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "DAIRY MADE WITH MILK POWDER CHEAPER, BUT AT WHAT COST?",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/lacteos-elaborados-con-leche-en-polvo-mas-barato-pero-a-que-costo/",
+        "published_date": "2026-06-14 05:32:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Scotland beats Haiti and takes control of group C",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/escocia-golpea-a-haiti-y-toma-el-control-del-grupo-c/",
+        "published_date": "2026-06-14 05:23:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drunk driver captured after crash that left two dead in Santa Ana",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-conductor-ebrio-tras-choque-que-dejo-dos-fallecidos-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-conductor-ebrio-tras-choque-que-dejo-dos-fallecidos-en-santa-ana",
+        "published_date": "2026-06-14 05:23:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorcyclist dies after crash on the highway between Santa Ana and San Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/motociclista-muere-tras-choque-en-carretera-entre-santa-ana-y-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=motociclista-muere-tras-choque-en-carretera-entre-santa-ana-y-san-salvador",
+        "published_date": "2026-06-14 04:31:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "The New York Knicks are proclaimed NBA champions for the first time in 53 years",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/los-new-york-knicks-se-proclaman-campeones-nba-por-primera-vez-en-53-anos/",
+        "published_date": "2026-06-14 04:24:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Qatar rescues an agonizing draw against Switzerland in added time",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/qatar-rescata-un-empate-agonico-ante-suiza-en-el-tiempo-agregado/?utm_source=rss&utm_medium=rss&utm_campaign=qatar-rescata-un-empate-agonico-ante-suiza-en-el-tiempo-agregado",
+        "published_date": "2026-06-14 04:24:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Scotland returns to the World Cup with victory over Haiti",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/escocia-regresa-al-mundial-con-triunfo-sobre-haiti/",
+        "published_date": "2026-06-14 04:20:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorcyclist dies after traffic accident on the highway between Santa Ana and San Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/motociclista-fallece-tras-accidente-de-transito-en-carretera-entre-santa-ana-y-san-salvador/",
+        "published_date": "2026-06-14 03:51:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil is not enough and ties with Morocco in its debut",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/a-brasil-no-le-alcanza-y-empata-con-marruecos-en-su-estreno/",
+        "published_date": "2026-06-14 01:56:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil starts the 2026 World Cup with an unexpected draw against Morocco",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/brasil-inicia-el-mundial-2026-con-un-inesperado-empate-contra-marruecos/?utm_source=rss&utm_medium=rss&utm_campaign=brasil-inicia-el-mundial-2026-con-un-inesperado-empate-contra-marruecos",
+        "published_date": "2026-06-14 01:20:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador receives its new apostolic nuncio",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-recibe-a-su-nuevo-nuncio-apostolico/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-recibe-a-su-nuevo-nuncio-apostolico",
+        "published_date": "2026-06-14 01:11:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil debuts with a draw against Morocco in the World Cup",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/brasil-debuta-con-empate-ante-marruecos-en-el-mundial/",
+        "published_date": "2026-06-14 00:21:54",
+        "category": "Local Events"
     },
     {
         "title": "Qatar rescues agonizing draw against Switzerland",
@@ -389,97 +466,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/analista-califica-de-desafortunada-la-participacion-de-claudia-ortiz-en-oslo/?utm_source=rss&utm_medium=rss&utm_campaign=analista-califica-de-desafortunada-la-participacion-de-claudia-ortiz-en-oslo",
         "published_date": "2026-06-13 19:43:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Coronel Luis Ra\u00fal Angulo School Center joins the Dos Escuelas X D\u00eda program",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/centro-escolar-coronel-luis-raul-angulo-se-incorpora-al-programa-dos-escuelas-x-dia/?utm_source=rss&utm_medium=rss&utm_campaign=centro-escolar-coronel-luis-raul-angulo-se-incorpora-al-programa-dos-escuelas-x-dia",
-        "published_date": "2026-06-13 18:53:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Road improvements announced to guarantee safe access for students",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/anuncian-mejoras-viales-para-garantizar-acceso-seguro-a-estudiantes/",
-        "published_date": "2026-06-13 18:44:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Assembly will study resources for education, Progresar Rural and conservation of the coffee forest",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/asamblea-estudiara-recursos-para-educacion-progresar-rural-y-conservacion-del-bosque-cafetalero/?utm_source=rss&utm_medium=rss&utm_campaign=asamblea-estudiara-recursos-para-educacion-progresar-rural-y-conservacion-del-bosque-cafetalero",
-        "published_date": "2026-06-13 17:27:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dr Vega and Nigel launch \u201cSola\u201d, their new bet within the Puerto Rican trap",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/dr-vega-y-nigel-lanzan-sola-su-nueva-apuesta-dentro-del-trap-boricua/",
-        "published_date": "2026-06-13 17:25:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Civil Protection activates green alert nationwide",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/proteccion-civil-activa-alerta-verde-a-escala-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=proteccion-civil-activa-alerta-verde-a-escala-nacional",
-        "published_date": "2026-06-13 17:19:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "They issue a green alert for rain and leave no yellow effect due to Tropical Storm Cristina",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/emiten-alerta-verde-por-lluvias-y-deja-sin-efecto-amarilla-por-tormenta-tropical-cristina/",
-        "published_date": "2026-06-13 17:12:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Subject receives 12 years in prison for stripping a victim of his belongings",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/sujeto-recibe-12-anos-de-prision-por-despojar-de-sus-pertenencias-a-una-victima/",
-        "published_date": "2026-06-13 17:12:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "INTRODUCTORY NOTE",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/nota-introductoria/",
-        "published_date": "2026-06-13 17:10:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Miranda's Popular Power is activated in the communication battle towards the Popular Consultation",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/poder-popular-de-miranda-se-activa-en-la-batalla-comunicacional-rumbo-a-la-consulta-popular/",
-        "published_date": "2026-06-13 17:06:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "THE SELFISH POET",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-poeta-egoista/",
-        "published_date": "2026-06-13 17:00:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI have no country\u201d revisits Salarru\u00e9's thoughts",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/no-tengo-patria-revisita-el-pensamiento-de-salarrue/",
-        "published_date": "2026-06-13 16:47:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Summary of the second week of June 2026",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/resumen-de-la-segunda-semana-del-mes-de-junio-2026/",
-        "published_date": "2026-06-13 16:34:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump canceled attacks on Iran and spoke of a possible agreement after contacts at the highest level",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/trump-cancelo-los-ataques-contra-iran-y-hablo-de-un-posible-acuerdo-tras-contactos-al-mas-alto-nivel/",
-        "published_date": "2026-06-13 15:52:52",
         "category": "Local Events"
     }
 ]
