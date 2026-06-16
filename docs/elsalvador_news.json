@@ -1,5 +1,26 @@
 [
     {
+        "title": "Jail for a Swede for prostituting his wife with a hundred men",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/carcel-para-un-sueco-por-prostituir-a-su-esposa-con-un-centenar-de-hombres/",
+        "published_date": "2026-06-16 15:54:17",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "El Salvador strengthens ties with the main association of travel agencies in Singapore",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-fortalece-vinculos-con-la-principal-asociacion-de-agencias-de-viajes-de-singapur/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-fortalece-vinculos-con-la-principal-asociacion-de-agencias-de-viajes-de-singapur",
+        "published_date": "2026-06-16 15:38:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Mesoamerican Caravan denounces climate impacts and human rights violations in Central America before the UN rapporteur",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/caravana-mesoamericana-denuncia-ante-relatora-de-la-onu-impactos-climaticos-y-violaciones-a-ddhh-en-centroamerica/",
+        "published_date": "2026-06-16 11:01:13",
+        "category": "Diplomacy"
+    },
+    {
         "title": "International union support demands attention to labor violations in El Salvador",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/respaldo-sindical-internacional-exige-atencion-a-violaciones-laborales-en-el-salvador/",
@@ -77,18 +98,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Independent union organizations question the CSA's support for the Salvadoran government and demand a statement from affiliated centers",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/organizaciones-sindicales-independientes-cuestionan-respaldo-de-la-csa-al-gobierno-salvadoreno-y-exigen-pronunciamiento-de-centrales-afiliadas/",
-        "published_date": "2026-06-08 14:48:37",
-        "category": "Diplomacy"
+        "title": "President Nayib Bukele's security strategies achieve historic trial against gangs",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/estrategias-de-seguridad-del-presidente-nayib-bukele-logra-juicio-historico-contra-pandillas/?utm_source=rss&utm_medium=rss&utm_campaign=estrategias-de-seguridad-del-presidente-nayib-bukele-logra-juicio-historico-contra-pandillas",
+        "published_date": "2026-06-16 15:23:09",
+        "category": "Military"
     },
     {
-        "title": "DNA tests confirm paternity in 544 cases over the last two years",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/pruebas-de-adn-confirman-la-paternidad-en-544-casos-durante-los-ultimos-dos-anos/",
-        "published_date": "2026-06-08 13:39:12",
-        "category": "Diplomacy"
+        "title": "President Nayib Bukele's security strategies achieve historic trial against gangs",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/estrategias-de-seguridad-del-presidente-nayib-bukele-logra-juicio-historico-contra-pandillas/",
+        "published_date": "2026-06-16 15:11:57",
+        "category": "Military"
+    },
+    {
+        "title": "June accumulates 15 days free of homicides in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/junio-acumula-15-dias-libres-de-homicidios-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=junio-acumula-15-dias-libres-de-homicidios-en-el-salvador",
+        "published_date": "2026-06-16 15:06:12",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador adds 15 days with zero homicides in June",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-suma-15-dias-con-cero-homicidios-en-junio/",
+        "published_date": "2026-06-16 15:03:54",
+        "category": "Military"
     },
     {
         "title": "PNC captures man accused of theft in San Miguel workshop",
@@ -203,34 +238,6 @@
         "category": "Military"
     },
     {
-        "title": "Drunk driver is captured after accident that left two dead in Santa Ana",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/conductor-ebrio-es-capturado-tras-accidente-que-dejo-dos-fallecidos-en-santa-ana/",
-        "published_date": "2026-06-14 05:54:42",
-        "category": "Military"
-    },
-    {
-        "title": "Two dead and several injured leaves road accident in Santa Ana",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/dos-fallecidos-y-varios-lesionados-deja-percance-vial-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=dos-fallecidos-y-varios-lesionados-deja-percance-vial-en-santa-ana",
-        "published_date": "2026-06-14 03:26:34",
-        "category": "Military"
-    },
-    {
-        "title": "Two traffic agents are captured for asking for money in exchange for returning license plates",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-dos-agentes-de-transito-por-pedir-dinero-a-cambio-de-devolver-placas/",
-        "published_date": "2026-06-14 00:17:24",
-        "category": "Military"
-    },
-    {
-        "title": "VIDEO: Police arrive in a neighborhood to capture a criminal and are greeted with stones from neighbors",
-        "source": "Cronio",
-        "url": "https://croniosv.com/redes/virales/video-policias-llegan-a-un-barrio-para-capturar-a-un-delincuente-y-son-recibidos-a-pedradas-por-vecinos/",
-        "published_date": "2026-06-13 21:43:14",
-        "category": "Military"
-    },
-    {
         "title": "Assembly approves $9.6 million loan for solar power plant",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/asamblea-aprueba-prestamo-de-9-6-millones-para-planta-de-energia-solar/",
@@ -264,6 +271,13 @@
         "url": "https://croniosv.com/nacionales/economia/estos-son-los-nuevos-precios-de-los-combustibles-en-el-salvador-2/",
         "published_date": "2026-06-08 17:10:39",
         "category": "Energy"
+    },
+    {
+        "title": "Commission approves $1.4 million for Education and Agriculture",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comision-aprueba-1-4-millones-para-educacion-y-agricultura/",
+        "published_date": "2026-06-16 11:02:14",
+        "category": "Economy"
     },
     {
         "title": "Inspection operations reinforced for Father's Day",
@@ -329,143 +343,143 @@
         "category": "Economy"
     },
     {
-        "title": "Uruguay rescues a draw against Saudi Arabia to distribute points in the debut",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/uruguay-rescata-empate-ante-arabia-saudita-para-repartir-puntos-en-el-debut/",
-        "published_date": "2026-06-16 01:05:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ricardo Montaner returns to El Salvador with his tour \u201cEl \u00daltimo Regreso\u201d",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/ricardo-montaner-regresa-a-el-salvador-con-su-gira-el-ultimo-regreso/?utm_source=rss&utm_medium=rss&utm_campaign=ricardo-montaner-regresa-a-el-salvador-con-su-gira-el-ultimo-regreso",
-        "published_date": "2026-06-15 23:40:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ricardo Montaner arrives in El Salvador with his tour \u201cEl \u00daltimo Regreso\u201d",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/ricardo-montaner-llega-a-el-salvador-con-su-gira-el-ultimo-regreso/",
-        "published_date": "2026-06-15 23:36:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "The memorandum of understanding between Iran and the United States to end the war will be signed on Friday",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-viernes-se-firmara-el-memorando-de-entendimiento-entre-iran-y-estados-unidos-para-poner-fin-a-la-guerra/",
-        "published_date": "2026-06-15 22:57:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Egypt surprises Belgium and rescues the tie in Group G",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/egipto-sorprende-a-belgica-y-rescata-el-empate-en-el-grupo-g/",
-        "published_date": "2026-06-15 22:36:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Belgium and Egypt tie in their debut in the 2026 World Cup",
+        "title": "Shein's first physical store will close its doors in Paris",
         "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/belgica-y-egipto-empatan-en-su-debut-en-la-copa-del-mundo-2026/",
-        "published_date": "2026-06-15 22:35:59",
+        "url": "https://croniosv.com/internacionales/la-primera-tienda-fisica-de-shein-cerrara-sus-puertas-en-paris/",
+        "published_date": "2026-06-16 15:49:15",
         "category": "Local Events"
     },
     {
-        "title": "50 years in prison for murderer of his own partner",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/50-anos-de-prision-para-homicida-de-su-propia-pareja/",
-        "published_date": "2026-06-15 21:43:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man sentenced to 50 years in prison for aggravated femicide against his partner",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/condenan-a-50-anos-de-prision-a-hombre-por-feminicidio-agravado-contra-su-pareja/?utm_source=rss&utm_medium=rss&utm_campaign=condenan-a-50-anos-de-prision-a-hombre-por-feminicidio-agravado-contra-su-pareja",
-        "published_date": "2026-06-15 21:42:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Greeicy will light up El Salvador with its spectacular \"Candela World Tour\"",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/greeicy-encendera-el-salvador-con-su-espectacular-candela-world-tour/",
-        "published_date": "2026-06-15 21:30:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Immobilized CREDICASH funds begin to be delivered to victims starting this Tuesday",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fondos-inmovilizados-de-credicash-comienzan-a-ser-entregados-a-victimas-a-partir-de-este-martes/",
-        "published_date": "2026-06-15 21:30:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "The construction of the bridge over the El Sauce river and district in La Uni\u00f3n Norte advances",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/avanza-la-construccion-del-puente-sobre-rio-y-distrito-el-sauce-en-la-union-norte/?utm_source=rss&utm_medium=rss&utm_campaign=avanza-la-construccion-del-puente-sobre-rio-y-distrito-el-sauce-en-la-union-norte",
-        "published_date": "2026-06-15 21:05:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The construction of the bridge over the El Sauce river and district in La Uni\u00f3n Norte advances",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/avanza-la-construccion-del-puente-sobre-rio-y-distrito-el-sauce-en-la-union-norte/",
-        "published_date": "2026-06-15 20:45:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Guatemalan bus driver transmits the World Cup to passengers",
+        "title": "Donald Trump wants to send the Iran deal to the US Congress",
         "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/busero-de-guatemala-transmite-el-mundial-a-los-pasajeros/",
-        "published_date": "2026-06-15 20:36:23",
+        "url": "https://croniosv.com/uncategorized/donald-trump-quiere-enviar-el-acuerdo-con-iran-al-congreso-estadounidense/",
+        "published_date": "2026-06-16 15:43:43",
         "category": "Local Events"
     },
     {
-        "title": "Cape Verde surprises the world and stops Spain in its World Cup debut",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/cabo-verde-sorprende-al-mundo-y-frena-a-espana-en-su-debut-mundialista/?utm_source=rss&utm_medium=rss&utm_campaign=cabo-verde-sorprende-al-mundo-y-frena-a-espana-en-su-debut-mundialista",
-        "published_date": "2026-06-15 20:25:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chinese Embassy strengthens musical education in La Libertad with donation of instruments",
+        "title": "El Salvador strengthens ties with the main association of travel agencies in Singapore",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/embajada-de-china-fortalece-la-educacion-musical-en-la-libertad-con-donativo-de-instrumentos/",
-        "published_date": "2026-06-15 20:21:11",
+        "url": "https://diariolahuella.com/el-salvador-fortalece-vinculos-con-la-principal-asociacion-de-agencias-de-viajes-de-singapur/",
+        "published_date": "2026-06-16 15:33:04",
         "category": "Local Events"
     },
     {
-        "title": "Attorney General assures that victims of CREDICASH will be contacted to recover their money",
+        "title": "Salvadorans Barton and Moran will debut in their second FIFA World Cup.",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/fiscal-general-asegura-que-victimas-de-credicash-seran-contactadas-para-recuperar-su-dinero/",
-        "published_date": "2026-06-15 20:19:06",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/%f0%9d%97%95%f0%9d%97%ae%f0%9d%97%bf%f0%9d%98%81%f0%9d%97%bc%f0%9d%97%bb-%f0%9d%98%86-%f0%9d%97%a0%f0%9d%97%bc%f0%9d%97%bf%f0%9d%97%ae%f0%9d%97%bb-%f0%9d%97%b1%f0%9d%97%b2%f0%9d%97%af%f0%9d%98%82/",
+        "published_date": "2026-06-16 15:31:18",
         "category": "Local Events"
     },
     {
-        "title": "Cape Verde wins a golden point against Spain and makes history in the World Cup",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cabo-verde-conquista-un-punto-de-oro-ante-espana-y-hace-historia-en-el-mundial/",
-        "published_date": "2026-06-15 20:18:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Violent incident leaves four dead, including a minor",
+        "title": "The process for temporary hiring begins in the Supreme Electoral Tribunal",
         "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/hecho-violento-deja-cuatro-muertos-entre-ellos-una-menor-de-edad/",
-        "published_date": "2026-06-15 20:11:58",
+        "url": "https://croniosv.com/politica/inicia-el-proceso-para-contratacion-temporal-en-tribunal-supremo-electoral/",
+        "published_date": "2026-06-16 15:25:42",
         "category": "Local Events"
     },
     {
-        "title": "FGR reports more than $38.5 million immobilized and recovered in the Credicash case",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/fgr-reporta-mas-de-38-5-millones-inmovilizados-y-recuperados-en-caso-credicash/",
-        "published_date": "2026-06-15 20:08:07",
+        "title": "Homicides in 2026 register a reduction of 92.3% compared to 2022",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/homicidios-en-2026-registran-una-reduccion-del-92-3-respecto-a-2022/",
+        "published_date": "2026-06-16 14:59:51",
         "category": "Local Events"
     },
     {
-        "title": "Tax authorities report millionaire recovery of funds linked to Credicash",
+        "title": "Bus on route 38-C hits truck and leaves several injured in San Salvador",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/autoridades-fiscales-reportan-millonaria-recuperacion-de-fondos-vinculados-a-credicash/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-fiscales-reportan-millonaria-recuperacion-de-fondos-vinculados-a-credicash",
-        "published_date": "2026-06-15 20:07:12",
+        "url": "https://lapagina.com.sv/nacionales/bus-de-la-ruta-38-c-impacta-camioneta-y-deja-varios-lesionados-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=bus-de-la-ruta-38-c-impacta-camioneta-y-deja-varios-lesionados-en-san-salvador",
+        "published_date": "2026-06-16 14:55:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Specific rains are predicted for this Tuesday in the country",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/pronostican-lluvias-puntuales-para-este-martes-en-el-pais/",
+        "published_date": "2026-06-16 14:49:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Couple of motorcyclists suffers a road accident on the road towards Candelaria de la Frontera",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/pareja-de-motociclistas-sufre-accidente-vial-en-carretera-hacia-candelaria-de-la-frontera/?utm_source=rss&utm_medium=rss&utm_campaign=pareja-de-motociclistas-sufre-accidente-vial-en-carretera-hacia-candelaria-de-la-frontera",
+        "published_date": "2026-06-16 14:46:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deputy Francisco Lira questions the use of funds destined for the Rosales Hospital",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diputado-francisco-lira-cuestiona-uso-de-fondos-destinados-al-hospital-rosales/",
+        "published_date": "2026-06-16 11:04:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ivania Cruz accuses the judge of postponing measures against defendants from the Alliance El Salvador in Peace",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ivania-cruz-acusa-a-jueza-de-postergar-medidas-contra-procesados-de-la-alianza-el-salvador-en-paz/",
+        "published_date": "2026-06-16 11:03:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "FGR begins this Tuesday delivery of funds to those affected by Credicash",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fgr-inicia-este-martes-entrega-de-fondos-a-los-afectados-por-credicash/",
+        "published_date": "2026-06-16 11:00:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "CAPITAL IN THE 21ST CENTURY",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-capital-en-el-siglo-xxi/",
+        "published_date": "2026-06-16 10:59:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump boasts in France of US-Iran agreement",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/trump-presume-francia-acuerdo-ee-uu-iran/",
+        "published_date": "2026-06-16 10:30:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spain, Belgium and Uruguay do not go beyond a tie in a day of surprises",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/espana-belgica-y-uruguay-no-pasan-del-empate-en-una-jornada-de-sorpresas/",
+        "published_date": "2026-06-16 10:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cNow Bukele is in charge,\u201d shouted the \u201cprestobarbas a cora\u201d to Yanira Berrios",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ahora-manda-bukele-grito-la-prestobarbas-a-cora-a-yanira-berrios/",
+        "published_date": "2026-06-16 04:45:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "New Zealand and Iran play out a vibrant 2-2 draw in Group G",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/nueva-zelanda-e-iran-protagonizan-un-vibrante-empate-2-2-en-el-grupo-g/",
+        "published_date": "2026-06-16 04:27:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Junior Achievement El Salvador connects young talent with the world",
+        "source": "Cronio",
+        "url": "https://croniosv.com/negocios/junior-achievement-el-salvador-conecta-talento-joven-con-el-mundo/",
+        "published_date": "2026-06-16 04:21:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Uruguay rescues a draw against Saudi Arabia in its World Cup debut",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/uruguay-rescata-un-empate-ante-arabia-saudita-en-su-debut-mundialista/",
+        "published_date": "2026-06-16 04:07:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Suspect arrested with drugs and cash in San Miguel Centro",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/detienen-a-sospechoso-con-droga-y-dinero-en-efectivo-en-san-miguel-centro/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-sospechoso-con-droga-y-dinero-en-efectivo-en-san-miguel-centro",
+        "published_date": "2026-06-16 03:45:31",
         "category": "Local Events"
     }
 ]
