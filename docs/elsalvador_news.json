@@ -91,11 +91,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "VIDEO |China presents a 'selection' of robot footballers",
+        "title": "PNC captures man accused of theft in San Miguel workshop",
         "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/tecnologia/video-china-presenta-una-seleccion-de-futbolistas-robots/",
-        "published_date": "2026-06-07 18:49:45",
-        "category": "Diplomacy"
+        "url": "https://croniosv.com/nacionales/pnc-captura-a-hombre-acusado-de-hurto-en-taller-de-san-miguel/",
+        "published_date": "2026-06-15 19:09:23",
+        "category": "Military"
+    },
+    {
+        "title": "PNC reports 0 homicides during the weekend in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/pnc-reporta-0-homicidios-durante-el-fin-de-semana-en-el-salvador/",
+        "published_date": "2026-06-15 17:41:23",
+        "category": "Military"
     },
     {
         "title": "June accumulates 14 consecutive days without homicides nationwide",
@@ -224,20 +231,6 @@
         "category": "Military"
     },
     {
-        "title": "They capture two Transit agents accused of asking for money in exchange for returning license plates",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/capturan-a-dos-agentes-de-transito-acusados-de-pedir-dinero-a-cambio-de-devolver-placas/",
-        "published_date": "2026-06-13 20:50:49",
-        "category": "Military"
-    },
-    {
-        "title": "MS-13 gang member captured with drugs ready to distribute in Olocuilta",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-pandillero-de-la-ms-13-con-droga-lista-para-distribuir-en-olocuilta/",
-        "published_date": "2026-06-13 20:47:17",
-        "category": "Military"
-    },
-    {
         "title": "Assembly approves $9.6 million loan for solar power plant",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/asamblea-aprueba-prestamo-de-9-6-millones-para-planta-de-energia-solar/",
@@ -271,6 +264,13 @@
         "url": "https://croniosv.com/nacionales/economia/estos-son-los-nuevos-precios-de-los-combustibles-en-el-salvador-2/",
         "published_date": "2026-06-08 17:10:39",
         "category": "Energy"
+    },
+    {
+        "title": "Inspection operations reinforced for Father's Day",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/refuerzan-operativos-de-inspeccion-por-el-dia-del-padre/?utm_source=rss&utm_medium=rss&utm_campaign=refuerzan-operativos-de-inspeccion-por-el-dia-del-padre",
+        "published_date": "2026-06-15 17:46:13",
+        "category": "Economy"
     },
     {
         "title": "El Salvador participates in the India Trade and Investment Forum",
@@ -329,143 +329,143 @@
         "category": "Economy"
     },
     {
-        "title": "Peace in the Middle East: what the agreement between the US and Iran consists of",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/paz-en-medio-oriente-en-que-consiste-el-acuerdo-entre-ee-uu-e-iran/",
-        "published_date": "2026-06-15 16:19:53",
+        "title": "Uruguay rescues a draw against Saudi Arabia to distribute points in the debut",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/uruguay-rescata-empate-ante-arabia-saudita-para-repartir-puntos-en-el-debut/",
+        "published_date": "2026-06-16 01:05:54",
         "category": "Local Events"
     },
     {
-        "title": "Potential landslide forces Panamericana condominium residents to evacuate",
+        "title": "Ricardo Montaner returns to El Salvador with his tour \u201cEl \u00daltimo Regreso\u201d",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/deslizamiento-potencial-obliga-a-desalojar-residentes-de-condominio-panamericana/?utm_source=rss&utm_medium=rss&utm_campaign=deslizamiento-potencial-obliga-a-desalojar-residentes-de-condominio-panamericana",
-        "published_date": "2026-06-15 16:10:02",
+        "url": "https://lapagina.com.sv/empresarial/ricardo-montaner-regresa-a-el-salvador-con-su-gira-el-ultimo-regreso/?utm_source=rss&utm_medium=rss&utm_campaign=ricardo-montaner-regresa-a-el-salvador-con-su-gira-el-ultimo-regreso",
+        "published_date": "2026-06-15 23:40:55",
         "category": "Local Events"
     },
     {
-        "title": "Structural risk forces the evacuation of a building in the Escal\u00f3n neighborhood",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/riesgo-estructural-obliga-a-evacuar-edificio-en-la-colonia-escalon/",
-        "published_date": "2026-06-15 16:09:04",
+        "title": "Ricardo Montaner arrives in El Salvador with his tour \u201cEl \u00daltimo Regreso\u201d",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/ricardo-montaner-llega-a-el-salvador-con-su-gira-el-ultimo-regreso/",
+        "published_date": "2026-06-15 23:36:09",
         "category": "Local Events"
     },
     {
-        "title": "Mario Dur\u00e1n calls to combat garbage with education and citizen awareness",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/mario-duran-llama-a-combatir-la-basura-con-educacion-y-conciencia-ciudadana/",
-        "published_date": "2026-06-15 16:07:03",
+        "title": "The memorandum of understanding between Iran and the United States to end the war will be signed on Friday",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-viernes-se-firmara-el-memorando-de-entendimiento-entre-iran-y-estados-unidos-para-poner-fin-a-la-guerra/",
+        "published_date": "2026-06-15 22:57:22",
         "category": "Local Events"
     },
     {
-        "title": "Tropical wave will favor heavy rains and storms in different areas of the country",
+        "title": "Egypt surprises Belgium and rescues the tie in Group G",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/egipto-sorprende-a-belgica-y-rescata-el-empate-en-el-grupo-g/",
+        "published_date": "2026-06-15 22:36:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Belgium and Egypt tie in their debut in the 2026 World Cup",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/onda-tropical-favorecera-lluvias-y-tormentas-fuertes-en-distintas-zonas-del-pais/",
-        "published_date": "2026-06-15 16:03:47",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/belgica-y-egipto-empatan-en-su-debut-en-la-copa-del-mundo-2026/",
+        "published_date": "2026-06-15 22:35:59",
         "category": "Local Events"
     },
     {
-        "title": "Today the air route from San Salvador to Madrid begins operation",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/hoy-inicia-operacion-de-la-ruta-aerea-de-san-salvador-a-madrid/?utm_source=rss&utm_medium=rss&utm_campaign=hoy-inicia-operacion-de-la-ruta-aerea-de-san-salvador-a-madrid",
-        "published_date": "2026-06-15 15:51:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "From the Pope to every Congressman",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/del-papa-para-todo-congresista/",
-        "published_date": "2026-06-15 15:24:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "How much does a washing machine consume and how to save water and electricity at home",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cuanto-consume-una-lavadora-y-como-ahorrar-agua-y-luz-en-casa/",
-        "published_date": "2026-06-15 15:06:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rains and storms due to the influence of tropical waves",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/lluvias-y-tormentas-por-influencia-de-onda-tropical-2/?utm_source=rss&utm_medium=rss&utm_campaign=lluvias-y-tormentas-por-influencia-de-onda-tropical-2",
-        "published_date": "2026-06-15 14:57:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rains and storms due to the influence of tropical waves",
+        "title": "50 years in prison for murderer of his own partner",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/lluvias-y-tormentas-por-influencia-de-onda-tropical-6/",
-        "published_date": "2026-06-15 14:52:36",
+        "url": "https://diariolahuella.com/50-anos-de-prision-para-homicida-de-su-propia-pareja/",
+        "published_date": "2026-06-15 21:43:51",
         "category": "Local Events"
     },
     {
-        "title": "180 pre-equipped shelters are ready to respond to emergencies",
+        "title": "Man sentenced to 50 years in prison for aggravated femicide against his partner",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/180-albergues-preequipados-estan-listos-para-atender-emergencias/?utm_source=rss&utm_medium=rss&utm_campaign=180-albergues-preequipados-estan-listos-para-atender-emergencias",
-        "published_date": "2026-06-15 14:34:07",
+        "url": "https://lapagina.com.sv/nacionales/condenan-a-50-anos-de-prision-a-hombre-por-feminicidio-agravado-contra-su-pareja/?utm_source=rss&utm_medium=rss&utm_campaign=condenan-a-50-anos-de-prision-a-hombre-por-feminicidio-agravado-contra-su-pareja",
+        "published_date": "2026-06-15 21:42:46",
         "category": "Local Events"
     },
     {
-        "title": "180 shelters are prepared to respond to emergencies, reports Josu\u00e9 Garc\u00eda",
+        "title": "Greeicy will light up El Salvador with its spectacular \"Candela World Tour\"",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/greeicy-encendera-el-salvador-con-su-espectacular-candela-world-tour/",
+        "published_date": "2026-06-15 21:30:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Immobilized CREDICASH funds begin to be delivered to victims starting this Tuesday",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fondos-inmovilizados-de-credicash-comienzan-a-ser-entregados-a-victimas-a-partir-de-este-martes/",
+        "published_date": "2026-06-15 21:30:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "The construction of the bridge over the El Sauce river and district in La Uni\u00f3n Norte advances",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/avanza-la-construccion-del-puente-sobre-rio-y-distrito-el-sauce-en-la-union-norte/?utm_source=rss&utm_medium=rss&utm_campaign=avanza-la-construccion-del-puente-sobre-rio-y-distrito-el-sauce-en-la-union-norte",
+        "published_date": "2026-06-15 21:05:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The construction of the bridge over the El Sauce river and district in La Uni\u00f3n Norte advances",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/180-albergues-estan-preparados-para-atender-emergencias-informa-josue-garcia/",
-        "published_date": "2026-06-15 14:24:52",
+        "url": "https://diariolahuella.com/avanza-la-construccion-del-puente-sobre-rio-y-distrito-el-sauce-en-la-union-norte/",
+        "published_date": "2026-06-15 20:45:04",
         "category": "Local Events"
     },
     {
-        "title": "They announce the installation of 300 video surveillance cameras where garbage is thrown",
+        "title": "Guatemalan bus driver transmits the World Cup to passengers",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/busero-de-guatemala-transmite-el-mundial-a-los-pasajeros/",
+        "published_date": "2026-06-15 20:36:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cape Verde surprises the world and stops Spain in its World Cup debut",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/cabo-verde-sorprende-al-mundo-y-frena-a-espana-en-su-debut-mundialista/?utm_source=rss&utm_medium=rss&utm_campaign=cabo-verde-sorprende-al-mundo-y-frena-a-espana-en-su-debut-mundialista",
+        "published_date": "2026-06-15 20:25:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chinese Embassy strengthens musical education in La Libertad with donation of instruments",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/embajada-de-china-fortalece-la-educacion-musical-en-la-libertad-con-donativo-de-instrumentos/",
+        "published_date": "2026-06-15 20:21:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attorney General assures that victims of CREDICASH will be contacted to recover their money",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/anuncian-la-instalacion-de-300-camaras-de-videovigilancia-donde-arrojan-basura/",
-        "published_date": "2026-06-15 14:13:08",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/fiscal-general-asegura-que-victimas-de-credicash-seran-contactadas-para-recuperar-su-dinero/",
+        "published_date": "2026-06-15 20:19:06",
         "category": "Local Events"
     },
     {
-        "title": "Real Madrid signs Marc Cucurella from Chelsea",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/real-madrid-ficha-a-marc-cucurella-procedente-del-chelsea/",
-        "published_date": "2026-06-15 13:06:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Evacuation of condominium in the Escal\u00f3n neighborhood ordered due to landslide risk",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/ordenan-evacuacion-de-condominio-en-la-colonia-escalon-por-riesgo-de-deslizamiento/",
-        "published_date": "2026-06-15 12:47:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "They present a book that keeps the voice of Herberth Anaya alive;strong defender of human rights",
+        "title": "Cape Verde wins a golden point against Spain and makes history in the World Cup",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/presentan-libro-que-mantiene-viva-la-voz-de-herberth-anaya-ferreo-defensor-de-ddhh/",
-        "published_date": "2026-06-15 11:04:52",
+        "url": "https://www.diariocolatino.com/cabo-verde-conquista-un-punto-de-oro-ante-espana-y-hace-historia-en-el-mundial/",
+        "published_date": "2026-06-15 20:18:48",
         "category": "Local Events"
     },
     {
-        "title": "\u201cHospital Rosales is the best hospital in Central America\u201d: Nayib Bukele",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-hospital-rosales-es-el-mejor-hospital-de-centroamerica-nayib-bukele/",
-        "published_date": "2026-06-15 11:03:29",
+        "title": "Violent incident leaves four dead, including a minor",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/hecho-violento-deja-cuatro-muertos-entre-ellos-una-menor-de-edad/",
+        "published_date": "2026-06-15 20:11:58",
         "category": "Local Events"
     },
     {
-        "title": "MARN predicts faster and higher waves on the coast of El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/marn-preve-oleaje-mas-rapido-y-alto-en-la-costa-de-el-salvador/",
-        "published_date": "2026-06-15 11:02:01",
+        "title": "FGR reports more than $38.5 million immobilized and recovered in the Credicash case",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/fgr-reporta-mas-de-38-5-millones-inmovilizados-y-recuperados-en-caso-credicash/",
+        "published_date": "2026-06-15 20:08:07",
         "category": "Local Events"
     },
     {
-        "title": "Destroying a forest is \u201can attack on life\u201d, Ricardo Navarro",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/destruir-un-bosque-es-atentar-contra-la-vida-ricardo-navarro/",
-        "published_date": "2026-06-15 11:00:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pope Leo XIV deplored the growing poverty in the world",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/papa-leon-xiv-deploro-la-creciente-pobreza-en-el-mundo/",
-        "published_date": "2026-06-15 10:59:55",
+        "title": "Tax authorities report millionaire recovery of funds linked to Credicash",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/autoridades-fiscales-reportan-millonaria-recuperacion-de-fondos-vinculados-a-credicash/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-fiscales-reportan-millonaria-recuperacion-de-fondos-vinculados-a-credicash",
+        "published_date": "2026-06-15 20:07:12",
         "category": "Local Events"
     }
 ]
