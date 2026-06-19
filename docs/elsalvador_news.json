@@ -1,5 +1,12 @@
 [
     {
+        "title": "El Salvador strengthens cooperation ties with Switzerland",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-fortalece-lazos-de-cooperacion-con-suiza/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-fortalece-lazos-de-cooperacion-con-suiza",
+        "published_date": "2026-06-19 03:09:37",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Unions related to the Government defend the removal of El Salvador from the ILO short list",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/sindicatos-afines-al-gobierno-defienden-salida-de-el-salvador-de-la-lista-corta-de-la-oit/",
@@ -61,6 +68,13 @@
         "url": "https://croniosv.com/negocios/empresarial/como-transformar-clientes-en-fans-la-clave-de-aden-y-banco-cuscatlan-para-fortalecer-los-negocios/",
         "published_date": "2026-06-11 22:07:00",
         "category": "Diplomacy"
+    },
+    {
+        "title": "They dismantle a network dedicated to theft and illegal sale of the internet in various areas of the country",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/desarticulan-red-dedicada-al-hurto-y-venta-ilegal-de-internet-en-diversas-zonas-del-pais/",
+        "published_date": "2026-06-19 13:51:30",
+        "category": "Military"
     },
     {
         "title": "They arrest a subject who took advantage of the motorist's carelessness to take a panel",
@@ -196,20 +210,6 @@
         "category": "Military"
     },
     {
-        "title": "June accumulates 15 days free of homicides in El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/junio-acumula-15-dias-libres-de-homicidios-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=junio-acumula-15-dias-libres-de-homicidios-en-el-salvador",
-        "published_date": "2026-06-16 15:06:12",
-        "category": "Military"
-    },
-    {
-        "title": "Assembly approves $9.6 million loan for solar power plant",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/asamblea-aprueba-prestamo-de-9-6-millones-para-planta-de-energia-solar/",
-        "published_date": "2026-06-11 11:01:15",
-        "category": "Energy"
-    },
-    {
         "title": "Government launches program that protects the economy of Salvadorans",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/gobierno-lanza-programa-que-protege-la-economia-de-salvadorenos/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-lanza-programa-que-protege-la-economia-de-salvadorenos",
@@ -294,11 +294,116 @@
         "category": "Economy"
     },
     {
-        "title": "Leo XIV in Barcelona exposing the verticality of forgiveness",
+        "title": "Salvadorans in Italy will have facilities to validate their driver's licenses",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/salvadorenos-en-italia-tendran-facilidades-para-validar-sus-licencias/?utm_source=rss&utm_medium=rss&utm_campaign=salvadorenos-en-italia-tendran-facilidades-para-validar-sus-licencias",
+        "published_date": "2026-06-19 14:06:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador and Italy agree to mutual recognition of driver's licenses",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-e-italia-acuerdan-reconocimiento-mutuo-de-licencias-de-conducir/",
+        "published_date": "2026-06-19 13:03:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "CISPES demands the release of leaders of the National Alliance El Salvador in Peace",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cispes-exige-la-liberacion-de-lideres-de-la-alianza-nacional-el-salvador-en-paz/",
+        "published_date": "2026-06-19 11:06:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Benjam\u00edn Cu\u00e9llar warns about the risks and questions the political direction of the country",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/benjamin-cuellar-advierte-sobre-los-riesgos-y-cuestiona-el-rumbo-politico-del-pais/",
+        "published_date": "2026-06-19 11:05:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unicef \u200b\u200band PRO-VIDA develop health prevention and community strengthening actions",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/unicef-y-pro-vida-desarrollan-acciones-de-prevencion-sanitaria-y-fortalecimiento-comunitario/",
+        "published_date": "2026-06-19 11:04:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ernesto Castro will register in Nuevas Ideas to seek re-election",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ernesto-castro-se-inscribira-en-nuevas-ideas-para-buscar-la-reeleccion/",
+        "published_date": "2026-06-19 11:03:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Assembly authorizes marketing dairy products with powdered milk",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/asamblea-autoriza-comercializar-lacteos-con-leche-en-polvo/",
+        "published_date": "2026-06-19 11:02:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Assembly ratifies intellectual property treaties",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/asamblea-ratifica-tratados-de-propiedad-intelectual/",
+        "published_date": "2026-06-19 11:01:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Higher Labor Council evaluated the positive impact generated by leaving the ILO list",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/consejo-superior-del-trabajo-evaluo-el-impacto-positivo-que-genera-salida-de-la-lista-de-la-oit/",
+        "published_date": "2026-06-19 11:00:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "LET US PROTECT OURSELVES WORTHYLY UNITED;OR WE BURY ALONE",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/protejamonos-dignamente-unidos-o-nos-sepultamos-solos/",
+        "published_date": "2026-06-19 10:59:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "60-day deadline begins to reach permanent US-Iran agreement, says Vance",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comienza-plazo-de-60-dias-para-alcanzar-acuerdo-permanente-eeuu-iran-dice-vance/",
+        "published_date": "2026-06-19 10:58:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba: the defense of the socialist homeland is a priority",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cuba-la-defensa-de-la-patria-socialista-es-prioridad/",
+        "published_date": "2026-06-19 10:57:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "One dead and one injured after slope collapse at construction site in Santa Ana",
         "source": "Cronio",
-        "url": "https://croniosv.com/opinet/leon-xiv-en-barcelona-exponiendo-la-verticalidad-del-perdon/",
-        "published_date": "2026-06-11 01:49:13",
-        "category": "Economy"
+        "url": "https://croniosv.com/nacionales/un-muerto-y-un-lesionado-tras-colapso-de-talud-en-obra-de-construccion-en-santa-ana/",
+        "published_date": "2026-06-19 03:26:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor of San Salvador Centro exposes those who throw garbage in unauthorized places",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/alcalde-de-san-salvador-centro-expone-a-quienes-tiran-basura-en-lugares-no-permitidos/?utm_source=rss&utm_medium=rss&utm_campaign=alcalde-de-san-salvador-centro-expone-a-quienes-tiran-basura-en-lugares-no-permitidos",
+        "published_date": "2026-06-19 03:02:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice Minister Patricia God\u00ednez strengthens cooperation ties with Switzerland",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/viceministra-patricia-godinez-fortalece-lazos-de-cooperacion-con-suiza/",
+        "published_date": "2026-06-19 02:50:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor of San Salvador exposes citizens who continue to throw garbage in unauthorized places",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/alcalde-de-san-salvador-expone-a-ciudadanos-que-siguen-tirando-la-basura-en-lugares-no-autorizados/",
+        "published_date": "2026-06-19 02:30:52",
+        "category": "Local Events"
     },
     {
         "title": "Feminicide sentenced to 50 years in prison",
@@ -326,118 +431,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/rescatan-con-vida-a-persona-que-quedo-soterrada-en-santa-ana-hay-un-fallecido/",
         "published_date": "2026-06-19 00:03:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iv\u00e1n Barton will direct the 2026 World Cup match and will once again represent El Salvador in the biggest football event",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/ivan-barton-dirigira-partido-del-mundial-2026-y-volvera-a-representar-a-el-salvador-en-la-maxima-cita-del-futbol/",
-        "published_date": "2026-06-18 23:58:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "VMT closes two points that offered driving classes without authorization and notifies the FGR",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/vmt-clausura-dos-puntos-que-ofrecian-clases-de-manejo-sin-autorizacion-y-avisa-a-la-fgr/",
-        "published_date": "2026-06-18 23:53:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "They rescue alive a person who was buried in Santa Ana;there is a deceased",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/rescatan-con-vida-a-persona-que-quedo-soterrada-en-santa-ana-hay-un-fallecido/?utm_source=rss&utm_medium=rss&utm_campaign=rescatan-con-vida-a-persona-que-quedo-soterrada-en-santa-ana-hay-un-fallecido",
-        "published_date": "2026-06-18 23:46:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Vozinha''s tears were rewarded: his mother will be able to see him at the World Cup",
-        "source": "Cronio",
-        "url": "https://croniosv.com/hoy-en-la-historia/las-lagrimas-de-vozinha-tuvieron-recompensa-su-madre-podra-verlo-en-el-mundial/",
-        "published_date": "2026-06-18 23:24:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Libertad Sur Mayor's Office warns of sanctions for setting aside parking spaces in Ciudad Merliot",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/alcaldia-de-la-libertad-sur-advierte-sanciones-por-apartar-espacios-de-estacionamiento-en-ciudad-merliot/",
-        "published_date": "2026-06-18 23:17:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supreme Iranian leader grants permission for memorandum with US despite differences",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/lider-irani-supremo-otorga-permiso-para-memorandum-con-eeuu-a-pesar-de-diferencias/",
-        "published_date": "2026-06-18 23:00:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santaneca community cleans area affected by the rains",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/comuna-santaneca-limpia-zona-afectada-por-las-lluvias/?utm_source=rss&utm_medium=rss&utm_campaign=comuna-santaneca-limpia-zona-afectada-por-las-lluvias",
-        "published_date": "2026-06-18 22:50:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador consolidates international trust through dialogue and institutionality",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/el-salvador-consolida-confianza-internacional-mediante-el-dialogo-y-la-institucionalidad/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-consolida-confianza-internacional-mediante-el-dialogo-y-la-institucionalidad",
-        "published_date": "2026-06-18 22:45:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "They investigate the discovery of two deceased people in Santa Ana Centro",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/investigan-hallazgo-de-dos-personas-fallecidas-en-santa-ana-centro/",
-        "published_date": "2026-06-18 22:40:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santaneca community cleans area that was affected by rains",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/comuna-santaneca-limpia-zona-que-fue-afectada-por-lluvias/",
-        "published_date": "2026-06-18 22:29:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "CAM of San Salvador sanctions vehicle owners for occupying a park as parking",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/cam-de-san-salvador-sanciona-a-propietarios-de-vehiculos-por-ocupar-parque-como-estacionamiento/",
-        "published_date": "2026-06-18 22:19:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Street reorganization process carried out in Soyapango",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ejecutan-proceso-de-reordenamiento-de-calles-en-soyapango/",
-        "published_date": "2026-06-18 21:54:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Switzerland wakes up at the end and thrashes Bosnia to lead Group B",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/suiza-despierta-sobre-el-final-y-golea-a-bosnia-para-liderar-el-grupo-b/",
-        "published_date": "2026-06-18 21:46:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rural women will lead debate on investment and sustainable development at the GLI Latam 2026 Forum",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/mujeres-rurales-lideraran-debate-sobre-inversion-y-desarrollo-sostenible-en-el-foro-gli-latam-2026/",
-        "published_date": "2026-06-18 21:42:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "WHAT IS THE TRUE AND REAL VALUE OF BUKELE FOR GRINGOS?",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cual-es-el-verdadero-y-real-valor-de-bukele-para-los-gringos/",
-        "published_date": "2026-06-18 21:39:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran coasts will be affected by spring tides",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/costas-salvadorenas-seran-afectadas-por-mareas-vivas/",
-        "published_date": "2026-06-18 21:37:30",
         "category": "Local Events"
     }
 ]
