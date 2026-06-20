@@ -1,5 +1,12 @@
 [
     {
+        "title": "US Senate takes up issue of political prisoners in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/senado-estadounidense-retoma-tema-de-presos-politicos-en-el-salvador/",
+        "published_date": "2026-06-20 11:05:34",
+        "category": "Diplomacy"
+    },
+    {
         "title": "El Salvador strengthens cooperation ties with Switzerland",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/el-salvador-fortalece-lazos-de-cooperacion-con-suiza/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-fortalece-lazos-de-cooperacion-con-suiza",
@@ -61,6 +68,13 @@
         "url": "https://www.diariocolatino.com/respaldo-sindical-internacional-exige-atencion-a-violaciones-laborales-en-el-salvador/",
         "published_date": "2026-06-12 19:55:20",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Calls grow to keep Strait of Hormuz closed and cancel talks",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/aumentan-los-llamamientos-para-mantener-cerrado-el-estrecho-de-ormuz-y-cancelar-conversaciones/",
+        "published_date": "2026-06-20 10:59:57",
+        "category": "Military"
     },
     {
         "title": "National Navy seizes 6.68 tons of cocaine valued at $167 million",
@@ -196,11 +210,18 @@
         "category": "Military"
     },
     {
-        "title": "Armed Forces win important international shooting competition",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/fuerza-armada-gana-importante-competencia-internacional-de-tiro/?utm_source=rss&utm_medium=rss&utm_campaign=fuerza-armada-gana-importante-competencia-internacional-de-tiro",
-        "published_date": "2026-06-16 20:16:07",
-        "category": "Military"
+        "title": "GOES requests approval of $340 million in loans for water system and road infrastructure",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/goes-pide-aprobacion-de-340-millones-en-prestamos-para-sistema-de-agua-e-infraestructura-vial/",
+        "published_date": "2026-06-20 11:02:10",
+        "category": "Economy"
+    },
+    {
+        "title": "Government requests to incorporate $118 million to 7 public institutions from tax surpluses",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/414955-2/",
+        "published_date": "2026-06-20 11:01:23",
+        "category": "Economy"
     },
     {
         "title": "They lay the first stone of the new \u201cSpace Plaza\u201d",
@@ -294,11 +315,102 @@
         "category": "Economy"
     },
     {
-        "title": "They request the unconstitutionality of the decree that transfers part of the El Espino Farm to CIFCO",
+        "title": "Survey reflects desire for change and greater balance in the Legislative Assembly, says Karina Sosa",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/piden-inconstitucionalidad-del-decreto-que-traslada-parte-de-la-finca-el-espino-para-cifco/",
-        "published_date": "2026-06-12 11:00:35",
-        "category": "Economy"
+        "url": "https://www.diariocolatino.com/encuesta-refleja-deseo-de-cambio-y-mayor-equilibrio-en-la-asamblea-legislativa-afirma-karina-sosa/",
+        "published_date": "2026-06-20 11:04:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "AFP profits soar as doubts grow about the sustainability of the pension system",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ganancias-de-las-afp-se-disparan-mientras-crecen-dudas-sobre-la-sostenibilidad-del-sistema-de-pensiones/",
+        "published_date": "2026-06-20 11:03:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "ILO takes up allegations from unions and keeps under examination complaints of violations of freedom of association in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/oit-retoma-alegatos-de-sindicatos-y-mantiene-bajo-examen-denuncias-de-violaciones-a-la-libertad-sindical-en-el-salvador/",
+        "published_date": "2026-06-20 11:00:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "New economic measures spread in Cuba",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/difunden-en-cuba-nuevas-medidas-economicas/",
+        "published_date": "2026-06-20 10:58:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "The United States is present in the round of 32 and Brazil wins",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/estados-unidos-dice-presente-en-los-dieciseisavos-de-final-del-mundial/",
+        "published_date": "2026-06-20 10:00:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paraguay eliminates Turkey and returns to the fight for qualification",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/paraguay-elimina-a-turquia-y-vuelve-a-la-pelea-por-la-clasificacion/",
+        "published_date": "2026-06-20 06:03:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iv\u00e1n Barton expels Miguel Almir\u00f3n for breaking a new rule in the 2026 World Cup",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/ivan-barton-expulsa-a-miguel-almiron-por-infringir-nueva-regla-en-el-mundial-2026/",
+        "published_date": "2026-06-20 05:30:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iv\u00e1n Barton becomes the first referee to use the new 2026 World Cup rule",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/ivan-barton-se-convierte-en-el-primer-arbitro-en-usar-la-nueva-regla-del-mundial-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ivan-barton-se-convierte-en-el-primer-arbitro-en-usar-la-nueva-regla-del-mundial-2026",
+        "published_date": "2026-06-20 04:23:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eleven people are injured after a road accident on the Pan-American Highway",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/once-personas-resultan-lesionadas-tras-percance-vial-en-carretera-panamericana/?utm_source=rss&utm_medium=rss&utm_campaign=once-personas-resultan-lesionadas-tras-percance-vial-en-carretera-panamericana",
+        "published_date": "2026-06-20 04:17:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil redeems itself with a win over Haiti and takes the top of Group C",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/brasil-se-redime-con-goleada-sobre-haiti-y-toma-la-cima-del-grupo-c/",
+        "published_date": "2026-06-20 04:10:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil imposes its offensive power and defeats Haiti with authority",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/brasil-impone-su-poder-ofensivo-y-vence-con-autoridad-a-haiti/?utm_source=rss&utm_medium=rss&utm_campaign=brasil-impone-su-poder-ofensivo-y-vence-con-autoridad-a-haiti",
+        "published_date": "2026-06-20 03:47:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities arrest young man with marijuana, money and objects during procedure",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/autoridades-detienen-a-joven-con-marihuana-dinero-y-objetos-durante-procedimiento/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-detienen-a-joven-con-marihuana-dinero-y-objetos-durante-procedimiento",
+        "published_date": "2026-06-20 03:36:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "An early goal was enough for Morocco to beat Scotland",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/un-gol-tempranero-le-basto-a-marruecos-para-vencer-a-escocia/?utm_source=rss&utm_medium=rss&utm_campaign=un-gol-tempranero-le-basto-a-marruecos-para-vencer-a-escocia",
+        "published_date": "2026-06-20 00:40:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "The World Cup dream come true with the FEDECR\u00c9DITO SYSTEM: delivery of two double packages for the 2026 FIFA World Cup",
+        "source": "Cronio",
+        "url": "https://croniosv.com/negocios/empresarial/el-sueno-mundialista-hecho-realidad-con-el-sistema-fedecredito-entrega-de-dos-paquetes-dobles-para-la-copa-mundial-de-la-fifa-2026/",
+        "published_date": "2026-06-20 00:23:12",
+        "category": "Local Events"
     },
     {
         "title": "Fedecr\u00e9dito delivers two double packages for two World Cup matches",
@@ -340,104 +452,6 @@
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/proyectos-canal-de-nicaragua-y-panama/",
         "published_date": "2026-06-19 23:18:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atl\u00e9tico Balboa announces agreement to acquire First Division category",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/atletico-balboa-anuncia-acuerdo-para-adquirir-categoria-de-primera-division/",
-        "published_date": "2026-06-19 23:17:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States is second in the round of 32",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/estados-unidos-es-el-segundo-clasificado-a-dieciseisavos-de-final/",
-        "published_date": "2026-06-19 23:15:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "The World Cup dream come true with the Fedecr\u00e9dito System: delivery of two double packages for the 2026 FIFA World Cup",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/el-sueno-mundialista-hecho-realidad-con-el-sistema-fedecredito-entrega-de-dos-paquetes-dobles-para-la-copa-mundial-de-la-fifa-2026/",
-        "published_date": "2026-06-19 22:50:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "The hosts advance: the United States gets a ticket to the next round",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/los-anfitriones-avanzan-estados-unidos-saca-boleto-a-la-siguiente-ronda/?utm_source=rss&utm_medium=rss&utm_campaign=los-anfitriones-avanzan-estados-unidos-saca-boleto-a-la-siguiente-ronda",
-        "published_date": "2026-06-19 22:42:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "United States secures qualification to the next round of the 2026 World Cup",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/estados-unidos-asegura-clasificacion-a-la-siguiente-ronda-del-mundial-2026/",
-        "published_date": "2026-06-19 22:28:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States advances to the next round of the 2026 World Cup after beating Australia 2-0",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/estados-unidos-avanza-a-la-siguiente-ronda-del-mundial-2026-tras-vencer-2-0-a-australia/",
-        "published_date": "2026-06-19 22:06:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Apopa driver goes viral after revealing that he has 33 children with different women",
-        "source": "Cronio",
-        "url": "https://croniosv.com/redes/virales/conductor-de-apopa-se-hace-viral-tras-revelar-que-tiene-33-hijos-con-diferentes-mujeres/",
-        "published_date": "2026-06-19 21:56:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Municipality delivers construction materials for works to communities in Santa Ana Centro",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/municipalidad-entrega-a-comunidades-de-santa-ana-centro-materiales-de-construccion-para-obras/?utm_source=rss&utm_medium=rss&utm_campaign=municipalidad-entrega-a-comunidades-de-santa-ana-centro-materiales-de-construccion-para-obras",
-        "published_date": "2026-06-19 21:46:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "CAM of San Salvador removes obstacles placed on public roads in Escal\u00f3n",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/cam-de-san-salvador-retira-obstaculos-colocados-en-la-via-publica-en-la-escalon/",
-        "published_date": "2026-06-19 21:41:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Communities of Santa Ana Centro benefit from 1,200 bags of cement",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/comunidades-de-santa-ana-centro-son-beneficiadas-con-1200-bolsas-de-cemento/",
-        "published_date": "2026-06-19 21:36:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor's Office of La Libertad Sur removes abandoned vehicles that occupied public spaces",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/alcaldia-de-la-libertad-sur-retira-vehiculos-abandonados-que-ocupaban-espacios-publicos/",
-        "published_date": "2026-06-19 21:36:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "VIDEO |Driver fined for using unauthorized sirens and driving on the shoulder of the road",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/video-multan-a-conductor-por-usar-sirenas-no-autorizadas-y-circular-sobre-el-hombro-de-la-carretera/",
-        "published_date": "2026-06-19 21:18:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ministry of Public Works reports progress in the Los Chorros project",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ministerio-de-obras-publicas-reporta-avances-en-proyecto-de-los-chorros/?utm_source=rss&utm_medium=rss&utm_campaign=ministerio-de-obras-publicas-reporta-avances-en-proyecto-de-los-chorros",
-        "published_date": "2026-06-19 20:37:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Expansion and paving work progresses on the Pan-American Highway in Los Chorros",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/avanzan-trabajos-de-ampliacion-y-pavimentacion-en-la-carretera-panamericana-en-los-chorros/",
-        "published_date": "2026-06-19 20:35:24",
         "category": "Local Events"
     }
 ]
