@@ -1,5 +1,12 @@
 [
     {
+        "title": "\u201cEl Salvador is a guarantee of security in the region\u201d, Chancellor of Italy, Antonio Tajani",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-es-una-garantia-de-seguridad-en-la-region-canciller-de-italia-antonio-tajani/",
+        "published_date": "2026-06-22 17:05:18",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Panama receives foreign ministers from the continent for the 56th General Assembly of the OAS",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/06/panama-recibe-a-cancilleres-del-continente-para-la-56-a-asamblea-general-de-la-oea/",
@@ -75,6 +82,41 @@
         "url": "https://www.diariocolatino.com/caravana-mesoamericana-denuncia-ante-relatora-de-la-onu-impactos-climaticos-y-violaciones-a-ddhh-en-centroamerica/",
         "published_date": "2026-06-16 11:01:13",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Provisional arrest ordered against accused of dangerous driving in Santa Ana",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ordenan-detencion-provisional-contra-acusado-de-conduccion-peligrosa-en-santa-ana/",
+        "published_date": "2026-06-22 21:46:44",
+        "category": "Military"
+    },
+    {
+        "title": "DATAPLEX joins the Trusted Operator Program and strengthens its global projection",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/dataplex-se-incorpora-al-programa-de-operador-confiable-y-fortalece-su-proyeccion-global/?utm_source=rss&utm_medium=rss&utm_campaign=dataplex-se-incorpora-al-programa-de-operador-confiable-y-fortalece-su-proyeccion-global",
+        "published_date": "2026-06-22 20:13:29",
+        "category": "Military"
+    },
+    {
+        "title": "Montreal shooting leaves three dead, including suspect",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/tiroteo-en-montreal-deja-tres-muertos-incluido-el-sospechoso/",
+        "published_date": "2026-06-22 19:54:34",
+        "category": "Military"
+    },
+    {
+        "title": "Armed attack in Guazapa leaves eight injured",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ataque-armado-en-guazapa-deja-ocho-heridos/",
+        "published_date": "2026-06-22 18:58:12",
+        "category": "Military"
+    },
+    {
+        "title": "PHOTOS \u2013 VIDEO |Vehicle used in Guazapa shooting is located by the PNC",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/fotos-video-vehiculo-usado-en-balacera-de-guazapa-es-localizado-por-la-pnc/",
+        "published_date": "2026-06-22 18:18:36",
+        "category": "Military"
     },
     {
         "title": "They locate a vehicle used in an armed attack in Guazapa, those responsible remain at large",
@@ -182,39 +224,18 @@
         "category": "Military"
     },
     {
-        "title": "They rescue two dogs in abandoned conditions in the Iberia Community",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/rescatan-a-dos-perros-en-condiciones-de-abandono-en-la-comunidad-iberia/",
-        "published_date": "2026-06-20 22:02:42",
-        "category": "Military"
-    },
-    {
-        "title": "They investigate a company after a work accident that left a person dead in Santa Ana",
+        "title": "Fuel prices in El Salvador will remain unchanged",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/investigan-a-empresa-tras-accidente-laboral-que-dejo-un-fallecido-en-santa-ana/",
-        "published_date": "2026-06-20 21:42:22",
-        "category": "Military"
+        "url": "https://croniosv.com/nacionales/economia/precios-de-los-combustibles-en-el-salvador-se-mantendran-sin-cambios/",
+        "published_date": "2026-06-22 20:17:41",
+        "category": "Energy"
     },
     {
-        "title": "President Bukele highlights reduction in homicides with graph on security in El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-destaca-reduccion-de-homicidios-con-grafica-sobre-seguridad-en-el-salvador/",
-        "published_date": "2026-06-20 20:33:30",
-        "category": "Military"
-    },
-    {
-        "title": "President Bukele summarizes the transformation of security in El Salvador in a graphic",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/presidente-bukele-resume-en-una-grafica-la-transformacion-de-la-seguridad-en-el-salvador/",
-        "published_date": "2026-06-20 20:29:38",
-        "category": "Military"
-    },
-    {
-        "title": "President Bukele shares graph on the evolution of security in the country",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/presidente-bukele-comparte-grafica-sobre-la-evolucion-de-la-seguridad-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-comparte-grafica-sobre-la-evolucion-de-la-seguridad-en-el-pais",
-        "published_date": "2026-06-20 20:06:36",
-        "category": "Military"
+        "title": "For the third time, fuel will remain at the same price",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/por-tercera-ocasion-el-combustible-se-mantendra-con-el-mismo-precio/",
+        "published_date": "2026-06-22 18:41:09",
+        "category": "Energy"
     },
     {
         "title": "Fuel prices will remain unchanged until the beginning of July",
@@ -229,6 +250,20 @@
         "url": "https://diariolahuella.com/precios-de-los-combustibles-se-mantendran-sin-cambio-hasta-inicios-de-julio/",
         "published_date": "2026-06-22 15:07:49",
         "category": "Energy"
+    },
+    {
+        "title": "Government will promote improvements in San Salvador's water system and new road works",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/gobierno-impulsara-mejoras-en-el-sistema-de-agua-de-san-salvador-y-nuevas-obras-viales/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-impulsara-mejoras-en-el-sistema-de-agua-de-san-salvador-y-nuevas-obras-viales",
+        "published_date": "2026-06-22 20:38:57",
+        "category": "Economy"
+    },
+    {
+        "title": "Loan with CABEI would allow improving drinking water supply in San Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/prestamo-con-el-bcie-permitiria-mejorar-abastecimiento-de-agua-potable-en-san-salvador/",
+        "published_date": "2026-06-22 20:26:41",
+        "category": "Economy"
     },
     {
         "title": "GOES requests approval of $340 million in loans for water system and road infrastructure",
@@ -329,143 +364,143 @@
         "category": "Economy"
     },
     {
-        "title": "De la Espriella celebrates the beginning of a \"new era\" in Colombia",
+        "title": "Salvadoran softball team will participate in the first edition of the Villahermosa Cup 2026, Mexico",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/seleccion-salvadorena-de-softbol-participara-en-primera-edicion-de-la-copa-villahermosa-2026-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=seleccion-salvadorena-de-softbol-participara-en-primera-edicion-de-la-copa-villahermosa-2026-mexico",
+        "published_date": "2026-06-23 00:07:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Women's softball team will participate in the 2026 Villahermosa Cup in Mexico",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/seleccion-femenina-de-softbol-participara-en-la-copa-villahermosa-2026-en-mexico/",
+        "published_date": "2026-06-22 23:55:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cultura Prof\u00e9tica returns to El Salvador with its \u201c2026 Tour\u201d: Pre-sale dates and ticket prices revealed",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/de-la-espriella-celebra-el-inicio-de-una-nueva-era-en-colombia/",
-        "published_date": "2026-06-22 15:51:20",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/cultura-profetica-regresa-a-el-salvador-con-su-2026-tour-se-revelan-fechas-de-preventa-y-precios-de-localidades/",
+        "published_date": "2026-06-22 23:30:47",
         "category": "Local Events"
     },
     {
-        "title": "Marcelo Ar\u00e9valo conquers Queen's Club and adds another prestigious title to his career",
+        "title": "The Church and the possibility of \u201cbeing 12 again\u201d",
+        "source": "Cronio",
+        "url": "https://croniosv.com/opinet/la-iglesia-y-la-posibilidad-de-volver-a-ser-12/",
+        "published_date": "2026-06-22 23:06:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bad Bunny's success transcends music and reaches new industries",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/jetset/el-exito-de-bad-bunny-trasciende-la-musica-y-alcanza-nuevas-industrias/",
+        "published_date": "2026-06-22 22:52:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Emergencies reported in the La Gran V\u00eda shopping center;There is no official information about",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/reportan-emergencias-en-el-centro-comercial-la-gran-via-no-hay-informacion-oficial-sobre/?utm_source=rss&utm_medium=rss&utm_campaign=reportan-emergencias-en-el-centro-comercial-la-gran-via-no-hay-informacion-oficial-sobre",
+        "published_date": "2026-06-22 22:51:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lord Kavalier presents its Headquarters: a space where style converges.well-being and technology for the modern man",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/marcelo-arevalo-conquista-queens-club-y-suma-otro-titulo-de-prestigio-a-su-carrera/",
-        "published_date": "2026-06-22 15:38:07",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/lord-kavalier-presenta-su-casa-matriz-un-espacio-donde-convergen-estilo-bienestar-y-tecnologia-para-el-hombre-moderno/",
+        "published_date": "2026-06-22 22:47:14",
         "category": "Local Events"
     },
     {
-        "title": "Video|The teacher who never stopped believing and has dedicated 34 years to training generations of Salvadorans",
+        "title": "Oliver Tree's last will revealed after his death in a plane crash in Brazil",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/jetset/revelan-la-ultima-voluntad-de-oliver-tree-tras-su-muerte-en-accidente-aereo-en-brasil/",
+        "published_date": "2026-06-22 22:34:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "A TEACHER NEVER STOP BEING A TEACHER, EVEN IN DIFFICULT TIMES",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/un-maestro-nunca-deja-de-ser-maestro-aun-en-tiempos-dificiles/",
+        "published_date": "2026-06-22 22:31:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lionel Messi breaks historical record and becomes the top scorer of the World Cup",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/lionel-messi-rompe-record-historico-y-se-convierte-en-el-maximo-goleador-de-los-mundiales/",
+        "published_date": "2026-06-22 22:24:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trial advances against MS leaders for homicide cases",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/avanza-juicio-contra-cabecillas-de-la-ms-por-casos-de-homicidios/?utm_source=rss&utm_medium=rss&utm_campaign=avanza-juicio-contra-cabecillas-de-la-ms-por-casos-de-homicidios",
+        "published_date": "2026-06-22 22:11:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "FGR presents final arguments in trial against 485 leaders of the MS",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/video-la-maestra-que-nunca-dejo-de-creer-y-ha-dedicado-34-anos-a-formar-generaciones-de-salvadorenos/",
-        "published_date": "2026-06-22 15:13:20",
+        "url": "https://diariolahuella.com/fgr-presenta-alegatos-finales-en-juicio-contra-485-cabecillas-de-la-ms/",
+        "published_date": "2026-06-22 22:10:59",
         "category": "Local Events"
     },
     {
-        "title": "El Salvador celebrates its champions of the Claro 2026 Super League",
+        "title": "Juli\u00e1n Alvarez: \u201cThe best thing for everyone is a transfer and I want to fulfill my dream\u201d",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/el-salvador-celebra-a-sus-campeones-de-la-super-liga-claro-2026/",
-        "published_date": "2026-06-22 15:05:35",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/julian-alvarez-lo-mejor-para-todos-es-una-transferencia-y-quiero-cumplir-mi-sueno/",
+        "published_date": "2026-06-22 22:00:53",
         "category": "Local Events"
     },
     {
-        "title": "From teaching with what there was to seeing new opportunities for her students: the story of Marisela Hern\u00e1ndez",
+        "title": "La Selecta will face Los Angeles FC in an international friendly",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/de-ensenar-con-lo-que-habia-a-ver-nuevas-oportunidades-para-sus-alumnos-la-historia-de-marisela-hernandez/?utm_source=rss&utm_medium=rss&utm_campaign=de-ensenar-con-lo-que-habia-a-ver-nuevas-oportunidades-para-sus-alumnos-la-historia-de-marisela-hernandez",
-        "published_date": "2026-06-22 15:04:11",
+        "url": "https://lapagina.com.sv/deportes/la-selecta-enfrentara-a-los-angeles-fc-en-amistoso-internacional/?utm_source=rss&utm_medium=rss&utm_campaign=la-selecta-enfrentara-a-los-angeles-fc-en-amistoso-internacional",
+        "published_date": "2026-06-22 22:00:23",
         "category": "Local Events"
     },
     {
-        "title": "New Rosales Hospital has advanced technology to care for complex cases",
+        "title": "Man accused of driving under the influence of alcohol captured in Santa Ana",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/nuevo-hospital-rosales-cuenta-con-tecnologia-avanzada-para-atender-casos-complejos/?utm_source=rss&utm_medium=rss&utm_campaign=nuevo-hospital-rosales-cuenta-con-tecnologia-avanzada-para-atender-casos-complejos",
-        "published_date": "2026-06-22 14:55:13",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-hombre-acusado-de-manejar-bajo-los-efectos-del-alcohol-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-hombre-acusado-de-manejar-bajo-los-efectos-del-alcohol-en-santa-ana",
+        "published_date": "2026-06-22 21:48:15",
         "category": "Local Events"
     },
     {
-        "title": "New Rosales Hospital has advanced technology to handle more complex cases",
+        "title": "F\u00e9lix Ulloa reaffirms El Salvador's commitment to regional integration in Panama",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/felix-ulloa-reafirma-compromiso-de-el-salvador-con-la-integracion-regional-en-panama/",
+        "published_date": "2026-06-22 21:12:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador highlights vision of Central American unity during summit of the Bicentennial of the Amphictyonic Congress",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-destaca-vision-de-unidad-centroamericana-durante-cumbre-del-bicentenario-del-congreso-anfictionico/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-destaca-vision-de-unidad-centroamericana-durante-cumbre-del-bicentenario-del-congreso-anfictionico",
+        "published_date": "2026-06-22 21:08:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador reaffirms commitment to regional integration at commemorative summit in Panama",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/nuevo-hospital-rosales-cuenta-con-tecnologia-avanzada-para-atender-casos-de-mayor-complejidad/",
-        "published_date": "2026-06-22 14:54:51",
+        "url": "https://diariolahuella.com/el-salvador-reafirma-compromiso-con-la-integracion-regional-en-cumbre-conmemorativa-en-panama/",
+        "published_date": "2026-06-22 20:50:00",
         "category": "Local Events"
     },
     {
-        "title": "Rains with electrical activity in the afternoon and evening of this Monday",
+        "title": "Government of El Salvador promotes modern hospital network with comprehensive care",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/lluvias-con-actividad-electrica-en-la-tarde-y-noche-de-este-lunes/?utm_source=rss&utm_medium=rss&utm_campaign=lluvias-con-actividad-electrica-en-la-tarde-y-noche-de-este-lunes",
-        "published_date": "2026-06-22 14:54:06",
+        "url": "https://lapagina.com.sv/nacionales/gobierno-de-el-salvador-impulsa-red-hospitalaria-moderna-con-atencion-integral/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-de-el-salvador-impulsa-red-hospitalaria-moderna-con-atencion-integral",
+        "published_date": "2026-06-22 20:42:39",
         "category": "Local Events"
     },
     {
-        "title": "The largest contingent of Salvadoran workers will travel to Canada under the Labor Migration Program",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-mayor-contingente-de-trabajadores-salvadorenos-viajara-a-canada-bajo-el-programa-de-migracion-laboral/",
-        "published_date": "2026-06-22 14:51:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rains with electrical activity in the afternoon and evening of this Monday",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/lluvias-con-actividad-electrica-en-la-tarde-y-noche-de-este-lunes/",
-        "published_date": "2026-06-22 14:43:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "From El Salvador to Canada: workers will begin a new stage far from home",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/de-el-salvador-a-canada-trabajadores-iniciaran-una-nueva-etapa-lejos-de-casa/?utm_source=rss&utm_medium=rss&utm_campaign=de-el-salvador-a-canada-trabajadores-iniciaran-una-nueva-etapa-lejos-de-casa",
-        "published_date": "2026-06-22 14:23:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Technology and surveillance protect spaces where children and families live together in San Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/tecnologia-y-vigilancia-protegen-espacios-donde-ninos-y-familias-conviven-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=tecnologia-y-vigilancia-protegen-espacios-donde-ninos-y-familias-conviven-en-san-salvador",
-        "published_date": "2026-06-22 14:15:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sivar Seguro intervenes on a subject who was consuming alcohol while children were playing in Plaza San Jos\u00e9",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/sivar-seguro-interviene-a-sujeto-que-consumia-alcohol-mientras-ninos-jugaban-en-la-plaza-san-jose/",
-        "published_date": "2026-06-22 14:03:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iv\u00e1n Barton will once again direct a.World cup 2026 game!",
+        "title": "VMT enables two-way traffic on El Matazano street to speed up traffic in Soyapango",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/ivan-barton-volvera-a-dirigir-un-juego-de-la-copa-del-mundo-2026/",
-        "published_date": "2026-06-22 13:47:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cultural Center of Spain will close June with a musical fusion",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/centro-cultural-de-espana-cerrara-junio-con-una-fusion-musical/",
-        "published_date": "2026-06-22 12:01:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "COFAPPES holds mass in solidarity with Enrique Anaya and demands his release",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cofappes-realiza-misa-en-solidaridad-con-enrique-anaya-y-exige-su-liberacion/",
-        "published_date": "2026-06-22 11:05:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe were preparing to take care of him and three days later he was captured\u201d: daughter of Atilio Montalvo",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/nos-preparabamos-para-cuidarlo-y-tres-dias-despues-fue-capturado-hija-de-atilio-montalvo/",
-        "published_date": "2026-06-22 11:04:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "They point to the weakening of ECOS and primary care",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/senalan-debilitamiento-de-los-ecos-y-atencion-primaria/",
-        "published_date": "2026-06-22 11:03:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Job Fair \u201cUsuEmpleo\u201d offered more than 130 job positions in Usulut\u00e1n",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/feria-de-empleo-usuempleo-ofrecio-mas-de-130-plazas-laborales-en-usulutan/",
-        "published_date": "2026-06-22 11:02:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "PROLECHE expresses concern about reform that allows dairy products to be produced with powdered milk",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/proleche-expresa-preocupacion-por-reforma-que-permite-producir-lacteos-con-leche-en-polvo/",
-        "published_date": "2026-06-22 11:00:51",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/vmt-habilita-doble-sentido-en-calle-el-matazano-para-agilizar-el-transito-en-soyapango/",
+        "published_date": "2026-06-22 20:26:33",
         "category": "Local Events"
     }
 ]
