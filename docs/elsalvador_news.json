@@ -1,5 +1,26 @@
 [
     {
+        "title": "CONADESA warns that labor concerns persist despite the ILO decision",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/conadesa-advierte-que-persisten-preocupaciones-laborales-pese-a-decision-de-la-oit/",
+        "published_date": "2026-06-24 11:04:26",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "El Salvador and the Holy See strengthen diplomatic relations",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/el-salvador-y-la-santa-sede-fortalecen-relaciones-diplomaticas/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-la-santa-sede-fortalecen-relaciones-diplomaticas",
+        "published_date": "2026-06-24 01:43:30",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "El Salvador strengthens diplomatic relations with the Holy See after meeting with new apostolic nuncio",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-fortalece-relaciones-diplomaticas-con-la-santa-sede-tras-encuentro-con-nuevo-nuncio-apostolico/",
+        "published_date": "2026-06-24 01:35:13",
+        "category": "Diplomacy"
+    },
+    {
         "title": "No plans for IAEA to inspect Iran's damaged nuclear facilities",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/no-hay-planes-para-que-el-oiea-inspeccione-las-instalaciones-nucleares-danadas-de-iran/",
@@ -105,11 +126,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Mesoamerican Caravan denounces climate impacts and human rights violations in Central America before the UN rapporteur",
+        "title": "US Senate approves resolution to curb Trump's war powers against Iran",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/caravana-mesoamericana-denuncia-ante-relatora-de-la-onu-impactos-climaticos-y-violaciones-a-ddhh-en-centroamerica/",
-        "published_date": "2026-06-16 11:01:13",
-        "category": "Diplomacy"
+        "url": "https://www.diariocolatino.com/senado-de-eeuu-aprueba-resolucion-para-frenar-poderes-de-guerra-de-trump-contra-iran/",
+        "published_date": "2026-06-24 10:59:42",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a young man with drugs and cash during an operation in Soyapango",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-joven-con-droga-y-dinero-en-efectivo-durante-operativo-en-soyapango/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-joven-con-droga-y-dinero-en-efectivo-durante-operativo-en-soyapango",
+        "published_date": "2026-06-24 05:07:39",
+        "category": "Military"
+    },
+    {
+        "title": "Subject captured for possession of drugs for trafficking purposes in Soyapango",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-sujeto-por-posesion-de-droga-con-fines-de-trafico-en-soyapango/",
+        "published_date": "2026-06-24 04:48:26",
+        "category": "Military"
     },
     {
         "title": "Salvadoran dies in conflict zone in Ukraine",
@@ -231,27 +266,6 @@
         "category": "Military"
     },
     {
-        "title": "Social networks: dissemination, reporting, awareness and organization",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/las-redes-sociales-la-difusion-la-denuncia-la-concienciacion-y-la-organizacion/",
-        "published_date": "2026-06-22 10:59:53",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a subject accused of abusing a minor",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-sujeto-acusado-de-abusar-de-una-menor-de-edad/",
-        "published_date": "2026-06-22 01:02:32",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a young girl for injuring a man with a beer container in La Libertad Costa",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-jovencita-por-lesionar-a-un-hombre-con-un-envase-de-cerveza-en-la-libertad-costa/",
-        "published_date": "2026-06-21 23:27:22",
-        "category": "Military"
-    },
-    {
         "title": "Fuel prices will maintain prices for another fortnight",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/combustibles-mantendran-precio-una-quincena-mas/",
@@ -285,6 +299,13 @@
         "url": "https://diariolahuella.com/precios-de-los-combustibles-se-mantendran-sin-cambio-hasta-inicios-de-julio/",
         "published_date": "2026-06-22 15:07:49",
         "category": "Energy"
+    },
+    {
+        "title": "Deputies agree to allocate $118 million to seven public institutions",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diputados-acuerdan-asignar-118-millones-a-siete-instituciones-publicas/",
+        "published_date": "2026-06-24 11:01:12",
+        "category": "Economy"
     },
     {
         "title": "Proposal to reduce labor informality is already in the hands of the president, says Rolando Castro",
@@ -399,11 +420,130 @@
         "category": "Economy"
     },
     {
-        "title": "Commission approves $1.4 million for Education and Agriculture",
+        "title": "The shirt that Iker Casillas wore in the 2010 World Cup final disappears",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/desaparece-la-camiseta-que-iker-casillas-utilizo-en-la-final-del-mundial-de-2010/",
+        "published_date": "2026-06-24 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "In Berlin, Usulut\u00e1n they celebrate the Summer Solstice ceremony",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/comision-aprueba-1-4-millones-para-educacion-y-agricultura/",
-        "published_date": "2026-06-16 11:02:14",
-        "category": "Economy"
+        "url": "https://www.diariocolatino.com/en-berlin-usulutan-celebran-ceremonia-del-solsticio-de-verano/",
+        "published_date": "2026-06-24 11:06:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "MAG, ASILECHE and ASI in favor of dairy products based on powdered milk",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/mag-asileche-asi-a-favor-lacteos-leche-polvo/",
+        "published_date": "2026-06-24 11:05:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Franciscan friars call for unity to defend the 'Common Home'",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/frailes-franciscanos-llaman-a-la-unidad-para-defender-la-casa-comun/",
+        "published_date": "2026-06-24 11:00:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "SANTA MARTA",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/santa-marta/",
+        "published_date": "2026-06-24 10:59:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Qalibaf and Araqchi hold talks with the Sultan of Oman on the Strait of Hormuz",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/qalibaf-y-araqchi-mantienen-conversaciones-con-el-sultan-de-oman-sobre-estrecho-de-ormuz/",
+        "published_date": "2026-06-24 10:57:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "FMLN chooses July 26 as the new date for its internal elections",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fmln-elige-el-26-de-julio-como-nueva-fecha-para-sus-elecciones-internas/",
+        "published_date": "2026-06-24 10:03:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Portugal dispels doubts with a win and Cristiano's record",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/portugal-disipa-dudas-con-goleada-y-record-de-cristiano/",
+        "published_date": "2026-06-24 10:00:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia beats Congo and ensures its classification to the next round of the World Cup",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/colombia-supera-a-congo-y-asegura-su-clasificacion-a-la-siguiente-ronda-del-mundial/?utm_source=rss&utm_medium=rss&utm_campaign=colombia-supera-a-congo-y-asegura-su-clasificacion-a-la-siguiente-ronda-del-mundial",
+        "published_date": "2026-06-24 05:25:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia defeats the Democratic Republic of the Congo and secures its classification",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/colombia-vence-a-republica-democratica-del-congo-y-asegura-su-clasificacion/",
+        "published_date": "2026-06-24 05:21:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "They carry out preventive cleaning of gutters and gutters due to the recent rains in San Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/realizan-limpieza-preventiva-de-tragantes-y-cunetas-ante-las-recientes-lluvias-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=realizan-limpieza-preventiva-de-tragantes-y-cunetas-ante-las-recientes-lluvias-en-san-salvador",
+        "published_date": "2026-06-24 05:14:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorcyclist is injured after a serious road accident in San Mart\u00edn",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/motociclista-resulta-lesionado-tras-fuerte-percance-vial-en-san-martin/?utm_source=rss&utm_medium=rss&utm_campaign=motociclista-resulta-lesionado-tras-fuerte-percance-vial-en-san-martin",
+        "published_date": "2026-06-24 04:59:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court of Accounts modernizes the notification with the update of data from public servers",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/corte-de-cuentas-moderniza-la-notificacion-con-la-actualizacion-de-datos-de-servidores-publicos/",
+        "published_date": "2026-06-24 03:04:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Extensive maneuver ends with a minibus inside a restaurant",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/aparatosa-maniobra-termina-con-un-microbus-dentro-de-un-restaurante/",
+        "published_date": "2026-06-24 01:34:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "CAM removes obstacles installed without authorization on Paseo General Escal\u00f3n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/cam-retira-obstaculos-instalados-sin-autorizacion-sobre-el-paseo-general-escalon/",
+        "published_date": "2026-06-24 01:19:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "FMLN reschedules internal elections for July 26, 2026",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/fmln-reprograma-elecciones-internas-para-el-26-de-julio-de-2026/?utm_source=rss&utm_medium=rss&utm_campaign=fmln-reprograma-elecciones-internas-para-el-26-de-julio-de-2026",
+        "published_date": "2026-06-24 00:29:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santa Tecla Mayor's Office issues more than 100 notices for abandoned vehicles this year",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/alcaldia-de-santa-tecla-emite-mas-de-100-avisos-por-vehiculos-abandonados-durante-este-ano/",
+        "published_date": "2026-06-24 00:19:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two people are injured after a motorcycle accident on Constituci\u00f3n Boulevard",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/dos-personas-resultan-lesionadas-tras-accidente-en-motocicleta-sobre-el-boulevard-constitucion/?utm_source=rss&utm_medium=rss&utm_campaign=dos-personas-resultan-lesionadas-tras-accidente-en-motocicleta-sobre-el-boulevard-constitucion",
+        "published_date": "2026-06-24 00:10:01",
+        "category": "Local Events"
     },
     {
         "title": "The lions did not roar: England drew goalless against Ghana",
@@ -417,132 +557,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/inglaterra-y-ghana-no-lograron-romper-el-cero-y-ambos-suman-4-puntos/",
         "published_date": "2026-06-23 23:29:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ghana resists England and scores a valuable draw",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ghana-resiste-a-inglaterra-y-suma-un-valioso-empate/",
-        "published_date": "2026-06-23 23:10:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Coca-Cola and Michelob Ultra announce GOOOL FEST the official space to experience the excitement of the 2026 FIFA World Cup\u2122 in El Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/coca-cola-y-michelob-ultra-anuncian-goool-fest-el-espacio-oficial-para-vivir-la-emocion-de-la-copa-mundial-de-la-fifa-2026-en-el-salvador/",
-        "published_date": "2026-06-23 23:06:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "CAM of La Libertad Sur removes obstacles from public roads in different sectors of the municipality",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/cam-de-la-libertad-sur-retira-obstaculos-de-la-via-publica-en-distintos-sectores-del-municipio/",
-        "published_date": "2026-06-23 22:52:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "CAM San Salvador removes 19 obstacles installed without authorization on Paseo General Escal\u00f3n",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/cam-san-salvador-retira-19-obstaculos-instalados-sin-autorizacion-en-el-paseo-general-escalon/",
-        "published_date": "2026-06-23 22:48:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is the Congo fan who remains motionless during the matches and who will be at the World Cup for the first time today?",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/quien-es-el-hincha-de-congo-que-permanece-inmovil-durante-los-partidos-y-que-estara-hoy-por-primera-vez-en-el-mundial/",
-        "published_date": "2026-06-23 22:43:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Canine binomial discovers drugs hidden in a vehicle during an operation at the Las Chinamas border",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/binomio-canino-descubre-droga-oculta-en-vehiculo-durante-operativo-en-frontera-las-chinamas/",
-        "published_date": "2026-06-23 21:25:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Up to 45 years in prison for 172 MS gang members who operated in Chalatenango",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/hasta-45-anos-de-prision-para-172-pandilleros-de-la-ms-que-operaban-en-chalatenango/?utm_source=rss&utm_medium=rss&utm_campaign=hasta-45-anos-de-prision-para-172-pandilleros-de-la-ms-que-operaban-en-chalatenango",
-        "published_date": "2026-06-23 21:25:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Works advance in Los Chorros with the removal of temporary protection structures",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/avanzan-las-obras-en-los-chorros-con-el-retiro-de-estructuras-de-proteccion-temporal/?utm_source=rss&utm_medium=rss&utm_campaign=avanzan-las-obras-en-los-chorros-con-el-retiro-de-estructuras-de-proteccion-temporal",
-        "published_date": "2026-06-23 21:19:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government already has a list of proposals to promote the transition of thousands of Salvadorans from informality to formality",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-ya-tiene-lista-propuesta-para-impulsar-el-paso-de-miles-de-salvadorenos-de-la-informalidad-a-la-formalidad/",
-        "published_date": "2026-06-23 21:11:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "172 members of the MS are sentenced to up to 45 years in prison",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/condenan-a-172-miembros-de-la-ms-con-penas-de-hasta-45-anos-de-prision/",
-        "published_date": "2026-06-23 21:11:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Firefighters warn of the presence of snakes in homes and public spaces during the rainy season",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/bomberos-alerta-por-presencia-de-serpientes-en-viviendas-y-espacios-publicos-durante-la-epoca-lluviosa/?utm_source=rss&utm_medium=rss&utm_campaign=bomberos-alerta-por-presencia-de-serpientes-en-viviendas-y-espacios-publicos-durante-la-epoca-lluviosa",
-        "published_date": "2026-06-23 21:06:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 460 snakes have been captured by Firefighters during 2026",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/mas-de-460-serpientes-han-sido-capturadas-por-bomberos-durante-2026/",
-        "published_date": "2026-06-23 21:06:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "CR7 makes history and Portugal beats Uzbekistan 5-0 in the 2026 World Cup",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/cr7-hace-historia-y-portugal-golea-5-0-a-uzbekistan-en-el-mundial-2026/?utm_source=rss&utm_medium=rss&utm_campaign=cr7-hace-historia-y-portugal-golea-5-0-a-uzbekistan-en-el-mundial-2026",
-        "published_date": "2026-06-23 20:49:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Portugal dominates and beats Uzbekistan 5-0 on World Cup matchday",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/portugal-domina-y-golea-5-0-a-uzbekistan-en-jornada-mundialista/",
-        "published_date": "2026-06-23 20:49:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Labor Migration Program continues to expand opportunities for Salvadoran workers with the departure of the largest contingent registered so far to Canada.",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/el-programa-de-migracion-laboral-continua-ampliando-oportunidades-para-trabajadores-salvadorenos-con-la-salida-del-contingente-mas-grande-registrado-hasta-ahora-hacia-canada/?utm_source=rss&utm_medium=rss&utm_campaign=el-programa-de-migracion-laboral-continua-ampliando-oportunidades-para-trabajadores-salvadorenos-con-la-salida-del-contingente-mas-grande-registrado-hasta-ahora-hacia-canada",
-        "published_date": "2026-06-23 20:48:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Largest contingent of the Labor Migration Program leaves for Canada with stories of effort and hope",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/contingente-mas-grande-del-programa-de-migracion-laboral-parte-hacia-canada-con-historias-de-esfuerzo-y-esperanza/",
-        "published_date": "2026-06-23 20:44:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government announces new contingent of workers who will travel to Canada",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-anuncia-nuevo-contingente-de-trabajadores-que-viajara-a-canada/",
-        "published_date": "2026-06-23 20:41:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 22 tons of illegal cigarettes end up destroyed after anti-smuggling operations",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/mas-de-22-toneladas-de-cigarrillos-ilegales-terminan-destruidas-tras-operativos-contra-el-contrabando/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-22-toneladas-de-cigarrillos-ilegales-terminan-destruidas-tras-operativos-contra-el-contrabando",
-        "published_date": "2026-06-23 20:27:14",
         "category": "Local Events"
     }
 ]
