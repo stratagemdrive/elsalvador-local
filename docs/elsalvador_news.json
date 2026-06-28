@@ -1,5 +1,12 @@
 [
     {
+        "title": "The death toll from the earthquakes in Venezuela rises to more than 1,400",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/asciende-a-mas-de-1400-la-cifra-de-muertos-por-los-terremotos-en-venezuela/",
+        "published_date": "2026-06-27 22:34:34",
+        "category": "Diplomacy"
+    },
+    {
         "title": "More than 50,000 missing after earthquakes in Venezuela, says the UN",
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/mas-de-50000-desaparecidos-tras-terremotos-en-venezuela-afirma-la-onu/",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "US Senate takes up issue of political prisoners in El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/senado-estadounidense-retoma-tema-de-presos-politicos-en-el-salvador/",
-        "published_date": "2026-06-20 11:05:34",
-        "category": "Diplomacy"
+        "title": "They remove abandoned vehicles in Mejicanos to recover public spaces",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/retiran-vehiculos-abandonados-en-mejicanos-para-recuperar-espacios-publicos/",
+        "published_date": "2026-06-27 18:24:30",
+        "category": "Military"
+    },
+    {
+        "title": "PNC captures two subjects after a violent fight while they were consuming alcoholic beverages",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/pnc-captura-a-dos-sujetos-tras-violenta-pelea-mientras-consumian-bebidas-alcoholicas/",
+        "published_date": "2026-06-27 15:08:12",
+        "category": "Military"
     },
     {
         "title": "Strong winds cause billboard to fall on vehicle in San Mart\u00edn",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "US Senate approves resolution to curb Trump's war powers against Iran",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/senado-de-eeuu-aprueba-resolucion-para-frenar-poderes-de-guerra-de-trump-contra-iran/",
-        "published_date": "2026-06-24 10:59:42",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a young man with drugs and cash during an operation in Soyapango",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-joven-con-droga-y-dinero-en-efectivo-durante-operativo-en-soyapango/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-joven-con-droga-y-dinero-en-efectivo-durante-operativo-en-soyapango",
-        "published_date": "2026-06-24 05:07:39",
-        "category": "Military"
-    },
-    {
         "title": "Fuel prices will maintain prices for another fortnight",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/combustibles-mantendran-precio-una-quincena-mas/",
@@ -313,6 +313,13 @@
         "url": "https://diariolahuella.com/precios-de-los-combustibles-se-mantendran-sin-cambio-hasta-inicios-de-julio/",
         "published_date": "2026-06-22 15:07:49",
         "category": "Energy"
+    },
+    {
+        "title": "Eight notes on the national economy",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ocho-notas-sobre-la-economia-nacional/",
+        "published_date": "2026-06-27 21:08:58",
+        "category": "Economy"
     },
     {
         "title": "CONAMYPE celebrates 35 years promoting the growth of MYPEs in El Salvador",
@@ -406,164 +413,143 @@
         "category": "Economy"
     },
     {
-        "title": "They lay the first stone of the new \u201cSpace Plaza\u201d",
+        "title": "Salvadoran contingent delivers food packages to Venezuelan families",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ponen-primera-piedra-de-la-nueva-plaza-espacio/?utm_source=rss&utm_medium=rss&utm_campaign=ponen-primera-piedra-de-la-nueva-plaza-espacio",
-        "published_date": "2026-06-19 17:59:01",
-        "category": "Economy"
-    },
-    {
-        "title": "Treasury requests approval of $340 million in loans",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/hacienda-pide-aprobacion-de-340-millones-en-prestamos/",
-        "published_date": "2026-06-19 17:34:25",
-        "category": "Economy"
-    },
-    {
-        "title": "Ombudsman warns about improper charges and reinforces commercial surveillance",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/defensoria-advierte-sobre-cobros-indebidos-y-refuerza-vigilancia-comercial/?utm_source=rss&utm_medium=rss&utm_campaign=defensoria-advierte-sobre-cobros-indebidos-y-refuerza-vigilancia-comercial",
-        "published_date": "2026-06-19 15:50:08",
-        "category": "Economy"
-    },
-    {
-        "title": "Salvadoran rescuers achieve the first life rescues in Venezuela",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/rescatistas-salvadorenos-logran-los-primeros-rescates-con-vida-en-venezuela/",
-        "published_date": "2026-06-27 11:05:38",
+        "url": "https://lapagina.com.sv/nacionales/contingente-salvadoreno-entrega-paquete-de-alimentos-a-familias-venezolanas/?utm_source=rss&utm_medium=rss&utm_campaign=contingente-salvadoreno-entrega-paquete-de-alimentos-a-familias-venezolanas",
+        "published_date": "2026-06-27 23:08:16",
         "category": "Local Events"
     },
     {
-        "title": "Communities denounce threat to water, land and life due to mining extractivism",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/comunidades-denuncian-amenaza-al-agua-la-tierra-y-la-vida-por-extractivismo-minero/",
-        "published_date": "2026-06-27 11:04:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Deadline to apply for CCR magistrate;",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/vence-plazo-para-postularse-a-magistrado-de-ccr/",
-        "published_date": "2026-06-27 11:03:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "PROVIDA provides medical care to 19 returned people and their families in Chalatenango",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/provida-brinda-atencion-medica-a-19-personas-retornadas-y-sus-familias-en-chalatenango/",
-        "published_date": "2026-06-27 11:02:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor's offices stop issuing authenticated birth certificates for use abroad",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/alcaldias-dejan-de-emitir-partidas-de-nacimiento-autenticadas-para-uso-en-el-extranjero/",
-        "published_date": "2026-06-27 11:01:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "SIMETRISSS assures that 35 foreign doctors have resigned from the health system",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/simetrisss-asegura-que-35-medicos-extranjeros-han-renunciado-al-sistema-de-salud/",
-        "published_date": "2026-06-27 11:00:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "THE SOCIAL SPIRIT CALLS US TO UNITE;TO BE ONE FOR ALL AND ALL FOR ONE",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-espiritu-social-nos-llama-a-unirnos-a-ser-uno-para-todos-y-todos-para-uno/",
-        "published_date": "2026-06-27 10:59:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than a dozen countries send technical and humanitarian aid to Venezuela",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/mas-de-una-decena-de-paises-envian-ayuda-tecnica-y-humanitaria-a-venezuela/",
-        "published_date": "2026-06-27 10:58:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "France advances at a perfect pace and Cape Verde makes history towards the 16th round",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/francia-avanza-con-paso-perfecto-y-cabo-verde-hace-historia-rumbo-a-los-16vos/",
-        "published_date": "2026-06-27 10:00:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fight recorded in San Miguel park leaves two men referred for public disorder",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/pelea-registrada-en-parque-de-san-miguel-deja-a-dos-hombres-remitidos-por-desordenes-publicos/?utm_source=rss&utm_medium=rss&utm_campaign=pelea-registrada-en-parque-de-san-miguel-deja-a-dos-hombres-remitidos-por-desordenes-publicos",
-        "published_date": "2026-06-27 04:07:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cape Verde qualifies undefeated and continues writing World Cup history: they will face Argentina",
+        "title": "Salvadoran contingent delivers food packages to Venezuelan families",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/cabo-verde-clasifica-invicto-y-sigue-escribiendo-historia-mundialista-enfrentaran-a-argentina/",
-        "published_date": "2026-06-27 03:38:49",
+        "url": "https://diariolahuella.com/contingente-salvadoreno-entrega-paquete-de-alimentos-a-familias-venezolanas/",
+        "published_date": "2026-06-27 23:04:03",
         "category": "Local Events"
     },
     {
-        "title": "Cape Verde makes history and enters the round of 32 of the 2026 World Cup",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/cabo-verde-hace-historia-y-se-mete-en-los-dieciseisavos-de-final-del-mundial-2026/?utm_source=rss&utm_medium=rss&utm_campaign=cabo-verde-hace-historia-y-se-mete-en-los-dieciseisavos-de-final-del-mundial-2026",
-        "published_date": "2026-06-27 03:36:08",
+        "title": "Salvadoran rescuers rescue a 69-year-old woman alive from the rubble in Venezuela",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/rescatistas-salvadorenos-rescatan-con-vida-a-mujer-de-69-anos-entre-los-escombros-en-venezuela/",
+        "published_date": "2026-06-27 22:40:11",
         "category": "Local Events"
     },
     {
-        "title": "President Bukele highlights the work of Salvadoran teams after rescuing a woman trapped in Venezuela alive",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-resalta-labor-de-equipos-salvadorenos-tras-rescatar-con-vida-a-mujer-atrapada-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-resalta-labor-de-equipos-salvadorenos-tras-rescatar-con-vida-a-mujer-atrapada-en-venezuela",
-        "published_date": "2026-06-27 03:11:01",
+        "title": "Mexico and the United States inaugurate a fly plant against screwworm",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/mexico-y-estados-unidos-inauguran-planta-de-moscas-contra-gusano-barrenador/",
+        "published_date": "2026-06-27 22:25:58",
         "category": "Local Events"
     },
     {
-        "title": "Carlos Vela tells El Salvador and Latin America: Do not confuse STEM with STEAM",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/carlos-vela-le-dice-a-el-salvador-y-latinoamerica-no-confundan-stem-con-steam/",
-        "published_date": "2026-06-27 03:07:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele confirms rescue of survivor in Venezuela and highlights delivery of Salvadoran mission",
+        "title": "Salvadorans rescue Marlene Angulo alive after being trapped under the rubble in Venezuela",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-confirma-rescate-de-sobreviviente-en-venezuela-y-destaca-entrega-de-mision-salvadorena/",
-        "published_date": "2026-06-27 03:03:47",
+        "url": "https://diariolahuella.com/salvadorenos-rescatan-con-vida-a-marlene-angulo-tras-permanecer-atrapada-bajo-los-escombros-en-venezuela/",
+        "published_date": "2026-06-27 21:20:15",
         "category": "Local Events"
     },
     {
-        "title": "Cape Verde makes history and qualifies for the 16th finals of the 2026 World Cup",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/cabo-verde-hace-historia-y-clasifica-a-los-16avos-de-final-del-mundial-2026/",
-        "published_date": "2026-06-27 02:53:28",
+        "title": "Salvadoran contingent rescues Marlene Angulo alive after being trapped under the rubble",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/contingente-salvadoreno-rescata-con-vida-a-marlene-angulo-tras-permanecer-atrapada-bajo-los-escombros/?utm_source=rss&utm_medium=rss&utm_campaign=contingente-salvadoreno-rescata-con-vida-a-marlene-angulo-tras-permanecer-atrapada-bajo-los-escombros",
+        "published_date": "2026-06-27 21:13:28",
         "category": "Local Events"
     },
     {
-        "title": "Salvadoran rescuers save a woman trapped for more than 48 hours under the rubble in Venezuela",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/rescatistas-salvadorenos-salvan-a-mujer-atrapada-durante-mas-de-48-horas-bajo-los-escombros-en-venezuela/",
-        "published_date": "2026-06-27 01:39:45",
+        "title": "Summary of the fourth week of June 2016",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/resumen-de-la-cuarta-semana-del-mes-de-junio-de-2016/",
+        "published_date": "2026-06-27 21:02:45",
         "category": "Local Events"
     },
     {
-        "title": "El Salvador prepares the sixth plane with humanitarian aid for Venezuela",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/el-salvador-alista-el-sexto-avion-con-ayuda-humanitaria-para-venezuela/",
-        "published_date": "2026-06-27 00:50:29",
+        "title": "BREAKING NEWS: Salvadoran Humanitarian Mission locates another Venezuelan alive",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/ultima-hora-mision-humanitaria-salvadorena-localiza-con-vida-a-otra-venezolana/?utm_source=rss&utm_medium=rss&utm_campaign=ultima-hora-mision-humanitaria-salvadorena-localiza-con-vida-a-otra-venezolana",
+        "published_date": "2026-06-27 19:42:09",
         "category": "Local Events"
     },
     {
-        "title": "Brenda Cer\u00e9n is announced as the new reinforcement of Cruz Azul Femenil",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/brenda-ceren-es-anunciada-como-nuevo-refuerzo-del-cruz-azul-femenil/",
-        "published_date": "2026-06-27 00:45:11",
+        "title": "VIDEO: Salvadoran Humanitarian Mission locates another Venezuelan alive",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/video-mision-humanitaria-salvadorena-localiza-con-vida-a-otra-venezolana/",
+        "published_date": "2026-06-27 19:37:11",
         "category": "Local Events"
     },
     {
-        "title": "Pre-sale of bacilli with 10% discount!",
+        "title": "Salvadoran team helps rescue victim of earthquakes in Venezuela alive",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/equipo-salvadoreno-ayuda-a-rescatar-con-vida-a-victima-de-los-terremotos-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=equipo-salvadoreno-ayuda-a-rescatar-con-vida-a-victima-de-los-terremotos-en-venezuela",
+        "published_date": "2026-06-27 19:33:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ricardo Montaner thanks President Nayib Bukele for the humanitarian aid sent to Venezuela",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/preventa-de-bacilos-con-10-de-descuento/",
-        "published_date": "2026-06-27 00:26:21",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/ricardo-montaner-agradece-al-presidente-nayib-bukele-por-la-ayuda-humanitaria-enviada-a-venezuela/",
+        "published_date": "2026-06-27 19:19:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "USAR El Salvador manages to rescue a second victim alive from the earthquakes in Venezuela",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/usar-el-salvador-logra-rescatar-con-vida-una-segunda-victima-de-los-sismos-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=usar-el-salvador-logra-rescatar-con-vida-una-segunda-victima-de-los-sismos-en-venezuela",
+        "published_date": "2026-06-27 17:39:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "USAR El Salvador Group manages to rescue alive a second victim of the earthquakes in Venezuela",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/grupo-usar-el-salvador-logra-rescatar-con-vida-una-segunda-victima-de-los-sismos-en-venezuela/",
+        "published_date": "2026-06-27 17:30:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ricardo Montaner thanks President Nayib Bukele for the help sent to Venezuela",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/ricardo-montaner-agradece-a-presidente-nayib-bukele-por-ayuda-enviada-a-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=ricardo-montaner-agradece-a-presidente-nayib-bukele-por-ayuda-enviada-a-venezuela",
+        "published_date": "2026-06-27 16:23:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ricardo Montaner thanks President Nayib Bukele for the help sent to Venezuela",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ricardo-montaner-agradece-a-presidente-nayib-bukele-por-ayuda-enviada-a-venezuela/",
+        "published_date": "2026-06-27 16:14:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorcyclist dies after colliding with a bus that later caught fire in Sonsonate",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/motociclista-fallece-tras-colisionar-con-un-autobus-que-posteriormente-se-incendio-en-sonsonate/",
+        "published_date": "2026-06-27 16:10:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Experts predict rain for this Saturday",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/expertos-preven-lluvias-para-este-sabado/?utm_source=rss&utm_medium=rss&utm_campaign=expertos-preven-lluvias-para-este-sabado",
+        "published_date": "2026-06-27 15:55:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Specific rains are forecast for this Saturday",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/pronostican-lluvias-puntuales-para-este-sabado/",
+        "published_date": "2026-06-27 15:50:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Camila sees the light again: Salvadoran contingent completes rescue of more than 13 hours in Venezuela",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/camila-vuelve-a-ver-la-luz-contingente-salvadoreno-culmina-rescate-de-mas-de-13-horas-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=camila-vuelve-a-ver-la-luz-contingente-salvadoreno-culmina-rescate-de-mas-de-13-horas-en-venezuela",
+        "published_date": "2026-06-27 15:41:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "ICAE positions itself as a reference center for health specialists",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/icae-se-posiciona-como-un-centro-de-referencia-para-especialistas-en-salud/",
+        "published_date": "2026-06-27 15:30:45",
         "category": "Local Events"
     }
 ]
