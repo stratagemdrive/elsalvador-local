@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "They capture an alleged MS-13 gang member for making graffiti with symbols alluding to criminal structures",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/capturan-a-presunto-pandillero-de-la-ms-13-por-realizar-grafitis-con-simbolos-alusivos-a-estructuras-criminales/",
+        "published_date": "2026-06-28 02:45:18",
+        "category": "Military"
+    },
+    {
+        "title": "They capture subjects for fighting while consuming alcohol in San Miguel",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-sujetos-por-protagonizar-pelea-mientras-consumian-alcohol-en-san-miguel/",
+        "published_date": "2026-06-28 01:04:08",
+        "category": "Military"
+    },
+    {
         "title": "They remove abandoned vehicles in Mejicanos to recover public spaces",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/06/retiran-vehiculos-abandonados-en-mejicanos-para-recuperar-espacios-publicos/",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "\u201c7 years fulfilled\u201d: President Bukele",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/7-anos-cumpliendo-presidente-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=7-anos-cumpliendo-presidente-bukele",
-        "published_date": "2026-06-24 16:46:02",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador adds 1,136 days without homicides since the Exception Regime",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-suma-1136-dias-sin-homicidios-desde-el-regimen-de-excepcion/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-suma-1136-dias-sin-homicidios-desde-el-regimen-de-excepcion",
-        "published_date": "2026-06-24 14:42:34",
-        "category": "Military"
-    },
-    {
         "title": "Fuel prices will maintain prices for another fortnight",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/combustibles-mantendran-precio-una-quincena-mas/",
@@ -399,18 +399,67 @@
         "category": "Economy"
     },
     {
-        "title": "GOES requests approval of $340 million in loans for water system and road infrastructure",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/goes-pide-aprobacion-de-340-millones-en-prestamos-para-sistema-de-agua-e-infraestructura-vial/",
-        "published_date": "2026-06-20 11:02:10",
-        "category": "Economy"
+        "title": "VIDEO |Online sales meeting ends in violent armed robbery",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/video-encuentro-de-venta-en-linea-termina-en-violento-asalto-a-mano-armada/",
+        "published_date": "2026-06-28 03:55:11",
+        "category": "Local Events"
     },
     {
-        "title": "Government requests to incorporate $118 million to 7 public institutions from tax surpluses",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/414955-2/",
-        "published_date": "2026-06-20 11:01:23",
-        "category": "Economy"
+        "title": "This is how Vozinha reacted when he found out that he will play against Messi",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/asi-reacciono-vozinha-al-conocer-que-jugara-contra-messi/",
+        "published_date": "2026-06-28 03:15:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Firefighters put out a bus fire in the Escal\u00f3n neighborhood",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/bomberos-sofocan-incendio-de-un-autobus-en-la-colonia-escalon/",
+        "published_date": "2026-06-28 03:05:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorcyclist dies after accident that set a bus on fire in Sonsonate",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/motociclista-fallece-tras-accidente-que-incendio-un-autobus-en-sonsonate/",
+        "published_date": "2026-06-28 01:48:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Nayib Bukele confirms rescue efforts to save Onai Qui\u00f1\u00f3nez after earthquakes in Venezuela",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/presidente-nayib-bukele-confirma-labores-de-rescate-para-salvar-a-onai-quinonez-tras-terremotos-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-nayib-bukele-confirma-labores-de-rescate-para-salvar-a-onai-quinonez-tras-terremotos-en-venezuela",
+        "published_date": "2026-06-28 00:50:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venezuela's main airport receives aid flights from the US after partial reopening",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/principal-aeropuerto-de-venezuela-recibe-vuelos-de-ayuda-de-ee-uu-tras-reapertura-parcial/",
+        "published_date": "2026-06-28 00:44:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel warns Lebanon and Hezbollah chief considers the agreement \"a serious mistake\"",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/israel-advierte-al-libano-y-jefe-de-hezbola-considera-que-acuerdo-es-un-grave-error/",
+        "published_date": "2026-06-28 00:29:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadorans continue with search and rescue work for victims in Venezuela",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/salvadorenos-continuan-con-labores-de-busqueda-y-rescate-de-victimas-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=salvadorenos-continuan-con-labores-de-busqueda-y-rescate-de-victimas-en-venezuela",
+        "published_date": "2026-06-28 00:28:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran humanitarian mission continues search and rescue work for victims in Venezuela",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/mision-humanitaria-salvadorena-continua-con-labores-de-busqueda-y-rescate-de-victimas-en-venezuela/",
+        "published_date": "2026-06-28 00:22:20",
+        "category": "Local Events"
     },
     {
         "title": "Salvadoran contingent delivers food packages to Venezuelan families",
@@ -487,69 +536,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/06/ricardo-montaner-agradece-al-presidente-nayib-bukele-por-la-ayuda-humanitaria-enviada-a-venezuela/",
         "published_date": "2026-06-27 19:19:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "USAR El Salvador manages to rescue a second victim alive from the earthquakes in Venezuela",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/usar-el-salvador-logra-rescatar-con-vida-una-segunda-victima-de-los-sismos-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=usar-el-salvador-logra-rescatar-con-vida-una-segunda-victima-de-los-sismos-en-venezuela",
-        "published_date": "2026-06-27 17:39:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "USAR El Salvador Group manages to rescue alive a second victim of the earthquakes in Venezuela",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/grupo-usar-el-salvador-logra-rescatar-con-vida-una-segunda-victima-de-los-sismos-en-venezuela/",
-        "published_date": "2026-06-27 17:30:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ricardo Montaner thanks President Nayib Bukele for the help sent to Venezuela",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ricardo-montaner-agradece-a-presidente-nayib-bukele-por-ayuda-enviada-a-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=ricardo-montaner-agradece-a-presidente-nayib-bukele-por-ayuda-enviada-a-venezuela",
-        "published_date": "2026-06-27 16:23:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ricardo Montaner thanks President Nayib Bukele for the help sent to Venezuela",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ricardo-montaner-agradece-a-presidente-nayib-bukele-por-ayuda-enviada-a-venezuela/",
-        "published_date": "2026-06-27 16:14:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motorcyclist dies after colliding with a bus that later caught fire in Sonsonate",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/motociclista-fallece-tras-colisionar-con-un-autobus-que-posteriormente-se-incendio-en-sonsonate/",
-        "published_date": "2026-06-27 16:10:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Experts predict rain for this Saturday",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/expertos-preven-lluvias-para-este-sabado/?utm_source=rss&utm_medium=rss&utm_campaign=expertos-preven-lluvias-para-este-sabado",
-        "published_date": "2026-06-27 15:55:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Specific rains are forecast for this Saturday",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/pronostican-lluvias-puntuales-para-este-sabado/",
-        "published_date": "2026-06-27 15:50:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camila sees the light again: Salvadoran contingent completes rescue of more than 13 hours in Venezuela",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/camila-vuelve-a-ver-la-luz-contingente-salvadoreno-culmina-rescate-de-mas-de-13-horas-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=camila-vuelve-a-ver-la-luz-contingente-salvadoreno-culmina-rescate-de-mas-de-13-horas-en-venezuela",
-        "published_date": "2026-06-27 15:41:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICAE positions itself as a reference center for health specialists",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/icae-se-posiciona-como-un-centro-de-referencia-para-especialistas-en-salud/",
-        "published_date": "2026-06-27 15:30:45",
         "category": "Local Events"
     }
 ]
