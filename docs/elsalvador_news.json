@@ -1,5 +1,12 @@
 [
     {
+        "title": "Bukele in the crosshairs of Democratic congressmen of the United States",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/bukele-en-la-mira-de-los-congresistas-democratas-de-los-estados-unidos/",
+        "published_date": "2026-06-29 10:59:16",
+        "category": "Diplomacy"
+    },
+    {
         "title": "This is known about the foreigners who died and disappeared after the earthquakes in Venezuela",
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/esto-se-sabe-sobre-los-extranjeros-fallecidos-y-desaparecidos-tras-los-terremotos-en-venezuela/",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Panama receives foreign ministers from the continent for the 56th General Assembly of the OAS",
+        "title": "MS-13 gang member captured during patrol in La Uni\u00f3n Norte",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/panama-recibe-a-cancilleres-del-continente-para-la-56-a-asamblea-general-de-la-oea/",
-        "published_date": "2026-06-21 14:23:07",
-        "category": "Diplomacy"
+        "url": "https://www.elmetropolitanodigital.com/2026/06/capturan-a-pandillera-de-la-ms-13-durante-patrullaje-en-la-union-norte/",
+        "published_date": "2026-06-29 14:42:14",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a drunk young man for hitting his mother after refusing to give her money",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-joven-ebrio-por-golpear-a-su-madre-tras-negarse-a-darle-dinero/",
+        "published_date": "2026-06-29 00:40:47",
+        "category": "Military"
     },
     {
         "title": "They capture a subject who attacked a man with a machete",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Drunk driver hits man and flees;It is captured with 216 degrees of alcohol",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/conductor-ebrio-atropella-a-un-hombre-y-huye-es-capturado-con-216-grados-de-alcohol/",
-        "published_date": "2026-06-25 22:18:21",
-        "category": "Military"
-    },
-    {
-        "title": "They capture an alleged MS-13 gang member with a firearm and more than $2,600 in cash in Usulut\u00e1n",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/capturan-a-presunto-pandillero-de-la-ms-13-con-arma-de-fuego-y-mas-de-2600-en-efectivo-en-usulutan/",
-        "published_date": "2026-06-25 22:03:39",
-        "category": "Military"
-    },
-    {
         "title": "Fuel prices will maintain prices for another fortnight",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/combustibles-mantendran-precio-una-quincena-mas/",
@@ -399,143 +399,143 @@
         "category": "Economy"
     },
     {
+        "title": "Heat and some occasional rains are expected for this Monday",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/preven-calor-y-algunas-lluvias-puntuales-para-este-lunes/",
+        "published_date": "2026-06-29 14:25:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 21-year-old young man is rescued alive after an intense joint operation in Venezuela",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/rescatan-con-vida-a-joven-de-21-anos-tras-intensa-operacion-conjunta-en-venezuela/",
+        "published_date": "2026-06-29 14:10:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "WHO DEFENDS THOSE WHO DEFEND RIGHTS?",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/quien-defiende-a-quienes-defienden-derechos/",
+        "published_date": "2026-06-29 13:39:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Canada defeats South Africa and becomes the first to qualify for the round of 16",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/canada-vence-a-sudafrica-y-se-convierte-en-la-primera-clasificada-a-octavos/",
+        "published_date": "2026-06-29 13:21:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Corn, the food base of our Mesoamerican culture",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-maiz-la-base-alimentaria-de-nuestra-cultura-mesoamericana/",
+        "published_date": "2026-06-29 11:04:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hospitality, following God and generosity are pillars of following Christ: Father Flores",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/hospitalidad-seguimiento-de-dios-y-generosidad-son-pilares-del-seguimiento-de-cristo-padre-flores/",
+        "published_date": "2026-06-29 11:03:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Community in Apopa makes up for abandonment of the commune: they organize a collection to repair their main street",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comunidad-en-apopa-suple-abandono-de-la-comuna-organizan-colecta-para-reparar-su-calle-principal/",
+        "published_date": "2026-06-29 11:02:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "LGBTIQ+ community demands equality, inclusion and respect in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comunidad-lgbtiq-exige-igualdad-inclusion-y-respeto-en-el-salvador/",
+        "published_date": "2026-06-29 11:01:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mothers ask for the release of their children unjustly detained under the emergency regime",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/madres-piden-liberacion-de-sus-hijos-detenidos-injustamente-bajo-el-regimen-de-excepcion/",
+        "published_date": "2026-06-29 11:00:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US and Iran will stop attacks \u201cfor now\u201d and will meet in Doha to discuss the Strait of Hormuz",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/eeuu-e-iran-detendran-ataques-por-ahora-y-se-reuniran-en-doha-para-discutir-sobre-el-estrecho-de-ormuz/",
+        "published_date": "2026-06-29 10:58:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death toll rises to 1,450 in Venezuela after seismic double",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/sube-a-1-450-cifra-de-fallecidos-en-venezuela-tras-doblete-sismico/",
+        "published_date": "2026-06-29 10:57:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mother and son captured for drug possession",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/madre-e-hijo-capturados-por-posesion-y-tenencia-de-drogas/?utm_source=rss&utm_medium=rss&utm_campaign=madre-e-hijo-capturados-por-posesion-y-tenencia-de-drogas",
+        "published_date": "2026-06-29 03:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "With broad support from his bases, Gustavo Acevedo makes his pre-candidacy official to continue leading Santa Ana Centro",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/con-amplio-apoyo-de-sus-bases-gustavo-acevedo-oficializa-su-precandidatura-para-continuar-al-frente-de-santa-ana-centro/?utm_source=rss&utm_medium=rss&utm_campaign=con-amplio-apoyo-de-sus-bases-gustavo-acevedo-oficializa-su-precandidatura-para-continuar-al-frente-de-santa-ana-centro",
+        "published_date": "2026-06-29 02:11:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "IT'S OFFICIAL: President Nayib Bukele and Vice President F\u00e9lix Ulloa register to participate in the 2027 elections",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/es-oficial-presidente-nayib-bukele-y-vicepresidente-felix-ulloa-se-inscriben-para-participar-en-comicios-del-2027/",
+        "published_date": "2026-06-29 01:50:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gustavo Acevedo registers his candidacy for Nuevas Ideas amid massive citizen support in Santa Ana Centro",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gustavo-acevedo-inscribe-su-precandidatura-por-nuevas-ideas-en-medio-de-un-masivo-respaldo-ciudadano-en-santa-ana-centro/",
+        "published_date": "2026-06-29 01:47:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Nayib Bukele and Vice President F\u00e9lix Ulloa make registration for the 2027 elections official",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/presidente-nayib-bukele-y-vicepresidente-felix-ulloa-oficializan-inscripcion-para-comicios-del-2027/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-nayib-bukele-y-vicepresidente-felix-ulloa-oficializan-inscripcion-para-comicios-del-2027",
+        "published_date": "2026-06-29 01:44:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Supporters accompany Alexia Rivas to register her candidacy as a representative for the diaspora",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/simpatizantes-acompanan-a-alexia-rivas-a-inscribir-su-candidatura-como-diputada-por-la-diaspora/?utm_source=rss&utm_medium=rss&utm_campaign=simpatizantes-acompanan-a-alexia-rivas-a-inscribir-su-candidatura-como-diputada-por-la-diaspora",
+        "published_date": "2026-06-29 00:47:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Driver prevents bus from falling into a ravine after brake failure",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/conductor-evita-que-autobus-caiga-a-un-barranco-tras-falla-en-los-frenos/?utm_source=rss&utm_medium=rss&utm_campaign=conductor-evita-que-autobus-caiga-a-un-barranco-tras-falla-en-los-frenos",
+        "published_date": "2026-06-29 00:30:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran coffee successfully enters a specialized event in Brussels",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/cafe-salvadoreno-incursiona-con-exito-en-evento-especializado-en-bruselas/?utm_source=rss&utm_medium=rss&utm_campaign=cafe-salvadoreno-incursiona-con-exito-en-evento-especializado-en-bruselas",
+        "published_date": "2026-06-29 00:23:34",
+        "category": "Local Events"
+    },
+    {
         "title": "Canada makes history and becomes the first to qualify for the round of 16",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/canada-hace-historia-y-se-convierte-en-la-primera-clasificada-a-los-octavos-de-final/",
         "published_date": "2026-06-29 00:03:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trucker runs over a mother and her daughters;one of them died",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/camionero-arrolla-a-una-madre-y-sus-hijas-una-de-ellas-murio/",
-        "published_date": "2026-06-29 00:01:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadorans manage to rescue Belkys Garc\u00eda alive from the rubble",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/salvadorenos-logran-rescatar-con-vida-de-los-escombros-a-belkys-garcia/?utm_source=rss&utm_medium=rss&utm_campaign=salvadorenos-logran-rescatar-con-vida-de-los-escombros-a-belkys-garcia",
-        "published_date": "2026-06-28 23:34:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two people die after being swept away by a wave on El Sunzal beach",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/dos-personas-fallecen-tras-ser-arrastradas-por-una-ola-en-playa-el-sunzal/",
-        "published_date": "2026-06-28 23:17:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "USAR El Salvador team rescues alive a woman who remained under the rubble in Venezuela for 86 hours",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/equipo-usar-el-salvador-rescata-con-vida-a-mujer-que-permanecio-86-horas-bajo-los-escombros-en-venezuela/",
-        "published_date": "2026-06-28 23:17:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquakes in Venezuela leave almost 1,500 dead",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/terremotos-en-venezuela-dejan-casi-1500-muertos/",
-        "published_date": "2026-06-28 23:11:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Canada makes history and awaits the Netherlands or Morocco in the round of 16",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/canada-hace-historia-y-en-octavos-de-final-espera-a-paises-bajos-o-marruecos/",
-        "published_date": "2026-06-28 22:29:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jos\u00e9 Urbina after re-election as mayor of San Salvador Oeste",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/jose-urbina-tras-la-reeleccion-como-alcalde-de-san-salvador-oeste/?utm_source=rss&utm_medium=rss&utm_campaign=jose-urbina-tras-la-reeleccion-como-alcalde-de-san-salvador-oeste",
-        "published_date": "2026-06-28 20:56:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Civilian plane crash leaves 11 dead in France, according to local authorities",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/accidente-de-avion-civil-deja-11-muertos-en-francia-segun-autoridades-locales/",
-        "published_date": "2026-06-28 20:56:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "For the third consecutive day, Germany records a new historical temperature record",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/por-tercer-dia-consecutivo-alemania-registra-un-nuevo-record-historico-de-temperatura/",
-        "published_date": "2026-06-28 20:41:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Messi, Bellingham and Congo seal the closing of the World Cup group stage",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/messi-bellingham-y-el-congo-sellan-el-cierre-de-fase-de-grupos-del-mundial/",
-        "published_date": "2026-06-28 20:33:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nuevas Ideas begins registration of pre-candidacies for the 2027 elections",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/nuevas-ideas-inicia-inscripcion-de-precandidaturas-para-las-elecciones-de-2027/",
-        "published_date": "2026-06-28 20:17:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nuevas Ideas begins registration of pre-candidates for the 2027 elections",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/nuevas-ideas-inicia-inscripcion-de-precandidatos-para-elecciones-de-2027/?utm_source=rss&utm_medium=rss&utm_campaign=nuevas-ideas-inicia-inscripcion-de-precandidatos-para-elecciones-de-2027",
-        "published_date": "2026-06-28 19:50:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mario Dur\u00e1n officially registers his pre-candidacy for the 2027 elections",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/mario-duran-inscribe-oficialmente-su-candidatura/",
-        "published_date": "2026-06-28 19:38:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mario Dur\u00e1n seeks re-election as mayor of San Salvador Centro",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mario-duran-busca-la-reeleccion-como-alcalde-de-san-salvador-centro/?utm_source=rss&utm_medium=rss&utm_campaign=mario-duran-busca-la-reeleccion-como-alcalde-de-san-salvador-centro",
-        "published_date": "2026-06-28 17:02:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Christian Guevara registers his candidacy as deputy for San Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/cristian-guevara-inscribe-su-candidatura-como-diputado-por-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=cristian-guevara-inscribe-su-candidatura-como-diputado-por-san-salvador",
-        "published_date": "2026-06-28 15:53:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadorans and Peruvians rescue a Venezuelan woman under the rubble",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/salvadorenos-y-peruanos-rescatan-a-venezolana-bajo-los-escombros/?utm_source=rss&utm_medium=rss&utm_campaign=salvadorenos-y-peruanos-rescatan-a-venezolana-bajo-los-escombros",
-        "published_date": "2026-06-28 15:11:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran and Peruvian teams rescue a 60-year-old Venezuelan from the rubble",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/equipos-salvadorenos-y-peruanos-rescatan-a-venezolana-de-60-anos-bajo-los-escombros/",
-        "published_date": "2026-06-28 15:06:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Political parties close the registration process for candidates before the TSE on June 28",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/partidos-politicos-cierran-este-28-de-junio-proceso-de-inscripcion-de-candidatos-ante-el-tse/?utm_source=rss&utm_medium=rss&utm_campaign=partidos-politicos-cierran-este-28-de-junio-proceso-de-inscripcion-de-candidatos-ante-el-tse",
-        "published_date": "2026-06-28 15:00:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadorans rescue a woman alive after spending 86 hours under the rubble in Venezuela",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/salvadorenos-rescatan-con-vida-a-mujer-tras-permanecer-86-horas-bajo-los-escombros-en-venezuela/",
-        "published_date": "2026-06-28 14:51:04",
         "category": "Local Events"
     }
 ]
