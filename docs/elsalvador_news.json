@@ -1,5 +1,12 @@
 [
     {
+        "title": "Francisco Lira says that he has citizen support to seek re-election",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/francisco-lira-dice-que-cuenta-con-respaldo-ciudadano-para-buscar-la-reeleccion/",
+        "published_date": "2026-06-29 22:20:40",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Bukele in the crosshairs of Democratic congressmen of the United States",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/bukele-en-la-mira-de-los-congresistas-democratas-de-los-estados-unidos/",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "\u201cEl Salvador is a guarantee of security in the region\u201d, Chancellor of Italy, Antonio Tajani",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-es-una-garantia-de-seguridad-en-la-region-canciller-de-italia-antonio-tajani/",
-        "published_date": "2026-06-22 17:05:18",
-        "category": "Diplomacy"
+        "title": "Armed confrontation leaves one gang member dead and another injured in Guatemala",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/enfrentamiento-armado-deja-un-pandillero-muerto-y-otro-lesionado-en-guatemala/",
+        "published_date": "2026-06-29 21:14:54",
+        "category": "Military"
     },
     {
         "title": "MS-13 gang member captured during patrol in La Uni\u00f3n Norte",
@@ -273,13 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "They capture two women after fighting in the Central Market of Sonsonate",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/capturan-a-dos-mujeres-tras-protagonizar-pelea-en-el-mercado-central-de-sonsonate/",
-        "published_date": "2026-06-26 16:56:42",
-        "category": "Military"
-    },
-    {
         "title": "Fuel prices will maintain prices for another fortnight",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/combustibles-mantendran-precio-una-quincena-mas/",
@@ -399,143 +399,143 @@
         "category": "Economy"
     },
     {
-        "title": "Heat and some occasional rains are expected for this Monday",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/preven-calor-y-algunas-lluvias-puntuales-para-este-lunes/",
-        "published_date": "2026-06-29 14:25:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 21-year-old young man is rescued alive after an intense joint operation in Venezuela",
+        "title": "Paraguay eliminates Germany in a historic classification and will face the winner of France vs.Sweden",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/rescatan-con-vida-a-joven-de-21-anos-tras-intensa-operacion-conjunta-en-venezuela/",
-        "published_date": "2026-06-29 14:10:27",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/paraguay-elimina-a-alemania-en-una-historica-clasificacion-y-enfrentara-al-ganador-de-francia-vs-suecia/",
+        "published_date": "2026-06-30 00:05:55",
         "category": "Local Events"
     },
     {
-        "title": "WHO DEFENDS THOSE WHO DEFEND RIGHTS?",
+        "title": "Paraguay makes history and eliminates Germany from the World Cup on penalties",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/quien-defiende-a-quienes-defienden-derechos/",
-        "published_date": "2026-06-29 13:39:12",
+        "url": "https://www.diariocolatino.com/paraguay-hace-historia-y-elimina-a-alemania-del-mundial-en-penales/",
+        "published_date": "2026-06-29 23:57:53",
         "category": "Local Events"
     },
     {
-        "title": "Canada defeats South Africa and becomes the first to qualify for the round of 16",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/canada-vence-a-sudafrica-y-se-convierte-en-la-primera-clasificada-a-octavos/",
-        "published_date": "2026-06-29 13:21:37",
+        "title": "Analyzing the intentional erosion of human bonds",
+        "source": "Cronio",
+        "url": "https://croniosv.com/opinet/analizando-la-erosion-intencional-de-los-vinculos-humanos/",
+        "published_date": "2026-06-29 23:44:02",
         "category": "Local Events"
     },
     {
-        "title": "Corn, the food base of our Mesoamerican culture",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-maiz-la-base-alimentaria-de-nuestra-cultura-mesoamericana/",
-        "published_date": "2026-06-29 11:04:02",
+        "title": "Salvadoran humanitarian mission provides medical care and continues rescue work in Venezuela",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/mision-humanitaria-salvadorena-brinda-atencion-medica-y-continua-labores-de-rescate-en-venezuela/",
+        "published_date": "2026-06-29 23:36:01",
         "category": "Local Events"
     },
     {
-        "title": "Hospitality, following God and generosity are pillars of following Christ: Father Flores",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/hospitalidad-seguimiento-de-dios-y-generosidad-son-pilares-del-seguimiento-de-cristo-padre-flores/",
-        "published_date": "2026-06-29 11:03:43",
+        "title": "Camera captures spectacular crash caused by a driver who ran the red light",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/camara-capta-aparatoso-choque-provocado-por-un-conductor-que-se-paso-el-semaforo-en-rojo/",
+        "published_date": "2026-06-29 23:28:08",
         "category": "Local Events"
     },
     {
-        "title": "Community in Apopa makes up for abandonment of the commune: they organize a collection to repair their main street",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/comunidad-en-apopa-suple-abandono-de-la-comuna-organizan-colecta-para-reparar-su-calle-principal/",
-        "published_date": "2026-06-29 11:02:23",
+        "title": "They locate a white Bengal tiger that escaped from a shelter in Mexico",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/localizan-a-tigre-de-bengala-blanco-que-escapo-de-un-refugio-en-mexico/",
+        "published_date": "2026-06-29 23:18:26",
         "category": "Local Events"
     },
     {
-        "title": "LGBTIQ+ community demands equality, inclusion and respect in El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/comunidad-lgbtiq-exige-igualdad-inclusion-y-respeto-en-el-salvador/",
-        "published_date": "2026-06-29 11:01:58",
+        "title": "Rambo is evaluated by a veterinarian before continuing the search for victims in Venezuela",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/rambo-es-evaluado-por-un-veterinario-antes-de-continuar-la-busqueda-de-victimas-en-venezuela/",
+        "published_date": "2026-06-29 23:06:22",
         "category": "Local Events"
     },
     {
-        "title": "Mothers ask for the release of their children unjustly detained under the emergency regime",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/madres-piden-liberacion-de-sus-hijos-detenidos-injustamente-bajo-el-regimen-de-excepcion/",
-        "published_date": "2026-06-29 11:00:02",
+        "title": "Aerocable will have 153 cabins and four stations to improve mobility in San Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/aerocable-contara-con-153-cabinas-y-cuatro-estaciones-para-mejorar-la-movilidad-en-san-salvador/",
+        "published_date": "2026-06-29 23:03:47",
         "category": "Local Events"
     },
     {
-        "title": "The US and Iran will stop attacks \u201cfor now\u201d and will meet in Doha to discuss the Strait of Hormuz",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/eeuu-e-iran-detendran-ataques-por-ahora-y-se-reuniran-en-doha-para-discutir-sobre-el-estrecho-de-ormuz/",
-        "published_date": "2026-06-29 10:58:52",
+        "title": "Woman dies after falling into a well in Zacatecoluca",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/mujer-muere-luego-de-caer-a-un-pozo-en-zacatecoluca/",
+        "published_date": "2026-06-29 22:58:22",
         "category": "Local Events"
     },
     {
-        "title": "Death toll rises to 1,450 in Venezuela after seismic double",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/sube-a-1-450-cifra-de-fallecidos-en-venezuela-tras-doblete-sismico/",
-        "published_date": "2026-06-29 10:57:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mother and son captured for drug possession",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/madre-e-hijo-capturados-por-posesion-y-tenencia-de-drogas/?utm_source=rss&utm_medium=rss&utm_campaign=madre-e-hijo-capturados-por-posesion-y-tenencia-de-drogas",
-        "published_date": "2026-06-29 03:00:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "With broad support from his bases, Gustavo Acevedo makes his pre-candidacy official to continue leading Santa Ana Centro",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/con-amplio-apoyo-de-sus-bases-gustavo-acevedo-oficializa-su-precandidatura-para-continuar-al-frente-de-santa-ana-centro/?utm_source=rss&utm_medium=rss&utm_campaign=con-amplio-apoyo-de-sus-bases-gustavo-acevedo-oficializa-su-precandidatura-para-continuar-al-frente-de-santa-ana-centro",
-        "published_date": "2026-06-29 02:11:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "IT'S OFFICIAL: President Nayib Bukele and Vice President F\u00e9lix Ulloa register to participate in the 2027 elections",
+        "title": "Honduran accused of fraud of $350 thousand and illegal fundraising will remain in prison",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/es-oficial-presidente-nayib-bukele-y-vicepresidente-felix-ulloa-se-inscriben-para-participar-en-comicios-del-2027/",
-        "published_date": "2026-06-29 01:50:15",
+        "url": "https://diariolahuella.com/hondureno-acusado-de-estafa-por-350-mil-y-captacion-ilegal-de-fondos-seguira-en-prision/",
+        "published_date": "2026-06-29 22:24:07",
         "category": "Local Events"
     },
     {
-        "title": "Gustavo Acevedo registers his candidacy for Nuevas Ideas amid massive citizen support in Santa Ana Centro",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gustavo-acevedo-inscribe-su-precandidatura-por-nuevas-ideas-en-medio-de-un-masivo-respaldo-ciudadano-en-santa-ana-centro/",
-        "published_date": "2026-06-29 01:47:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Nayib Bukele and Vice President F\u00e9lix Ulloa make registration for the 2027 elections official",
+        "title": "ARENA deputy points out that El Salvador does not need more laws to combat crime",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presidente-nayib-bukele-y-vicepresidente-felix-ulloa-oficializan-inscripcion-para-comicios-del-2027/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-nayib-bukele-y-vicepresidente-felix-ulloa-oficializan-inscripcion-para-comicios-del-2027",
-        "published_date": "2026-06-29 01:44:08",
+        "url": "https://lapagina.com.sv/politica/diputado-de-arena-senala-que-el-salvador-no-necesita-mas-leyes-para-combatir-la-delincuencia/?utm_source=rss&utm_medium=rss&utm_campaign=diputado-de-arena-senala-que-el-salvador-no-necesita-mas-leyes-para-combatir-la-delincuencia",
+        "published_date": "2026-06-29 22:23:30",
         "category": "Local Events"
     },
     {
-        "title": "Supporters accompany Alexia Rivas to register her candidacy as a representative for the diaspora",
+        "title": "Provisional prison for Honduran prosecuted for alleged millionaire fraud in El Salvador",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/simpatizantes-acompanan-a-alexia-rivas-a-inscribir-su-candidatura-como-diputada-por-la-diaspora/?utm_source=rss&utm_medium=rss&utm_campaign=simpatizantes-acompanan-a-alexia-rivas-a-inscribir-su-candidatura-como-diputada-por-la-diaspora",
-        "published_date": "2026-06-29 00:47:04",
+        "url": "https://lapagina.com.sv/general/prision-provisional-para-hondureno-procesado-por-presunta-estafa-millonaria-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=prision-provisional-para-hondureno-procesado-por-presunta-estafa-millonaria-en-el-salvador",
+        "published_date": "2026-06-29 22:14:45",
         "category": "Local Events"
     },
     {
-        "title": "Driver prevents bus from falling into a ravine after brake failure",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/conductor-evita-que-autobus-caiga-a-un-barranco-tras-falla-en-los-frenos/?utm_source=rss&utm_medium=rss&utm_campaign=conductor-evita-que-autobus-caiga-a-un-barranco-tras-falla-en-los-frenos",
-        "published_date": "2026-06-29 00:30:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran coffee successfully enters a specialized event in Brussels",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cafe-salvadoreno-incursiona-con-exito-en-evento-especializado-en-bruselas/?utm_source=rss&utm_medium=rss&utm_campaign=cafe-salvadoreno-incursiona-con-exito-en-evento-especializado-en-bruselas",
-        "published_date": "2026-06-29 00:23:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Canada makes history and becomes the first to qualify for the round of 16",
+        "title": "THE NUMBERS THAT SHOULD SHAME US",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/canada-hace-historia-y-se-convierte-en-la-primera-clasificada-a-los-octavos-de-final/",
-        "published_date": "2026-06-29 00:03:36",
+        "url": "https://www.diariocolatino.com/las-cifras-que-deberian-avergonzarnos/",
+        "published_date": "2026-06-29 22:13:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil survives Japan and advances to the round of 16 with an agonizing goal",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/brasil-sobrevive-a-japon-y-avanza-a-octavos-con-un-gol-agonico/",
+        "published_date": "2026-06-29 22:09:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "New Arrivals Terminal at El Salvador International Airport benefits national and international tourists",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/nueva-terminal-de-llegadas-del-aeropuerto-internacional-de-el-salvador-beneficia-a-turistas-nacionales-e-internacionales/?utm_source=rss&utm_medium=rss&utm_campaign=nueva-terminal-de-llegadas-del-aeropuerto-internacional-de-el-salvador-beneficia-a-turistas-nacionales-e-internacionales",
+        "published_date": "2026-06-29 21:13:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drunk driver causes multiple accidents involving eight vehicles in Antiguo Cuscatl\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/conductor-ebrio-provoca-multiple-accidente-que-involucro-a-ocho-vehiculos-en-antiguo-cuscatlan/",
+        "published_date": "2026-06-29 21:07:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil beats Japan with a last-minute goal and advances to the round of 16 of the 2026 World Cup",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/brasil-le-gana-a-japon-con-gol-de-ultimo-minuto-y-avanza-a-octavos-del-mundial-2026/?utm_source=rss&utm_medium=rss&utm_campaign=brasil-le-gana-a-japon-con-gol-de-ultimo-minuto-y-avanza-a-octavos-del-mundial-2026",
+        "published_date": "2026-06-29 21:06:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil comes back against Japan and advances to the round of 16 of the 2026 World Cup",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/brasil-remonta-ante-japon-y-avanza-a-los-octavos-de-final-del-mundial-2026/",
+        "published_date": "2026-06-29 21:04:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran contingent could remain in Venezuela for up to 15 days for rescue work",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/contingente-salvadoreno-podria-permanecer-hasta-15-dias-en-venezuela-para-labores-de-rescate/",
+        "published_date": "2026-06-29 20:58:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Civil Protection highlights the experience of the Salvadoran contingent that carries out humanitarian work in Venezuela",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/proteccion-civil-destaca-la-experiencia-del-contingente-salvadoreno-que-realiza-labores-humanitarias-en-venezuela/",
+        "published_date": "2026-06-29 20:52:32",
         "category": "Local Events"
     }
 ]
