@@ -1,5 +1,19 @@
 [
     {
+        "title": "Iran is willing to interact with the Persian Gulf States",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/iran-esta-dispuesto-a-interactuar-con-los-estados-del-golfo-persico/",
+        "published_date": "2026-06-30 10:58:32",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "El Salvador and Italy strengthen their friendship through cultural diplomacy",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/el-salvador-e-italia-fortalecen-su-amistad-a-traves-de-la-diplomacia-cultural/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-e-italia-fortalecen-su-amistad-a-traves-de-la-diplomacia-cultural",
+        "published_date": "2026-06-30 02:41:43",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Francisco Lira says that he has citizen support to seek re-election",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/francisco-lira-dice-que-cuenta-con-respaldo-ciudadano-para-buscar-la-reeleccion/",
@@ -123,20 +137,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/el-salvador-y-chile-estrechan-lazos-de-amistad-y-trabajo-conjunto/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-chile-estrechan-lazos-de-amistad-y-trabajo-conjunto",
         "published_date": "2026-06-23 20:05:16",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The Eiffel Tower and the Louvre Museum reduce hours due to intense heat wave in France",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/la-torre-eiffel-y-el-museo-del-louvre-reducen-horarios-por-intensa-ola-de-calor-en-francia/",
-        "published_date": "2026-06-23 17:35:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Oman and Iran emphasize detente and maritime security",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/oman-e-iran-enfatizan-distension-y-seguridad-maritima/",
-        "published_date": "2026-06-23 10:58:58",
         "category": "Diplomacy"
     },
     {
@@ -399,6 +399,90 @@
         "category": "Economy"
     },
     {
+        "title": "Those fired from the Rosales Hospital still do not receive compensation",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/despedidos-hospital-rosales-sin-recibir-indemnizaciones/",
+        "published_date": "2026-06-30 11:06:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Francisco Lira denounces that many ARENA pre-candidates have been threatened",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/francisco-lira-denuncia-que-muchos-precandidatos-de-arena-han-sido-amenazados/",
+        "published_date": "2026-06-30 11:05:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nayib Bukele seeks his third presidential term",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/nayib-bukele-busca-su-tercer-periodo-presidencial/",
+        "published_date": "2026-06-30 11:04:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Celebrating life and rescuing lives: Salvadoran brigade member in Venezuela",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/celebrando-la-vida-y-rescatando-vidas-brigadista-salvadoreno-en-venezuela/",
+        "published_date": "2026-06-30 11:03:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alexia Rivas registers as a candidate for deputy of Salvadorans abroad",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/alexia-rivas-se-inscribe-como-precandidata-a-diputada-de-los-salvadorenos-en-el-exterior/",
+        "published_date": "2026-06-30 11:02:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Edgardo Mulato will leave his seat to seek a municipal seat in San Salvador Norte",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/edgardo-mulato-dejara-curul-por-buscar-silla-edilicia-en-san-salvador-norte/",
+        "published_date": "2026-06-30 11:01:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Use of powdered milk divides producers and industrialists in the dairy sector",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/uso-de-leche-en-polvo-divide-a-productores-e-industriales-del-sector-lacteo/",
+        "published_date": "2026-06-30 11:00:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Engineers and architects from Venezuela evaluate the habitability of homes in the central region after earthquakes",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ingenieros-y-arquitectos-de-venezuela-evaluan-habitabilidad-de-viviendas-en-region-central-tras-sismos/",
+        "published_date": "2026-06-30 10:57:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Morocco beat the Netherlands in a heart-stopping penalty shootout and remains in the World Cup",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/marruecos-le-gano-a-paises-bajos-una-definicion-por-penales-infartante-y-sigue-en-el-mundial/",
+        "published_date": "2026-06-30 04:41:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran teams establish contact with man trapped in rubble in Venezuela",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/equipos-salvadorenos-establecen-contacto-con-hombre-atrapado-entre-los-escombros-en-venezuela/",
+        "published_date": "2026-06-30 03:21:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador establishes contact with survivor trapped in collapsed building in Venezuela",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/el-salvador-establece-contacto-con-sobreviviente-atrapado-en-edificio-colapsado-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-establece-contacto-con-sobreviviente-atrapado-en-edificio-colapsado-en-venezuela",
+        "published_date": "2026-06-30 02:05:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe will not give up\u201d: President Bukele confirms that Salvadoran rescuers will continue searching for missing people in Venezuela",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/no-nos-rendiremos-presidente-bukele-confirma-que-rescatistas-salvadorenos-seguiran-buscando-desaparecidos-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=no-nos-rendiremos-presidente-bukele-confirma-que-rescatistas-salvadorenos-seguiran-buscando-desaparecidos-en-venezuela",
+        "published_date": "2026-06-30 00:14:48",
+        "category": "Local Events"
+    },
+    {
         "title": "Paraguay eliminates Germany in a historic classification and will face the winner of France vs.Sweden",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/06/paraguay-elimina-a-alemania-en-una-historica-clasificacion-y-enfrentara-al-ganador-de-francia-vs-suecia/",
@@ -417,6 +501,13 @@
         "source": "Cronio",
         "url": "https://croniosv.com/opinet/analizando-la-erosion-intencional-de-los-vinculos-humanos/",
         "published_date": "2026-06-29 23:44:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US increases aid for Venezuela to more than $300 million and deploys a broad humanitarian operation after earthquakes",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/ee-uu-eleva-a-mas-de-300-millones-la-ayuda-para-venezuela-y-despliega-amplia-operacion-humanitaria-tras-terremotos/",
+        "published_date": "2026-06-29 23:40:46",
         "category": "Local Events"
     },
     {
@@ -445,97 +536,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/rambo-es-evaluado-por-un-veterinario-antes-de-continuar-la-busqueda-de-victimas-en-venezuela/",
         "published_date": "2026-06-29 23:06:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aerocable will have 153 cabins and four stations to improve mobility in San Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/aerocable-contara-con-153-cabinas-y-cuatro-estaciones-para-mejorar-la-movilidad-en-san-salvador/",
-        "published_date": "2026-06-29 23:03:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman dies after falling into a well in Zacatecoluca",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/mujer-muere-luego-de-caer-a-un-pozo-en-zacatecoluca/",
-        "published_date": "2026-06-29 22:58:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Honduran accused of fraud of $350 thousand and illegal fundraising will remain in prison",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/hondureno-acusado-de-estafa-por-350-mil-y-captacion-ilegal-de-fondos-seguira-en-prision/",
-        "published_date": "2026-06-29 22:24:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "ARENA deputy points out that El Salvador does not need more laws to combat crime",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/diputado-de-arena-senala-que-el-salvador-no-necesita-mas-leyes-para-combatir-la-delincuencia/?utm_source=rss&utm_medium=rss&utm_campaign=diputado-de-arena-senala-que-el-salvador-no-necesita-mas-leyes-para-combatir-la-delincuencia",
-        "published_date": "2026-06-29 22:23:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Provisional prison for Honduran prosecuted for alleged millionaire fraud in El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/prision-provisional-para-hondureno-procesado-por-presunta-estafa-millonaria-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=prision-provisional-para-hondureno-procesado-por-presunta-estafa-millonaria-en-el-salvador",
-        "published_date": "2026-06-29 22:14:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "THE NUMBERS THAT SHOULD SHAME US",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/las-cifras-que-deberian-avergonzarnos/",
-        "published_date": "2026-06-29 22:13:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazil survives Japan and advances to the round of 16 with an agonizing goal",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/brasil-sobrevive-a-japon-y-avanza-a-octavos-con-un-gol-agonico/",
-        "published_date": "2026-06-29 22:09:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "New Arrivals Terminal at El Salvador International Airport benefits national and international tourists",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/nueva-terminal-de-llegadas-del-aeropuerto-internacional-de-el-salvador-beneficia-a-turistas-nacionales-e-internacionales/?utm_source=rss&utm_medium=rss&utm_campaign=nueva-terminal-de-llegadas-del-aeropuerto-internacional-de-el-salvador-beneficia-a-turistas-nacionales-e-internacionales",
-        "published_date": "2026-06-29 21:13:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drunk driver causes multiple accidents involving eight vehicles in Antiguo Cuscatl\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/conductor-ebrio-provoca-multiple-accidente-que-involucro-a-ocho-vehiculos-en-antiguo-cuscatlan/",
-        "published_date": "2026-06-29 21:07:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazil beats Japan with a last-minute goal and advances to the round of 16 of the 2026 World Cup",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/brasil-le-gana-a-japon-con-gol-de-ultimo-minuto-y-avanza-a-octavos-del-mundial-2026/?utm_source=rss&utm_medium=rss&utm_campaign=brasil-le-gana-a-japon-con-gol-de-ultimo-minuto-y-avanza-a-octavos-del-mundial-2026",
-        "published_date": "2026-06-29 21:06:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazil comes back against Japan and advances to the round of 16 of the 2026 World Cup",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/brasil-remonta-ante-japon-y-avanza-a-los-octavos-de-final-del-mundial-2026/",
-        "published_date": "2026-06-29 21:04:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran contingent could remain in Venezuela for up to 15 days for rescue work",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/contingente-salvadoreno-podria-permanecer-hasta-15-dias-en-venezuela-para-labores-de-rescate/",
-        "published_date": "2026-06-29 20:58:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Civil Protection highlights the experience of the Salvadoran contingent that carries out humanitarian work in Venezuela",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/proteccion-civil-destaca-la-experiencia-del-contingente-salvadoreno-que-realiza-labores-humanitarias-en-venezuela/",
-        "published_date": "2026-06-29 20:52:32",
         "category": "Local Events"
     }
 ]
