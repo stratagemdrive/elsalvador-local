@@ -140,6 +140,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Man who caused a multiple crash had stolen money at a gas station",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/hombre-que-provoco-un-multiple-choque-habia-robado-dinero-en-gasolinera/",
+        "published_date": "2026-06-30 21:59:05",
+        "category": "Military"
+    },
+    {
+        "title": "PNC captures criminal who stole and caused multiple accidents",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/pnc-captura-a-delincuente-que-robo-y-causo-multiple-accidente/",
+        "published_date": "2026-06-30 18:35:36",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador accumulates 28 days without homicides during the month of June",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/el-salvador-acumula-28-dias-sin-homicidios-durante-el-mes-de-junio/",
+        "published_date": "2026-06-30 18:23:10",
+        "category": "Military"
+    },
+    {
         "title": "Armed confrontation leaves one gang member dead and another injured in Guatemala",
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/enfrentamiento-armado-deja-un-pandillero-muerto-y-otro-lesionado-en-guatemala/",
@@ -259,25 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "They capture a subject with drugs during a vehicle check after intervention by a canine pair",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-sujeto-con-droga-durante-control-vehicular-tras-intervencion-de-binomio-canino/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-sujeto-con-droga-durante-control-vehicular-tras-intervencion-de-binomio-canino",
-        "published_date": "2026-06-27 03:26:57",
-        "category": "Military"
-    },
-    {
-        "title": "Subject will remain in jail for carrying marijuana in La Granjita",
+        "title": "El Salvador continues to be promoted as an investment option in T\u00fcrkiye",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/sujeto-seguira-en-la-carcel-por-portar-marihuana-en-la-granjita/",
-        "published_date": "2026-06-26 21:05:21",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador adds another day with zero homicides",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/el-salvador-suma-otro-dia-con-cero-homicidios/",
-        "published_date": "2026-06-26 18:28:33",
-        "category": "Military"
+        "url": "https://diariolahuella.com/el-salvador-se-continua-promoviendo-como-opcion-de-inversion-en-turkiye/",
+        "published_date": "2026-06-30 20:15:33",
+        "category": "Energy"
     },
     {
         "title": "Fuel prices will maintain prices for another fortnight",
@@ -287,32 +294,25 @@
         "category": "Energy"
     },
     {
-        "title": "Fuel prices in El Salvador will remain unchanged",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/economia/precios-de-los-combustibles-en-el-salvador-se-mantendran-sin-cambios/",
-        "published_date": "2026-06-22 20:17:41",
-        "category": "Energy"
-    },
-    {
-        "title": "For the third time, fuel will remain at the same price",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/por-tercera-ocasion-el-combustible-se-mantendra-con-el-mismo-precio/",
-        "published_date": "2026-06-22 18:41:09",
-        "category": "Energy"
-    },
-    {
-        "title": "Fuel prices will remain unchanged until the beginning of July",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/precios-de-los-combustibles-se-mantendran-sin-cambio-hasta-inicios-de-julio/?utm_source=rss&utm_medium=rss&utm_campaign=precios-de-los-combustibles-se-mantendran-sin-cambio-hasta-inicios-de-julio",
-        "published_date": "2026-06-22 15:14:30",
-        "category": "Energy"
-    },
-    {
-        "title": "Fuel prices will remain unchanged until the beginning of July",
+        "title": "Government encourages opening of new businesses in the Historic Center",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/precios-de-los-combustibles-se-mantendran-sin-cambio-hasta-inicios-de-julio/",
-        "published_date": "2026-06-22 15:07:49",
-        "category": "Energy"
+        "url": "https://diariolahuella.com/gobierno-incentiva-apertura-de-nuevos-comercios-en-el-centro-historico/",
+        "published_date": "2026-06-30 21:55:47",
+        "category": "Economy"
+    },
+    {
+        "title": "BCR highlights economic growth in El Salvador with construction as the main engine",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/bcr-destaca-crecimiento-economico-de-el-salvador-con-la-construccion-como-principal-motor/?utm_source=rss&utm_medium=rss&utm_campaign=bcr-destaca-crecimiento-economico-de-el-salvador-con-la-construccion-como-principal-motor",
+        "published_date": "2026-06-30 21:03:29",
+        "category": "Economy"
+    },
+    {
+        "title": "El Salvador exceeds the historical average of economic growth with an advance of 4.8%",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-supera-el-promedio-historico-de-crecimiento-economico-con-un-avance-de-4-8/",
+        "published_date": "2026-06-30 21:01:23",
+        "category": "Economy"
     },
     {
         "title": "Eight notes on the national economy",
@@ -385,157 +385,143 @@
         "category": "Economy"
     },
     {
-        "title": "Government will promote improvements in San Salvador's water system and new road works",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gobierno-impulsara-mejoras-en-el-sistema-de-agua-de-san-salvador-y-nuevas-obras-viales/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-impulsara-mejoras-en-el-sistema-de-agua-de-san-salvador-y-nuevas-obras-viales",
-        "published_date": "2026-06-22 20:38:57",
-        "category": "Economy"
+        "title": "France thrashes Sweden and advances to the round of 16 of the 2026 World Cup",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/francia-golea-a-suecia-y-avanza-a-octavos-de-final-del-mundial-2026/",
+        "published_date": "2026-06-30 23:28:51",
+        "category": "Local Events"
     },
     {
-        "title": "Loan with CABEI would allow improving drinking water supply in San Salvador",
+        "title": "France does not forgive Sweden and advances to the round of 16 of the World Cup",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/francia-no-perdona-a-suecia-y-avanza-a-los-octavos-del-mundial/",
+        "published_date": "2026-06-30 23:26:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Human Rights organizations denounce escalation of harassment, persecution and criminalization against defense lawyers",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/organizaciones-de-ddhh-denuncian-escalada-de-acoso-persecucion-y-criminalizacion-contra-abogados-defensores/",
+        "published_date": "2026-06-30 22:58:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Assembly reports that 18 people have applied to join the CCR",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/asamblea-informa-que-18-personas-se-han-postulado-para-integrar-la-ccr/",
+        "published_date": "2026-06-30 22:35:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aerocable takes shape: MOP installs the first of the project's 23 towers",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/aerocable-toma-forma-mop-instala-la-primera-de-las-23-torres-del-proyecto/",
+        "published_date": "2026-06-30 22:28:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Haaland qualifies Norway and cites Brazil in the round of 16",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/haaland-clasifica-a-noruega-y-cita-a-brasil-en-octavos/",
+        "published_date": "2026-06-30 22:25:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "43 members of MS-13 are sentenced to sentences of up to 85 years in prison",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/condenan-a-43-integrantes-de-la-ms-13-a-penas-de-hasta-85-anos-de-prision/",
+        "published_date": "2026-06-30 21:59:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Revitalization of the Historic Center attracts new investments and generates job opportunities",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/revitalizacion-del-centro-historico-atrae-nuevas-inversiones-y-genera-oportunidades-laborales/?utm_source=rss&utm_medium=rss&utm_campaign=revitalizacion-del-centro-historico-atrae-nuevas-inversiones-y-genera-oportunidades-laborales",
+        "published_date": "2026-06-30 21:57:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man receives 40 years in prison for aggravated murder of his mother",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/hombre-recibe-40-anos-de-carcel-por-homicidio-agravado-de-su-madre/?utm_source=rss&utm_medium=rss&utm_campaign=hombre-recibe-40-anos-de-carcel-por-homicidio-agravado-de-su-madre",
+        "published_date": "2026-06-30 21:53:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Haaland drives Norway's first victory in World Cup knockout",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/haaland-impulsa-primer-triunfo-de-noruega-en-nocaut-de-copa-del-mundo/",
+        "published_date": "2026-06-30 21:52:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "12 years in prison for a gang member who extorted a Mejicanos merchant",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/12-anos-de-prision-a-pandillero-que-extorsiono-a-un-comerciante-de-mejicanos/",
+        "published_date": "2026-06-30 21:49:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man sentenced to 40 years in prison for aggravated murder of his mother in San Salvador",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/prestamo-con-el-bcie-permitiria-mejorar-abastecimiento-de-agua-potable-en-san-salvador/",
-        "published_date": "2026-06-22 20:26:41",
-        "category": "Economy"
-    },
-    {
-        "title": "Those fired from the Rosales Hospital still do not receive compensation",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/despedidos-hospital-rosales-sin-recibir-indemnizaciones/",
-        "published_date": "2026-06-30 11:06:15",
+        "url": "https://diariolahuella.com/condenan-a-40-anos-de-prision-a-hombre-por-homicidio-agravado-de-su-madre-en-san-salvador/",
+        "published_date": "2026-06-30 21:47:44",
         "category": "Local Events"
     },
     {
-        "title": "Francisco Lira denounces that many ARENA pre-candidates have been threatened",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/francisco-lira-denuncia-que-muchos-precandidatos-de-arena-han-sido-amenazados/",
-        "published_date": "2026-06-30 11:05:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nayib Bukele seeks his third presidential term",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/nayib-bukele-busca-su-tercer-periodo-presidencial/",
-        "published_date": "2026-06-30 11:04:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Celebrating life and rescuing lives: Salvadoran brigade member in Venezuela",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/celebrando-la-vida-y-rescatando-vidas-brigadista-salvadoreno-en-venezuela/",
-        "published_date": "2026-06-30 11:03:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alexia Rivas registers as a candidate for deputy of Salvadorans abroad",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/alexia-rivas-se-inscribe-como-precandidata-a-diputada-de-los-salvadorenos-en-el-exterior/",
-        "published_date": "2026-06-30 11:02:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Edgardo Mulato will leave his seat to seek a municipal seat in San Salvador Norte",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/edgardo-mulato-dejara-curul-por-buscar-silla-edilicia-en-san-salvador-norte/",
-        "published_date": "2026-06-30 11:01:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Use of powdered milk divides producers and industrialists in the dairy sector",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/uso-de-leche-en-polvo-divide-a-productores-e-industriales-del-sector-lacteo/",
-        "published_date": "2026-06-30 11:00:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Engineers and architects from Venezuela evaluate the habitability of homes in the central region after earthquakes",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ingenieros-y-arquitectos-de-venezuela-evaluan-habitabilidad-de-viviendas-en-region-central-tras-sismos/",
-        "published_date": "2026-06-30 10:57:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Morocco beat the Netherlands in a heart-stopping penalty shootout and remains in the World Cup",
+        "title": "The voice of Celia Cruz the \u201cQueen of Salsa\u201d was recreated with artificial intelligence",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/marruecos-le-gano-a-paises-bajos-una-definicion-por-penales-infartante-y-sigue-en-el-mundial/",
-        "published_date": "2026-06-30 04:41:46",
+        "url": "https://www.elmetropolitanodigital.com/2026/06/la-voz-de-celia-cruz-la-reina-de-la-salsa-fue-recreada-con-inteligencia-artificial/",
+        "published_date": "2026-06-30 21:44:32",
         "category": "Local Events"
     },
     {
-        "title": "Salvadoran teams establish contact with man trapped in rubble in Venezuela",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/equipos-salvadorenos-establecen-contacto-con-hombre-atrapado-entre-los-escombros-en-venezuela/",
-        "published_date": "2026-06-30 03:21:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador establishes contact with survivor trapped in collapsed building in Venezuela",
+        "title": "Salvadoran contingent transfers aid to families affected by the earthquakes in Venezuela",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/el-salvador-establece-contacto-con-sobreviviente-atrapado-en-edificio-colapsado-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-establece-contacto-con-sobreviviente-atrapado-en-edificio-colapsado-en-venezuela",
-        "published_date": "2026-06-30 02:05:13",
+        "url": "https://lapagina.com.sv/nacionales/contingente-salvadoreno-traslada-ayuda-a-familias-afectadas-por-los-sismos-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=contingente-salvadoreno-traslada-ayuda-a-familias-afectadas-por-los-sismos-en-venezuela",
+        "published_date": "2026-06-30 21:35:10",
         "category": "Local Events"
     },
     {
-        "title": "\u201cWe will not give up\u201d: President Bukele confirms that Salvadoran rescuers will continue searching for missing people in Venezuela",
+        "title": "Salvadoran humanitarian mission brings medical supplies and helps those affected by earthquakes in Venezuela",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/mision-humanitaria-salvadorena-lleva-insumos-medicos-y-ayuda-a-afectados-por-terremotos-en-venezuela/",
+        "published_date": "2026-06-30 21:33:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norway beats Ivory Coast and will face Brazil in the round of 16 of the 2026 World Cup",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/noruega-supera-a-costa-de-marfil-y-enfrentara-a-brasil-en-los-octavos-del-mundial-2026/",
+        "published_date": "2026-06-30 20:44:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Norway hits the blow and prepares a duel against Brazil in the 2026 World Cup",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/no-nos-rendiremos-presidente-bukele-confirma-que-rescatistas-salvadorenos-seguiran-buscando-desaparecidos-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=no-nos-rendiremos-presidente-bukele-confirma-que-rescatistas-salvadorenos-seguiran-buscando-desaparecidos-en-venezuela",
-        "published_date": "2026-06-30 00:14:48",
+        "url": "https://lapagina.com.sv/deportes/noruega-da-el-golpe-y-prepara-un-duelo-ante-brasil-en-el-mundial-2026/?utm_source=rss&utm_medium=rss&utm_campaign=noruega-da-el-golpe-y-prepara-un-duelo-ante-brasil-en-el-mundial-2026",
+        "published_date": "2026-06-30 20:43:00",
         "category": "Local Events"
     },
     {
-        "title": "Paraguay eliminates Germany in a historic classification and will face the winner of France vs.Sweden",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/paraguay-elimina-a-alemania-en-una-historica-clasificacion-y-enfrentara-al-ganador-de-francia-vs-suecia/",
-        "published_date": "2026-06-30 00:05:55",
+        "title": "Provisional detention for Honduran accused of swindling $350,000 through false digital investments",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/detencion-provisional-para-hondureno-acusado-de-estafar-350000-mediante-falsas-inversiones-digitales/",
+        "published_date": "2026-06-30 20:42:09",
         "category": "Local Events"
     },
     {
-        "title": "Paraguay makes history and eliminates Germany from the World Cup on penalties",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/paraguay-hace-historia-y-elimina-a-alemania-del-mundial-en-penales/",
-        "published_date": "2026-06-29 23:57:53",
+        "title": "Private photographs would have been used to gain trust and commit theft",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/fotografias-privadas-habrian-sido-utilizadas-para-ganar-confianza-y-cometer-hurtos/?utm_source=rss&utm_medium=rss&utm_campaign=fotografias-privadas-habrian-sido-utilizadas-para-ganar-confianza-y-cometer-hurtos",
+        "published_date": "2026-06-30 20:32:08",
         "category": "Local Events"
     },
     {
-        "title": "Analyzing the intentional erosion of human bonds",
-        "source": "Cronio",
-        "url": "https://croniosv.com/opinet/analizando-la-erosion-intencional-de-los-vinculos-humanos/",
-        "published_date": "2026-06-29 23:44:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US increases aid for Venezuela to more than $300 million and deploys a broad humanitarian operation after earthquakes",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/06/ee-uu-eleva-a-mas-de-300-millones-la-ayuda-para-venezuela-y-despliega-amplia-operacion-humanitaria-tras-terremotos/",
-        "published_date": "2026-06-29 23:40:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran humanitarian mission provides medical care and continues rescue work in Venezuela",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/mision-humanitaria-salvadorena-brinda-atencion-medica-y-continua-labores-de-rescate-en-venezuela/",
-        "published_date": "2026-06-29 23:36:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camera captures spectacular crash caused by a driver who ran the red light",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/camara-capta-aparatoso-choque-provocado-por-un-conductor-que-se-paso-el-semaforo-en-rojo/",
-        "published_date": "2026-06-29 23:28:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "They locate a white Bengal tiger that escaped from a shelter in Mexico",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/localizan-a-tigre-de-bengala-blanco-que-escapo-de-un-refugio-en-mexico/",
-        "published_date": "2026-06-29 23:18:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rambo is evaluated by a veterinarian before continuing the search for victims in Venezuela",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/rambo-es-evaluado-por-un-veterinario-antes-de-continuar-la-busqueda-de-victimas-en-venezuela/",
-        "published_date": "2026-06-29 23:06:22",
+        "title": "Authorities arrest group accused of committing theft through online deception",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/autoridades-detienen-a-grupo-acusado-de-realizar-hurtos-mediante-enganos-en-linea/",
+        "published_date": "2026-06-30 20:31:32",
         "category": "Local Events"
     }
 ]
