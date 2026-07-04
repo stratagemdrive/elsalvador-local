@@ -1,5 +1,26 @@
 [
     {
+        "title": "Vice President Ulloa meets with the Chilean ambassador in El Salvador for the end of the diplomatic mission",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/vicepresidente-ulloa-se-reune-con-embajadora-de-chile-en-el-salvador-por-finalizacion-de-mision-diplomatica/",
+        "published_date": "2026-07-03 23:50:26",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Venezuela will receive doctors and humanitarian aid from Argentina, Qatar and Jordan after the earthquakes of June 24",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/venezuela-recibira-medicos-y-ayuda-humanitaria-de-argentina-qatar-y-jordania-tras-los-sismos-del-24-de-junio/",
+        "published_date": "2026-07-03 22:20:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Vice President F\u00e9lix Ulloa recognizes the work of the Ambassador of Chile at the end of her mission",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-reconoce-la-labor-de-la-embajadora-de-chile-al-finalizar-su-mision/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-reconoce-la-labor-de-la-embajadora-de-chile-al-finalizar-su-mision",
+        "published_date": "2026-07-03 18:18:54",
+        "category": "Diplomacy"
+    },
+    {
         "title": "US pressure against Cuba is part of the design of a new international order of unlikely sustainability, vice chancellor denounces",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/presiones-de-eeuu-contra-cuba-son-parte-del-diseno-de-nuevo-orden-internacional-de-improbable-sostenibilidad-denuncia-vicecanciller/",
@@ -119,25 +140,67 @@
         "category": "Diplomacy"
     },
     {
-        "title": "El Salvador and Switzerland follow up on their relations and joint work",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-y-suiza-dan-seguimiento-a-sus-relaciones-y-trabajo-conjunto/",
-        "published_date": "2026-06-26 20:54:34",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Iran: in resistance against Western terrorism (last part)",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/iran-en-resistencia-contra-el-terrorismo-occidental-ultima-parte/",
-        "published_date": "2026-06-26 10:58:33",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "El Salvador and Belize strengthen diplomatic relations and advance a possible economic agreement",
+        "title": "Authorities highlight results of the Territorial Control Plan",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/el-salvador-y-belice-fortalecen-relaciones-diplomaticas-y-avanzan-en-un-posible-acuerdo-economico/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-belice-fortalecen-relaciones-diplomaticas-y-avanzan-en-un-posible-acuerdo-economico",
-        "published_date": "2026-06-26 01:19:02",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/autoridades-destacan-resultados-del-plan-control-territorial/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-destacan-resultados-del-plan-control-territorial",
+        "published_date": "2026-07-04 00:01:09",
+        "category": "Military"
+    },
+    {
+        "title": "Authorities highlight progress in security and recovery of the country",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/autoridades-destacan-avances-en-seguridad-y-recuperacion-del-pais/",
+        "published_date": "2026-07-03 23:52:15",
+        "category": "Military"
+    },
+    {
+        "title": "They deliver 154 lot deeds to families affected by Argoz",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/entregan-154-escrituras-de-lotes-a-familias-afectadas-por-argoz/?utm_source=rss&utm_medium=rss&utm_campaign=entregan-154-escrituras-de-lotes-a-familias-afectadas-por-argoz",
+        "published_date": "2026-07-03 20:28:06",
+        "category": "Military"
+    },
+    {
+        "title": "Government delivers 154 lot deeds to families defrauded by Argoz",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-entrega-154-escrituras-de-lotes-a-familias-estafadas-por-argoz/",
+        "published_date": "2026-07-03 20:13:32",
+        "category": "Military"
+    },
+    {
+        "title": "FGR and PNC seize drugs and capture four people in Villa Lourdes",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/fgr-y-pnc-incautan-droga-y-capturan-a-cuatro-personas-en-villa-lourdes/?utm_source=rss&utm_medium=rss&utm_campaign=fgr-y-pnc-incautan-droga-y-capturan-a-cuatro-personas-en-villa-lourdes",
+        "published_date": "2026-07-03 19:52:23",
+        "category": "Military"
+    },
+    {
+        "title": "Operation in Villa Lourdes leaves four captured for alleged illicit trafficking",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/operativo-en-villa-lourdes-deja-cuatro-capturados-por-presunto-trafico-ilicito/",
+        "published_date": "2026-07-03 19:49:20",
+        "category": "Military"
+    },
+    {
+        "title": "They capture four people who stored illicit substances in a home",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/capturan-a-cuatro-personas-que-almacenaban-sustancias-ilicitas-en-una-vivienda/",
+        "published_date": "2026-07-03 18:04:40",
+        "category": "Military"
+    },
+    {
+        "title": "Operation in Colonia Escal\u00f3n leaves sanctions and temporary closures for failing to comply with municipal ordinance",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/operativo-en-colonia-escalon-deja-sanciones-y-cierres-temporales-por-incumplir-ordenanza-municipal/",
+        "published_date": "2026-07-03 17:23:08",
+        "category": "Military"
+    },
+    {
+        "title": "They capture seven people involved in a million-dollar fraud against a beverage distributor",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-siete-implicados-en-millonario-fraude-contra-distribuidora-de-bebidas/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-siete-implicados-en-millonario-fraude-contra-distribuidora-de-bebidas",
+        "published_date": "2026-07-03 17:02:34",
+        "category": "Military"
     },
     {
         "title": "Woman faked her own kidnapping to demand $10,000 from her family",
@@ -217,69 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "The day of trial against 485 leaders of the MS for homicides committed between 2012 and 2022 concludes",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/concluye-jornada-de-juicio-contra-485-cabecillas-de-la-ms-por-homicidios-cometidos-entre-2012-y-2022/?utm_source=rss&utm_medium=rss&utm_campaign=concluye-jornada-de-juicio-contra-485-cabecillas-de-la-ms-por-homicidios-cometidos-entre-2012-y-2022",
-        "published_date": "2026-07-01 23:08:15",
-        "category": "Military"
-    },
-    {
-        "title": "CAM and PNC notify owners of abandoned vehicles in the Mejicanos residential area",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/cam-y-pnc-notifican-a-propietarios-de-vehiculos-abandonados-en-residencial-de-mejicanos/",
-        "published_date": "2026-07-01 22:04:35",
-        "category": "Military"
-    },
-    {
-        "title": "They capture \u201cLa China\u201d, a gang member accused of participating in the murder of a young woman",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-la-china-pandillera-senalada-de-participar-en-el-asesinato-de-una-joven/",
-        "published_date": "2026-07-01 20:30:29",
-        "category": "Military"
-    },
-    {
-        "title": "Hearing continues against 485 leaders of the MS for various crimes committed between 2012 and 2022",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/continua-audiencia-contra-485-cabecillas-de-la-ms-por-diversos-delitos-cometidos-entre-2012-y-2022/",
-        "published_date": "2026-07-01 20:09:01",
-        "category": "Military"
-    },
-    {
-        "title": "Codesevi installs vehicle control in Sensuntepeque to strengthen road safety",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/codesevi-instala-control-vehicular-en-sensuntepeque-para-fortalecer-la-seguridad-vial/",
-        "published_date": "2026-07-01 18:59:53",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a young man who boasted on social networks about his membership in the MS",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-jovencito-que-presumia-en-redes-sociales-su-pertenencia-a-la-ms/",
-        "published_date": "2026-07-01 18:53:56",
-        "category": "Military"
-    },
-    {
-        "title": "Authorities capture a gang member who tried to flee El Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/autoridades-capturan-a-pandillero-que-intento-huir-de-el-salvador/",
-        "published_date": "2026-07-01 18:16:26",
-        "category": "Military"
-    },
-    {
-        "title": "Mass celebration for Mexico's victory ends with three deaths after crowds",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/celebracion-masiva-por-triunfo-de-mexico-termina-con-tres-muertes-tras-aglomeraciones/?utm_source=rss&utm_medium=rss&utm_campaign=celebracion-masiva-por-triunfo-de-mexico-termina-con-tres-muertes-tras-aglomeraciones",
-        "published_date": "2026-07-01 16:57:46",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador closes June with 29 days without homicides",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-salvador-cierra-junio-con-29-dias-sin-homicidios/",
-        "published_date": "2026-07-01 14:49:57",
-        "category": "Military"
-    },
-    {
         "title": "SIGET will transfer powers it has over electricity to the Directorate of Energy, Hydrocarbons and Mines",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/siget-trasladara-facultades-que-tiene-sobre-electricidad-a-la-direccion-de-energia-hidrocarburos-y-minas/?utm_source=rss&utm_medium=rss&utm_campaign=siget-trasladara-facultades-que-tiene-sobre-electricidad-a-la-direccion-de-energia-hidrocarburos-y-minas",
@@ -320,6 +320,13 @@
         "url": "https://diariolahuella.com/el-salvador-se-continua-promoviendo-como-opcion-de-inversion-en-turkiye/",
         "published_date": "2026-06-30 20:15:33",
         "category": "Energy"
+    },
+    {
+        "title": "El Salvador projects itself in Saudi Arabia as a coffee supplier and tourist destination",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-se-proyecta-en-arabia-saudita-como-proveedor-de-cafe-y-destino-turistico/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-se-proyecta-en-arabia-saudita-como-proveedor-de-cafe-y-destino-turistico",
+        "published_date": "2026-07-03 19:45:54",
+        "category": "Economy"
     },
     {
         "title": "Portugal beat Croatia and qualified for the round of 16 of the 2026 World Cup",
@@ -406,164 +413,143 @@
         "category": "Economy"
     },
     {
-        "title": "Crecer's voluntary savings funds exceed $32 million as of May",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/fondos-de-ahorro-voluntario-de-crecer-superan-a-mayo-los-32-millones/",
-        "published_date": "2026-06-25 18:50:35",
-        "category": "Economy"
+        "title": "CLOSET XII",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/almario-xii/",
+        "published_date": "2026-07-04 00:00:26",
+        "category": "Local Events"
     },
     {
-        "title": "World-class shipping company will open direct route to El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/naviera-de-talla-mundial-abrira-ruta-directa-hacia-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=naviera-de-talla-mundial-abrira-ruta-directa-hacia-el-salvador",
-        "published_date": "2026-06-25 16:11:36",
-        "category": "Economy"
+        "title": "English in Central America XIV",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ingleses-en-centroamerica-xiv/",
+        "published_date": "2026-07-03 23:43:52",
+        "category": "Local Events"
     },
     {
-        "title": "Naviera Ocean Network Express announces direct route to El Salvador",
+        "title": "Cristiano Ronaldo could play his last World Cup with Portugal in 2026, according to his sister",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/cristiano-ronaldo-podria-disputar-su-ultimo-mundial-con-portugal-en-2026-segun-su-hermana/",
+        "published_date": "2026-07-03 23:43:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Accident between harrow and truck leaves driver trapped in Metap\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/accidente-entre-rastra-y-camion-deja-a-conductor-atrapado-en-metapan/",
+        "published_date": "2026-07-03 23:28:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young man dies after receiving an electric shock while cutting avocados in Chalatenango",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/joven-muere-tras-recibir-una-descarga-electrica-mientras-cortaba-aguacates-en-chalatenango/",
+        "published_date": "2026-07-03 23:13:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Judge orders arrest while investigation for crimes against a teenager progresses",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/naviera-ocean-network-express-anuncia-ruta-directa-hacia-el-salvador/",
-        "published_date": "2026-06-25 15:57:23",
-        "category": "Economy"
-    },
-    {
-        "title": "Ruth L\u00f3pez's sister is worried about the lawyer's health",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/hermana-ruth-lopez-preocupada-salud-abogada/",
-        "published_date": "2026-07-03 11:05:12",
+        "url": "https://diariolahuella.com/jueza-ordena-detencion-mientras-avanza-investigacion-por-delitos-contra-una-adolescente/",
+        "published_date": "2026-07-03 23:07:51",
         "category": "Local Events"
     },
     {
-        "title": "Lawyers denounce political use of the judicial system and question processes against political prisoners",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/abogados-denuncian-uso-politico-del-sistema-judicial-y-cuestionan-procesos-contra-presos-politicos/",
-        "published_date": "2026-07-03 11:04:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Coatepeque Foundation carries out trail maintenance to strengthen conservation",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fundacion-coatepeque-realiza-mantenimiento-de-senderos-para-fortalecer-la-conservacion/",
-        "published_date": "2026-07-03 11:02:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "New Ideas Deputy, Dania Gonz\u00e1lez, incorporates the vote of an absent deputy",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/diputada-de-nuevas-ideas-dania-gonzalez-incorpora-el-voto-de-una-diputada-ausente/",
-        "published_date": "2026-07-03 11:01:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "OUDH 2025 Report denounces consolidation of authoritarian regime in El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/informe-oudh-2025-denuncia-consolidacion-de-regimen-autoritario-en-el-salvador/",
-        "published_date": "2026-07-03 11:00:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israel: the putrid son of God",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/israel-el-hijo-putridus-de-dios/",
-        "published_date": "2026-07-03 10:59:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "96 Spaniards evacuated after earthquakes in Venezuela arrive in Madrid",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/llegan-a-madrid-96-espanoles-evacuados-tras-terremotos-en-venezuela/",
-        "published_date": "2026-07-03 10:58:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Portugal survives the drama with Croatia and will face Spain in the round of 16",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/portugal-sobrevive-al-drama-con-croacia-y-enfrentara-a-espana-en-octavos/",
-        "published_date": "2026-07-03 10:00:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Switzerland defeats Algeria and qualifies with authority for the round of 16 of the 2026 World Cup",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/suiza-vence-a-argelia-y-clasifica-con-autoridad-a-los-octavos-de-final-del-mundial-2026/",
-        "published_date": "2026-07-03 05:06:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "VIDEO |El Salvador maintains its humanitarian mission in Venezuela with medical care and delivery of supplies",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/video-el-salvador-mantiene-su-mision-humanitaria-en-venezuela-con-atencion-medica-y-entrega-de-insumos/",
-        "published_date": "2026-07-03 03:55:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Driver is injured after hitting a tree on the Panamericana",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/conductor-resulta-lesionado-tras-chocar-contra-un-arbol-en-la-panamericana/",
-        "published_date": "2026-07-03 00:43:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Venezuela as the scene of the true \u201cSuperman\u201d",
-        "source": "Cronio",
-        "url": "https://croniosv.com/opinet/venezuela-como-escenario-del-verdadero-superhombre/",
-        "published_date": "2026-07-03 00:43:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cruz Verde treats a driver injured in a traffic accident in San Mart\u00edn",
+        "title": "Provisional prison for man accused of contacting a minor through social networks",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cruz-verde-atiende-a-conductor-herido-en-accidente-de-transito-en-san-martin/?utm_source=rss&utm_medium=rss&utm_campaign=cruz-verde-atiende-a-conductor-herido-en-accidente-de-transito-en-san-martin",
-        "published_date": "2026-07-03 00:39:06",
+        "url": "https://lapagina.com.sv/nacionales/prision-provisional-para-hombre-acusado-de-contactar-a-menor-de-edad-por-redes-sociales/?utm_source=rss&utm_medium=rss&utm_campaign=prision-provisional-para-hombre-acusado-de-contactar-a-menor-de-edad-por-redes-sociales",
+        "published_date": "2026-07-03 22:52:29",
         "category": "Local Events"
     },
     {
-        "title": "Woman dies after being hit by a truck in Ciudad Delgado",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/mujer-fallece-tras-ser-impactada-por-un-camion-en-ciudad-delgado/",
-        "published_date": "2026-07-03 00:12:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "VMT fines three drivers for using cell phones while driving",
+        "title": "Authorities close three bars that operated without permission in the Escal\u00f3n neighborhood",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/vmt-multa-a-tres-conductores-por-usar-el-celular-mientras-manejaban/",
-        "published_date": "2026-07-02 23:58:52",
+        "url": "https://croniosv.com/nacionales/autoridades-clausuran-tres-bares-que-operaban-sin-permiso-en-la-colonia-escalon/",
+        "published_date": "2026-07-03 22:47:51",
         "category": "Local Events"
     },
     {
-        "title": "MARN reports historical heat records in Sonsonate and Moraz\u00e1n",
+        "title": "Video shows how the double earthquake on the coast of Venezuela was experienced",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/marn-reporta-records-historicos-de-calor-en-sonsonate-y-morazan/",
-        "published_date": "2026-07-02 23:49:37",
+        "url": "https://croniosv.com/internacionales/video-muestra-como-se-vivio-el-doble-terremoto-en-la-costa-de-venezuela/",
+        "published_date": "2026-07-03 22:43:18",
         "category": "Local Events"
     },
     {
-        "title": "CAM removes people who consumed alcohol on the Colquet field after a citizen complaint",
+        "title": "Mayor's Office of La Libertad Sur inaugurates the 2026 World Cup Grill Festival",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/cam-retira-a-personas-que-consumian-alcohol-en-cancha-de-colquet-tras-denuncia-ciudadana/",
-        "published_date": "2026-07-02 23:10:23",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/alcaldia-de-la-libertad-sur-inaugura-el-festival-parrillero-mundialista-2026/",
+        "published_date": "2026-07-03 22:42:39",
         "category": "Local Events"
     },
     {
-        "title": "Explosion in a cafeteria in central Damascus leaves nine dead and 20 injured",
+        "title": "VIDEO |Mayor's Office of San Salvador Este urges respect for permitted noise levels",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/video-alcaldia-de-san-salvador-este-insta-a-respetar-los-niveles-de-ruido-permitidos/",
+        "published_date": "2026-07-03 22:37:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Egypt makes history: it qualifies for the first time in the round of 16 of a World Cup",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/explosion-en-cafeteria-de-centro-de-damasco-deja-nueve-muertos-y-20-heridos/",
-        "published_date": "2026-07-02 22:43:11",
+        "url": "https://www.diariocolatino.com/egipto-hace-historia-clasifica-por-primera-vez-a-los-octavos-de-final-de-un-mundial/",
+        "published_date": "2026-07-03 22:04:15",
         "category": "Local Events"
     },
     {
-        "title": "Man and 3-year-old girl die after the bridge collapse in Pet\u00e9n, Guatemala.",
+        "title": "Kidnapped journalist found dead in Mexico",
         "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/hombre-y-nina-de-3-anos-mueren-tras-el-colapso-de-puente-en-peten-guatemala/",
-        "published_date": "2026-07-02 22:37:55",
+        "url": "https://croniosv.com/internacionales/hallan-muerta-a-periodista-secuestrada-en-mexico/",
+        "published_date": "2026-07-03 21:48:22",
         "category": "Local Events"
     },
     {
-        "title": "Emotional gesture: Venezuelans celebrate the birthday of a Salvadoran lifeguard",
+        "title": "At least 40 dead and 11 injured after a bus falls into a ravine in Pakistan",
         "source": "Cronio",
-        "url": "https://croniosv.com/redes/virales/emotivo-gesto-venezolanos-celebran-el-cumpleanos-de-un-socorrista-salvadoreno/",
-        "published_date": "2026-07-02 22:18:13",
+        "url": "https://croniosv.com/internacionales/al-menos-40-muertos-y-11-heridos-tras-caida-de-un-autobus-a-un-barranco-en-pakistan/",
+        "published_date": "2026-07-03 21:36:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Egypt eliminates Australia on penalties and advances to the round of 16 of the 2026 World Cup",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/egipto-elimina-a-australia-en-penales-y-avanza-a-los-octavos-de-final-del-mundial-2026/",
+        "published_date": "2026-07-03 21:14:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "He will go to trial accused of defrauding a national institution",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/ira-a-juicio-acusado-de-estafar-a-institucion-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=ira-a-juicio-acusado-de-estafar-a-institucion-nacional",
+        "published_date": "2026-07-03 20:46:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Salvadoran humanitarian mission combines rescue and medical care in the affected areas of Venezuela",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/la-mision-humanitaria-salvadorena-combina-rescate-y-atencion-medica-en-las-zonas-afectadas-de-venezuela/",
+        "published_date": "2026-07-03 20:36:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran medical personnel assist international brigades participating in rescues",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/personal-medico-salvadoreno-atiende-a-brigadas-internacionales-que-participan-en-los-rescates/?utm_source=rss&utm_medium=rss&utm_campaign=personal-medico-salvadoreno-atiende-a-brigadas-internacionales-que-participan-en-los-rescates",
+        "published_date": "2026-07-03 20:30:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities respond to emergency in INFRAMEN due to alleged inhalation of chemical substances",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/autoridades-atienden-emergencia-en-el-inframen-por-presunta-inhalacion-de-sustancias-quimicas/",
+        "published_date": "2026-07-03 19:38:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador projects itself in Saudi Arabia as a coffee supplier and tourist destination",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-se-proyecta-en-arabia-saudita-como-proveedor-de-cafe-y-destino-turistico/",
+        "published_date": "2026-07-03 19:23:51",
         "category": "Local Events"
     }
 ]
