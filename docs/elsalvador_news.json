@@ -133,6 +133,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Dog rescued in Venezuela will arrive in El Salvador to join the Humanitarian Rescue Unit",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/perrita-rescatada-en-venezuela-llegara-a-el-salvador-para-integrarse-a-la-unidad-humanitaria-de-rescate/",
+        "published_date": "2026-07-06 13:54:56",
+        "category": "Military"
+    },
+    {
+        "title": "They arrest a Nicaraguan citizen after finding images that linked him to the MS",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/detienen-a-ciudadano-nicaraguense-tras-encontrar-imagenes-que-lo-vinculaban-con-la-ms/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-ciudadano-nicaraguense-tras-encontrar-imagenes-que-lo-vinculaban-con-la-ms",
+        "published_date": "2026-07-06 04:21:14",
+        "category": "Military"
+    },
+    {
+        "title": "\u201cF\u00e9nix\u201d will be transferred to El Salvador after being rescued from the rubble in Venezuela",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/fenix-sera-trasladada-a-el-salvador-tras-ser-rescatada-de-los-escombros-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=fenix-sera-trasladada-a-el-salvador-tras-ser-rescatada-de-los-escombros-en-venezuela",
+        "published_date": "2026-07-06 03:42:10",
+        "category": "Military"
+    },
+    {
         "title": "S\u00edvarSeguro cameras capture an accident caused by an improper turn on Bernal Avenue",
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/camaras-de-sivarseguro-captan-accidente-provocado-por-giro-indebido-en-la-avenida-bernal/",
@@ -249,27 +270,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/operativo-en-villa-lourdes-deja-cuatro-capturados-por-presunto-trafico-ilicito/",
         "published_date": "2026-07-03 19:49:20",
-        "category": "Military"
-    },
-    {
-        "title": "They capture four people who stored illicit substances in a home",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/capturan-a-cuatro-personas-que-almacenaban-sustancias-ilicitas-en-una-vivienda/",
-        "published_date": "2026-07-03 18:04:40",
-        "category": "Military"
-    },
-    {
-        "title": "Operation in Colonia Escal\u00f3n leaves sanctions and temporary closures for failing to comply with municipal ordinance",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/operativo-en-colonia-escalon-deja-sanciones-y-cierres-temporales-por-incumplir-ordenanza-municipal/",
-        "published_date": "2026-07-03 17:23:08",
-        "category": "Military"
-    },
-    {
-        "title": "They capture seven people involved in a million-dollar fraud against a beverage distributor",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-siete-implicados-en-millonario-fraude-contra-distribuidora-de-bebidas/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-siete-implicados-en-millonario-fraude-contra-distribuidora-de-bebidas",
-        "published_date": "2026-07-03 17:02:34",
         "category": "Military"
     },
     {
@@ -406,6 +406,125 @@
         "category": "Economy"
     },
     {
+        "title": "COFAPPES demands public hearing and alternative measures for veterans",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cofappes-exige-audiencia-publica-medidas-sustitutivas-veteranos/",
+        "published_date": "2026-07-06 11:05:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Permanent Chair of the UES strengthens the academic debate: Sara Alfaro",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/catedra-permanente-ues-fortalece-debate-academico-sara-alfaro/",
+        "published_date": "2026-07-06 11:04:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "They call to keep alive the memory of the victims of the Malaga tragedy",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/llaman-mantener-viva-memoria-victimas-tragedia-malaga/",
+        "published_date": "2026-07-06 11:02:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Economist highlights who concentrates the greatest profits in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/economista-destaca-quienes-concentran-las-mayores-ganancias-en-el-salvador/",
+        "published_date": "2026-07-06 11:01:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "International mission of jurists warns about deterioration of the rule of law in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/mision-internacional-de-juristas-alerta-sobre-deterioro-del-estado-de-derecho-en-el-salvador/",
+        "published_date": "2026-07-06 11:00:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "The alleged presidential candidacy of Dr. Rafael Aguirre",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-presunta-candidatura-presidencial-del-dr-rafael-aguirre/",
+        "published_date": "2026-07-06 10:59:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deaths from earthquakes in Venezuela exceeded 3,300",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fallecidos-por-sismos-en-venezuela-superaron-los-tres-mil-300/",
+        "published_date": "2026-07-06 10:58:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "England conquers Azteca, eliminates Mexico and meets Norway",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/inglaterra-conquista-el-azteca-elimina-a-mexico-y-se-cita-con-noruega/",
+        "published_date": "2026-07-06 10:00:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aztecazo!England ends Mexico's World Cup dream",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/aztecazo-inglaterra-acaba-con-el-sueno-mundialista-de-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=aztecazo-inglaterra-acaba-con-el-sueno-mundialista-de-mexico",
+        "published_date": "2026-07-06 04:33:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "England ends Mexico's World Cup dream and meets Haaland in the quarterfinals",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/inglaterra-termina-con-el-sueno-mundialista-de-mexico-y-se-cita-con-haaland-en-cuartos/",
+        "published_date": "2026-07-06 04:29:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor of Santa Ana Centro recognizes winners of special categories of the 2026 Julia Festivals",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/alcalde-de-santa-ana-centro-reconoce-a-ganadoras-de-categorias-especiales-de-las-fiestas-julias-2026/?utm_source=rss&utm_medium=rss&utm_campaign=alcalde-de-santa-ana-centro-reconoce-a-ganadoras-de-categorias-especiales-de-las-fiestas-julias-2026",
+        "published_date": "2026-07-06 04:05:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "England eliminates Mexico and advances to the quarterfinals",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/inglaterra-elimina-a-mexico-y-avanza-a-cuartos-de-final/",
+        "published_date": "2026-07-06 03:59:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cF\u00e9nix\u201d, the dog rescued in Venezuela, will have a new home in El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/fenix-la-perrita-rescatada-en-venezuela-tendra-un-nuevo-hogar-en-el-salvador/",
+        "published_date": "2026-07-06 03:41:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Regional Human Rights Observatory: A new beacon of resistance for Central America",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-observatorio-regional-de-derechos-humanos-un-nuevo-faro-de-resistencia-para-centroamerica/",
+        "published_date": "2026-07-06 03:23:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice Minister Patricia God\u00ednez strengthens the promotion of Salvadoran culture with a tour in Panchimalco",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/viceministra-patricia-godinez-fortalece-la-promocion-de-la-cultura-salvadorena-con-recorrido-en-panchimalco/?utm_source=rss&utm_medium=rss&utm_campaign=viceministra-patricia-godinez-fortalece-la-promocion-de-la-cultura-salvadorena-con-recorrido-en-panchimalco",
+        "published_date": "2026-07-06 02:11:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Patricia God\u00ednez promotes the promotion of Salvadoran identity and traditions in Panchimalco",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/patricia-godinez-impulsa-la-promocion-de-la-identidad-y-las-tradiciones-salvadorenas-en-panchimalco/",
+        "published_date": "2026-07-06 02:09:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drunk man survives after falling into a ravine in San Mart\u00edn",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/hombre-en-estado-de-ebriedad-sobrevive-tras-caer-a-un-barranco-en-san-martin/",
+        "published_date": "2026-07-06 00:27:20",
+        "category": "Local Events"
+    },
+    {
         "title": "Inter Miami analyzes the signing of Cape Verdean goalkeeper Vozinha after his outstanding 2026 World Cup",
         "source": "Cronio",
         "url": "https://croniosv.com/deportes/internacionales-deportes/inter-miami-analiza-el-fichaje-del-arquero-caboverdiano-vozinha-tras-su-destacado-mundial-2026/",
@@ -424,125 +543,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/07/noruega-elimina-a-brasil-y-hace-historia-en-la-copa-mundial/",
         "published_date": "2026-07-05 23:47:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norway eliminates Brazil and makes history in the 2026 World Cup",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/noruega-elimina-a-brasil-y-hace-historia-en-la-copa-del-mundo-2026/",
-        "published_date": "2026-07-05 23:24:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norway eliminates Brazil and awaits the winner of Mexico vs England",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/noruega-elimina-a-brasil-y-espera-al-ganador-del-mexico-vs-inglaterra/?utm_source=rss&utm_medium=rss&utm_campaign=noruega-elimina-a-brasil-y-espera-al-ganador-del-mexico-vs-inglaterra",
-        "published_date": "2026-07-05 22:55:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norway, with a double from Haaland, eliminates Brazil in the second round of the World Cup",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/noruega-con-doblete-de-haaland-elimina-a-brasil-en-octavos-del-mundial/",
-        "published_date": "2026-07-05 22:49:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cecilia Galliano will be the presenter of the election of the queen of the Julias Festivals 2026",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cecilia-galliano-sera-la-presentadora-de-la-eleccion-de-la-reina-de-las-fiestas-julias-2026/?utm_source=rss&utm_medium=rss&utm_campaign=cecilia-galliano-sera-la-presentadora-de-la-eleccion-de-la-reina-de-las-fiestas-julias-2026",
-        "published_date": "2026-07-05 22:44:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two women are captured after fighting over a client in Sonsonate",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/capturan-a-dos-mujeres-tras-protagonizar-una-pelea-por-un-cliente-en-sonsonate/",
-        "published_date": "2026-07-05 22:06:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Thousands of fans welcome the Cape Verde team after its historic participation in the 2026 World Cup",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/miles-de-aficionados-reciben-a-la-seleccion-de-cabo-verde-tras-su-historica-participacion-en-el-mundial-2026/",
-        "published_date": "2026-07-05 21:45:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman is injured after being run over by her husband in San Jacinto",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mujer-resulta-lesionada-tras-ser-atropellada-por-su-esposo-en-san-jacinto/?utm_source=rss&utm_medium=rss&utm_campaign=mujer-resulta-lesionada-tras-ser-atropellada-por-su-esposo-en-san-jacinto",
-        "published_date": "2026-07-05 20:56:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman is accidentally run over by her husband in San Jacinto",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/mujer-es-atropellada-accidentalmente-por-su-esposo-en-san-jacinto/",
-        "published_date": "2026-07-05 20:32:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Japanese probe flies over an asteroid in a test to protect the Earth",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/sonda-japonesa-sobrevuela-un-asteroide-en-un-ensayo-para-proteger-la-tierra/",
-        "published_date": "2026-07-05 19:53:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Firefighters control 80% of the forest fire that has consumed 13,000 hectares in Portugal",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/bomberos-controlan-el-80-del-incendio-forestal-que-ha-consumido-13000-hectareas-en-portugal/",
-        "published_date": "2026-07-05 19:39:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele announces sending a seventh plane with 120 specialists and five tons of humanitarian aid to Venezuela",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/presidente-bukele-anuncia-envio-de-un-septimo-avion-con-120-especialistas-y-cinco-toneladas-de-ayuda-humanitaria-a-venezuela/",
-        "published_date": "2026-07-05 19:25:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Those who profit the most in El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/los-que-mas-se-lucran-en-el-salvador/",
-        "published_date": "2026-07-05 19:13:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "VIDEO |This will be the first Aerocable line that will connect Mejicanos with the Historic Center",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/video-asi-sera-la-primera-linea-del-aerocable-que-conectara-mejicanos-con-el-centro-historico/",
-        "published_date": "2026-07-05 18:26:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iv\u00e1n Barton will direct Switzerland vs.Colombia for the round of 16 of the 2026 FIFA World Cup",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/ivan-barton-dirigira-el-suiza-vs-colombia-por-los-octavos-de-final-de-la-copa-mundial-de-la-fifa-2026/",
-        "published_date": "2026-07-05 18:12:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador registers four consecutive days without homicides in July",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-registra-cuatro-dias-consecutivos-sin-homicidios-en-julio/",
-        "published_date": "2026-07-05 17:40:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture a gang member expelled from Guatemala after entering El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-pandillero-expulsado-de-guatemala-tras-ingresar-a-el-salvador/",
-        "published_date": "2026-07-05 17:33:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture alias \u201cEl Gorila\u201d after being expelled from Guatemala",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-alias-el-gorila-luego-de-ser-expulsado-de-guatemala/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-alias-el-gorila-luego-de-ser-expulsado-de-guatemala",
-        "published_date": "2026-07-05 17:31:19",
         "category": "Local Events"
     }
 ]
