@@ -1,5 +1,19 @@
 [
     {
+        "title": "President of the Senate of Spain visits Legislative Assembly",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/presidente-del-senado-de-espana-visita-asamblea-legislativa/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-del-senado-de-espana-visita-asamblea-legislativa",
+        "published_date": "2026-07-06 23:53:33",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "PNC captures two men for attacking another subject with a corvo in Santiago Nonualco",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/pnc-captura-a-dos-hombres-por-agredir-con-un-corvo-a-otro-sujeto-en-santiago-nonualco/",
+        "published_date": "2026-07-06 19:34:02",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Ambassador Milena Mayorga highlights strengthening the relationship between El Salvador and the United States",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/embajadora-milena-mayorga-destaca-fortalecimiento-de-la-relacion-entre-el-salvador-y-estados-unidos/?utm_source=rss&utm_medium=rss&utm_campaign=embajadora-milena-mayorga-destaca-fortalecimiento-de-la-relacion-entre-el-salvador-y-estados-unidos",
@@ -126,11 +140,39 @@
         "category": "Diplomacy"
     },
     {
-        "title": "This is known about the foreigners who died and disappeared after the earthquakes in Venezuela",
+        "title": "They capture a man accused of injuring another with a machete in Usulut\u00e1n Norte",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/capturan-a-hombre-acusado-de-lesionar-con-un-machete-a-otro-en-usulutan-norte/",
+        "published_date": "2026-07-06 20:26:44",
+        "category": "Military"
+    },
+    {
+        "title": "PNC arrests subject who confessed to murdering another man in Sonsonate",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/pnc-detiene-sujeto-confeso-asesinar-hombre-sonsonate/",
+        "published_date": "2026-07-06 18:26:52",
+        "category": "Military"
+    },
+    {
+        "title": "Security records a 32.6% reduction in homicides during the first semester",
         "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/esto-se-sabe-sobre-los-extranjeros-fallecidos-y-desaparecidos-tras-los-terremotos-en-venezuela/",
-        "published_date": "2026-06-28 20:51:09",
-        "category": "Diplomacy"
+        "url": "https://croniosv.com/nacionales/seguridad-registra-una-reduccion-del-32-6-en-los-homicidios-durante-el-primer-semestre/",
+        "published_date": "2026-07-06 17:35:12",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a subject who \"macheted\" a man while they were drunk",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-sujeto-que-machetio-a-un-hombre-mientras-se-emborrachaban/",
+        "published_date": "2026-07-06 17:32:37",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador charts a route to the future with AI at a global event",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/el-salvador-traza-ruta-hacia-el-futuro-con-la-ia-en-un-evento-mundial/",
+        "published_date": "2026-07-06 16:20:43",
+        "category": "Military"
     },
     {
         "title": "Dog rescued in Venezuela will arrive in El Salvador to join the Humanitarian Rescue Unit",
@@ -238,39 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Authorities highlight progress in security and recovery of the country",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/autoridades-destacan-avances-en-seguridad-y-recuperacion-del-pais/",
-        "published_date": "2026-07-03 23:52:15",
-        "category": "Military"
-    },
-    {
-        "title": "They deliver 154 lot deeds to families affected by Argoz",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/entregan-154-escrituras-de-lotes-a-familias-afectadas-por-argoz/?utm_source=rss&utm_medium=rss&utm_campaign=entregan-154-escrituras-de-lotes-a-familias-afectadas-por-argoz",
-        "published_date": "2026-07-03 20:28:06",
-        "category": "Military"
-    },
-    {
-        "title": "Government delivers 154 lot deeds to families defrauded by Argoz",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-entrega-154-escrituras-de-lotes-a-familias-estafadas-por-argoz/",
-        "published_date": "2026-07-03 20:13:32",
-        "category": "Military"
-    },
-    {
-        "title": "FGR and PNC seize drugs and capture four people in Villa Lourdes",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/fgr-y-pnc-incautan-droga-y-capturan-a-cuatro-personas-en-villa-lourdes/?utm_source=rss&utm_medium=rss&utm_campaign=fgr-y-pnc-incautan-droga-y-capturan-a-cuatro-personas-en-villa-lourdes",
-        "published_date": "2026-07-03 19:52:23",
-        "category": "Military"
-    },
-    {
-        "title": "Operation in Villa Lourdes leaves four captured for alleged illicit trafficking",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/operativo-en-villa-lourdes-deja-cuatro-capturados-por-presunto-trafico-ilicito/",
-        "published_date": "2026-07-03 19:49:20",
-        "category": "Military"
+        "title": "Fuel prices remain stable",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/combustibles-mantienen-precios-estables/",
+        "published_date": "2026-07-06 18:30:24",
+        "category": "Energy"
     },
     {
         "title": "Rescue dogs support the search for survivors after the earthquakes in Venezuela",
@@ -406,143 +420,143 @@
         "category": "Economy"
     },
     {
-        "title": "COFAPPES demands public hearing and alternative measures for veterans",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cofappes-exige-audiencia-publica-medidas-sustitutivas-veteranos/",
-        "published_date": "2026-07-06 11:05:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Permanent Chair of the UES strengthens the academic debate: Sara Alfaro",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/catedra-permanente-ues-fortalece-debate-academico-sara-alfaro/",
-        "published_date": "2026-07-06 11:04:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "They call to keep alive the memory of the victims of the Malaga tragedy",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/llaman-mantener-viva-memoria-victimas-tragedia-malaga/",
-        "published_date": "2026-07-06 11:02:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Economist highlights who concentrates the greatest profits in El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/economista-destaca-quienes-concentran-las-mayores-ganancias-en-el-salvador/",
-        "published_date": "2026-07-06 11:01:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "International mission of jurists warns about deterioration of the rule of law in El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/mision-internacional-de-juristas-alerta-sobre-deterioro-del-estado-de-derecho-en-el-salvador/",
-        "published_date": "2026-07-06 11:00:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "The alleged presidential candidacy of Dr. Rafael Aguirre",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-presunta-candidatura-presidencial-del-dr-rafael-aguirre/",
-        "published_date": "2026-07-06 10:59:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Deaths from earthquakes in Venezuela exceeded 3,300",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fallecidos-por-sismos-en-venezuela-superaron-los-tres-mil-300/",
-        "published_date": "2026-07-06 10:58:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "England conquers Azteca, eliminates Mexico and meets Norway",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/inglaterra-conquista-el-azteca-elimina-a-mexico-y-se-cita-con-noruega/",
-        "published_date": "2026-07-06 10:00:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aztecazo!England ends Mexico's World Cup dream",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/aztecazo-inglaterra-acaba-con-el-sueno-mundialista-de-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=aztecazo-inglaterra-acaba-con-el-sueno-mundialista-de-mexico",
-        "published_date": "2026-07-06 04:33:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "England ends Mexico's World Cup dream and meets Haaland in the quarterfinals",
+        "title": "Surgical operations under pressure: The pulse of hospitals in the face of the national emergency",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/inglaterra-termina-con-el-sueno-mundialista-de-mexico-y-se-cita-con-haaland-en-cuartos/",
-        "published_date": "2026-07-06 04:29:30",
+        "url": "https://diariolahuella.com/operaciones-quirurgicas-bajo-presion-el-pulso-de-los-hospitales-ante-la-emergencia-nacional/",
+        "published_date": "2026-07-07 00:10:46",
         "category": "Local Events"
     },
     {
-        "title": "Mayor of Santa Ana Centro recognizes winners of special categories of the 2026 Julia Festivals",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/alcalde-de-santa-ana-centro-reconoce-a-ganadoras-de-categorias-especiales-de-las-fiestas-julias-2026/?utm_source=rss&utm_medium=rss&utm_campaign=alcalde-de-santa-ana-centro-reconoce-a-ganadoras-de-categorias-especiales-de-las-fiestas-julias-2026",
-        "published_date": "2026-07-06 04:05:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "England eliminates Mexico and advances to the quarterfinals",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/inglaterra-elimina-a-mexico-y-avanza-a-cuartos-de-final/",
-        "published_date": "2026-07-06 03:59:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cF\u00e9nix\u201d, the dog rescued in Venezuela, will have a new home in El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/fenix-la-perrita-rescatada-en-venezuela-tendra-un-nuevo-hogar-en-el-salvador/",
-        "published_date": "2026-07-06 03:41:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Regional Human Rights Observatory: A new beacon of resistance for Central America",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-observatorio-regional-de-derechos-humanos-un-nuevo-faro-de-resistencia-para-centroamerica/",
-        "published_date": "2026-07-06 03:23:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice Minister Patricia God\u00ednez strengthens the promotion of Salvadoran culture with a tour in Panchimalco",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/viceministra-patricia-godinez-fortalece-la-promocion-de-la-cultura-salvadorena-con-recorrido-en-panchimalco/?utm_source=rss&utm_medium=rss&utm_campaign=viceministra-patricia-godinez-fortalece-la-promocion-de-la-cultura-salvadorena-con-recorrido-en-panchimalco",
-        "published_date": "2026-07-06 02:11:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Patricia God\u00ednez promotes the promotion of Salvadoran identity and traditions in Panchimalco",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/patricia-godinez-impulsa-la-promocion-de-la-identidad-y-las-tradiciones-salvadorenas-en-panchimalco/",
-        "published_date": "2026-07-06 02:09:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drunk man survives after falling into a ravine in San Mart\u00edn",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/hombre-en-estado-de-ebriedad-sobrevive-tras-caer-a-un-barranco-en-san-martin/",
-        "published_date": "2026-07-06 00:27:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inter Miami analyzes the signing of Cape Verdean goalkeeper Vozinha after his outstanding 2026 World Cup",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/inter-miami-analiza-el-fichaje-del-arquero-caboverdiano-vozinha-tras-su-destacado-mundial-2026/",
-        "published_date": "2026-07-06 00:08:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "DOM delivers third paved street in San Lorenzo, San Vicente",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/dom-entrega-tercera-calle-asfaltada-en-san-lorenzo-san-vicente/",
-        "published_date": "2026-07-05 23:58:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Norway eliminates Brazil and makes history in the World Cup",
+        "title": "FESFUT authorizes Atl\u00e9tico Balboa to continue with the purchase of the H\u00e9rcules category",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/noruega-elimina-a-brasil-y-hace-historia-en-la-copa-mundial/",
-        "published_date": "2026-07-05 23:47:11",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/fesfut-autoriza-a-atletico-balboa-continuar-con-la-compra-de-la-categoria-de-hercules/",
+        "published_date": "2026-07-06 23:43:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Doctor Rafael Aguirre: a candidacy that must be considered with great responsibility",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/doctor-rafael-aguirre-una-candidatura-que-debe-pensarse-con-mucha-responsabilidad/",
+        "published_date": "2026-07-06 23:33:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spain breaks Portugal's dream and signs Cristiano Ronaldo's World Cup goodbye",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/espana-rompe-el-sueno-de-portugal-y-firma-el-adios-mundialista-de-cristiano-ronaldo/",
+        "published_date": "2026-07-06 23:10:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "What if we stop naturalizing corruption?",
+        "source": "Cronio",
+        "url": "https://croniosv.com/opinet/y-si-dejamos-de-naturalizar-a-la-corrupcion/",
+        "published_date": "2026-07-06 22:54:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "They order provisional arrest for three subjects who sold internet packages without authorization from the telephone company",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/ordenan-detencion-provisional-para-tres-sujetos-que-vendian-paquetes-de-internet-sin-autorizacion-de-empresa-telefonica/?utm_source=rss&utm_medium=rss&utm_campaign=ordenan-detencion-provisional-para-tres-sujetos-que-vendian-paquetes-de-internet-sin-autorizacion-de-empresa-telefonica",
+        "published_date": "2026-07-06 22:51:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cristiano Ronaldo's tears mark the end of an era in the World Cup",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/las-lagrimas-de-cristiano-ronaldo-marcan-el-final-de-una-era-en-los-mundiales/",
+        "published_date": "2026-07-06 22:32:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cristiano Ronaldo says goodbye to the 2026 World Cup in tears after Portugal's elimination",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/cristiano-ronaldo-se-despide-del-mundial-2026-entre-lagrimas-tras-la-eliminacion-de-portugal/?utm_source=rss&utm_medium=rss&utm_campaign=cristiano-ronaldo-se-despide-del-mundial-2026-entre-lagrimas-tras-la-eliminacion-de-portugal",
+        "published_date": "2026-07-06 22:26:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice President Ulloa ratifies commitment to innovation, digital transformation and governance of new technologies during his official agenda in Geneva, Switzerland",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/vicepresidente-ulloa-ratifica-compromiso-con-la-innovacion-transformacion-digital-y-gobernanza-de-nuevas-tecnologias-durante-su-agenda-oficial-en-ginebra-suiza/",
+        "published_date": "2026-07-06 22:24:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "They order to investigate the subject who pushed an elderly man in Santa Ana",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/ordenan-investigar-a-sujeto-que-empujo-a-anciano-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=ordenan-investigar-a-sujeto-que-empujo-a-anciano-en-santa-ana",
+        "published_date": "2026-07-06 22:23:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cristiano Ronaldo says goodbye to the World Cup after Portugal's elimination",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/cristiano-ronaldo-se-despide-de-los-mundiales-tras-la-eliminacion-de-portugal/",
+        "published_date": "2026-07-06 22:11:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spain eliminates Portugal and advances to the quarterfinals of the 2026 World Cup",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/espana-elimina-a-portugal-y-avanza-a-los-cuartos-de-final-del-mundial-2026/",
+        "published_date": "2026-07-06 21:47:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "George Clooney will receive the honorary Golden Lion at the Venice Film Festival",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/jetset/george-clooney-recibira-el-leon-de-oro-honorifico-en-la-mostra-de-venecia/",
+        "published_date": "2026-07-06 21:40:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice President Ulloa highlights El Salvador's progress in artificial intelligence during agenda in Switzerland",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/vicepresidente-ulloa-destaca-avances-de-el-salvador-en-inteligencia-artificial-durante-agenda-en-suiza/",
+        "published_date": "2026-07-06 21:00:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The humanitarian mission of El Salvador in Venezuela continues",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/continua-la-mision-humanitaria-de-el-salvador-en-venezuela/",
+        "published_date": "2026-07-06 20:52:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice President Ulloa reaffirms commitment to innovation during agenda in Switzerland",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/vicepresidente-ulloa-reafirma-compromiso-con-la-innovacion-durante-agenda-en-suiza/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-ulloa-reafirma-compromiso-con-la-innovacion-durante-agenda-en-suiza",
+        "published_date": "2026-07-06 20:51:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice President of the Republic of El Salvador, Mr. F\u00e9lix Ulloa Jr. ratifies commitment to innovation, digital transformation and governance of new technologies during his official agenda in Geneva, Switzerland",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/vicepresidente-de-la-republica-de-el-salvador-sr-felix-ulloa-hijo-ratifica-compromiso-con-la-innovacion-transformacion-digital-y-gobernanza-de-nuevas-tecnologias-durante-su-agenda-oficial-en-ginebr/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-de-la-republica-de-el-salvador-sr-felix-ulloa-hijo-ratifica-compromiso-con-la-innovacion-transformacion-digital-y-gobernanza-de-nuevas-tecnologias-durante-su-agenda-oficial-en-ginebr",
+        "published_date": "2026-07-06 20:47:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sentenced to 25 years in prison for aggravated homicide",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/condenado-a-25-de-carcel-por-homicidio-agravado/?utm_source=rss&utm_medium=rss&utm_campaign=condenado-a-25-de-carcel-por-homicidio-agravado",
+        "published_date": "2026-07-06 20:43:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele's government prioritizes care with pre-hospital clinics in Venezuela",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-del-presidente-bukele-prioriza-atencion-con-clinicas-prehospitalarias-en-venezuela/",
+        "published_date": "2026-07-06 20:32:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "VIDEO |Beyonc\u00e9 released the song \"MORNING DEW (DONK)\"",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/jetset/video-beyonce-lanzo-la-cancion-morning-dew-donk/",
+        "published_date": "2026-07-06 20:31:50",
         "category": "Local Events"
     }
 ]
