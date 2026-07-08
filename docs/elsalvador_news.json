@@ -1,5 +1,19 @@
 [
     {
+        "title": "Women commemorate the National Day of the Maquila Worker",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/mujeres-conmemoran-dia-nacional-trabajadora-maquilas/",
+        "published_date": "2026-07-08 11:01:18",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuba alerts the UN about worsening of the US blockade",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cuba-alerta-a-la-onu-sobre-agravamiento-del-bloqueo-estadounidense/",
+        "published_date": "2026-07-08 10:57:29",
+        "category": "Diplomacy"
+    },
+    {
         "title": "UN expresses support for Kylian Mbapp\u00e9 after statements by a Paraguayan senator",
         "source": "Cronio",
         "url": "https://croniosv.com/deportes/internacionales-deportes/onu-expresa-apoyo-a-kylian-mbappe-tras-declaraciones-de-una-senadora-paraguaya/",
@@ -123,20 +137,6 @@
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/vicecanciller-irani-anuncia-conclusion-de-conversaciones-en-doha-sobre-implementacion-de-memorandum-iran-eeuu/",
         "published_date": "2026-07-02 10:58:37",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "El Salvador presents progress in security and citizen stability at the 56th General Assembly of the OAS in Panama",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/el-salvador-expone-avances-en-seguridad-y-estabilidad-ciudadana-en-la-56a-asamblea-general-de-la-oea-en-panama/",
-        "published_date": "2026-07-01 20:49:57",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "UN will debate blockade on July 7 despite pressure from the US",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/onu-debatira-bloqueo-el-7-de-julio-pese-a-presiones-de-eeuu/",
-        "published_date": "2026-07-01 10:59:04",
         "category": "Diplomacy"
     },
     {
@@ -434,6 +434,111 @@
         "category": "Economy"
     },
     {
+        "title": "Two motorcyclists die after a traffic accident on the Pan-American Highway, in Santa Ana",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/dos-motociclistas-fallecen-tras-accidente-de-transito-en-la-carretera-panamericana-en-santa-ana/",
+        "published_date": "2026-07-08 12:07:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "FMLN veterans demand freedom for members of the National Alliance El Salvador in Peace",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/veteranos-del-fmln-exigen-libertad-de-integrantes-de-la-alianza-nacional-el-salvador-en-paz/",
+        "published_date": "2026-07-08 11:05:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Residents of Valle Dorado denounce 25 years of waiting for the main street to be paved",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/habitantes-de-valle-dorado-denuncian-25-anos-de-espera-de-pavimentacion-calle-principal/",
+        "published_date": "2026-07-08 11:04:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "TSE reports property acquisition",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/tse-informa-adquisicion-de-inmueble/",
+        "published_date": "2026-07-08 11:03:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Commission in favor of granting recognition to Salvadoran personnel on a humanitarian mission in Venezuela",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comision-a-favor-de-otorgar-reconocimiento-a-personal-salvadoreno-en-mision-humanitaria-en-venezuela/",
+        "published_date": "2026-07-08 11:02:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Carlos Araujo: eventual candidacy of Rafael Aguirre must respond to a political strategy and not just an electoral one",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/carlos-araujo-eventual-candidatura-de-rafael-aguirre-debe-responder-a-una-estrategia-politica-y-no-solo-electoral/",
+        "published_date": "2026-07-08 11:00:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "THE DEVELOPMENT OF THE WORLD;IT IS THE POETICS OF ETHICAL POWERS",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-desarrollo-del-mundo-es-la-poetica-de-las-facultades-eticas/",
+        "published_date": "2026-07-08 10:59:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death toll from earthquakes in Venezuela increases to 3,685",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/aumenta-a-3-685-cifra-de-fallecidos-por-sismos-en-venezuela/",
+        "published_date": "2026-07-08 10:58:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Argentina and Switzerland will be face to face in the quarterfinals of the World Cup",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/argentina-y-suiza-estaran-frente-a-frente-en-los-cuartos-de-final-del-mundial/",
+        "published_date": "2026-07-08 10:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "First Division announces prices for the Super Champions Cup between FAS and Luis \u00c1ngel Firpo",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/primera-division-anuncia-precios-para-la-super-copa-de-campeones-entre-fas-y-luis-angel-firpo/",
+        "published_date": "2026-07-08 02:37:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Instruction with provisional detention for accused of theft by computer means",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/instruccion-con-detencion-provisional-para-acusado-de-hurto-por-medios-informaticos/",
+        "published_date": "2026-07-08 02:20:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Instruction with provisional detention for accused of theft by computer means",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/instruccion-con-detencion-provisional-para-acusado-de-hurto-por-medios-informaticos/?utm_source=rss&utm_medium=rss&utm_campaign=instruccion-con-detencion-provisional-para-acusado-de-hurto-por-medios-informaticos",
+        "published_date": "2026-07-08 02:13:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deputies support initiative to grant recognition to humanitarian mission personnel in Venezuela",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/diputados-respaldan-iniciativa-para-otorgar-reconocimiento-a-personal-de-mision-humanitaria-en-venezuela/",
+        "published_date": "2026-07-08 01:40:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two injured people leave an accident on Constituci\u00f3n Boulevard",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/dos-personas-lesionadas-deja-accidente-en-el-bulevar-constitucion/?utm_source=rss&utm_medium=rss&utm_campaign=dos-personas-lesionadas-deja-accidente-en-el-bulevar-constitucion",
+        "published_date": "2026-07-08 00:36:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spectacular accident leaves two injured after overturning on Constituci\u00f3n Boulevard",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/aparatoso-accidente-deja-dos-lesionados-tras-volcamiento-en-el-bulevar-constitucion/",
+        "published_date": "2026-07-08 00:30:22",
+        "category": "Local Events"
+    },
+    {
         "title": "US Central Command forces begin powerful attacks against Iran",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/fuerzas-de-comando-central-de-eeuu-inician-potentes-ataques-contra-iran/",
@@ -466,111 +571,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/vehiculo-agarra-fuego-en-san-miguel/",
         "published_date": "2026-07-07 23:36:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ismael \u201cEl Mayo\u201d Zambada accepts sentence imposed by the United States court",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/ismael-el-mayo-zambada-acepta-sentencia-impuesta-por-tribunal-de-estados-unidos/",
-        "published_date": "2026-07-07 23:02:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "VIDEO |Fight between bus drivers and helpers in Guatemala ends in gunshots",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/video-pelea-entre-buseros-y-ayudantes-en-guatemala-termina-en-balazos/",
-        "published_date": "2026-07-07 22:51:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prison for subject who murdered his lover's husband in San Miguel",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/prision-para-sujeto-que-asesino-al-esposo-de-su-amante-en-san-miguel/",
-        "published_date": "2026-07-07 22:42:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran teams extend search operations in Venezuela",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/equipos-salvadorenos-extienden-operaciones-de-busqueda-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=equipos-salvadorenos-extienden-operaciones-de-busqueda-en-venezuela",
-        "published_date": "2026-07-07 22:23:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Libertad Sur Mayor's Office removes people who consumed alcohol on sports fields after a citizen complaint",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/alcaldia-de-la-libertad-sur-retira-a-personas-que-consumian-alcohol-en-cancha-deportiva-tras-denuncia-ciudadana/",
-        "published_date": "2026-07-07 22:22:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran rescuers extend search operations in Venezuela",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/rescatistas-salvadorenos-extienden-operaciones-de-busqueda-en-venezuela/",
-        "published_date": "2026-07-07 22:16:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Up to 40 years in prison for MS extortionists who operated in San Miguel",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/hasta-40-anos-de-prision-a-extorsionistas-de-la-ms-que-operaban-en-san-miguel/",
-        "published_date": "2026-07-07 21:53:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Up to 40 years in prison for MS gang member and his collaborator for extortion",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/hasta-40-anos-de-prision-para-pandillero-de-la-ms-y-su-colaboradora-por-extorsion/?utm_source=rss&utm_medium=rss&utm_campaign=hasta-40-anos-de-prision-para-pandillero-de-la-ms-y-su-colaboradora-por-extorsion",
-        "published_date": "2026-07-07 21:42:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "36 families from La Uni\u00f3n Sur receive their property deeds",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/36-familias-de-la-union-sur-reciben-sus-escrituras-de-propiedad/",
-        "published_date": "2026-07-07 21:17:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Messi highlights Argentina's character after overcoming Egypt and advancing to the quarterfinals",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/messi-destaca-el-caracter-de-argentina-tras-remontar-a-egipto-y-avanzar-a-cuartos-de-final/",
-        "published_date": "2026-07-07 21:05:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Landslide in China leaves five dead and dozens buried",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/deslizamiento-de-tierra-en-china-deja-cinco-fallecidos-y-decenas-de-personas-sepultadas/",
-        "published_date": "2026-07-07 20:58:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Deputies support initiative to grant recognition to humanitarian mission personnel in Venezuela",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/diputados-respaldan-iniciativa-para-otorgar-reconocimiento-a-personal-de-mision-humanitaria-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=diputados-respaldan-iniciativa-para-otorgar-reconocimiento-a-personal-de-mision-humanitaria-en-venezuela",
-        "published_date": "2026-07-07 20:52:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "36 families from La Uni\u00f3n Sur receive their property deeds",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/36-familias-de-la-union-sur-reciben-sus-escrituras-de-propiedad/?utm_source=rss&utm_medium=rss&utm_campaign=36-familias-de-la-union-sur-reciben-sus-escrituras-de-propiedad",
-        "published_date": "2026-07-07 20:49:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Commission supports initiative to grant recognition to humanitarian mission personnel in Venezuela",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/comision-respalda-iniciativa-para-otorgar-reconocimiento-a-personal-de-mision-humanitaria-en-venezuela/",
-        "published_date": "2026-07-07 20:48:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 14,600 people remain in shelters after earthquakes in Venezuela",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/mas-de-14600-personas-permanecen-en-refugios-tras-los-terremotos-en-venezuela/",
-        "published_date": "2026-07-07 20:48:03",
         "category": "Local Events"
     }
 ]
