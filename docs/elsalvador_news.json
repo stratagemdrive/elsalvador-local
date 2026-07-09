@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "They hand over to Immigration a Guatemalan citizen accused of attacking TNT in San Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/entregan-a-migracion-a-ciudadano-guatemalteco-senalado-de-agredir-a-tnt-en-san-salvador/",
+        "published_date": "2026-07-09 12:07:20",
+        "category": "Military"
+    },
+    {
+        "title": "Salvadoran authorities report greater seizure of cocaine",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/autoridades-salvadorenas-reportan-mayor-decomiso-de-cocaina/",
+        "published_date": "2026-07-09 11:01:51",
+        "category": "Military"
+    },
+    {
         "title": "VIDEO |Shooting between police and gang members leaves people injured and several captured in Guatemala",
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/video-tiroteo-entre-policias-y-pandilleros-deja-heridos-y-varios-capturados-en-guatemala/",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Dog rescued in Venezuela will arrive in El Salvador to join the Humanitarian Rescue Unit",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/perrita-rescatada-en-venezuela-llegara-a-el-salvador-para-integrarse-a-la-unidad-humanitaria-de-rescate/",
-        "published_date": "2026-07-06 13:54:56",
-        "category": "Military"
-    },
-    {
-        "title": "They arrest a Nicaraguan citizen after finding images that linked him to the MS",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/detienen-a-ciudadano-nicaraguense-tras-encontrar-imagenes-que-lo-vinculaban-con-la-ms/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-ciudadano-nicaraguense-tras-encontrar-imagenes-que-lo-vinculaban-con-la-ms",
-        "published_date": "2026-07-06 04:21:14",
-        "category": "Military"
-    },
-    {
         "title": "Fuel prices will not move for another fortnight",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/precios-de-combustibles-no-se-movera-por-una-quincena-mas/",
@@ -341,6 +341,13 @@
         "url": "https://ultimahora.sv/aumenta-12-48-la-tarifa-electrica-en-honduras-para-el-tercer-trimestre-de-2026/",
         "published_date": "2026-07-01 16:31:32",
         "category": "Energy"
+    },
+    {
+        "title": "GOES asks to approve a guarantee for $100 million",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/goes-pide-aprobar-garantia-por-100-millones/",
+        "published_date": "2026-07-09 11:04:42",
+        "category": "Economy"
     },
     {
         "title": "El Salvador's tax collection grows during the first five months of 2026",
@@ -406,6 +413,118 @@
         "category": "Economy"
     },
     {
+        "title": "They describe the refund mechanism applied in the Credicash case as \u201cabusive and arbitrary\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/califican-abusivo-mecanismo-devolucion-caso-credicash/",
+        "published_date": "2026-07-09 11:05:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadorans and organizations in Australia send an open letter to Bukele",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/salvadorenos-organizaciones-australia-envian-carta-abierta-bukele/",
+        "published_date": "2026-07-09 11:03:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Medical College of El Salvador and CONFEMEL reject threats against the Honduran medical union",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/colegio-medico-el-salvador-confemel-rechazan-amenazas-colegio-medico-honduras/",
+        "published_date": "2026-07-09 11:02:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Plenary lasted 35 minutes;Only one recognition was approved for Grupo USAR",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/plenaria-duro-35-minutos-reconociiento-grupo-usar/",
+        "published_date": "2026-07-09 11:00:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deportation and abandonment of Salvadorans \u201cto their fate\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/deportacion-y-abandono-de-salvadorenos-a-su-suerte/",
+        "published_date": "2026-07-09 10:59:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "France returns 23 archaeological pieces to Syria",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/francia-devuelve-a-siria-23-piezas-arqueologicas/",
+        "published_date": "2026-07-09 10:58:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Les Bleus: end of the magic, ahead of the sacrifice",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/les-bleus-fin-de-la-magia-adelante-el-sacrificio/",
+        "published_date": "2026-07-09 10:01:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Argentine press describes team victory as \u201cepic comeback\u201d against Egypt",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/prensa-argentina-califica-victoria-de-seleccion-como-remontada-epica-ante-egipto/",
+        "published_date": "2026-07-09 10:00:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice President Ulloa holds an important meeting with representatives of the International Red Cross",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/vicepresidente-ulloa-sostiene-importante-reunion-con-representantes-de-cruz-roja-internacional/",
+        "published_date": "2026-07-09 04:02:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice Minister Patricia God\u00ednez strengthens ties with CARECEN in favor of the diaspora",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/viceministra-patricia-godinez-fortalece-vinculos-con-carecen-en-favor-de-la-diaspora/",
+        "published_date": "2026-07-09 02:21:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador strengthens US cooperation in favor of the diaspora",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/el-salvador-fortalece-cooperacion-de-eeuu-en-favor-de-la-diaspora/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-fortalece-cooperacion-de-eeuu-en-favor-de-la-diaspora",
+        "published_date": "2026-07-09 02:14:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government of El Salvador and representatives of the International Red Cross hold important meeting in Geneva",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/gobierno-de-el-salvador-y-representantes-de-cruz-roja-internacional-sostienen-importante-reunion-en-ginebra/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-de-el-salvador-y-representantes-de-cruz-roja-internacional-sostienen-importante-reunion-en-ginebra",
+        "published_date": "2026-07-09 01:51:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador consolidates strategic alliance with the International Committee of the Red Cross",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/el-salvador-consolida-alianza-estrategica-con-el-comite-internacional-de-la-cruz-roja/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-consolida-alianza-estrategica-con-el-comite-internacional-de-la-cruz-roja",
+        "published_date": "2026-07-09 01:40:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "National Navy seizes 6.68 tons of cocaine on the high seas",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/marina-nacional-incauta-6-68-toneladas-de-cocaina-en-alta-mar/",
+        "published_date": "2026-07-09 01:23:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "National Lottery celebrates 156 years of history with LOTRA Draw No. 457",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/economia/loteria-nacional-de-beneficencia-celebra-156-anos-de-historia-con-el-sorteo-lotra-n-o-457/",
+        "published_date": "2026-07-09 00:58:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government proposes to extend the validity of 2011 format license plates until 2027",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-propone-prorrogar-hasta-2027-la-vigencia-de-las-placas-de-circulacion-formato-2011/",
+        "published_date": "2026-07-09 00:39:41",
+        "category": "Local Events"
+    },
+    {
         "title": "El Salvador has seized 88.7 tons of drugs valued at $2,106 million during President Bukele's administration",
         "source": "Ultima Hora SV",
         "url": "https://ultimahora.sv/el-salvador-ha-incautado-88-7-toneladas-de-droga-valoradas-en-2106-millones-durante-la-gestion-del-presidente-bukele/",
@@ -431,118 +550,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/agromercados-superan-los-24-millones-de-visitas-y-mantienen-alta-demanda-en-el-salvador/",
         "published_date": "2026-07-08 23:37:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Validity of vehicle license plates could be extended for another year",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/vigencia-de-placas-vehiculares-podria-ampliarse-un-ano-mas/?utm_source=rss&utm_medium=rss&utm_campaign=vigencia-de-placas-vehiculares-podria-ampliarse-un-ano-mas",
-        "published_date": "2026-07-08 23:31:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atl\u00e9tico Balboa returns to the First Division after acquiring the Hercules category",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/atletico-balboa-regresa-a-la-primera-division-tras-adquirir-la-categoria-de-hercules/",
-        "published_date": "2026-07-08 23:29:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Ministry of Agriculture and Livestock, in the hands of an inept person, deepens the culture of secrecy",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/416007-2/",
-        "published_date": "2026-07-08 23:29:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "MAG and CENTA promote soil moisture conservation techniques in the face of lack of rain",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/mag-y-centa-promueven-tecnicas-de-conservacion-de-humedad-en-los-suelos-ante-la-escasez-de-lluvia/",
-        "published_date": "2026-07-08 21:09:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador and Google establish agreement to continue development of AI",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/el-salvador-y-google-establecen-acuerdo-para-continuar-desarrollo-de-la-ia/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-google-establecen-acuerdo-para-continuar-desarrollo-de-la-ia",
-        "published_date": "2026-07-08 21:07:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The senator from Paraguay who published racist comments from Mbapp\u00e9 demanded that the footballer apologize",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/la-senadora-de-paraguay-que-publico-comentarios-racistas-de-mbappe-le-exigio-al-futbolista-que-se-disculpe/",
-        "published_date": "2026-07-08 21:03:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities present results of drugs seized in recent days",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/autoridades-presentan-resultados-de-droga-incautada-en-los-ultimos-dias/",
-        "published_date": "2026-07-08 20:58:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities present conclusive results of seized drugs",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/autoridades-presentan-resultados-contundentes-de-droga-incautada/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-presentan-resultados-contundentes-de-droga-incautada",
-        "published_date": "2026-07-08 20:55:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador exceeds 14 tons of drugs seized so far in 2026",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-supera-las-14-toneladas-de-droga-incautadas-en-lo-que-va-de-2026/",
-        "published_date": "2026-07-08 20:48:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Customs Director highlights harsh blow to smuggling of high-end cell phones and consoles",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/director-de-aduanas-destaca-duro-golpe-al-contrabando-de-celulares-y-consolas-de-alta-gama/",
-        "published_date": "2026-07-08 20:43:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Benjam\u00edn Mayorga highlights the dismantling of a structure dedicated to the smuggling of cell phones and video game consoles",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/benjamin-mayorga-destaca-desarticulacion-de-estructura-dedicada-al-contrabando-de-celulares-y-consolas-de-videojuegos/?utm_source=rss&utm_medium=rss&utm_campaign=benjamin-mayorga-destaca-desarticulacion-de-estructura-dedicada-al-contrabando-de-celulares-y-consolas-de-videojuegos",
-        "published_date": "2026-07-08 20:36:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ernesto Castro affirms that the majority of Salvadorans express hope and support for the direction of El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ernesto-castro-afirma-que-la-mayoria-de-salvadorenos-expresa-esperanza-y-apoyo-al-rumbo-de-el-salvador/",
-        "published_date": "2026-07-08 20:34:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ernesto Castro points out that Salvadorans have regained hope and confidence in the future",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/ernesto-castro-senala-que-los-salvadorenos-han-recuperado-la-esperanza-y-la-confianza-en-el-futuro/?utm_source=rss&utm_medium=rss&utm_campaign=ernesto-castro-senala-que-los-salvadorenos-han-recuperado-la-esperanza-y-la-confianza-en-el-futuro",
-        "published_date": "2026-07-08 20:34:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Issa \"La Loba\" announces legal action for alleged misuse of her stage name",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/issa-la-loba-anuncia-acciones-legales-por-presunto-uso-indebido-de-su-nombre-artistico/",
-        "published_date": "2026-07-08 20:19:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice Minister Patricia God\u00ednez strengthens dialogue with the US on diaspora and human mobility issues",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/viceministra-patricia-godinez-fortalece-dialogo-con-ee-uu-sobre-temas-de-diaspora-y-movilidad-humana/",
-        "published_date": "2026-07-08 20:18:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "The second mini soccer field is inaugurated in El Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/inauguran-el-segundo-minicampo-de-futbol-en-el-salvador/",
-        "published_date": "2026-07-08 20:04:44",
         "category": "Local Events"
     }
 ]
