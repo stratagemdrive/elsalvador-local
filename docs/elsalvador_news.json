@@ -1,5 +1,33 @@
 [
     {
+        "title": "The world once again supports Cuba despite the fierce US campaign",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-mundo-vuelve-a-respaldar-a-cuba-pese-a-feroz-campana-de-eeuu/",
+        "published_date": "2026-07-08 23:55:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "El Salvador and the UN expand cooperation on digital transformation and human rights",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-y-la-onu-amplian-la-cooperacion-en-transformacion-digital-y-derechos-humanos/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-la-onu-amplian-la-cooperacion-en-transformacion-digital-y-derechos-humanos",
+        "published_date": "2026-07-08 21:54:43",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "El Salvador strengthens dialogue with the UN on human rights and artificial intelligence",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-fortalece-el-dialogo-con-la-onu-sobre-derechos-humanos-e-inteligencia-artificial/",
+        "published_date": "2026-07-08 21:53:27",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "UN seeks more funds for earthquakes in Venezuela, which requires the release of frozen assets",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/onu-busca-mas-fondos-por-sismos-en-venezuela-que-exige-liberar-activos-congelados/",
+        "published_date": "2026-07-08 19:13:07",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Women commemorate the National Day of the Maquila Worker",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/mujeres-conmemoran-dia-nacional-trabajadora-maquilas/",
@@ -112,32 +140,46 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Rubio cable is leaked to pressure the UN against Cuba*",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/se-filtra-cable-de-rubio-para-presionar-a-la-onu-contra-cuba/",
-        "published_date": "2026-07-02 22:25:36",
-        "category": "Diplomacy"
+        "title": "VIDEO |Shooting between police and gang members leaves people injured and several captured in Guatemala",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/video-tiroteo-entre-policias-y-pandilleros-deja-heridos-y-varios-capturados-en-guatemala/",
+        "published_date": "2026-07-08 23:53:22",
+        "category": "Military"
     },
     {
-        "title": "Salvadorans will travel to Alaska to work in the fishing industry",
+        "title": "10 years in prison for vigilante who carried his weapon while intoxicated",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/10-anos-de-carcel-para-vigilante-que-portaba-su-arma-en-estado-de-ebriedad/",
+        "published_date": "2026-07-08 23:06:26",
+        "category": "Military"
+    },
+    {
+        "title": "10 years in prison for security guard for carrying a firearm while intoxicated",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/salvadorenos-viajaran-a-alaska-para-trabajar-en-industria-pesquera/?utm_source=rss&utm_medium=rss&utm_campaign=salvadorenos-viajaran-a-alaska-para-trabajar-en-industria-pesquera",
-        "published_date": "2026-07-02 16:11:55",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/10-anos-de-prision-para-vigilante-por-portar-arma-de-fuego-en-estado-de-ebriedad/?utm_source=rss&utm_medium=rss&utm_campaign=10-anos-de-prision-para-vigilante-por-portar-arma-de-fuego-en-estado-de-ebriedad",
+        "published_date": "2026-07-08 22:42:17",
+        "category": "Military"
     },
     {
-        "title": "US Charg\u00e9 d'affaires highlights strength of bilateral relationship with El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/encargada-de-negocios-de-eeuu-resalta-fortaleza-de-relacion-bilateral-con-el-salvador/",
-        "published_date": "2026-07-02 11:03:16",
-        "category": "Diplomacy"
+        "title": "Security Cabinet deals new blow to drug trafficking with seizure of 6.68 tons of cocaine",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/gabinete-de-seguridad-asesta-nuevo-golpe-al-narcotrafico-con-decomiso-de-6-68-toneladas-de-cocaina/?utm_source=rss&utm_medium=rss&utm_campaign=gabinete-de-seguridad-asesta-nuevo-golpe-al-narcotrafico-con-decomiso-de-6-68-toneladas-de-cocaina",
+        "published_date": "2026-07-08 20:48:26",
+        "category": "Military"
     },
     {
-        "title": "Iranian Vice Foreign Minister announces conclusion of talks in Doha on implementation of Iran-US memorandum",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/vicecanciller-irani-anuncia-conclusion-de-conversaciones-en-doha-sobre-implementacion-de-memorandum-iran-eeuu/",
-        "published_date": "2026-07-02 10:58:37",
-        "category": "Diplomacy"
+        "title": "Authorities provide details about the largest drug seizure in the history of El Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/autoridades-brindan-detalles-sobre-la-incautacion-de-droga-mas-grande-en-la-historia-de-el-salvador/",
+        "published_date": "2026-07-08 20:37:10",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador promotes digital transformation with a focus on human rights",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/el-salvador-impulsa-la-transformacion-digital-con-enfoque-en-derechos-humanos/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-impulsa-la-transformacion-digital-con-enfoque-en-derechos-humanos",
+        "published_date": "2026-07-08 20:31:30",
+        "category": "Military"
     },
     {
         "title": "They capture a subject after entering a chalet and stealing propane gas cylinders in Sonsonate",
@@ -238,48 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "\u201cF\u00e9nix\u201d will be transferred to El Salvador after being rescued from the rubble in Venezuela",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/fenix-sera-trasladada-a-el-salvador-tras-ser-rescatada-de-los-escombros-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=fenix-sera-trasladada-a-el-salvador-tras-ser-rescatada-de-los-escombros-en-venezuela",
-        "published_date": "2026-07-06 03:42:10",
-        "category": "Military"
-    },
-    {
-        "title": "S\u00edvarSeguro cameras capture an accident caused by an improper turn on Bernal Avenue",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/camaras-de-sivarseguro-captan-accidente-provocado-por-giro-indebido-en-la-avenida-bernal/",
-        "published_date": "2026-07-05 21:00:52",
-        "category": "Military"
-    },
-    {
-        "title": "Shooting in New York during Fourth of July celebration leaves eight injured",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/tiroteo-en-nueva-york-durante-la-celebracion-del-cuatro-de-julio-deja-ocho-heridos/",
-        "published_date": "2026-07-05 19:31:32",
-        "category": "Military"
-    },
-    {
-        "title": "They capture an alleged gang member in Olocuilta",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/capturan-en-olocuilta-a-presunto-miembro-pandillas/",
-        "published_date": "2026-07-05 17:42:11",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador maintains a trend of zero homicides and accumulates 160 days without murders in 2026",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-mantiene-tendencia-de-cero-homicidios-y-acumula-160-dias-sin-asesinatos-en-2026/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-mantiene-tendencia-de-cero-homicidios-y-acumula-160-dias-sin-asesinatos-en-2026",
-        "published_date": "2026-07-05 17:40:33",
-        "category": "Military"
-    },
-    {
-        "title": "Salvadoran rescuers reinforce health security during work in affected areas in Venezuela",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/rescatistas-salvadorenos-refuerzan-seguridad-sanitaria-durante-labores-en-zonas-afectadas-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=rescatistas-salvadorenos-refuerzan-seguridad-sanitaria-durante-labores-en-zonas-afectadas-en-venezuela",
-        "published_date": "2026-07-05 04:16:30",
-        "category": "Military"
-    },
-    {
         "title": "Fuel prices will not move for another fortnight",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/precios-de-combustibles-no-se-movera-por-una-quincena-mas/",
@@ -340,13 +340,6 @@
         "source": "Ultima Hora SV",
         "url": "https://ultimahora.sv/aumenta-12-48-la-tarifa-electrica-en-honduras-para-el-tercer-trimestre-de-2026/",
         "published_date": "2026-07-01 16:31:32",
-        "category": "Energy"
-    },
-    {
-        "title": "El Salvador continues to be promoted as an investment option in T\u00fcrkiye",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-se-continua-promoviendo-como-opcion-de-inversion-en-turkiye/",
-        "published_date": "2026-06-30 20:15:33",
         "category": "Energy"
     },
     {
@@ -413,164 +406,143 @@
         "category": "Economy"
     },
     {
-        "title": "Government encourages opening of new businesses in the Historic Center",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-incentiva-apertura-de-nuevos-comercios-en-el-centro-historico/",
-        "published_date": "2026-06-30 21:55:47",
-        "category": "Economy"
+        "title": "El Salvador has seized 88.7 tons of drugs valued at $2,106 million during President Bukele's administration",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/el-salvador-ha-incautado-88-7-toneladas-de-droga-valoradas-en-2106-millones-durante-la-gestion-del-presidente-bukele/",
+        "published_date": "2026-07-09 00:16:09",
+        "category": "Local Events"
     },
     {
-        "title": "BCR highlights economic growth in El Salvador with construction as the main engine",
+        "title": "USAR El Salvador team continues search and rescue work in Venezuela",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/bcr-destaca-crecimiento-economico-de-el-salvador-con-la-construccion-como-principal-motor/?utm_source=rss&utm_medium=rss&utm_campaign=bcr-destaca-crecimiento-economico-de-el-salvador-con-la-construccion-como-principal-motor",
-        "published_date": "2026-06-30 21:03:29",
-        "category": "Economy"
-    },
-    {
-        "title": "El Salvador exceeds the historical average of economic growth with an advance of 4.8%",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-supera-el-promedio-historico-de-crecimiento-economico-con-un-avance-de-4-8/",
-        "published_date": "2026-06-30 21:01:23",
-        "category": "Economy"
-    },
-    {
-        "title": "Two motorcyclists die after a traffic accident on the Pan-American Highway, in Santa Ana",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/dos-motociclistas-fallecen-tras-accidente-de-transito-en-la-carretera-panamericana-en-santa-ana/",
-        "published_date": "2026-07-08 12:07:57",
+        "url": "https://lapagina.com.sv/nacionales/equipo-usar-el-salvador-continua-labores-de-busqueda-y-rescate-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=equipo-usar-el-salvador-continua-labores-de-busqueda-y-rescate-en-venezuela",
+        "published_date": "2026-07-09 00:05:36",
         "category": "Local Events"
     },
     {
-        "title": "FMLN veterans demand freedom for members of the National Alliance El Salvador in Peace",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/veteranos-del-fmln-exigen-libertad-de-integrantes-de-la-alianza-nacional-el-salvador-en-paz/",
-        "published_date": "2026-07-08 11:05:57",
+        "title": "Cyclist dies after being hit by a bus on the road to Santa Ana",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/ciclista-fallece-tras-ser-embestido-por-un-autobus-en-carretera-a-santa-ana/",
+        "published_date": "2026-07-09 00:04:47",
         "category": "Local Events"
     },
     {
-        "title": "Residents of Valle Dorado denounce 25 years of waiting for the main street to be paved",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/habitantes-de-valle-dorado-denuncian-25-anos-de-espera-de-pavimentacion-calle-principal/",
-        "published_date": "2026-07-08 11:04:46",
+        "title": "AgroMercados exceed 24 million visits and maintain high demand in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/agromercados-superan-los-24-millones-de-visitas-y-mantienen-alta-demanda-en-el-salvador/",
+        "published_date": "2026-07-08 23:37:57",
         "category": "Local Events"
     },
     {
-        "title": "TSE reports property acquisition",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/tse-informa-adquisicion-de-inmueble/",
-        "published_date": "2026-07-08 11:03:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Commission in favor of granting recognition to Salvadoran personnel on a humanitarian mission in Venezuela",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/comision-a-favor-de-otorgar-reconocimiento-a-personal-salvadoreno-en-mision-humanitaria-en-venezuela/",
-        "published_date": "2026-07-08 11:02:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Carlos Araujo: eventual candidacy of Rafael Aguirre must respond to a political strategy and not just an electoral one",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/carlos-araujo-eventual-candidatura-de-rafael-aguirre-debe-responder-a-una-estrategia-politica-y-no-solo-electoral/",
-        "published_date": "2026-07-08 11:00:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "THE DEVELOPMENT OF THE WORLD;IT IS THE POETICS OF ETHICAL POWERS",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-desarrollo-del-mundo-es-la-poetica-de-las-facultades-eticas/",
-        "published_date": "2026-07-08 10:59:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Death toll from earthquakes in Venezuela increases to 3,685",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/aumenta-a-3-685-cifra-de-fallecidos-por-sismos-en-venezuela/",
-        "published_date": "2026-07-08 10:58:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Argentina and Switzerland will be face to face in the quarterfinals of the World Cup",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/argentina-y-suiza-estaran-frente-a-frente-en-los-cuartos-de-final-del-mundial/",
-        "published_date": "2026-07-08 10:00:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "First Division announces prices for the Super Champions Cup between FAS and Luis \u00c1ngel Firpo",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/primera-division-anuncia-precios-para-la-super-copa-de-campeones-entre-fas-y-luis-angel-firpo/",
-        "published_date": "2026-07-08 02:37:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Instruction with provisional detention for accused of theft by computer means",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/instruccion-con-detencion-provisional-para-acusado-de-hurto-por-medios-informaticos/",
-        "published_date": "2026-07-08 02:20:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Instruction with provisional detention for accused of theft by computer means",
+        "title": "Validity of vehicle license plates could be extended for another year",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/instruccion-con-detencion-provisional-para-acusado-de-hurto-por-medios-informaticos/?utm_source=rss&utm_medium=rss&utm_campaign=instruccion-con-detencion-provisional-para-acusado-de-hurto-por-medios-informaticos",
-        "published_date": "2026-07-08 02:13:58",
+        "url": "https://lapagina.com.sv/nacionales/vigencia-de-placas-vehiculares-podria-ampliarse-un-ano-mas/?utm_source=rss&utm_medium=rss&utm_campaign=vigencia-de-placas-vehiculares-podria-ampliarse-un-ano-mas",
+        "published_date": "2026-07-08 23:31:41",
         "category": "Local Events"
     },
     {
-        "title": "Deputies support initiative to grant recognition to humanitarian mission personnel in Venezuela",
+        "title": "Atl\u00e9tico Balboa returns to the First Division after acquiring the Hercules category",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/diputados-respaldan-iniciativa-para-otorgar-reconocimiento-a-personal-de-mision-humanitaria-en-venezuela/",
-        "published_date": "2026-07-08 01:40:42",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/atletico-balboa-regresa-a-la-primera-division-tras-adquirir-la-categoria-de-hercules/",
+        "published_date": "2026-07-08 23:29:38",
         "category": "Local Events"
     },
     {
-        "title": "Two injured people leave an accident on Constituci\u00f3n Boulevard",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/dos-personas-lesionadas-deja-accidente-en-el-bulevar-constitucion/?utm_source=rss&utm_medium=rss&utm_campaign=dos-personas-lesionadas-deja-accidente-en-el-bulevar-constitucion",
-        "published_date": "2026-07-08 00:36:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spectacular accident leaves two injured after overturning on Constituci\u00f3n Boulevard",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/aparatoso-accidente-deja-dos-lesionados-tras-volcamiento-en-el-bulevar-constitucion/",
-        "published_date": "2026-07-08 00:30:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "US Central Command forces begin powerful attacks against Iran",
+        "title": "The Ministry of Agriculture and Livestock, in the hands of an inept person, deepens the culture of secrecy",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fuerzas-de-comando-central-de-eeuu-inician-potentes-ataques-contra-iran/",
-        "published_date": "2026-07-08 00:03:27",
+        "url": "https://www.diariocolatino.com/416007-2/",
+        "published_date": "2026-07-08 23:29:11",
         "category": "Local Events"
     },
     {
-        "title": "Switzerland eliminates Colombia on penalties and meets Argentina in the quarterfinals",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/suiza-elimina-a-colombia-en-penales-y-se-cita-con-argentina-en-cuartos/",
-        "published_date": "2026-07-07 23:49:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Switzerland eliminates Colombia on penalties and will face Argentina in the quarterfinals",
+        "title": "MAG and CENTA promote soil moisture conservation techniques in the face of lack of rain",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/suiza-elimina-a-colombia-en-penales-y-enfrentara-a-argentina-en-los-cuartos-de-final/",
-        "published_date": "2026-07-07 23:40:31",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/mag-y-centa-promueven-tecnicas-de-conservacion-de-humedad-en-los-suelos-ante-la-escasez-de-lluvia/",
+        "published_date": "2026-07-08 21:09:48",
         "category": "Local Events"
     },
     {
-        "title": "They report a vehicle on fire in San Miguel",
+        "title": "El Salvador and Google establish agreement to continue development of AI",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/reportan-vehiculo-incendiado-en-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=reportan-vehiculo-incendiado-en-san-miguel",
-        "published_date": "2026-07-07 23:40:11",
+        "url": "https://lapagina.com.sv/politica/el-salvador-y-google-establecen-acuerdo-para-continuar-desarrollo-de-la-ia/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-google-establecen-acuerdo-para-continuar-desarrollo-de-la-ia",
+        "published_date": "2026-07-08 21:07:45",
         "category": "Local Events"
     },
     {
-        "title": "Vehicle catches fire in San Miguel",
+        "title": "The senator from Paraguay who published racist comments from Mbapp\u00e9 demanded that the footballer apologize",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/la-senadora-de-paraguay-que-publico-comentarios-racistas-de-mbappe-le-exigio-al-futbolista-que-se-disculpe/",
+        "published_date": "2026-07-08 21:03:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities present results of drugs seized in recent days",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/vehiculo-agarra-fuego-en-san-miguel/",
-        "published_date": "2026-07-07 23:36:35",
+        "url": "https://diariolahuella.com/autoridades-presentan-resultados-de-droga-incautada-en-los-ultimos-dias/",
+        "published_date": "2026-07-08 20:58:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities present conclusive results of seized drugs",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/autoridades-presentan-resultados-contundentes-de-droga-incautada/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-presentan-resultados-contundentes-de-droga-incautada",
+        "published_date": "2026-07-08 20:55:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador exceeds 14 tons of drugs seized so far in 2026",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-supera-las-14-toneladas-de-droga-incautadas-en-lo-que-va-de-2026/",
+        "published_date": "2026-07-08 20:48:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Customs Director highlights harsh blow to smuggling of high-end cell phones and consoles",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/director-de-aduanas-destaca-duro-golpe-al-contrabando-de-celulares-y-consolas-de-alta-gama/",
+        "published_date": "2026-07-08 20:43:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Benjam\u00edn Mayorga highlights the dismantling of a structure dedicated to the smuggling of cell phones and video game consoles",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/benjamin-mayorga-destaca-desarticulacion-de-estructura-dedicada-al-contrabando-de-celulares-y-consolas-de-videojuegos/?utm_source=rss&utm_medium=rss&utm_campaign=benjamin-mayorga-destaca-desarticulacion-de-estructura-dedicada-al-contrabando-de-celulares-y-consolas-de-videojuegos",
+        "published_date": "2026-07-08 20:36:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ernesto Castro affirms that the majority of Salvadorans express hope and support for the direction of El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ernesto-castro-afirma-que-la-mayoria-de-salvadorenos-expresa-esperanza-y-apoyo-al-rumbo-de-el-salvador/",
+        "published_date": "2026-07-08 20:34:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ernesto Castro points out that Salvadorans have regained hope and confidence in the future",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/ernesto-castro-senala-que-los-salvadorenos-han-recuperado-la-esperanza-y-la-confianza-en-el-futuro/?utm_source=rss&utm_medium=rss&utm_campaign=ernesto-castro-senala-que-los-salvadorenos-han-recuperado-la-esperanza-y-la-confianza-en-el-futuro",
+        "published_date": "2026-07-08 20:34:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Issa \"La Loba\" announces legal action for alleged misuse of her stage name",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/issa-la-loba-anuncia-acciones-legales-por-presunto-uso-indebido-de-su-nombre-artistico/",
+        "published_date": "2026-07-08 20:19:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice Minister Patricia God\u00ednez strengthens dialogue with the US on diaspora and human mobility issues",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/viceministra-patricia-godinez-fortalece-dialogo-con-ee-uu-sobre-temas-de-diaspora-y-movilidad-humana/",
+        "published_date": "2026-07-08 20:18:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "The second mini soccer field is inaugurated in El Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/inauguran-el-segundo-minicampo-de-futbol-en-el-salvador/",
+        "published_date": "2026-07-08 20:04:44",
         "category": "Local Events"
     }
 ]
