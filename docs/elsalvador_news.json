@@ -1,5 +1,12 @@
 [
     {
+        "title": "Debate at the UN shows broad global support for Cuba, China affirms",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/debate-en-onu-evidencia-amplio-respaldo-mundial-a-cuba-afirma-china/",
+        "published_date": "2026-07-10 10:58:32",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The world once again supports Cuba despite the fierce US campaign",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/el-mundo-vuelve-a-respaldar-a-cuba-pese-a-feroz-campana-de-eeuu/",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Milena Mayorga highlights the contribution of Salvadorans in the US during a high-level meeting with US authorities",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/milena-mayorga-destaca-aporte-de-salvadorenos-en-ee-uu-durante-reunion-de-alto-nivel-con-autoridades-estadounidenses/",
-        "published_date": "2026-07-03 01:06:18",
-        "category": "Diplomacy"
+        "title": "They capture an alleged drug distributor in Ciudad Arce",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/capturan-a-presunto-distribuidor-de-droga-en-ciudad-arce/",
+        "published_date": "2026-07-10 12:07:15",
+        "category": "Military"
+    },
+    {
+        "title": "Ricardo Navarro warns that El Salvador will face a more severe drought",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ricardo-navarro-advierte-el-salvador-enfrentara-sequia-severa/",
+        "published_date": "2026-07-10 11:00:07",
+        "category": "Military"
     },
     {
         "title": "FGR will destroy more than 64 kilos of drugs valued at more than $357 thousand from 54 cases of drug trafficking",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Salvadoran teams have rescued seven people alive after earthquakes in Venezuela",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/los-equipos-salvadorenos-han-rescatado-con-vida-a-siete-personas-tras-terremotos-en-venezuela/",
-        "published_date": "2026-07-07 13:04:00",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a man who stole two gas drums in Sonsonate",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/capturan-a-hombre-que-hurto-dos-tambos-de-gas-en-sonsonate/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-hombre-que-hurto-dos-tambos-de-gas-en-sonsonate",
-        "published_date": "2026-07-07 03:18:34",
-        "category": "Military"
-    },
-    {
         "title": "Fuel prices will not move for another fortnight",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/precios-de-combustibles-no-se-movera-por-una-quincena-mas/",
@@ -326,13 +326,6 @@
         "source": "Periodico Equilibrium",
         "url": "https://www.periodicoequilibrium.com/etesal-dona-maquinaria-para-protesis-y-ortesis-al-isri/",
         "published_date": "2026-07-02 21:41:36",
-        "category": "Energy"
-    },
-    {
-        "title": "DGEHM will assume energy regulation and SIGET in telecommunications",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/dgehm-asumira-regulacion-energetica-y-siget-en-telecomunicaciones/",
-        "published_date": "2026-07-02 11:02:47",
         "category": "Energy"
     },
     {
@@ -390,6 +383,76 @@
         "url": "https://diariolahuella.com/viceministra-patricia-godinez-destaca-la-apertura-de-vuelos-directos-entre-el-salvador-y-espana/",
         "published_date": "2026-07-02 15:25:10",
         "category": "Economy"
+    },
+    {
+        "title": "Veterans' lawyers emphasize the lack of evidence from the Prosecutor's Office in the case",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/abogados-de-veteranos-enfatizan-la-falta-de-pruebas-de-la-fiscalia-en-el-caso/",
+        "published_date": "2026-07-10 11:03:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Claudia Ortiz will seek re-election in the Assembly and will be \u201cvery selective\u201d in supporting candidates",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/claudia-ortiz-buscara-reeleccion-en-asamblea-y-sera-muy-selectiva-en-apoyos-a-candidatos/",
+        "published_date": "2026-07-10 11:02:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inhabitants of Apulo ask the State to clarify the legality of the property title over Chachagaste Island",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/solicitan-estado-esclarecer-legalidad-titulo-propiedad-isla-chachagaste/",
+        "published_date": "2026-07-10 11:01:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador celebrates the 1st.Central American Poetry Meeting \u201cAmapola\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-salvador-celebra-primer-ecnuentro-ca-poesis/",
+        "published_date": "2026-07-10 10:59:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Islamic Revolutionary Guard Corps fires missiles at US command center",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-guardia-revolucionaria-islamica-dispara-misiles-contra-un-centro-de-mando-estadounidense/",
+        "published_date": "2026-07-10 10:57:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "France eliminates Morocco and becomes the first World Cup semi-finalist",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/francia-elimina-a-marruecos-y-se-convierte-en-la-primera-semifinalista-del-mundial/",
+        "published_date": "2026-07-10 10:00:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor's Office of San Salvador Centro recovers public spaces in Ciudad Delgado",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/alcaldia-de-san-salvador-centro-recupera-espacios-publicos-en-ciudad-delgado/",
+        "published_date": "2026-07-10 01:51:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Employees prevent a vehicle from being consumed by flames in Troncal del Norte",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/empleados-evitan-que-un-vehiculo-sea-consumido-por-las-llamas-en-troncal-del-norte/?utm_source=rss&utm_medium=rss&utm_campaign=empleados-evitan-que-un-vehiculo-sea-consumido-por-las-llamas-en-troncal-del-norte",
+        "published_date": "2026-07-10 01:20:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Employees preventing a vehicle from being consumed by flames in Troncal del Norte",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/empleados-evitando-que-un-vehiculo-sea-consumido-por-las-llamas-en-troncal-del-norte/",
+        "published_date": "2026-07-10 00:59:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marcelo Ar\u00e9valo won his first title at Wimbledon",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/marcelo-arevalo-conquisto-su-primer-titulo-en-wimbledon/",
+        "published_date": "2026-07-10 00:13:58",
+        "category": "Local Events"
     },
     {
         "title": "Jay Music reinvents the classic \u201cla Ventanita\u201d with a powerful urban touch",
@@ -459,76 +522,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/cafe-salvadoreno-es-promovido-entre-representantes-de-la-industria-cafetalera-en-corea/",
         "published_date": "2026-07-09 22:40:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Google surprises with rowing Vikings when searching for Haaland's name",
-        "source": "Cronio",
-        "url": "https://croniosv.com/redes/virales/google-sorprende-con-vikingos-remando-al-buscar-el-nombre-de-haaland/",
-        "published_date": "2026-07-09 22:20:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Xabi Alonso begins his time at Chelsea and is committed to a long-term project",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/xabi-alonso-inicia-su-etapa-en-el-chelsea-y-apuesta-por-un-proyecto-a-largo-plazo/",
-        "published_date": "2026-07-09 21:53:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rafael Ar\u00e9valo achieves historic mixed doubles title at Wimbledon",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/rafael-arevalo-logra-historico-titulo-en-dobles-mixtos-en-wimbledon/?utm_source=rss&utm_medium=rss&utm_campaign=rafael-arevalo-logra-historico-titulo-en-dobles-mixtos-en-wimbledon",
-        "published_date": "2026-07-09 21:15:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador will participate in a little league tournament in Guatemala",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/el-salvador-participara-en-torneo-de-pequenas-ligas-en-guatemala/",
-        "published_date": "2026-07-09 21:15:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Saturated morgues: WHO organizes a plan to identify hundreds of victims of the earthquakes in Venezuela while warning about health risks",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/morgues-saturadas-oms-organiza-plan-para-identificar-a-cientos-de-victimas-de-los-terremotos-en-venezuela-mientras-alerta-por-riesgos-sanitarios/",
-        "published_date": "2026-07-09 20:50:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador consolidates dialogue and cooperation with strategic ally in humanitarian matters",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/el-salvador-consolida-el-dialogo-y-cooperacion-con-aliado-estrategico-en-materia-humanitaria/",
-        "published_date": "2026-07-09 20:41:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "80 international organizations demand the immediate release of trade unionist Geovanni Aguirre",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/80-organizaciones-internacionales-exigen-la-liberacion-inmediata-del-sindicalista-geovanni-aguirre/",
-        "published_date": "2026-07-09 20:40:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Claudia Ortiz announces pre-candidacy for deputy in San Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/claudia-ortiz-anuncia-precandidatura-para-diputada-en-san-salvador/",
-        "published_date": "2026-07-09 20:35:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heat wave in Belgium leaves 1,747 dead",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/ola-de-calor-en-belgica-deja-1747-fallecidos/",
-        "published_date": "2026-07-09 20:26:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Union registers the highest temperature in its history and breaks a record in force since 1983",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/la-union-registra-la-temperatura-mas-alta-de-su-historia-y-rompe-record-vigente-desde-1983/",
-        "published_date": "2026-07-09 20:23:21",
         "category": "Local Events"
     }
 ]
