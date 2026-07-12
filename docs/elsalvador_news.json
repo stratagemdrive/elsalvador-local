@@ -1,5 +1,26 @@
 [
     {
+        "title": "El Salvador and Spain strengthen ties of cooperation in human mobility",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-y-espana-estrechan-lazos-de-cooperacion-en-materia-de-movilidad-humana/",
+        "published_date": "2026-07-11 16:45:32",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Patricia God\u00ednez promotes new cooperation agreements with Spain",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/patricia-godinez-impulsa-nuevos-acuerdos-de-cooperacion-con-espana/?utm_source=rss&utm_medium=rss&utm_campaign=patricia-godinez-impulsa-nuevos-acuerdos-de-cooperacion-con-espana",
+        "published_date": "2026-07-11 16:36:04",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Construction began on the largest statue of Jesus Christ in the world that will surpass Christ the Redeemer",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/comenzo-la-construccion-de-la-estatua-de-jesucristo-mas-grande-del-mundo-que-superara-al-cristo-redentor/",
+        "published_date": "2026-07-11 14:47:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Debate at the UN shows broad global support for Cuba, China affirms",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/debate-en-onu-evidencia-amplio-respaldo-mundial-a-cuba-afirma-china/",
@@ -98,25 +119,67 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Vice President Ulloa meets with the Chilean ambassador in El Salvador for the end of the diplomatic mission",
+        "title": "They capture S\u00f3crates Miguel Iraheta Bonilla, accused of drug trafficking and other crimes",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/vicepresidente-ulloa-se-reune-con-embajadora-de-chile-en-el-salvador-por-finalizacion-de-mision-diplomatica/",
-        "published_date": "2026-07-03 23:50:26",
-        "category": "Diplomacy"
+        "url": "https://croniosv.com/nacionales/capturan-a-socrates-miguel-iraheta-bonilla-senalado-por-trafico-de-drogas-y-otros-delitos/",
+        "published_date": "2026-07-11 22:18:15",
+        "category": "Military"
     },
     {
-        "title": "Venezuela will receive doctors and humanitarian aid from Argentina, Qatar and Jordan after the earthquakes of June 24",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/venezuela-recibira-medicos-y-ayuda-humanitaria-de-argentina-qatar-y-jordania-tras-los-sismos-del-24-de-junio/",
-        "published_date": "2026-07-03 22:20:50",
-        "category": "Diplomacy"
+        "title": "They capture a 66-year-old man with more than half a kilo of marijuana during a raid in Santa Ana Oeste",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/capturan-a-hombre-de-66-anos-con-mas-de-medio-kilo-de-marihuana-durante-allanamiento-en-santa-ana-oeste/",
+        "published_date": "2026-07-11 21:29:14",
+        "category": "Military"
     },
     {
-        "title": "Vice President F\u00e9lix Ulloa recognizes the work of the Ambassador of Chile at the end of her mission",
+        "title": "They capture an older adult in charge of distributing drugs in Santa Ana Oeste",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-adulto-mayor-encargado-de-distribuir-droga-en-santa-ana-oeste/",
+        "published_date": "2026-07-11 20:09:16",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a 66-year-old man in charge of distributing drugs in Santa Ana Oeste",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-reconoce-la-labor-de-la-embajadora-de-chile-al-finalizar-su-mision/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-reconoce-la-labor-de-la-embajadora-de-chile-al-finalizar-su-mision",
-        "published_date": "2026-07-03 18:18:54",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-hombre-de-66-anos-encargado-de-distribuir-droga-en-santa-ana-oeste/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-hombre-de-66-anos-encargado-de-distribuir-droga-en-santa-ana-oeste",
+        "published_date": "2026-07-11 19:19:03",
+        "category": "Military"
+    },
+    {
+        "title": "Four dead in a serious tractor accident on the Comalapa highway: the victims are identified",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/cuatro-fallecidos-en-grave-accidente-de-rastra-en-autopista-comalapa-identifican-a-las-victimas/",
+        "published_date": "2026-07-11 18:49:58",
+        "category": "Military"
+    },
+    {
+        "title": "Costa Rica tightens controls in prisons: six PlayStation consoles confiscated from inmates are destroyed",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/costa-rica-endurece-controles-en-carceles-destruyen-seis-consolas-playstation-decomisadas-a-reclusos/",
+        "published_date": "2026-07-11 18:24:45",
+        "category": "Military"
+    },
+    {
+        "title": "They find nearly $20,000 worth of marijuana in the home",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/encuentran-en-vivienda-cerca-de-20-mil-en-marihuana/",
+        "published_date": "2026-07-11 16:04:56",
+        "category": "Military"
+    },
+    {
+        "title": "They seize nearly $20,000 worth of marijuana from drug dealers",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/incautan-cerca-de-20-mil-en-marihuana-a-narcomenudistas/?utm_source=rss&utm_medium=rss&utm_campaign=incautan-cerca-de-20-mil-en-marihuana-a-narcomenudistas",
+        "published_date": "2026-07-11 15:36:00",
+        "category": "Military"
+    },
+    {
+        "title": "80 tons of humanitarian aid are heading to Venezuela, says Macarena Olona",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/80-toneladas-de-ayuda-humanitaria-van-rumbo-hacia-venezuela-senala-macarena-olona/?utm_source=rss&utm_medium=rss&utm_campaign=80-toneladas-de-ayuda-humanitaria-van-rumbo-hacia-venezuela-senala-macarena-olona",
+        "published_date": "2026-07-11 13:51:00",
+        "category": "Military"
     },
     {
         "title": "They ask for greater protection for older adults, people with disabilities and domestic workers",
@@ -193,69 +256,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/07/capturan-a-presunto-distribuidor-de-droga-en-ciudad-arce/",
         "published_date": "2026-07-10 12:07:15",
-        "category": "Military"
-    },
-    {
-        "title": "Ricardo Navarro warns that El Salvador will face a more severe drought",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ricardo-navarro-advierte-el-salvador-enfrentara-sequia-severa/",
-        "published_date": "2026-07-10 11:00:07",
-        "category": "Military"
-    },
-    {
-        "title": "FGR will destroy more than 64 kilos of drugs valued at more than $357 thousand from 54 cases of drug trafficking",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/fgr-destruira-mas-de-64-kilos-de-droga-valorada-en-mas-de-357-mil-provenientes-de-54-casos-de-narcotrafico/",
-        "published_date": "2026-07-09 21:28:22",
-        "category": "Military"
-    },
-    {
-        "title": "Guatemalan who attacked TNT will be expelled from El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/guatemalteco-que-agredio-a-tnt-sera-expulsado-de-el-salvador/",
-        "published_date": "2026-07-09 20:27:40",
-        "category": "Military"
-    },
-    {
-        "title": "A Guatemalan who attacked a content creator in the Historic Center of San Salvador is expelled from the country",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/expulsan-del-pais-a-guatemalteco-que-agredio-a-creador-de-contenido-en-el-centro-historico-de-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=expulsan-del-pais-a-guatemalteco-que-agredio-a-creador-de-contenido-en-el-centro-historico-de-san-salvador",
-        "published_date": "2026-07-09 20:04:37",
-        "category": "Military"
-    },
-    {
-        "title": "Authorities capture MS13 homeboy in San Miguel",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/autoridades-capturan-a-homeboy-de-la-ms13-en-san-miguel/",
-        "published_date": "2026-07-09 19:59:10",
-        "category": "Military"
-    },
-    {
-        "title": "Guatemalan who attacked a Salvadoran content creator was left in the hands of the immigration authorities",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/guatemalteco-que-agredio-a-creador-de-contenido-salvadoreno-quedo-en-manos-de-las-autoridades-migratorias/",
-        "published_date": "2026-07-09 18:49:30",
-        "category": "Military"
-    },
-    {
-        "title": "Legislative Assembly will grant recognition to Salvadoran rescuers for humanitarian mission in Venezuela",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/asamblea-legislativa-otorgara-reconocimiento-a-rescatistas-salvadorenos-por-mision-humanitaria-en-venezuela/",
-        "published_date": "2026-07-09 18:31:36",
-        "category": "Military"
-    },
-    {
-        "title": "They hand over to Immigration a Guatemalan citizen accused of attacking TNT in San Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/entregan-a-migracion-a-ciudadano-guatemalteco-senalado-de-agredir-a-tnt-en-san-salvador/",
-        "published_date": "2026-07-09 12:07:20",
-        "category": "Military"
-    },
-    {
-        "title": "Salvadoran authorities report greater seizure of cocaine",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/autoridades-salvadorenas-reportan-mayor-decomiso-de-cocaina/",
-        "published_date": "2026-07-09 11:01:51",
         "category": "Military"
     },
     {
@@ -336,150 +336,143 @@
         "category": "Economy"
     },
     {
-        "title": "El Salvador projects itself in Saudi Arabia as a coffee supplier and tourist destination",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-se-proyecta-en-arabia-saudita-como-proveedor-de-cafe-y-destino-turistico/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-se-proyecta-en-arabia-saudita-como-proveedor-de-cafe-y-destino-turistico",
-        "published_date": "2026-07-03 19:45:54",
-        "category": "Economy"
-    },
-    {
-        "title": "Former ISSS workers denounce delays in compensation and work limitations after dismissals",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/extrabajadoras-del-isss-denuncian-retrasos-en-indemnizaciones-y-limitaciones-laborales-tras-despidos/",
-        "published_date": "2026-07-11 11:04:31",
+        "title": "England overcomes Norway and qualifies for the semifinals of the 2026 World Cup",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/inglaterra-remonta-a-noruega-y-clasifica-a-las-semifinales-del-mundial-2026/",
+        "published_date": "2026-07-12 00:01:56",
         "category": "Local Events"
     },
     {
-        "title": "Analysts describe Rafael Aguirre's eventual presidential candidacy as \u201cdecent and brave\u201d",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/analistas-califican-eventual-candidatura-presidencial-de-rafael-aguirre-como-decente-y-valiente/",
-        "published_date": "2026-07-11 11:03:29",
+        "title": "Santa Ana inaugurates its traditional Julias Festivities with the Mail Parade",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/santa-ana-inaugura-sus-tradicionales-fiestas-julias-con-el-desfile-del-correo/",
+        "published_date": "2026-07-11 23:47:02",
         "category": "Local Events"
     },
     {
-        "title": "Criminal Court ratifies Vanda Pignato's acquittal in the \"Public Looting\" case",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/sala-de-lo-penal-ratifica-absolucion-de-vanda-pignato-en-caso-saqueo-publico/",
-        "published_date": "2026-07-11 11:01:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Luis Poma Theater launches Act 3 of its 2026 Season with six productions",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/teatro-luis-poma-lanza-el-acto-3-de-su-temporada-2026-con-seis-montajes/",
-        "published_date": "2026-07-11 11:00:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "International aid to Venezuela increases with shipments from Brazil and Trinidad and Tobago",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/aumenta-ayuda-internacional-hacia-venezuela-con-envios-desde-brasil-y-trinidad-y-tobago/",
-        "published_date": "2026-07-11 10:57:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spain eliminates Belgium and cites Mbapp\u00e9's France in the semis",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/espana-elimina-a-belgica-y-cita-a-la-francia-de-mbappe-en-semis/",
-        "published_date": "2026-07-11 10:00:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Damaged in La Guaira thanks President Bukele for the support provided after the earthquake",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/damnificada-en-la-guaira-agradece-al-presidente-bukele-por-el-apoyo-brindado-tras-el-terremoto/?utm_source=rss&utm_medium=rss&utm_campaign=damnificada-en-la-guaira-agradece-al-presidente-bukele-por-el-apoyo-brindado-tras-el-terremoto",
-        "published_date": "2026-07-11 03:39:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Thank you for being here\": The message of gratitude from a victim in La Guaira to President Bukele",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gracias-por-estar-aqui-el-mensaje-de-gratitud-de-una-damnificada-en-la-guaira-al-presidente-bukele/",
-        "published_date": "2026-07-11 03:38:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marcelo Ar\u00e9valo seeks to win his second title in the same edition of Wimbledon",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/marcelo-arevalo-busca-conquistar-su-segundo-titulo-en-la-misma-edicion-de-wimbledon/?utm_source=rss&utm_medium=rss&utm_campaign=marcelo-arevalo-busca-conquistar-su-segundo-titulo-en-la-misma-edicion-de-wimbledon",
-        "published_date": "2026-07-11 02:48:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marcelo Ar\u00e9valo goes for a historic double at Wimbledon for El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/marcelo-arevalo-va-por-un-historico-doblete-en-wimbledon-para-el-salvador/",
-        "published_date": "2026-07-11 02:47:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spain eliminates Belgium and dreams of repeating the glory of South Africa 2010",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/espana-elimina-a-belgica-y-suena-con-repetir-la-gloria-de-sudafrica-2010/?utm_source=rss&utm_medium=rss&utm_campaign=espana-elimina-a-belgica-y-suena-con-repetir-la-gloria-de-sudafrica-2010",
-        "published_date": "2026-07-11 01:49:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spain returns to the World Cup semi-finals 16 years later",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/espana-vuelve-a-unas-semifinales-de-un-mundial-16-anos-despues/",
-        "published_date": "2026-07-11 01:48:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "39 gang members from Barrio 18 are sentenced to 45 years in prison for two murders",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/condenan-a-39-pandilleros-del-barrio-18-a-45-anos-de-prision-por-dos-asesinatos/?utm_source=rss&utm_medium=rss&utm_campaign=condenan-a-39-pandilleros-del-barrio-18-a-45-anos-de-prision-por-dos-asesinatos",
-        "published_date": "2026-07-11 01:38:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "They impose sentences of 45 years in prison on gang members for murdering a fisherman and an evangelical pastor",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/imponen-penas-de-45-anos-de-carcel-a-pandilleros-por-asesinar-a-un-pescador-y-a-un-pastor-evangelico/",
-        "published_date": "2026-07-11 01:37:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five dead and one injured in fatal accident on the highway to Comalapa",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cinco-fallecidos-y-un-herido-en-fatal-accidente-sobre-la-carretera-a-comalapa/?utm_source=rss&utm_medium=rss&utm_campaign=cinco-fallecidos-y-un-herido-en-fatal-accidente-sobre-la-carretera-a-comalapa",
-        "published_date": "2026-07-11 01:30:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tragic road accident with a harrow claims the lives of five people in San Luis Talpa",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/tragico-percance-vial-con-rastra-cobra-la-vida-de-cinco-personas-en-san-luis-talpa/",
-        "published_date": "2026-07-11 01:29:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "English in Central America XV.Nicaragua Interoceanic Canal",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ingleses-en-centroamerica-xv-canal-interoceanico-nicaragua/",
-        "published_date": "2026-07-11 01:23:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Granny goes viral for wearing Nike Cortez",
+        "title": "One dead and one woman in serious condition after being struck by lightning on a soccer field in Cojutepeque",
         "source": "Cronio",
-        "url": "https://croniosv.com/redes/virales/abuelita-se-viraliza-por-usar-unos-nike-cortez/",
-        "published_date": "2026-07-11 00:44:22",
+        "url": "https://croniosv.com/principal/principal1/un-muerto-y-una-mujer-grave-tras-ser-impactados-por-un-rayo-en-cancha-de-futbol-en-cojutepeque/",
+        "published_date": "2026-07-11 23:11:09",
         "category": "Local Events"
     },
     {
-        "title": "Barcelona agrees to sign Karim Adeyemi from Borussia Dortmund",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/barcelona-acuerda-el-fichaje-de-karim-adeyemi-procedente-del-borussia-dortmund/",
-        "published_date": "2026-07-11 00:37:25",
+        "title": "Gustavo Acevedo shares with Santanecos in the 2026 Mail Parade",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gustavo-acevedo-comparte-con-santanecos-en-el-desfile-del-correo-2026/",
+        "published_date": "2026-07-11 23:03:12",
         "category": "Local Events"
     },
     {
-        "title": "Iv\u00e1n Barton was the highest-rated referee in the round of 16 of the 2026 World Cup, according to a specialized site",
+        "title": "Woman biker seriously injured after being hit by a vehicle in Santa Ana",
         "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/ivan-barton-fue-el-arbitro-mejor-calificado-de-los-octavos-de-final-del-mundial-2026-segun-sitio-especializado/",
-        "published_date": "2026-07-11 00:33:35",
+        "url": "https://croniosv.com/nacionales/mujer-biker-gravemente-lesionada-tras-ser-impactada-por-un-vehiculo-en-santa-ana/",
+        "published_date": "2026-07-11 22:52:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "20-year-old motorcyclist dies after losing control on Luis Poma Boulevard, Antiguo Cuscatl\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/motociclista-de-20-anos-muere-tras-perder-el-control-en-bulevar-luis-poma-antiguo-cuscatlan/",
+        "published_date": "2026-07-11 22:47:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gustavo Acevedo participates in the traditional Mail Parade in Santa Ana Centro",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/gustavo-acevedo-participa-en-el-tradicional-desfile-del-correo-en-santa-ana-centro/?utm_source=rss&utm_medium=rss&utm_campaign=gustavo-acevedo-participa-en-el-tradicional-desfile-del-correo-en-santa-ana-centro",
+        "published_date": "2026-07-11 22:47:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The benefits of the Integra Fair reach Libertad Este",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/los-beneficios-de-la-feria-integra-llegan-a-la-libertad-este/",
+        "published_date": "2026-07-11 22:36:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "BRP refuses to participate in the 2027 elections and what it describes as a \u201cfarce\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/brp-rechaza-participar-en-elecciones-de-2027-y-las-que-califica-como-una-farsa/",
+        "published_date": "2026-07-11 21:14:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador installs a field hospital in Venezuela that will include care for pets",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-instala-hospital-de-campana-en-venezuela-que-incluira-atencion-a-mascotas/",
+        "published_date": "2026-07-11 20:58:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador installs a field hospital in Venezuela to care for victims and pets",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-instala-hospital-de-campana-en-venezuela-para-atender-a-damnificados-y-mascotas/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-instala-hospital-de-campana-en-venezuela-para-atender-a-damnificados-y-mascotas",
+        "published_date": "2026-07-11 20:54:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "UNT marks distance from the presidential candidacy of Rafael Aguirre",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/unt-marca-distancia-de-la-candidatura-presidencial-de-rafael-aguirre/",
+        "published_date": "2026-07-11 20:49:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "THE TRAP OF ELECTORAL ILLUSION",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-trampa-de-la-ilusion-electoral/",
+        "published_date": "2026-07-11 20:34:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Haaland unleashes madness in Peru: more than 500 babies already bear the name of the Norwegian goalscorer",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/haaland-desata-la-locura-en-peru-mas-de-500-bebes-ya-llevan-el-nombre-del-goleador-noruego/",
+        "published_date": "2026-07-11 18:07:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Scandal in Usulut\u00e1n!Bus driver brutally attacks colleague in the middle of a stop and unleashes fury on networks",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/escandalo-en-usulutan-conductor-de-bus-agrede-brutalmente-a-colega-en-plena-parada-y-desata-furia-en-redes/",
+        "published_date": "2026-07-11 17:52:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venezuelans thank the Salvadoran humanitarian mission with flowers for their work after the earthquakes",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/venezolanos-agradecen-con-flores-a-la-mision-humanitaria-salvadorena-por-su-labor-tras-los-terremotos/",
+        "published_date": "2026-07-11 17:32:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marcelo Ar\u00e9valo is on the verge of winning the double title at Wimbledon after falling in an intense doubles final",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/marcelo-arevalo-se-queda-a-las-puertas-del-doble-titulo-en-wimbledon-tras-caer-en-una-intensa-final-de-dobles/",
+        "published_date": "2026-07-11 17:11:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marcelo Ar\u00e9valo Wimbledon runner-up in men's pair",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/marcelo-arevalo-subcampeon-de-wimbledon-en-pareja-masculino/",
+        "published_date": "2026-07-11 15:58:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Macarena Olona: 80 tons of humanitarian aid for Venezuela",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/macarena-olona-80-toneladas-de-ayuda-humanitaria-para-venezuela/",
+        "published_date": "2026-07-11 15:50:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marcelo Ar\u00e9valo runner-up in pairs at Wimbledon",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/marcelo-arevalo-subcampeon-en-parejas-de-wimbledon/?utm_source=rss&utm_medium=rss&utm_campaign=marcelo-arevalo-subcampeon-en-parejas-de-wimbledon",
+        "published_date": "2026-07-11 14:23:10",
         "category": "Local Events"
     }
 ]
