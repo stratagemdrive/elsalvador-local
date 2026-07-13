@@ -112,11 +112,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Ambassador Milena Mayorga highlights strengthening the relationship between El Salvador and the United States",
+        "title": "They capture an alleged drug distributor in Ilopango",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/capturan-a-presunto-distribuidor-de-droga-en-ilopango/",
+        "published_date": "2026-07-12 17:40:34",
+        "category": "Military"
+    },
+    {
+        "title": "18 packages of marijuana are seized after military procedure in Ilopango",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/embajadora-milena-mayorga-destaca-fortalecimiento-de-la-relacion-entre-el-salvador-y-estados-unidos/?utm_source=rss&utm_medium=rss&utm_campaign=embajadora-milena-mayorga-destaca-fortalecimiento-de-la-relacion-entre-el-salvador-y-estados-unidos",
-        "published_date": "2026-07-04 17:03:12",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/incautan-18-paquetes-de-marihuana-tras-procedimiento-militar-en-ilopango/?utm_source=rss&utm_medium=rss&utm_campaign=incautan-18-paquetes-de-marihuana-tras-procedimiento-militar-en-ilopango",
+        "published_date": "2026-07-12 17:03:38",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador adds another day with zero homicides nationwide",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-suma-otra-jornada-con-cero-homicidios-a-nivel-nacional/",
+        "published_date": "2026-07-12 15:49:42",
+        "category": "Military"
     },
     {
         "title": "They capture S\u00f3crates Miguel Iraheta Bonilla, accused of drug trafficking and other crimes",
@@ -238,27 +252,6 @@
         "category": "Military"
     },
     {
-        "title": "They capture a subject after finding cocaine and cash in San Miguel",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-sujeto-tras-encontrarle-cocaina-y-dinero-en-efectivo-en-san-miguel/",
-        "published_date": "2026-07-10 19:58:04",
-        "category": "Military"
-    },
-    {
-        "title": "Childhood in La Guaira: Between the rubble and hope days before Children's Day",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/la-infancia-en-la-guaira-entre-los-escombros-y-la-esperanza-a-dias-del-dia-del-nino/",
-        "published_date": "2026-07-10 18:43:29",
-        "category": "Military"
-    },
-    {
-        "title": "They capture an alleged drug distributor in Ciudad Arce",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/capturan-a-presunto-distribuidor-de-droga-en-ciudad-arce/",
-        "published_date": "2026-07-10 12:07:15",
-        "category": "Military"
-    },
-    {
         "title": "He left without paying at a gas station in Usulut\u00e1n and returned hours later after going viral",
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/sucesos/se-fue-sin-pagar-en-una-gasolinera-de-usulutan-y-regreso-horas-despues-tras-hacerse-viral/",
@@ -287,11 +280,11 @@
         "category": "Energy"
     },
     {
-        "title": "Ounahi propels Morocco to quarterfinals",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/ounahi-impulsa-a-marruecos-hasta-los-cuartos-de-final/",
-        "published_date": "2026-07-04 21:56:24",
-        "category": "Energy"
+        "title": "Alejandro Zelaya follows up on the internal elections of Nuevas Ideas in Usulut\u00e1n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/alejandro-zelaya-da-seguimiento-a-jornada-de-elecciones-internas-de-nuevas-ideas-en-usulutan/?utm_source=rss&utm_medium=rss&utm_campaign=alejandro-zelaya-da-seguimiento-a-jornada-de-elecciones-internas-de-nuevas-ideas-en-usulutan",
+        "published_date": "2026-07-12 21:12:47",
+        "category": "Economy"
     },
     {
         "title": "Former bank employee faces charges for computer theft: he stole more than $1,000 from a client's account in Santa Ana",
@@ -343,143 +336,143 @@
         "category": "Economy"
     },
     {
-        "title": "When Kant forced us to think again \u2013 Lisandro Prieto Femen\u00eda",
+        "title": "Earthquakes in Venezuela leave 4,490 dead and more than 16,700 injured;search for missing people continues",
         "source": "Cronio",
-        "url": "https://croniosv.com/opinet/cuando-kant-nos-obligo-a-pensar-de-nuevo-lisandro-prieto-femenia/",
-        "published_date": "2026-07-12 04:37:40",
+        "url": "https://croniosv.com/internacionales/terremotos-en-venezuela-dejan-4490-muertos-y-mas-de-16700-heridos-continua-la-busqueda-de-desaparecidos/",
+        "published_date": "2026-07-12 23:56:27",
         "category": "Local Events"
     },
     {
-        "title": "Argentina suffers against Switzerland, but advances to face England in the semifinals",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/argentina-sufre-ante-suiza-pero-avanza-para-enfrentar-a-inglaterra-en-semifinales/",
-        "published_date": "2026-07-12 04:34:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "2026 World Cup semi-finals defined!Europe dominates with three giants and Argentina seeks South American glory",
+        "title": "Intense heat will give way to rain and storms this Sunday in El Salvador, warns MARN",
         "source": "Cronio",
-        "url": "https://croniosv.com/deportes/semifinales-del-mundial-2026-definidas-europa-domina-con-tres-gigantes-y-argentina-busca-la-gloria-sudamericana/",
-        "published_date": "2026-07-12 04:15:35",
+        "url": "https://croniosv.com/nacionales/calor-intenso-dara-paso-a-lluvias-y-tormentas-este-domingo-en-el-salvador-advierte-el-marn/",
+        "published_date": "2026-07-12 23:51:21",
         "category": "Local Events"
     },
     {
-        "title": "Summary of the second week of July 2026",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/resumen-de-la-segunda-semana-del-mes-de-julio-de-2026/",
-        "published_date": "2026-07-12 02:24:49",
+        "title": "Salvadoran lifeguard is injured during a rescue mission in Venezuela and is evacuated by his own team",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/socorrista-salvadoreno-resulta-lesionado-durante-mision-de-rescate-en-venezuela-y-es-evacuado-por-su-propio-equipo/",
+        "published_date": "2026-07-12 23:47:13",
         "category": "Local Events"
     },
     {
-        "title": "England beats Norway in extra time and advances to the semi-finals",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/inglaterra-vence-a-noruega-en-el-alargue-y-avanza-a-semifinales/",
-        "published_date": "2026-07-12 02:22:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rains generate road complications in different parts of the capital",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/lluvias-generan-complicaciones-viales-en-distintos-puntos-de-la-capital/",
-        "published_date": "2026-07-12 02:18:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rains generate floods and road complications in different parts of the country",
+        "title": "Ernesto Castro celebrates \"democratic party\" during internal elections of Nuevas Ideas",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/lluvias-generan-inundaciones-y-complicaciones-viales-en-distintos-puntos-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=lluvias-generan-inundaciones-y-complicaciones-viales-en-distintos-puntos-del-pais",
-        "published_date": "2026-07-12 01:50:10",
+        "url": "https://lapagina.com.sv/politica/ernesto-castro-celebra-fiesta-democratica-durante-elecciones-internas-de-nuevas-ideas/?utm_source=rss&utm_medium=rss&utm_campaign=ernesto-castro-celebra-fiesta-democratica-durante-elecciones-internas-de-nuevas-ideas",
+        "published_date": "2026-07-12 23:20:39",
         "category": "Local Events"
     },
     {
-        "title": "England overcomes Norway and qualifies for the semifinals of the 2026 World Cup",
+        "title": "Ernesto Castro highlights democratic consolidation during internal elections of Nuevas Ideas",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ernesto-castro-destaca-consolidacion-democratica-durante-elecciones-internas-de-nuevas-ideas/",
+        "published_date": "2026-07-12 23:16:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "FMLN pre-candidates question possible FMLN presidential formula",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/precandidatos-del-fmln-cuestionan-posible-formula-presidencial-del-fmln/?utm_source=rss&utm_medium=rss&utm_campaign=precandidatos-del-fmln-cuestionan-posible-formula-presidencial-del-fmln",
+        "published_date": "2026-07-12 23:04:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "FMLN faces internal fractures due to questions about Rafael Aguirre's presidential formula",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/fmln-enfrenta-fracturas-internas-por-cuestionamientos-a-la-formula-presidencial-de-rafael-aguirre/",
+        "published_date": "2026-07-12 22:49:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Moraz\u00e1n experiences election day with a high influx of members",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/morazan-vive-jornada-electoral-con-alta-afluencia-de-afiliados/",
+        "published_date": "2026-07-12 22:37:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Moraz\u00e1n affiliates express their support for Nuevas Ideas candidates in internal elections",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/afiliados-de-morazan-expresan-su-apoyo-a-precandidatos-de-nuevas-ideas-en-elecciones-internas/?utm_source=rss&utm_medium=rss&utm_campaign=afiliados-de-morazan-expresan-su-apoyo-a-precandidatos-de-nuevas-ideas-en-elecciones-internas",
+        "published_date": "2026-07-12 22:23:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran Karate Federation inaugurates the Juliana Cup 2026 and presents the team that will compete in Santo Domingo",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/inglaterra-remonta-a-noruega-y-clasifica-a-las-semifinales-del-mundial-2026/",
-        "published_date": "2026-07-12 00:01:56",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/federacion-salvadorena-de-karate-inaugura-la-copa-juliana-2026-y-presenta-a-la-seleccion-que-competira-en-santo-domingo/",
+        "published_date": "2026-07-12 22:17:45",
         "category": "Local Events"
     },
     {
-        "title": "Santa Ana inaugurates its traditional Julias Festivities with the Mail Parade",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/santa-ana-inaugura-sus-tradicionales-fiestas-julias-con-el-desfile-del-correo/",
-        "published_date": "2026-07-11 23:47:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "One dead and one woman in serious condition after being struck by lightning on a soccer field in Cojutepeque",
+        "title": "Nuevas Ideas celebrates internal elections throughout El Salvador with high participation",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/un-muerto-y-una-mujer-grave-tras-ser-impactados-por-un-rayo-en-cancha-de-futbol-en-cojutepeque/",
-        "published_date": "2026-07-11 23:11:09",
+        "url": "https://croniosv.com/politica/nuevas-ideas-celebra-elecciones-internas-en-todo-el-salvador-con-alta-participacion/",
+        "published_date": "2026-07-12 21:59:16",
         "category": "Local Events"
     },
     {
-        "title": "Gustavo Acevedo shares with Santanecos in the 2026 Mail Parade",
+        "title": "Cristy Asencio reaffirms commitment to Nuevas Ideas during internal elections",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gustavo-acevedo-comparte-con-santanecos-en-el-desfile-del-correo-2026/",
-        "published_date": "2026-07-11 23:03:12",
+        "url": "https://diariolahuella.com/cristy-asencio-reafirma-compromiso-con-nuevas-ideas-durante-elecciones-internas/",
+        "published_date": "2026-07-12 21:45:27",
         "category": "Local Events"
     },
     {
-        "title": "Woman biker seriously injured after being hit by a vehicle in Santa Ana",
+        "title": "Conor McGregor suffers devastating injury and loses in just 69 seconds in his long-awaited return to the UFC",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/mujer-biker-gravemente-lesionada-tras-ser-impactada-por-un-vehiculo-en-santa-ana/",
-        "published_date": "2026-07-11 22:52:57",
+        "url": "https://croniosv.com/deportes/conor-mcgregor-sufre-devastadora-lesion-y-pierde-en-solo-69-segundos-en-su-esperado-regreso-a-la-ufc/",
+        "published_date": "2026-07-12 21:35:50",
         "category": "Local Events"
     },
     {
-        "title": "20-year-old motorcyclist dies after losing control on Luis Poma Boulevard, Antiguo Cuscatl\u00e1n",
+        "title": "Gianni Pivetta, historic voice of Los Iracundos, dies: Latin American romantic music is in mourning",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/motociclista-de-20-anos-muere-tras-perder-el-control-en-bulevar-luis-poma-antiguo-cuscatlan/",
-        "published_date": "2026-07-11 22:47:51",
+        "url": "https://croniosv.com/internacionales/muere-gianni-pivetta-historica-voz-de-los-iracundos-la-musica-romantica-latinoamericana-esta-de-luto/",
+        "published_date": "2026-07-12 21:22:17",
         "category": "Local Events"
     },
     {
-        "title": "Gustavo Acevedo participates in the traditional Mail Parade in Santa Ana Centro",
+        "title": "Video captures dangerous \u201cFast and Furious\u201d style maneuver in Santa Tecla;authorities investigate the driver",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/video-capta-peligrosa-maniobra-al-estilo-rapidos-y-furiosos-en-santa-tecla-autoridades-investigan-al-conductor/",
+        "published_date": "2026-07-12 21:17:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador also rescues pets in Venezuela: humanitarian mission provides veterinary care after devastating earthquakes",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/el-salvador-tambien-rescata-mascotas-en-venezuela-mision-humanitaria-brinda-atencion-veterinaria-tras-devastadores-terremotos/",
+        "published_date": "2026-07-12 21:09:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dr. Rafael Aguirre registers as a pre-candidate for the presidency of the Republic in the FMLN",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/dr-rafael-aguirre-se-inscribe-como-precandidato-a-la-presidencia-de-la-republica-en-el-fmln/",
+        "published_date": "2026-07-12 20:58:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cristy Asencio reaffirms commitment to the New Ideas project during internal elections",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gustavo-acevedo-participa-en-el-tradicional-desfile-del-correo-en-santa-ana-centro/?utm_source=rss&utm_medium=rss&utm_campaign=gustavo-acevedo-participa-en-el-tradicional-desfile-del-correo-en-santa-ana-centro",
-        "published_date": "2026-07-11 22:47:35",
+        "url": "https://lapagina.com.sv/politica/cristy-asencio-reafirma-compromiso-con-el-proyecto-de-nuevas-ideas-durante-elecciones-internas/?utm_source=rss&utm_medium=rss&utm_campaign=cristy-asencio-reafirma-compromiso-con-el-proyecto-de-nuevas-ideas-durante-elecciones-internas",
+        "published_date": "2026-07-12 19:58:20",
         "category": "Local Events"
     },
     {
-        "title": "The benefits of the Integra Fair reach Libertad Este",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/los-beneficios-de-la-feria-integra-llegan-a-la-libertad-este/",
-        "published_date": "2026-07-11 22:36:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "BRP refuses to participate in the 2027 elections and what it describes as a \u201cfarce\u201d",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/brp-rechaza-participar-en-elecciones-de-2027-y-las-que-califica-como-una-farsa/",
-        "published_date": "2026-07-11 21:14:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador installs a field hospital in Venezuela that will include care for pets",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-instala-hospital-de-campana-en-venezuela-que-incluira-atencion-a-mascotas/",
-        "published_date": "2026-07-11 20:58:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador installs a field hospital in Venezuela to care for victims and pets",
+        "title": "Members turn out en masse to elect the Nuevas Ideas candidates",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-instala-hospital-de-campana-en-venezuela-para-atender-a-damnificados-y-mascotas/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-instala-hospital-de-campana-en-venezuela-para-atender-a-damnificados-y-mascotas",
-        "published_date": "2026-07-11 20:54:01",
+        "url": "https://lapagina.com.sv/nacionales/afiliados-acuden-de-forma-masiva-a-elegir-a-los-candidatos-de-nuevas-ideas/?utm_source=rss&utm_medium=rss&utm_campaign=afiliados-acuden-de-forma-masiva-a-elegir-a-los-candidatos-de-nuevas-ideas",
+        "published_date": "2026-07-12 19:38:05",
         "category": "Local Events"
     },
     {
-        "title": "UNT marks distance from the presidential candidacy of Rafael Aguirre",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/unt-marca-distancia-de-la-candidatura-presidencial-de-rafael-aguirre/",
-        "published_date": "2026-07-11 20:49:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "THE TRAP OF ELECTORAL ILLUSION",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-trampa-de-la-ilusion-electoral/",
-        "published_date": "2026-07-11 20:34:10",
+        "title": "Mario Dur\u00e1n participates in internal elections of Nuevas Ideas",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/mario-duran-participa-en-elecciones-internas-de-nuevas-ideas/?utm_source=rss&utm_medium=rss&utm_campaign=mario-duran-participa-en-elecciones-internas-de-nuevas-ideas",
+        "published_date": "2026-07-12 19:02:49",
         "category": "Local Events"
     }
 ]
