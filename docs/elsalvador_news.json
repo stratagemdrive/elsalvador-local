@@ -1,5 +1,12 @@
 [
     {
+        "title": "Iran is and will be the guardian of the Strait of Hormuz, says foreign minister",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/iran-es-y-sera-el-guardian-del-estrecho-de-ormuz-afirma-canciller/",
+        "published_date": "2026-07-16 10:48:20",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Santa Ana Centro reinforces municipal security strategy after meeting with Israeli ambassador",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/santa-ana-centro-refuerza-estrategia-de-seguridad-municipal-tras-encuentro-con-embajador-de-israel/?utm_source=rss&utm_medium=rss&utm_campaign=santa-ana-centro-refuerza-estrategia-de-seguridad-municipal-tras-encuentro-con-embajador-de-israel",
@@ -77,18 +84,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Women commemorate the National Day of the Maquila Worker",
+        "title": "Human rights violations under an emergency regime could constitute crimes against humanity: Amnesty International",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/mujeres-conmemoran-dia-nacional-trabajadora-maquilas/",
-        "published_date": "2026-07-08 11:01:18",
-        "category": "Diplomacy"
+        "url": "https://www.diariocolatino.com/violaciones-derechos-humanos-regimen-excepcion-podrian-constituir-crimenes-lesa-humanidad-amnistia-internacional/",
+        "published_date": "2026-07-16 11:00:47",
+        "category": "Military"
     },
     {
-        "title": "Cuba alerts the UN about worsening of the US blockade",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cuba-alerta-a-la-onu-sobre-agravamiento-del-bloqueo-estadounidense/",
-        "published_date": "2026-07-08 10:57:29",
-        "category": "Diplomacy"
+        "title": "Subjects captured for stealing work tools",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/sujetos-capturados-por-hurtar-herramientas-de-trabajo/?utm_source=rss&utm_medium=rss&utm_campaign=sujetos-capturados-por-hurtar-herramientas-de-trabajo",
+        "published_date": "2026-07-16 02:32:25",
+        "category": "Military"
+    },
+    {
+        "title": "They capture subjects who stole work tools",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-sujetos-que-hurtaron-herramientas-de-trabajo/",
+        "published_date": "2026-07-16 02:29:00",
+        "category": "Military"
     },
     {
         "title": "\u201cThree Doritos Later\u201d for cap thief in Santa Ana Centro",
@@ -210,27 +224,6 @@
         "category": "Military"
     },
     {
-        "title": "They capture protagonists of a fight at the Moraz\u00e1n party",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-protagonistas-de-rina-en-fiesta-de-morazan/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-protagonistas-de-rina-en-fiesta-de-morazan",
-        "published_date": "2026-07-13 20:38:39",
-        "category": "Military"
-    },
-    {
-        "title": "Police capture subject for aggravated homicide and procedural fraud",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/policias-capturan-a-sujeto-por-homicidio-agravado-y-fraude-procesal/",
-        "published_date": "2026-07-13 20:00:30",
-        "category": "Military"
-    },
-    {
-        "title": "These are subjects who kidnapped a minor in La Libertad Centro",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/estos-son-sujetos-que-secuestraron-a-una-menor-de-edad-en-la-libertad-centro/?utm_source=rss&utm_medium=rss&utm_campaign=estos-son-sujetos-que-secuestraron-a-una-menor-de-edad-en-la-libertad-centro",
-        "published_date": "2026-07-13 19:22:44",
-        "category": "Military"
-    },
-    {
         "title": "LOTRA Draw No. 458 dedicated to \u00bbBinary Cycle 2, Source of Energy for El Salvador!\u00bbby LAGEO",
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/economia/sorteo-lotra-n-o-458-dedicado-a-ciclo-binario-2-fuente-de-energia-para-el-salvador-de-lageo/",
@@ -257,6 +250,13 @@
         "url": "https://croniosv.com/nacionales/sucesos/se-fue-sin-pagar-en-una-gasolinera-de-usulutan-y-regreso-horas-despues-tras-hacerse-viral/",
         "published_date": "2026-07-10 22:51:48",
         "category": "Energy"
+    },
+    {
+        "title": "FUNDEMAS and ABANSA promote youth employability with Talent Seedbed",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fundemas-y-abansa-impulsan-la-empleabilidad-juvenil-con-semillero-de-talento/",
+        "published_date": "2026-07-16 11:02:27",
+        "category": "Economy"
     },
     {
         "title": "Commission in favor of reforming the budget and approving $100 million in sovereign guarantee",
@@ -343,6 +343,83 @@
         "category": "Economy"
     },
     {
+        "title": "The flag that the national team players showed after the victory against England: \"The Malvinas are Argentine\"",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/la-bandera-que-mostraron-los-jugadores-de-la-seleccion-tras-el-triunfo-ante-inglaterra-las-malvinas-son-argentinas/",
+        "published_date": "2026-07-16 12:07:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "CAM detains alleged thief after complaint of cell phone theft on route 101-B bus",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/cam-retiene-a-presunto-ladron-tras-denuncia-por-hurto-de-celular-en-autobus-de-la-ruta-101-b/",
+        "published_date": "2026-07-16 12:03:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Karina Sosa questions concentration of wealth in the presidential environment",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/karina-sosa-cuestiona-concentracion-riqueza-entorno-presidencial/",
+        "published_date": "2026-07-16 11:04:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor of Santa Ana Centro denies favoring a private company",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/alcalde-santa-ana-centro-niega-favorecer-empresa-privada/",
+        "published_date": "2026-07-16 11:03:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Assembly will recognize Iv\u00e1n Barton after his outstanding role in the 2026 World Cup",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/asamblea-reconocera-a-ivan-barton-tras-su-destacado-papel-en-mundial-2026/",
+        "published_date": "2026-07-16 11:01:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Elections 2027 in El Salvador: \u201ccitizens for democracy\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/elecciones-2027-en-el-salvador-ciudadanos-por-la-democracia/",
+        "published_date": "2026-07-16 10:59:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mexico expresses support for the Panama Canal neutrality protocol",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/mexico-expresa-apoyo-a-protocolo-de-neutralidad-de-canal-de-panama/",
+        "published_date": "2026-07-16 10:50:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Argentina seals historic comeback against England to defend its crown against Spain",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/argentina-sella-remontada-historica-ante-inglaterra-para-defender-su-corona-contra-espana/",
+        "published_date": "2026-07-16 10:00:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ten municipal markets transform the commercial activity of more than 4 million Salvadorans",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/diez-mercados-municipales-transforman-la-actividad-comercial-de-mas-de-4-millones-de-salvadorenos/?utm_source=rss&utm_medium=rss&utm_campaign=diez-mercados-municipales-transforman-la-actividad-comercial-de-mas-de-4-millones-de-salvadorenos",
+        "published_date": "2026-07-16 00:53:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorcyclist will remain provisionally detained accused of trafficking marijuana",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/motociclista-seguira-detenido-provisionalmente-acusado-de-traficar-marihuana/?utm_source=rss&utm_medium=rss&utm_campaign=motociclista-seguira-detenido-provisionalmente-acusado-de-traficar-marihuana",
+        "published_date": "2026-07-16 00:21:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorcyclist will remain provisionally detained accused of trafficking marijuana",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/motociclista-seguira-detenido-provisionalmente-acusado-de-traficar-marihuana/",
+        "published_date": "2026-07-16 00:05:49",
+        "category": "Local Events"
+    },
+    {
         "title": "Argentina beats England and qualifies for the grand final of the 2026 World Cup",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/07/argentina-remonta-a-inglaterra-y-clasifica-a-la-gran-final-del-mundial-2026/",
@@ -403,83 +480,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/el-salvador-envia-nuevo-contingente-hacia-la-guaira/",
         "published_date": "2026-07-15 20:33:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador strengthens strategic alliance with Food Empire to promote the export of Salvadoran products to Asia and Europe",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-fortalece-alianza-estrategica-con-food-empire-para-impulsar-exportacion-de-productos-salvadorenos-hacia-asia-y-europa/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-fortalece-alianza-estrategica-con-food-empire-para-impulsar-exportacion-de-productos-salvadorenos-hacia-asia-y-europa",
-        "published_date": "2026-07-15 20:28:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador strengthens strategic alliance with Food Empire to promote the export of Salvadoran products to Asia and Europe",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-fortalece-alianza-estrategica-con-food-empire-para-impulsar-exportacion-de-productos-salvadorenos-hacia-asia-y-europa/",
-        "published_date": "2026-07-15 20:19:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Provisional detention for two accused of aggravated injuries",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/detencion-provisional-para-dos-acusados-de-lesiones-agravadas/",
-        "published_date": "2026-07-15 19:42:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador sends new contingent of humanitarian aid to strengthen mission in Venezuela",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/el-salvador-envia-nuevo-contingente-de-ayuda-humanitaria-para-fortalecer-mision-en-venezuela/",
-        "published_date": "2026-07-15 19:31:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mykee Moves, Rosal\u00eda and Rauw Alejandro's dancer, is found dead",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/jetset/encuentran-sin-vida-a-mykee-moves-bailarin-de-rosalia-y-rauw-alejandro/",
-        "published_date": "2026-07-15 18:15:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Audio by Salvadoran referee Iv\u00e1n Barton inspires techno remix created by German DJ",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/jetset/audio-del-arbitro-salvadoreno-ivan-barton-inspira-remix-de-techno-creado-por-dj-aleman/",
-        "published_date": "2026-07-15 18:06:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rafael Aguirre points out that he is looking for a new direction for the FMLN",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/rafael-aguirre-senala-que-busca-un-nuevo-rumbo-para-el-fmln/?utm_source=rss&utm_medium=rss&utm_campaign=rafael-aguirre-senala-que-busca-un-nuevo-rumbo-para-el-fmln",
-        "published_date": "2026-07-15 18:05:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rafael Aguirre affirms that he feels like \u201cDavid\u201d facing \u201cGoliath\u201d heading into the 2027 elections",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/rafael-aguirre-afirma-que-se-siente-como-david-frente-a-goliat-rumbo-a-las-elecciones-de-2027/",
-        "published_date": "2026-07-15 18:00:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Open-air cinema will broadcast the long-awaited duel between England and Argentina",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/cine-al-aire-libre-transmitira-el-esperado-duelo-entre-inglaterra-y-argentina/",
-        "published_date": "2026-07-15 18:00:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Companies and institutions may apply for the National Decent Work Award 2026",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/empresas-e-instituciones-podran-postularse-al-premio-nacional-al-trabajo-decente-2026/?utm_source=rss&utm_medium=rss&utm_campaign=empresas-e-instituciones-podran-postularse-al-premio-nacional-al-trabajo-decente-2026",
-        "published_date": "2026-07-15 17:52:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ministry of Labor will recognize companies and institutions that promote decent work",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ministerio-de-trabajo-reconocera-a-empresas-e-instituciones-que-promueven-el-trabajo-decente/",
-        "published_date": "2026-07-15 17:52:00",
         "category": "Local Events"
     }
 ]
