@@ -1,5 +1,19 @@
 [
     {
+        "title": "El Salvador strengthens ties of cooperation with the world food program",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/el-salvador-fortalece-lazos-de-cooperacion-con-el-programa-mundial-de-alimentos/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-fortalece-lazos-de-cooperacion-con-el-programa-mundial-de-alimentos",
+        "published_date": "2026-07-17 23:39:27",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "President of Honduras leads flag-raising ceremony on Conejo Island",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/presidente-de-honduras-encabeza-ceremonia-de-izada-de-bandera-en-isla-conejo/",
+        "published_date": "2026-07-17 20:08:13",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Young girl claims that a \u201cspirit\u201d made her pregnant and the case generates reactions on social networks",
         "source": "Cronio",
         "url": "https://croniosv.com/redes/virales/jovencita-asegura-que-un-espiritu-la-embarazo-y-caso-genera-reacciones-en-redes-sociales/",
@@ -68,6 +82,62 @@
         "url": "https://www.diariocolatino.com/debate-en-onu-evidencia-amplio-respaldo-mundial-a-cuba-afirma-china/",
         "published_date": "2026-07-10 10:58:32",
         "category": "Diplomacy"
+    },
+    {
+        "title": "They capture \u201cPeric\u00f3n\u201d, accused of murdering another MS13 gunman in Usulut\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-pericon-senalado-de-asesinar-a-otro-gatillero-de-la-ms13-en-usulutan/",
+        "published_date": "2026-07-17 23:42:41",
+        "category": "Military"
+    },
+    {
+        "title": "Microbus crashes into two posts on the highway to Comalapa;two people are injured",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/microbus-choca-contra-dos-postes-en-la-autopista-a-comalapa-dos-personas-resultan-lesionadas/",
+        "published_date": "2026-07-17 23:33:31",
+        "category": "Military"
+    },
+    {
+        "title": "Official statistics reflect a historic drop in homicides in El Salvador, highlights Nayib Bukele",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/estadisticas-oficiales-reflejan-caida-historica-de-homicidios-en-el-salvador-destaca-nayib-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=estadisticas-oficiales-reflejan-caida-historica-de-homicidios-en-el-salvador-destaca-nayib-bukele",
+        "published_date": "2026-07-17 22:34:48",
+        "category": "Military"
+    },
+    {
+        "title": "PNC provided security during the Early Childhood Recreational Ma\u00f1anitas parade in La Uni\u00f3n Norte",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/pnc-brindo-seguridad-durante-desfile-de-las-mananitas-recreativas-de-la-primera-infancia-en-la-union-norte/",
+        "published_date": "2026-07-17 22:34:40",
+        "category": "Military"
+    },
+    {
+        "title": "They arrest an MS-13 gang member, with an arrest warrant for the crime of aggravated homicide against 3 victims",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/detienen-a-pandillero-de-la-ms-13-con-orden-de-captura-por-el-delito-de-homicidio-agravado-contra-3-victimas/",
+        "published_date": "2026-07-17 22:31:00",
+        "category": "Military"
+    },
+    {
+        "title": "President Bukele highlights historic reduction in homicides",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-destaca-reduccion-historica-de-homicidios/",
+        "published_date": "2026-07-17 22:22:33",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador strengthens its alliance with the World Food Program to promote innovation and food security",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/el-salvador-fortalece-su-alianza-con-el-programa-mundial-de-alimentos-para-impulsar-innovacion-y-seguridad-alimentaria/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-fortalece-su-alianza-con-el-programa-mundial-de-alimentos-para-impulsar-innovacion-y-seguridad-alimentaria",
+        "published_date": "2026-07-17 22:04:15",
+        "category": "Military"
+    },
+    {
+        "title": "Alias \u200b\u200b\u201cPeric\u00f3n\u201d tried to hide wrapped in plastic, but was captured by the PNC in Usulut\u00e1n",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/alias-pericon-intento-ocultarse-envuelto-en-un-plastico-pero-fue-capturado-por-la-pnc-en-usulutan/",
+        "published_date": "2026-07-17 19:48:37",
+        "category": "Military"
     },
     {
         "title": "They capture an extortionist from the MS in Metap\u00e1n",
@@ -154,60 +224,18 @@
         "category": "Military"
     },
     {
-        "title": "They apply the \u201cThree Doritos Later\u201d to cap thief in Santa Ana Centro",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/aplican-el-tres-doritos-despues-a-ladron-de-gorras-en-santa-ana-centro/",
-        "published_date": "2026-07-15 22:21:18",
-        "category": "Military"
-    },
-    {
-        "title": "Two people are injured after a collision between a truck and a pipe in Apopa",
+        "title": "Oil price soars after conflict in Iran",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/dos-personas-resultan-lesionadas-tras-choque-entre-camion-y-pipa-en-apopa/?utm_source=rss&utm_medium=rss&utm_campaign=dos-personas-resultan-lesionadas-tras-choque-entre-camion-y-pipa-en-apopa",
-        "published_date": "2026-07-15 21:57:50",
-        "category": "Military"
+        "url": "https://lapagina.com.sv/general/se-dispara-precio-del-crudo-tras-conflicto-en-iran/?utm_source=rss&utm_medium=rss&utm_campaign=se-dispara-precio-del-crudo-tras-conflicto-en-iran",
+        "published_date": "2026-07-17 20:13:00",
+        "category": "Energy"
     },
     {
-        "title": "Civil Protection inspects the Sivar Land 2026 property to reinforce security during the August Festival",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/proteccion-civil-inspecciona-predio-de-sivar-land-2026-para-reforzar-seguridad-durante-las-fiestas-agostinas/",
-        "published_date": "2026-07-15 20:49:20",
-        "category": "Military"
-    },
-    {
-        "title": "They arrest a drunk driver who was traveling in the wrong direction and crashed into a bridge in San Miguel",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/detienen-a-conductor-ebrio-que-circulaba-en-sentido-contrario-y-choco-contra-un-puente-en-san-miguel/",
-        "published_date": "2026-07-15 20:41:27",
-        "category": "Military"
-    },
-    {
-        "title": "Colombian Army frees 39 people kidnapped by the ELN in Choc\u00f3",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/ejercito-de-colombia-libera-a-39-personas-secuestradas-por-el-eln-en-choco/",
-        "published_date": "2026-07-15 17:30:17",
-        "category": "Military"
-    },
-    {
-        "title": "Nurse tried to kidnap a newborn hidden in a black bag in Brazil",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/enfermera-intento-raptar-a-una-recien-nacida-escondida-en-un-bolso-negro-en-brasil/",
-        "published_date": "2026-07-14 22:30:57",
-        "category": "Military"
-    },
-    {
-        "title": "Subject arrested when trying to hide the body of his 19-year-old partner",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/detienen-a-sujeto-cuando-intentaba-ocultar-el-cuerpo-de-su-pareja-de-19-anos/",
-        "published_date": "2026-07-14 21:58:25",
-        "category": "Military"
-    },
-    {
-        "title": "Apulo recreational park receives Family Friendly seal",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/parque-recreativo-apulo-recibe-sello-family-friendly/?utm_source=rss&utm_medium=rss&utm_campaign=parque-recreativo-apulo-recibe-sello-family-friendly",
-        "published_date": "2026-07-14 20:34:40",
-        "category": "Military"
+        "title": "Price of a barrel of oil shoots up to 4% due to escalation of the conflict between the United States and Iran",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/precio-del-barril-de-petroleo-se-dispara-hasta-4-por-escalada-del-conflicto-entre-estados-unidos-e-iran/",
+        "published_date": "2026-07-17 18:57:24",
+        "category": "Energy"
     },
     {
         "title": "LOTRA Draw No. 458 dedicated to \u00bbBinary Cycle 2, Source of Energy for El Salvador!\u00bbby LAGEO",
@@ -236,6 +264,20 @@
         "url": "https://croniosv.com/nacionales/sucesos/se-fue-sin-pagar-en-una-gasolinera-de-usulutan-y-regreso-horas-despues-tras-hacerse-viral/",
         "published_date": "2026-07-10 22:51:48",
         "category": "Energy"
+    },
+    {
+        "title": "\u201cWeavers of Life\u201d exhibition opens to strengthen artisanal exchange between El Salvador and Colombia",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/inauguran-exposicion-tejedores-de-vida-para-fortalecer-el-intercambio-artesanal-entre-el-salvador-y-colombia/",
+        "published_date": "2026-07-17 19:25:01",
+        "category": "Economy"
+    },
+    {
+        "title": "Government boosts economy with Weavers of Life exhibition",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-impulsa-economia-con-exposicion-tejedores-de-vida/",
+        "published_date": "2026-07-17 19:22:50",
+        "category": "Economy"
     },
     {
         "title": "Three risks that companies must manage in the face of investment growth in El Salvador",
@@ -322,150 +364,143 @@
         "category": "Economy"
     },
     {
-        "title": "El Economista highlights tourism as an engine of economic growth in El Salvador",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-economista-destaca-al-turismo-como-motor-del-crecimiento-economico-de-el-salvador/",
-        "published_date": "2026-07-09 17:20:22",
-        "category": "Economy"
-    },
-    {
-        "title": "COFAPPES rejects abuses of human dignity in the prison system",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cofappes-rechaza-abusos-dignidad-humana-sistema-carcelario/",
-        "published_date": "2026-07-17 11:04:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "SIMETRISSS clarifies that Rafael Aguirre's presidential aspiration is in his personal capacity",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/simetrisss-aclara-que-aspiracion-presidencial-de-rafael-aguirre-es-a-titulo-personal/",
-        "published_date": "2026-07-17 11:02:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "$100 million in sovereign guarantee for BANDESAL approved",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/aprueban-100-millones-en-garantia-soberana-para-bandesal/",
-        "published_date": "2026-07-17 11:01:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rafael Aguirre's pre-candidacy moves the political scene and increases pressure on the ruling party: Vicente Cuchillas",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/precandidatura-de-rafael-aguirre-mueve-el-escenario-politico-y-aumenta-presion-sobre-el-oficialismo-vicente-cuchillas/",
-        "published_date": "2026-07-17 11:00:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran warns of attacking all infrastructure in the region",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/iran-advierte-con-atacar-toda-la-infraestructura-de-la-region/",
-        "published_date": "2026-07-17 10:58:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba thanks Brazil for donation of powdered milk",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/agradece-cuba-a-brasil-donativo-de-leche-en-polvo/",
-        "published_date": "2026-07-17 10:57:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "World Cup anniversaries: The Maracanazo",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/efemerides-mundialistas-el-maracanazo/",
-        "published_date": "2026-07-17 10:00:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "FGR obtains sentences of up to 75 years against members of the MS who operated in La Libertad",
+        "title": "The final between Spain and Argentina will mark the premiere of the championship rings in a World Cup",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/fgr-logra-condenas-de-hasta-75-anos-contra-miembros-de-la-ms-que-operaban-en-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=fgr-logra-condenas-de-hasta-75-anos-contra-miembros-de-la-ms-que-operaban-en-la-libertad",
-        "published_date": "2026-07-17 04:08:19",
+        "url": "https://lapagina.com.sv/deportes/la-final-entre-espana-y-argentina-marcara-el-estreno-de-los-anillos-de-campeon-en-un-mundial/?utm_source=rss&utm_medium=rss&utm_campaign=la-final-entre-espana-y-argentina-marcara-el-estreno-de-los-anillos-de-campeon-en-un-mundial",
+        "published_date": "2026-07-17 23:27:08",
         "category": "Local Events"
     },
     {
-        "title": "MS gang members receive sentences of up to 75 years in prison for various crimes",
+        "title": "Bukele and Sheinbaum once again lead approval in Latin America",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/bukele-y-sheinbaum-vuelven-a-liderar-aprobacion-en-latinoamerica/",
+        "published_date": "2026-07-17 23:26:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cToday was my last chemotherapy\u201d: Salvadoran shares emotional message on social networks",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/hoy-fue-mi-ultima-quimioterapia-salvadorena-comparte-emotivo-mensaje-en-redes-sociales/",
+        "published_date": "2026-07-17 23:22:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "FIFA will award championship rings to the winner of the 2026 World Cup for the first time",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/pandilleros-de-la-ms-reciben-condenas-de-hasta-75-anos-de-prision-por-diversos-delitos/",
-        "published_date": "2026-07-17 03:57:03",
+        "url": "https://diariolahuella.com/la-fifa-entregara-por-primera-vez-anillos-de-campeon-al-ganador-del-mundial-2026/",
+        "published_date": "2026-07-17 23:21:04",
         "category": "Local Events"
     },
     {
-        "title": "FIFA reaffirms its confidence in Iv\u00e1n Barton to direct highly demanding matches",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/fifa-reafirma-su-confianza-en-ivan-barton-para-dirigir-partidos-de-maxima-exigencia/?utm_source=rss&utm_medium=rss&utm_campaign=fifa-reafirma-su-confianza-en-ivan-barton-para-dirigir-partidos-de-maxima-exigencia",
-        "published_date": "2026-07-17 02:05:14",
+        "title": "VMT solves transportation crisis in the El Morro canton, Santiago Texacuangos",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/vmt-soluciona-crisis-de-transporte-en-el-canton-el-morro-de-santiago-texacuangos/",
+        "published_date": "2026-07-17 23:15:35",
         "category": "Local Events"
     },
     {
-        "title": "FIFA supports Iv\u00e1n Barton and rules out doubts about his performance in the 2026 World Cup semifinal",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/fifa-respalda-a-ivan-barton-y-descarta-dudas-sobre-su-desempeno-en-la-semifinal-del-mundial-2026/",
-        "published_date": "2026-07-17 01:52:59",
+        "title": "Xiomara Castro's X account is hacked and publications from her management disappear",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/hackean-cuenta-de-x-de-xiomara-castro-y-desaparecen-publicaciones-de-su-gestion/",
+        "published_date": "2026-07-17 23:03:06",
         "category": "Local Events"
     },
     {
-        "title": "Artificial intelligence company sets its sights on El Salvador with digital governance proposal",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/empresa-de-inteligencia-artificial-pone-la-mirada-en-el-salvador-con-propuesta-de-gobernanza-digital/?utm_source=rss&utm_medium=rss&utm_campaign=empresa-de-inteligencia-artificial-pone-la-mirada-en-el-salvador-con-propuesta-de-gobernanza-digital",
-        "published_date": "2026-07-17 01:01:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia tests new laser system capable of destroying drones",
+        "title": "Students in Valle Verde, Apopa, do not attend classes due to the water crisis",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/rusia-prueba-nuevo-sistema-laser-capaz-de-destruir-drones/",
-        "published_date": "2026-07-17 00:45:23",
+        "url": "https://www.diariocolatino.com/estudiantes-en-valle-verde-apopa-no-asisten-a-clases-debido-a-la-crisis-de-agua/",
+        "published_date": "2026-07-17 22:54:17",
         "category": "Local Events"
     },
     {
-        "title": "Guatemalan baby named \"Vozinha\"",
+        "title": "The World Cup did not change the giants... it changed the little ones",
         "source": "Cronio",
-        "url": "https://croniosv.com/redes/virales/bebe-guatemalteco-recibe-nombre-de-vozinha/",
-        "published_date": "2026-07-17 00:02:21",
+        "url": "https://croniosv.com/opinet/el-mundial-no-cambio-a-los-gigantes-cambio-a-los-pequenos/",
+        "published_date": "2026-07-17 22:28:22",
         "category": "Local Events"
     },
     {
-        "title": "Kia Soul hits a hospital in Santiago de Mar\u00eda and leaves material damage",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/kia-soul-impacta-contra-hospital-en-santiago-de-maria-y-deja-danos-materiales/",
-        "published_date": "2026-07-16 23:37:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President Ulloa holds a meeting with a technology company interested in developing AI projects",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/vicepresidente-ulloa-sostiene-encuentro-con-empresa-tecnologica-interesada-en-desarrollar-proyectos-de-ia/",
-        "published_date": "2026-07-16 23:21:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Teknomic presents digital governance proposal based on artificial intelligence for El Salvador",
+        "title": "The World Cup did not change the giants... it changed the little ones",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/teknomic-presenta-propuesta-de-gobernanza-digital-basada-en-inteligencia-artificial-para-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=teknomic-presenta-propuesta-de-gobernanza-digital-basada-en-inteligencia-artificial-para-el-salvador",
-        "published_date": "2026-07-16 23:18:11",
+        "url": "https://lapagina.com.sv/opinion/el-mundial-no-cambio-a-los-gigantes-cambio-a-los-pequenos/?utm_source=rss&utm_medium=rss&utm_campaign=el-mundial-no-cambio-a-los-gigantes-cambio-a-los-pequenos",
+        "published_date": "2026-07-17 22:00:45",
         "category": "Local Events"
     },
     {
-        "title": "Pick-up falls into a seven-meter ravine and leaves four injured in La Uni\u00f3n",
+        "title": "Freedom and morality in the post-truth era?Rereading the \u201cCritique of Practical Reason\u201d",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/pick-up-cae-a-barranco-de-siete-metros-y-deja-cuatro-lesionados-en-la-union/",
-        "published_date": "2026-07-16 22:02:24",
+        "url": "https://croniosv.com/opinet/libertad-y-moralidad-en-la-era-de-la-post-verdad-releyendo-la-critica-de-la-razon-practica/",
+        "published_date": "2026-07-17 21:53:52",
         "category": "Local Events"
     },
     {
-        "title": "El Salvador is committed to higher education connected to the world: the International Congress \u201cCountry Educational Model 2026\u201d begins",
+        "title": "Users claim that \"clouds\" anticipated the earthquake in Chiapas",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/el-salvador-apuesta-por-una-educacion-superior-conectada-con-el-mundo-inicia-el-congreso-internacional-modelo-educativo-pais-2026/",
-        "published_date": "2026-07-16 21:58:55",
+        "url": "https://croniosv.com/redes/virales/usuarios-aseguran-que-nubes-petateadas-anticiparon-el-sismo-en-chiapas/",
+        "published_date": "2026-07-17 20:59:30",
         "category": "Local Events"
     },
     {
-        "title": "Armed attack leaves two dead, including a minor, in Honduras",
+        "title": "FIFA confirms that the 2026 World Cup Final halftime show will last 17 minutes",
         "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/ataque-armado-deja-dos-muertos-entre-ellos-un-menor-de-edad-en-honduras/",
-        "published_date": "2026-07-16 21:53:43",
+        "url": "https://croniosv.com/tendencias/jetset/fifa-confirma-que-el-show-de-medio-tiempo-de-la-final-del-mundial-2026-durara-17-minutos/",
+        "published_date": "2026-07-17 20:50:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Actress Brenda Fricker, remembered for her role in 'Home Alone 2', dies at 81",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/jetset/actriz-brenda-fricker-recordada-por-su-papel-en-mi-pobre-angelito-2-fallece-a-los-81-anos/",
+        "published_date": "2026-07-17 20:44:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Work advances in the new Santa Ana Centro market",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/avanzas-obras-en-nuevo-mercado-de-santa-ana-centro/?utm_source=rss&utm_medium=rss&utm_campaign=avanzas-obras-en-nuevo-mercado-de-santa-ana-centro",
+        "published_date": "2026-07-17 20:43:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "What should be expected from a political party?",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/que-debe-esperarse-de-un-partido-politico/",
+        "published_date": "2026-07-17 20:43:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor's Office eliminates open dump that affected more than 250 families in Cuscatancingo",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/alcaldia-elimina-botadero-a-cielo-abierto-que-afectaba-a-mas-de-250-familias-en-cuscatancingo/",
+        "published_date": "2026-07-17 20:31:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran humanitarian mission in Venezuela maintains attention to dignified people",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/internacionales/mision-humanitaria-salvadorena-en-venezuela-mantiene-atencion-a-dignificados/?utm_source=rss&utm_medium=rss&utm_campaign=mision-humanitaria-salvadorena-en-venezuela-mantiene-atencion-a-dignificados",
+        "published_date": "2026-07-17 20:29:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Slavko Vin\u010di\u0107 will direct the 2026 World Cup final between Spain and Argentina",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/slavko-vincic-dirigira-la-final-del-mundial-2026-entre-espana-y-argentina/?utm_source=rss&utm_medium=rss&utm_campaign=slavko-vincic-dirigira-la-final-del-mundial-2026-entre-espana-y-argentina",
+        "published_date": "2026-07-17 20:26:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court orders trial for accused of fraud for $87,000",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/juzgado-ordena-juicio-para-acusada-de-estafa-por-87000/?utm_source=rss&utm_medium=rss&utm_campaign=juzgado-ordena-juicio-para-acusada-de-estafa-por-87000",
+        "published_date": "2026-07-17 20:12:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court orders trial for those accused of fraud for more than $87,000",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/juzgado-ordena-juicio-para-acusadas-de-estafa-por-mas-de-87000/",
+        "published_date": "2026-07-17 20:03:07",
         "category": "Local Events"
     }
 ]
