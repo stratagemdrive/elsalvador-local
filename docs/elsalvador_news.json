@@ -70,6 +70,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "They capture an extortionist from the MS in Metap\u00e1n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-extorsionista-de-la-ms-en-metapan/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-extorsionista-de-la-ms-en-metapan",
+        "published_date": "2026-07-17 03:46:14",
+        "category": "Military"
+    },
+    {
+        "title": "Soldiers locate a member of the MS wanted for his links to extortion",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/soldados-localizan-a-miembro-de-la-ms-buscado-por-su-vinculo-con-extorsiones/",
+        "published_date": "2026-07-17 03:30:47",
+        "category": "Military"
+    },
+    {
         "title": "Two Salvadorans and a Nicaraguan woman are captured after being accused of assaulting bus passengers in Honduras",
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/dos-salvadorenos-y-una-nicaraguense-son-capturados-tras-ser-senalados-de-asaltar-pasajeros-de-autobus-en-honduras/",
@@ -196,20 +210,6 @@
         "category": "Military"
     },
     {
-        "title": "PHOTOS |France celebrates its national holiday with a parade in honor of Ukraine and Europeans",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/fotos-francia-celebra-su-fiesta-nacional-con-un-desfile-en-honor-a-ucrania-y-los-europeos/",
-        "published_date": "2026-07-14 20:00:03",
-        "category": "Military"
-    },
-    {
-        "title": "MS-13 gang member is murdered in Usulut\u00e1n;PNC investigates whether they acted in legitimate defense or to settle scores",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/pandillero-de-la-ms-13-es-asesinado-en-usulutan-pnc-investiga-si-actuaron-en-legitima-defensa-o-por-ajuste-de-cuentas/",
-        "published_date": "2026-07-14 05:58:41",
-        "category": "Military"
-    },
-    {
         "title": "LOTRA Draw No. 458 dedicated to \u00bbBinary Cycle 2, Source of Energy for El Salvador!\u00bbby LAGEO",
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/economia/sorteo-lotra-n-o-458-dedicado-a-ciclo-binario-2-fuente-de-energia-para-el-salvador-de-lageo/",
@@ -236,6 +236,13 @@
         "url": "https://croniosv.com/nacionales/sucesos/se-fue-sin-pagar-en-una-gasolinera-de-usulutan-y-regreso-horas-despues-tras-hacerse-viral/",
         "published_date": "2026-07-10 22:51:48",
         "category": "Energy"
+    },
+    {
+        "title": "Three risks that companies must manage in the face of investment growth in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/economia/tres-riesgos-que-las-empresas-deben-gestionar-ante-el-crecimiento-de-la-inversion-en-el-salvador/",
+        "published_date": "2026-07-17 00:09:01",
+        "category": "Economy"
     },
     {
         "title": "FUNDEMAS and ABANSA promote youth employability with Talent Seedbed",
@@ -322,11 +329,95 @@
         "category": "Economy"
     },
     {
-        "title": "GOES asks to approve a guarantee for $100 million",
+        "title": "COFAPPES rejects abuses of human dignity in the prison system",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/goes-pide-aprobar-garantia-por-100-millones/",
-        "published_date": "2026-07-09 11:04:42",
-        "category": "Economy"
+        "url": "https://www.diariocolatino.com/cofappes-rechaza-abusos-dignidad-humana-sistema-carcelario/",
+        "published_date": "2026-07-17 11:04:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "SIMETRISSS clarifies that Rafael Aguirre's presidential aspiration is in his personal capacity",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/simetrisss-aclara-que-aspiracion-presidencial-de-rafael-aguirre-es-a-titulo-personal/",
+        "published_date": "2026-07-17 11:02:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "$100 million in sovereign guarantee for BANDESAL approved",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/aprueban-100-millones-en-garantia-soberana-para-bandesal/",
+        "published_date": "2026-07-17 11:01:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rafael Aguirre's pre-candidacy moves the political scene and increases pressure on the ruling party: Vicente Cuchillas",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/precandidatura-de-rafael-aguirre-mueve-el-escenario-politico-y-aumenta-presion-sobre-el-oficialismo-vicente-cuchillas/",
+        "published_date": "2026-07-17 11:00:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran warns of attacking all infrastructure in the region",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/iran-advierte-con-atacar-toda-la-infraestructura-de-la-region/",
+        "published_date": "2026-07-17 10:58:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba thanks Brazil for donation of powdered milk",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/agradece-cuba-a-brasil-donativo-de-leche-en-polvo/",
+        "published_date": "2026-07-17 10:57:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "World Cup anniversaries: The Maracanazo",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/efemerides-mundialistas-el-maracanazo/",
+        "published_date": "2026-07-17 10:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "FGR obtains sentences of up to 75 years against members of the MS who operated in La Libertad",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/fgr-logra-condenas-de-hasta-75-anos-contra-miembros-de-la-ms-que-operaban-en-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=fgr-logra-condenas-de-hasta-75-anos-contra-miembros-de-la-ms-que-operaban-en-la-libertad",
+        "published_date": "2026-07-17 04:08:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "MS gang members receive sentences of up to 75 years in prison for various crimes",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/pandilleros-de-la-ms-reciben-condenas-de-hasta-75-anos-de-prision-por-diversos-delitos/",
+        "published_date": "2026-07-17 03:57:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "FIFA reaffirms its confidence in Iv\u00e1n Barton to direct highly demanding matches",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/fifa-reafirma-su-confianza-en-ivan-barton-para-dirigir-partidos-de-maxima-exigencia/?utm_source=rss&utm_medium=rss&utm_campaign=fifa-reafirma-su-confianza-en-ivan-barton-para-dirigir-partidos-de-maxima-exigencia",
+        "published_date": "2026-07-17 02:05:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "FIFA supports Iv\u00e1n Barton and rules out doubts about his performance in the 2026 World Cup semifinal",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/fifa-respalda-a-ivan-barton-y-descarta-dudas-sobre-su-desempeno-en-la-semifinal-del-mundial-2026/",
+        "published_date": "2026-07-17 01:52:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Artificial intelligence company sets its sights on El Salvador with digital governance proposal",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/empresa-de-inteligencia-artificial-pone-la-mirada-en-el-salvador-con-propuesta-de-gobernanza-digital/?utm_source=rss&utm_medium=rss&utm_campaign=empresa-de-inteligencia-artificial-pone-la-mirada-en-el-salvador-con-propuesta-de-gobernanza-digital",
+        "published_date": "2026-07-17 01:01:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia tests new laser system capable of destroying drones",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/rusia-prueba-nuevo-sistema-laser-capaz-de-destruir-drones/",
+        "published_date": "2026-07-17 00:45:23",
+        "category": "Local Events"
     },
     {
         "title": "Guatemalan baby named \"Vozinha\"",
@@ -375,97 +466,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/ataque-armado-deja-dos-muertos-entre-ellos-un-menor-de-edad-en-honduras/",
         "published_date": "2026-07-16 21:53:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "143 members of the Cinco Cedros Locos Salvatruchos clique of the MS-13 were sentenced to up to 75 years in prison",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/143-integrantes-de-la-clica-cinco-cedros-locos-salvatruchos-de-la-ms-13-fueron-condenados-hasta-con-75-anos-de-prision/",
-        "published_date": "2026-07-16 21:49:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Benjam\u00edn Mayorga learns about advances in logistics and infrastructure of the DHL company",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/benjamin-mayorga-conoce-avances-en-logistica-e-infraestructura-de-empresa-dhl/",
-        "published_date": "2026-07-16 21:32:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "They deliver first-need kits to promote the reintegration of returned compatriots",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/entregan-kits-de-primera-necesidad-para-impulsar-reintegracion-de-compatriotas-retornados/",
-        "published_date": "2026-07-16 21:31:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Benjam\u00edn Mayorga highlights DHL's technological innovation to strengthen the logistics chain",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/benjamin-mayorga-destaca-innovacion-tecnologica-de-dhl-para-fortalecer-la-cadena-logistica/?utm_source=rss&utm_medium=rss&utm_campaign=benjamin-mayorga-destaca-innovacion-tecnologica-de-dhl-para-fortalecer-la-cadena-logistica",
-        "published_date": "2026-07-16 21:27:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "They deliver first-need kits to returned compatriots to promote their reintegration",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/entregan-kits-de-primera-necesidad-a-compatriotas-retornados-para-impulsar-su-reintegracion/?utm_source=rss&utm_medium=rss&utm_campaign=entregan-kits-de-primera-necesidad-a-compatriotas-retornados-para-impulsar-su-reintegracion",
-        "published_date": "2026-07-16 21:26:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "CLUB SALVADORE\u00d1O PRESENTS THE 1ST CORINTO OPEN 2026 AND IS PROJECTED AS A NATIONAL GOLF REFERENCE",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/club-salvadoreno-presenta-el-1er-corinto-open-2026y-se-proyecta-como-referente-del-golf-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=club-salvadoreno-presenta-el-1er-corinto-open-2026y-se-proyecta-como-referente-del-golf-nacional",
-        "published_date": "2026-07-16 21:15:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "There is a fundamental difference between a statesman and an opportunist",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/hay-una-diferencia-fundamental-entre-un-estadista-y-un-oportunista/",
-        "published_date": "2026-07-16 21:07:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ricardo Montaner confirms his return to El Salvador with \u201dEl \u00daltimo Regreso Tour\u201d",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/ricardo-montaner-confirma-su-regreso-a-el-salvador-con-el-ultimo-regreso-tour/",
-        "published_date": "2026-07-16 21:05:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "SIMETRISSS distances itself from political pre-candidacy of its general secretary",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/simetrisss-se-deslinda-de-precandidatura-politica-de-su-secretario-general/",
-        "published_date": "2026-07-16 21:00:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crecer carries out reforestation and volunteering day in Balboa Park",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/crecer-realiza-jornada-de-reforestacion-y-voluntariado-en-el-parque-balboa/",
-        "published_date": "2026-07-16 20:43:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "DIANA presents the grand prize for its campaign \u201cScore a goal and win with DIANA\u201d",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/diana-hace-entrega-del-gran-premio-por-su-campana-mete-gol-y-gana-con-diana/",
-        "published_date": "2026-07-16 20:37:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man accused of robbing vans sentenced to 144 years in prison",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/condenan-a-144-anos-de-prision-a-sujeto-acusado-de-asaltar-furgones/?utm_source=rss&utm_medium=rss&utm_campaign=condenan-a-144-anos-de-prision-a-sujeto-acusado-de-asaltar-furgones",
-        "published_date": "2026-07-16 19:56:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Presence of Sahara Dust in the country",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presencia-de-polvo-del-sahara-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=presencia-de-polvo-del-sahara-en-el-pais",
-        "published_date": "2026-07-16 19:55:45",
         "category": "Local Events"
     }
 ]
