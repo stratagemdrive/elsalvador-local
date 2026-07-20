@@ -1,5 +1,12 @@
 [
     {
+        "title": "Iran's attacks on US bases are transforming regional security architecture",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/los-ataques-de-iran-contra-bases-estadounidenses-estan-transformando-la-arquitectura-de-seguridad-regional/",
+        "published_date": "2026-07-20 10:45:02",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Iran stops fulfilling obligations under the memorandum of understanding due to the US's failure to fulfill its commitments,",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/iran-deja-de-cumplir-obligaciones-bajo-memorandum-de-entendimiento-debido-al-incumplimiento-de-compromisos-por-eeuu/",
@@ -238,6 +245,13 @@
         "category": "Military"
     },
     {
+        "title": "US evacuates refueling planes from airport in southern Israel",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/eeuu-evacua-aviones-de-reabastecimiento-de-aeropuerto-en-sur-de-israel/",
+        "published_date": "2026-07-20 10:40:51",
+        "category": "Energy"
+    },
+    {
         "title": "Oil price soars after conflict in Iran",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/general/se-dispara-precio-del-crudo-tras-conflicto-en-iran/?utm_source=rss&utm_medium=rss&utm_campaign=se-dispara-precio-del-crudo-tras-conflicto-en-iran",
@@ -343,11 +357,74 @@
         "category": "Economy"
     },
     {
-        "title": "Former bank employee faces charges for computer theft: he stole more than $1,000 from a client's account in Santa Ana",
+        "title": "Communities of Tecoluca denounce possible impact of water sources due to landfill",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comunidades-de-tecoluca-denuncian-posible-afectacion-de-vertientes-de-agua-por-relleno-sanitario/",
+        "published_date": "2026-07-20 11:03:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Frente Magisterial warns that the Learn platform excludes students with special needs",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/416582-2/",
+        "published_date": "2026-07-20 11:02:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "VAMOS affiliates demand that internal elections be called to renew the leadership",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/afiliados-de-vamos-exigen-convocar-a-elecciones-internas-para-renovar-la-dirigencia/",
+        "published_date": "2026-07-20 11:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 200 thousand Salvadorans face uncertainty regarding the possible end of TPS in the United States",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/mas-de-200-mil-salvadorenos-enfrentan-incertidumbre-ante-posible-fin-del-tps-en-estados-unidos/",
+        "published_date": "2026-07-20 11:00:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "The TPS and the outstanding debt with the Salvadoran diaspora",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-tps-y-la-deuda-pendiente-con-la-diaspora-salvadorena/",
+        "published_date": "2026-07-20 10:59:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "July 19: three anniversaries to remember",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/19-de-julio-tres-aniversarios-para-recordar/",
+        "published_date": "2026-07-20 10:58:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spain touches the sky in New York and lifts its second World Cup",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/espana-toca-el-cielo-en-nueva-york-y-levanta-su-segunda-copa-del-mundo/",
+        "published_date": "2026-07-20 10:00:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "LET'S GET OFF THE SURFACE",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/salgamos-de-lo-superficial/",
+        "published_date": "2026-07-20 01:19:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "The pain that does not go away: Clown Chocoyito relives the kidnapping and murder of his son at the hands of gang members",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/exempleado-de-banco-enfrenta-cargos-por-hurto-informatico-sustrajo-mas-de-1000-de-cuenta-de-clienta-en-santa-ana/",
-        "published_date": "2026-07-12 04:53:35",
-        "category": "Economy"
+        "url": "https://croniosv.com/nacionales/entrega-especial/el-dolor-que-no-se-borra-payaso-chocoyito-revive-el-secuestro-y-asesinato-de-su-hijo-a-manos-de-pandilleros/",
+        "published_date": "2026-07-20 00:54:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Accident between two vehicles leaves seven injured in La Libertad Costa",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/accidente-entre-dos-vehiculos-deja-siete-lesionados-en-la-libertad-costa/?utm_source=rss&utm_medium=rss&utm_campaign=accidente-entre-dos-vehiculos-deja-siete-lesionados-en-la-libertad-costa",
+        "published_date": "2026-07-20 00:46:19",
+        "category": "Local Events"
     },
     {
         "title": "Santa Rosa de Lima registers the highest temperature in the country with 41.0 \u00b0C, reports MARN",
@@ -417,76 +494,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/artistas-de-talla-mundial-brillaron-en-la-final-del-mundial-2026/?utm_source=rss&utm_medium=rss&utm_campaign=artistas-de-talla-mundial-brillaron-en-la-final-del-mundial-2026",
         "published_date": "2026-07-19 20:36:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Driver in the wrong direction loses control and overturns on Calle al Volc\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/conductor-en-sentido-contrario-pierde-el-control-y-vuelca-en-calle-al-volcan/",
-        "published_date": "2026-07-19 18:41:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Head overturns in Metap\u00e1n",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cabezal-vuelca-en-metapan/?utm_source=rss&utm_medium=rss&utm_campaign=cabezal-vuelca-en-metapan",
-        "published_date": "2026-07-19 18:18:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Head dumped in Metap\u00e1n",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/cabezal-volcado-en-metapan/",
-        "published_date": "2026-07-19 18:13:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drunk driver overturns Kia Soul while trying to park at San Vicente gas station",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/conductor-ebrio-vuelca-kia-soul-al-intentar-estacionarse-en-gasolinera-de-san-vicente/",
-        "published_date": "2026-07-19 17:54:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Macabre discovery in Guatemala: Two bodies abandoned inside a red sack in the heart of zone 12 of the capital",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/macabro-hallazgo-en-guatemala-dos-cuerpos-abandonados-dentro-de-un-costal-rojo-en-plena-zona-12-de-la-capital/",
-        "published_date": "2026-07-19 17:47:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four injured after tractor overturns on the highway between Santa Ana and Metap\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/cuatro-lesionados-deja-vuelco-de-rastra-en-carretera-entre-santa-ana-y-metapan/",
-        "published_date": "2026-07-19 17:38:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Subject captured for driving drunk and running over a minor",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/sujeto-capturado-por-conducir-ebrio-y-atropellar-a-un-menor-de-edad/?utm_source=rss&utm_medium=rss&utm_campaign=sujeto-capturado-por-conducir-ebrio-y-atropellar-a-un-menor-de-edad",
-        "published_date": "2026-07-19 16:45:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture a subject who was driving drunk and who ran over a minor",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-sujeto-que-conducia-ebrio-y-que-atropello-a-un-menor-de-edad/",
-        "published_date": "2026-07-19 16:42:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drunk driver ends up overturned at San Vicente gas station",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/conductor-ebrio-termina-volcado-en-gasolinera-de-san-vicente/?utm_source=rss&utm_medium=rss&utm_campaign=conductor-ebrio-termina-volcado-en-gasolinera-de-san-vicente",
-        "published_date": "2026-07-19 15:22:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rain is expected for this Sunday",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/preven-lluvias-para-este-domingo/?utm_source=rss&utm_medium=rss&utm_campaign=preven-lluvias-para-este-domingo",
-        "published_date": "2026-07-19 14:35:25",
         "category": "Local Events"
     }
 ]
