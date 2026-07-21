@@ -1,5 +1,12 @@
 [
     {
+        "title": "El Salvador and the Cervantes Institute project national literature in Seoul",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/el-salvador-y-el-instituto-cervantes-proyectan-en-seul-literatura-nacional/",
+        "published_date": "2026-07-21 15:43:57",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Vice Minister God\u00ednez highlights the friendship between El Salvador and Colombia during the independence anniversary",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/general/viceministra-godinez-destaca-la-amistad-entre-el-salvador-y-colombia-durante-aniversario-de-independencia/?utm_source=rss&utm_medium=rss&utm_campaign=viceministra-godinez-destaca-la-amistad-entre-el-salvador-y-colombia-durante-aniversario-de-independencia",
@@ -133,11 +140,81 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Rolando Castro regrets the FMLN's political use of the unions",
+        "title": "PNC finds MS-13 weapons buried in Olocuilta",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/pnc-encuentra-armas-de-la-ms-13-enterradas-en-olocuilta/",
+        "published_date": "2026-07-21 22:59:23",
+        "category": "Military"
+    },
+    {
+        "title": "They arrest an alleged drug distributor in San Miguel Centro",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/detienen-a-presunto-distribuidor-de-droga-en-san-miguel-centro/",
+        "published_date": "2026-07-21 22:51:53",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a young man with several portions of cocaine in San Miguel Centro",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-joven-con-varias-porciones-de-cocaina-en-san-miguel-centro/",
+        "published_date": "2026-07-21 21:57:58",
+        "category": "Military"
+    },
+    {
+        "title": "Young man arrested for drug possession in San Miguel Centro",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/rolando-castro-lamenta-uso-politico-del-fmln-de-los-sindicatos/?utm_source=rss&utm_medium=rss&utm_campaign=rolando-castro-lamenta-uso-politico-del-fmln-de-los-sindicatos",
-        "published_date": "2026-07-13 17:38:43",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/detiene-a-joven-por-posesion-y-tenencia-de-drogas-en-san-miguel-centro/?utm_source=rss&utm_medium=rss&utm_campaign=detiene-a-joven-por-posesion-y-tenencia-de-drogas-en-san-miguel-centro",
+        "published_date": "2026-07-21 21:57:25",
+        "category": "Military"
+    },
+    {
+        "title": "Armed Forces locate \u201cchocolate\u201d in Plaza Zurita",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/fuerza-armada-ubica-al-chocolate-en-plaza-zurita/",
+        "published_date": "2026-07-21 21:55:29",
+        "category": "Military"
+    },
+    {
+        "title": "Three people are injured after a collision with a harrow in San Miguel",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/tres-personas-resultan-heridas-tras-choque-con-rastra-en-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=tres-personas-resultan-heridas-tras-choque-con-rastra-en-san-miguel",
+        "published_date": "2026-07-21 21:38:31",
+        "category": "Military"
+    },
+    {
+        "title": "An alleged MS-13 gunman with a record of homicide and extortion is captured in San Salvador Centro",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/capturan-en-san-salvador-centro-a-presunto-gatillero-de-la-ms-13-con-antecedentes-por-homicidio-y-extorsion/",
+        "published_date": "2026-07-21 21:33:52",
+        "category": "Military"
+    },
+    {
+        "title": "Drag invades lane and leaves three injured on the Military Route",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/rastra-invade-carril-y-deja-tres-lesionados-en-la-ruta-militar/",
+        "published_date": "2026-07-21 21:30:56",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a subject who attacked his co-worker with a screwdriver in San Miguel",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-sujeto-que-agredio-con-un-desarmador-a-su-companero-de-trabajo-en-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-sujeto-que-agredio-con-un-desarmador-a-su-companero-de-trabajo-en-san-miguel",
+        "published_date": "2026-07-21 20:21:35",
+        "category": "Military"
+    },
+    {
+        "title": "They arrest a man who attacked his co-worker with a screwdriver while they were drinking alcohol",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/detienen-a-sujeto-que-agredio-con-un-desarmador-a-su-companero-de-trabajo-mientras-bebian-alcohol/",
+        "published_date": "2026-07-21 20:17:26",
+        "category": "Military"
+    },
+    {
+        "title": "Police arrest individuals involved in a fight after the 2026 World Cup final match",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/policia-detiene-a-sujetos-involucrados-en-pelea-tras-el-partido-de-la-final-del-mundial-2026/",
+        "published_date": "2026-07-21 18:58:10",
+        "category": "Military"
     },
     {
         "title": "The Iranian Revolutionary Guard reaffirms its loyalty to its leader",
@@ -203,83 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Home used to distribute drugs raided",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/allanan-vivienda-utilizada-para-distribuir-drogas/",
-        "published_date": "2026-07-18 22:34:53",
-        "category": "Military"
-    },
-    {
-        "title": "PNC dismantles drug trafficking structure between Chalatenango and San Salvador;They seize more than 2 kilos of cocaine",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/pnc-desarticula-estructura-de-trafico-de-drogas-entre-chalatenango-y-san-salvador-decomisan-mas-de-2-kilos-de-cocaina/",
-        "published_date": "2026-07-18 22:30:51",
-        "category": "Military"
-    },
-    {
-        "title": "Drug distributors captured in La Libertad Costa",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-distribuidores-de-drogas-en-la-libertad-costa/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-distribuidores-de-drogas-en-la-libertad-costa",
-        "published_date": "2026-07-18 21:14:57",
-        "category": "Military"
-    },
-    {
-        "title": "Controlled circulation around the Cuscatl\u00e1n stadium for the end of the 2026 Super Cup",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/circulacion-controlada-en-alrededores-del-estadio-cuscatlan-por-final-de-la-supercopa-2026/?utm_source=rss&utm_medium=rss&utm_campaign=circulacion-controlada-en-alrededores-del-estadio-cuscatlan-por-final-de-la-supercopa-2026",
-        "published_date": "2026-07-18 17:33:49",
-        "category": "Military"
-    },
-    {
-        "title": "They capture \u201cPeric\u00f3n\u201d, accused of murdering another MS13 gunman in Usulut\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-pericon-senalado-de-asesinar-a-otro-gatillero-de-la-ms13-en-usulutan/",
-        "published_date": "2026-07-17 23:42:41",
-        "category": "Military"
-    },
-    {
-        "title": "Microbus crashes into two posts on the highway to Comalapa;two people are injured",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/microbus-choca-contra-dos-postes-en-la-autopista-a-comalapa-dos-personas-resultan-lesionadas/",
-        "published_date": "2026-07-17 23:33:31",
-        "category": "Military"
-    },
-    {
-        "title": "Official statistics reflect a historic drop in homicides in El Salvador, highlights Nayib Bukele",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/estadisticas-oficiales-reflejan-caida-historica-de-homicidios-en-el-salvador-destaca-nayib-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=estadisticas-oficiales-reflejan-caida-historica-de-homicidios-en-el-salvador-destaca-nayib-bukele",
-        "published_date": "2026-07-17 22:34:48",
-        "category": "Military"
-    },
-    {
-        "title": "PNC provided security during the Early Childhood Recreational Ma\u00f1anitas parade in La Uni\u00f3n Norte",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/pnc-brindo-seguridad-durante-desfile-de-las-mananitas-recreativas-de-la-primera-infancia-en-la-union-norte/",
-        "published_date": "2026-07-17 22:34:40",
-        "category": "Military"
-    },
-    {
-        "title": "They arrest an MS-13 gang member, with an arrest warrant for the crime of aggravated homicide against 3 victims",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/detienen-a-pandillero-de-la-ms-13-con-orden-de-captura-por-el-delito-de-homicidio-agravado-contra-3-victimas/",
-        "published_date": "2026-07-17 22:31:00",
-        "category": "Military"
-    },
-    {
-        "title": "President Bukele highlights historic reduction in homicides",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-destaca-reduccion-historica-de-homicidios/",
-        "published_date": "2026-07-17 22:22:33",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador strengthens its alliance with the World Food Program to promote innovation and food security",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/el-salvador-fortalece-su-alianza-con-el-programa-mundial-de-alimentos-para-impulsar-innovacion-y-seguridad-alimentaria/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-fortalece-su-alianza-con-el-programa-mundial-de-alimentos-para-impulsar-innovacion-y-seguridad-alimentaria",
-        "published_date": "2026-07-17 22:04:15",
-        "category": "Military"
-    },
-    {
         "title": "\u201cNational inventories allow fuel prices to remain unchanged\u201d: DGEHM",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/inventarios-nacionales-permiten-mantener-sin-variacion-precio-combustibles-dgehm/",
@@ -334,6 +334,13 @@
         "url": "https://www.diariocolatino.com/lula-defiende-fortalecer-la-industria-de-defensa-de-brasil-para-proteger-recursos-estrategicos/",
         "published_date": "2026-07-14 10:50:55",
         "category": "Energy"
+    },
+    {
+        "title": "CABEI and El Salvador sign financing to strengthen the Guluchapa drinking water system",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/bcie-y-el-salvador-firman-financiamiento-para-fortalecer-el-sistema-de-agua-potable-guluchapa/",
+        "published_date": "2026-07-21 18:45:12",
+        "category": "Economy"
     },
     {
         "title": "\u201cWeavers of Life\u201d exhibition opens to strengthen artisanal exchange between El Salvador and Colombia",
@@ -392,143 +399,143 @@
         "category": "Economy"
     },
     {
-        "title": "The unionist Giovanni Aguirre will be grouped in a mass trial after 4 years of detention",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-sindicalista-giovanni-aguirre-sera-agrupado-en-un-juicio-masivo-tras-4-anos-de-detencion/",
-        "published_date": "2026-07-21 11:05:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran justice of the peace in Australia seeks deputation for the FMLN to represent the diaspora",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/juez-de-paz-salvadoreno-en-australia-busca-diputacion-por-el-fmln-para-representar-a-la-diaspora/",
-        "published_date": "2026-07-21 11:04:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Teachers' union denounces deficiencies in infrastructure and setbacks in education",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/gremio-magisterial-denuncia-deficiencias-en-infraestructura-y-retrocesos-en-la-educacion/",
-        "published_date": "2026-07-21 11:01:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rafael Aguirre proposes lifting the information reserve and strengthening the social audit",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/rafael-aguirre-propone-levantar-la-reserva-de-informacion-y-fortalecer-la-auditoria-social/",
-        "published_date": "2026-07-21 11:00:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "ANATOMY OF FASCISM",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/anatomia-del-fascismo/",
-        "published_date": "2026-07-21 10:59:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "The trip that moved El Salvador: they traveled 21 kilometers in a wheelchair and discovered that solidarity still exists",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/el-viaje-que-conmovio-a-el-salvador-recorrieron-21-kilometros-en-silla-de-ruedas-y-descubrieron-que-la-solidaridad-aun-existe/?utm_source=rss&utm_medium=rss&utm_campaign=el-viaje-que-conmovio-a-el-salvador-recorrieron-21-kilometros-en-silla-de-ruedas-y-descubrieron-que-la-solidaridad-aun-existe",
-        "published_date": "2026-07-21 04:09:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nobody wanted to take them, but they never gave up: they traveled 21 kilometers in a wheelchair and moved with their story",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/nadie-quiso-llevarlas-pero-jamas-se-rindieron-recorrieron-21-kilometros-en-silla-de-ruedas-y-emocionan-con-su-historia/",
-        "published_date": "2026-07-21 03:35:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture in Honduras a man wanted for attempted aggravated homicide in El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-en-honduras-a-hombre-requerido-por-homicidio-agravado-tentado-en-el-salvador/",
-        "published_date": "2026-07-21 02:44:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador projects a historic corn and bean harvest after advancing planting",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/el-salvador-proyecta-una-cosecha-historica-de-maiz-y-frijol-tras-adelantar-la-siembra/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-proyecta-una-cosecha-historica-de-maiz-y-frijol-tras-adelantar-la-siembra",
-        "published_date": "2026-07-21 02:31:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador will have enough corn and beans for this year and next",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-tendra-maiz-y-frijol-suficientes-para-este-ano-y-el-proximo/",
-        "published_date": "2026-07-21 02:25:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture 5 subjects who participated in a fight in the Ojo de Agua hamlet",
+        "title": "National Dance Company will premiere \u201cTierra F\u00e9rtil\u201d, a work inspired by Salvadoran traditions",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/capturan-a-5-sujetos-que-participaron-en-una-rina-en-el-caserio-ojo-de-agua/",
-        "published_date": "2026-07-21 02:03:49",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/compania-nacional-de-danza-estrenara-tierra-fertil-una-obra-inspirada-en-las-tradiciones-salvadorenas/",
+        "published_date": "2026-07-21 23:56:03",
         "category": "Local Events"
     },
     {
-        "title": "They capture in Honduras a man wanted for attempted aggravated homicide in El Salvador",
+        "title": "Everything ready for Terror CIFCO: The Contact",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/capturan-en-honduras-a-hombre-requerido-por-homicidio-agravado-tentado-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-en-honduras-a-hombre-requerido-por-homicidio-agravado-tentado-en-el-salvador",
-        "published_date": "2026-07-21 01:50:10",
+        "url": "https://lapagina.com.sv/nacionales/todo-listo-para-terror-cifco-el-contacto/?utm_source=rss&utm_medium=rss&utm_campaign=todo-listo-para-terror-cifco-el-contacto",
+        "published_date": "2026-07-21 23:44:34",
         "category": "Local Events"
     },
     {
-        "title": "Explosions heard in southern and central Iran amid new US attacks",
+        "title": "San Salvador Sur Mayor's Office refuses to give Sabino Ramos' job back",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/se-escuchan-explosiones-en-sur-y-centro-de-iran-en-medio-de-nuevos-ataques-de-eeuu/",
-        "published_date": "2026-07-20 23:43:22",
+        "url": "https://www.diariocolatino.com/alcaldia-de-san-salvador-sur-se-niega-a-devolver-trabajo-a-sabino-ramos/",
+        "published_date": "2026-07-21 23:22:09",
         "category": "Local Events"
     },
     {
-        "title": "Mayor's Office of La Libertad Sur delivers five homes to families affected by a fire in El Matazano",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/alcaldia-de-la-libertad-sur-entrega-cinco-viviendas-a-familias-afectadas-por-incendio-en-el-matazano/",
-        "published_date": "2026-07-20 23:31:01",
+        "title": "More than 10 years in prison for Apopa extortionist",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/mas-de-10-anos-de-prision-para-extorsionista-de-apopa/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-10-anos-de-prision-para-extorsionista-de-apopa",
+        "published_date": "2026-07-21 23:17:06",
         "category": "Local Events"
     },
     {
-        "title": "Unionist Giovanni Aguirre would be in a mass trial despite freedom orders",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/sindicalista-giovanni-aguirre-estaria-en-un-juicio-masivo-pese-a-ordenes-de-libertad/",
-        "published_date": "2026-07-20 22:26:47",
+        "title": "Friends + Family celebrates its third anniversary with two events that will bring together the Salvadoran electronic scene",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/friends-family-festeja-su-tercer-aniversario-con-dos-eventos-que-reuniran-a-la-escena-electronica-salvadorena/",
+        "published_date": "2026-07-21 22:14:05",
         "category": "Local Events"
     },
     {
-        "title": "They capture a man who killed his brother after an argument in La Uni\u00f3n",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-hombre-que-mato-a-su-hermano-tras-una-discusion-en-la-union/",
-        "published_date": "2026-07-20 22:05:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ismael \"El Mayo\" Zambada is sentenced to life imprisonment by a United States court",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ismael-el-mayo-zambada-es-condenado-a-cadena-perpetua-por-una-corte-de-estados-unidos/",
-        "published_date": "2026-07-20 21:47:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bad Bunny concert in Milan suspended due to hail storm",
+        "title": "The bridge between two worlds: Kant and his \u201cCritique of Judgment\u201d",
         "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/jetset/suspenden-concierto-de-bad-bunny-en-milan-por-tormenta-con-granizo/",
-        "published_date": "2026-07-20 21:34:56",
+        "url": "https://croniosv.com/opinet/el-puente-entre-dos-mundos-kant-y-su-critica-del-juicio/",
+        "published_date": "2026-07-21 22:11:16",
         "category": "Local Events"
     },
     {
-        "title": "Gang member sentenced for extorting merchants in Santa Ana",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/codenan-a-pandillero-por-extorsionar-a-comerciantes-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=codenan-a-pandillero-por-extorsionar-a-comerciantes-en-santa-ana",
-        "published_date": "2026-07-20 21:34:23",
+        "title": "Yamil Bukele announces historic changes for Salvadoran soccer: new format, more income and return of beer sales",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/yamil-bukele-anuncia-cambios-historicos-para-el-futbol-salvadoreno-nuevo-formato-mas-ingresos-y-regreso-de-la-venta-de-cerveza/",
+        "published_date": "2026-07-21 22:01:47",
         "category": "Local Events"
     },
     {
-        "title": "Alleged altercations between fans during the 2026 World Cup final go viral on social media",
+        "title": "Salvadoran diaspora shares programming and AI knowledge with young university students",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/diaspora-salvadorena-comparte-conocimientos-de-programacion-e-ia-con-jovenes-universitarios/",
+        "published_date": "2026-07-21 22:00:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "They find war weapons buried in Olocuilta linked to MS structures",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/encuentran-armas-de-guerra-enterradas-en-olocuilta-vinculadas-a-estructuras-de-la-ms/",
+        "published_date": "2026-07-21 21:50:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran diaspora shares programming and AI knowledge with young university students",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/presuntos-altercados-entre-aficionados-durante-la-final-del-mundial-2026-se-vuelven-virales-en-redes/?utm_source=rss&utm_medium=rss&utm_campaign=presuntos-altercados-entre-aficionados-durante-la-final-del-mundial-2026-se-vuelven-virales-en-redes",
-        "published_date": "2026-07-20 21:32:07",
+        "url": "https://lapagina.com.sv/general/diaspora-salvadorena-comparte-conocimientos-de-programacion-e-ia-con-jovenes-universitarios/?utm_source=rss&utm_medium=rss&utm_campaign=diaspora-salvadorena-comparte-conocimientos-de-programacion-e-ia-con-jovenes-universitarios",
+        "published_date": "2026-07-21 21:46:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "They propose recognition for Iv\u00e1n Bart\u00f3n and David Mor\u00e1n for outstanding work in the 2026 World Cup",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/proponen-reconocimiento-para-ivan-barton-y-david-moran-por-destacado-trabajo-en-el-mundial-2026/?utm_source=rss&utm_medium=rss&utm_campaign=proponen-reconocimiento-para-ivan-barton-y-david-moran-por-destacado-trabajo-en-el-mundial-2026",
+        "published_date": "2026-07-21 20:46:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Commission proposes recognition for Iv\u00e1n Bart\u00f3n and David Mor\u00e1n for outstanding work in the 2026 World Cup",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/comision-propone-reconocimiento-para-ivan-barton-y-david-moran-por-destacado-trabajo-en-el-mundial-2026/",
+        "published_date": "2026-07-21 20:05:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mr. Minister Rolando Castro: Do \u200b\u200byour job",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/senor-ministro-rolando-castro-haga-su-trabajo/",
+        "published_date": "2026-07-21 19:58:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Qute vehicle goes viral for carrying a huge water tank",
+        "source": "Cronio",
+        "url": "https://croniosv.com/redes/virales/vehiculo-qute-se-vuelve-viral-por-transportar-un-enorme-tanque-de-agua/",
+        "published_date": "2026-07-21 19:55:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eight children are poisoned after eating tempate seeds at a school in Rosario de la Paz",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/ocho-ninos-resultan-intoxicados-tras-ingerir-semillas-de-tempate-en-centro-escolar-de-rosario-de-la-paz/",
+        "published_date": "2026-07-21 19:48:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "FGR will request a life sentence for the man accused of killing his brother in Yucuaiqu\u00edn",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/fgr-solicitara-cadena-perpetua-para-hombre-acusado-de-matar-a-su-hermano-en-yucuaiquin/",
+        "published_date": "2026-07-21 19:45:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman loses her life after being run over in Cuscatl\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/mujer-pierde-la-vida-tras-ser-arrollada-en-cuscatlan/",
+        "published_date": "2026-07-21 19:44:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cesia Rivas responds to Claudia Ortiz",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/cesia-rivas-responde-a-claudia-ortiz/",
+        "published_date": "2026-07-21 19:29:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Armed attack leaves two gang members dead in Guatemala",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/ataque-armado-deja-dos-pandilleros-muertos-en-guatemala/",
+        "published_date": "2026-07-21 19:29:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lionel Messi returns to Argentina after the World Cup final to rest with his family in Rosario",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/lionel-messi-regresa-a-argentina-tras-la-final-del-mundial-para-descansar-junto-a-su-familia-en-rosario/",
+        "published_date": "2026-07-21 19:16:05",
         "category": "Local Events"
     }
 ]
