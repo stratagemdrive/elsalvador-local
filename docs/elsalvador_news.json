@@ -140,6 +140,34 @@
         "category": "Diplomacy"
     },
     {
+        "title": "MS-13 gang member arrested in San Miguel after being deported from the United States",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/detienen-a-pandillero-de-la-ms-13-en-san-miguel-tras-ser-deportado-de-estados-unidos/",
+        "published_date": "2026-07-22 12:43:13",
+        "category": "Military"
+    },
+    {
+        "title": "\u201cFootball\u201d fight ends with six detainees in San Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/rina-futbolera-termina-con-seis-detenidos-en-san-salvador/",
+        "published_date": "2026-07-22 11:03:53",
+        "category": "Military"
+    },
+    {
+        "title": "Captured responsible for running over and causing the death of an 80-year-old man",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturado-responsable-de-atropellar-y-causar-muerte-de-anciano-de-80-anos/",
+        "published_date": "2026-07-22 01:10:53",
+        "category": "Military"
+    },
+    {
+        "title": "They capture the person responsible for running over an 80-year-old man in Ahuachap\u00e1n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-responsable-de-atropellar-a-anciano-de-80-anos-en-ahuachapan/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-responsable-de-atropellar-a-anciano-de-80-anos-en-ahuachapan",
+        "published_date": "2026-07-22 01:05:35",
+        "category": "Military"
+    },
+    {
         "title": "PNC finds MS-13 weapons buried in Olocuilta",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/07/pnc-encuentra-armas-de-la-ms-13-enterradas-en-olocuilta/",
@@ -252,34 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Man accused of beating another until he was unconscious captured",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-hombre-acusado-de-golpear-a-otro-hasta-dejarlo-inconsciente/",
-        "published_date": "2026-07-19 19:09:36",
-        "category": "Military"
-    },
-    {
-        "title": "Nayib Bukele: \"Only a fool would think that we would attack a brother town over a stone\"",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/nayib-bukele-solo-un-tonto-pensaria-que-atacariamos-a-un-pueblo-hermano-por-una-piedra/",
-        "published_date": "2026-07-19 16:05:35",
-        "category": "Military"
-    },
-    {
-        "title": "Home used to distribute drugs raided in Quezaltepeque",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/allanan-vivienda-utilizada-para-distribuir-drogas-en-quezaltepeque/?utm_source=rss&utm_medium=rss&utm_campaign=allanan-vivienda-utilizada-para-distribuir-drogas-en-quezaltepeque",
-        "published_date": "2026-07-18 22:43:03",
-        "category": "Military"
-    },
-    {
-        "title": "PNC El Salvador captures two people with marijuana in La Libertad Costa",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/pnc-el-salvador-captura-a-dos-personas-con-marihuana-en-la-libertad-costa/",
-        "published_date": "2026-07-18 22:37:42",
-        "category": "Military"
-    },
-    {
         "title": "\u201cNational inventories allow fuel prices to remain unchanged\u201d: DGEHM",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/inventarios-nacionales-permiten-mantener-sin-variacion-precio-combustibles-dgehm/",
@@ -329,11 +329,18 @@
         "category": "Energy"
     },
     {
-        "title": "Lula defends strengthening Brazil's defense industry to protect strategic resources",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/lula-defiende-fortalecer-la-industria-de-defensa-de-brasil-para-proteger-recursos-estrategicos/",
-        "published_date": "2026-07-14 10:50:55",
-        "category": "Energy"
+        "title": "El Salvador and CABEI sign a loan agreement to modernize the country's road infrastructure",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-y-bcie-suscriben-acuerdo-de-prestamo-para-modernizar-infraestructura-vial-del-pais/",
+        "published_date": "2026-07-22 01:36:12",
+        "category": "Economy"
+    },
+    {
+        "title": "El Salvador and CABEI reach an economic agreement to modernize the country's road infrastructure",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-y-bcie-logran-acuerdo-economico-para-modernizar-infraestructura-vial-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-bcie-logran-acuerdo-economico-para-modernizar-infraestructura-vial-del-pais",
+        "published_date": "2026-07-22 01:21:15",
+        "category": "Economy"
     },
     {
         "title": "CABEI and El Salvador sign financing to strengthen the Guluchapa drinking water system",
@@ -392,11 +399,95 @@
         "category": "Economy"
     },
     {
-        "title": "Commission supports incorporation of resources to expand sports infrastructure in the country",
+        "title": "Communities in the Lake Coatepeque basin advance sustainable agriculture projects",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comunidades-de-la-cuenca-del-lago-de-coatepeque-avanzan-en-proyectos-de-agricultura-sostenible/",
+        "published_date": "2026-07-22 11:04:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "FGR will request a life sentence for the person responsible for homicide in Yucuaiqu\u00edn, La Uni\u00f3n",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fgr-pedira-cadena-perpetua-para-responsable-de-homicidio-en-yucuaiquin-la-union/",
+        "published_date": "2026-07-22 11:02:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "History is essential to study to find answers to the future: Erik Ching",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-historia-es-fundamental-estudiarla-para-encontrar-respuestas-al-futuro-erik-ching/",
+        "published_date": "2026-07-22 11:01:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "UNT supports SIMETRISSS and accuses the Minister of Labor of interference",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/unt-respalda-al-simetrisss-y-acusa-al-ministro-de-trabajo-de-injerencia/",
+        "published_date": "2026-07-22 11:00:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities evaluate land in Venezuela to build more than 25,000 homes",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/autoridades-evaluan-terrenos-en-venezuela-para-construir-mas-de-25-000-viviendas/",
+        "published_date": "2026-07-22 10:45:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Commander of the Islamic Revolutionary Guard visits the Strait of Hormuz",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comandante-de-la-guardia-revolucionaria-islamica-visita-el-estrecho-de-ormuz/",
+        "published_date": "2026-07-22 10:30:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "They ask for the second time the reinstatement of Sabino Ramos in the Mayor's Office of San Salvador Sur",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/piden-por-segunda-ocasion-el-reinstalo-de-sabino-ramos-en-alcaldia-de-san-salvador-sur/",
+        "published_date": "2026-07-22 10:05:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Apertura 2026 arrives: new format, FVS video arbitration and alcohol sale",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/llega-el-apertura-2026-nuevo-formato-videoarbitraje-fvs-y-venta-de-alcohol/",
+        "published_date": "2026-07-22 10:00:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alianza FC will wear Adidas and makes history in Salvadoran soccer",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/alianza-fc-vestira-adidas-y-hace-historia-en-el-futbol-salvadoreno/",
+        "published_date": "2026-07-22 04:23:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deputies endorse extension of vehicle license plates until August 2027",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diputados-avalan-prorroga-de-placas-vehiculares-hasta-agosto-de-2027/",
+        "published_date": "2026-07-22 03:03:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pre-Hispanic bones found during excavation in Antiguo Cuscatl\u00e1n",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/comision-respalda-incorporacion-de-recursos-para-ampliar-infraestructura-deportiva-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=comision-respalda-incorporacion-de-recursos-para-ampliar-infraestructura-deportiva-del-pais",
-        "published_date": "2026-07-14 00:08:08",
-        "category": "Economy"
+        "url": "https://lapagina.com.sv/nacionales/encuentran-osamentas-prehispanicas-durante-excavacion-en-antiguo-cuscatlan/?utm_source=rss&utm_medium=rss&utm_campaign=encuentran-osamentas-prehispanicas-durante-excavacion-en-antiguo-cuscatlan",
+        "published_date": "2026-07-22 02:48:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "They discover a pre-Hispanic burial in Antiguo Cuscatl\u00e1n that could be one of the oldest in Mesoamerica",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/descubren-en-antiguo-cuscatlan-un-entierro-prehispanico-que-podria-ser-uno-de-los-mas-antiguos-de-mesoamerica/",
+        "published_date": "2026-07-22 01:40:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "10 years in prison for Apopa extortionist",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/10-anos-de-prision-para-extorsionista-de-apopa/",
+        "published_date": "2026-07-22 00:43:48",
+        "category": "Local Events"
     },
     {
         "title": "National Dance Company will premiere \u201cTierra F\u00e9rtil\u201d, a work inspired by Salvadoran traditions",
@@ -445,97 +536,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/07/yamil-bukele-anuncia-cambios-historicos-para-el-futbol-salvadoreno-nuevo-formato-mas-ingresos-y-regreso-de-la-venta-de-cerveza/",
         "published_date": "2026-07-21 22:01:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran diaspora shares programming and AI knowledge with young university students",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/diaspora-salvadorena-comparte-conocimientos-de-programacion-e-ia-con-jovenes-universitarios/",
-        "published_date": "2026-07-21 22:00:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "They find war weapons buried in Olocuilta linked to MS structures",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/encuentran-armas-de-guerra-enterradas-en-olocuilta-vinculadas-a-estructuras-de-la-ms/",
-        "published_date": "2026-07-21 21:50:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran diaspora shares programming and AI knowledge with young university students",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/diaspora-salvadorena-comparte-conocimientos-de-programacion-e-ia-con-jovenes-universitarios/?utm_source=rss&utm_medium=rss&utm_campaign=diaspora-salvadorena-comparte-conocimientos-de-programacion-e-ia-con-jovenes-universitarios",
-        "published_date": "2026-07-21 21:46:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "They propose recognition for Iv\u00e1n Bart\u00f3n and David Mor\u00e1n for outstanding work in the 2026 World Cup",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/proponen-reconocimiento-para-ivan-barton-y-david-moran-por-destacado-trabajo-en-el-mundial-2026/?utm_source=rss&utm_medium=rss&utm_campaign=proponen-reconocimiento-para-ivan-barton-y-david-moran-por-destacado-trabajo-en-el-mundial-2026",
-        "published_date": "2026-07-21 20:46:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Commission proposes recognition for Iv\u00e1n Bart\u00f3n and David Mor\u00e1n for outstanding work in the 2026 World Cup",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/comision-propone-reconocimiento-para-ivan-barton-y-david-moran-por-destacado-trabajo-en-el-mundial-2026/",
-        "published_date": "2026-07-21 20:05:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mr. Minister Rolando Castro: Do \u200b\u200byour job",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/senor-ministro-rolando-castro-haga-su-trabajo/",
-        "published_date": "2026-07-21 19:58:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Qute vehicle goes viral for carrying a huge water tank",
-        "source": "Cronio",
-        "url": "https://croniosv.com/redes/virales/vehiculo-qute-se-vuelve-viral-por-transportar-un-enorme-tanque-de-agua/",
-        "published_date": "2026-07-21 19:55:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Eight children are poisoned after eating tempate seeds at a school in Rosario de la Paz",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/ocho-ninos-resultan-intoxicados-tras-ingerir-semillas-de-tempate-en-centro-escolar-de-rosario-de-la-paz/",
-        "published_date": "2026-07-21 19:48:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "FGR will request a life sentence for the man accused of killing his brother in Yucuaiqu\u00edn",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/fgr-solicitara-cadena-perpetua-para-hombre-acusado-de-matar-a-su-hermano-en-yucuaiquin/",
-        "published_date": "2026-07-21 19:45:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman loses her life after being run over in Cuscatl\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/mujer-pierde-la-vida-tras-ser-arrollada-en-cuscatlan/",
-        "published_date": "2026-07-21 19:44:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cesia Rivas responds to Claudia Ortiz",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/cesia-rivas-responde-a-claudia-ortiz/",
-        "published_date": "2026-07-21 19:29:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Armed attack leaves two gang members dead in Guatemala",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/ataque-armado-deja-dos-pandilleros-muertos-en-guatemala/",
-        "published_date": "2026-07-21 19:29:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lionel Messi returns to Argentina after the World Cup final to rest with his family in Rosario",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/lionel-messi-regresa-a-argentina-tras-la-final-del-mundial-para-descansar-junto-a-su-familia-en-rosario/",
-        "published_date": "2026-07-21 19:16:05",
         "category": "Local Events"
     }
 ]
