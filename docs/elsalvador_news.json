@@ -1,5 +1,12 @@
 [
     {
+        "title": "Two men are captured for attacking another during a dance party in Santiago Nonualco",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-dos-hombres-por-agredir-a-otro-durante-una-fiesta-bailable-en-santiago-nonualco/",
+        "published_date": "2026-07-23 22:17:39",
+        "category": "Diplomacy"
+    },
+    {
         "title": "China supports pushing UN reform in right direction, says Chinese FM",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/china-apoya-impulsar-reforma-de-onu-en-la-direccion-correcta-dice-canciller-chino/",
@@ -133,11 +140,81 @@
         "category": "Diplomacy"
     },
     {
-        "title": "German investors interested in business in El Salvador",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/inversionistas-alemanes-interesados-en-negocios-en-el-salvador/",
-        "published_date": "2026-07-16 18:28:51",
-        "category": "Diplomacy"
+        "title": "FGR and PNC carry out tests on drugs that will be destroyed in the next few hours",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/fgr-y-pnc-realizan-pruebas-a-droga-que-sera-destruida-en-las-proximas-horas/",
+        "published_date": "2026-07-23 23:08:56",
+        "category": "Military"
+    },
+    {
+        "title": "Authorities verify illegal substances seized in 16 drug trafficking cases",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/autoridades-verifican-sustancias-ilicitas-decomisadas-en-16-casos-de-narcotrafico/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-verifican-sustancias-ilicitas-decomisadas-en-16-casos-de-narcotrafico",
+        "published_date": "2026-07-23 23:08:51",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a man accused of injuring his neighbor with a corvo in Cuscatl\u00e1n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-hombre-senalado-de-lesionar-a-su-vecino-con-un-corvo-en-cuscatlan/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-hombre-senalado-de-lesionar-a-su-vecino-con-un-corvo-en-cuscatlan",
+        "published_date": "2026-07-23 22:59:58",
+        "category": "Military"
+    },
+    {
+        "title": "They arrest an alleged MS-13 gang member alias \"Snif\" in Usulut\u00e1n Norte",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/detienen-a-presunto-pandillero-de-la-ms-13-alias-snif-en-usulutan-norte/",
+        "published_date": "2026-07-23 22:55:11",
+        "category": "Military"
+    },
+    {
+        "title": "Woman dies after armed attack in supermarket parking lot in Sensuntepeque",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/mujer-muere-tras-ataque-armado-en-parqueo-de-supermercado-en-sensuntepeque/",
+        "published_date": "2026-07-23 22:48:24",
+        "category": "Military"
+    },
+    {
+        "title": "Armed attack against a woman in Sensuntepeque ends with the death of the main person accused",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/ataque-armado-contra-una-mujer-en-sensuntepeque-termina-con-muerte-del-principal-senalado/?utm_source=rss&utm_medium=rss&utm_campaign=ataque-armado-contra-una-mujer-en-sensuntepeque-termina-con-muerte-del-principal-senalado",
+        "published_date": "2026-07-23 22:48:15",
+        "category": "Military"
+    },
+    {
+        "title": "VMT sanctions driver with $350 for dangerous maneuvers on the Usulut\u00e1n bypass",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/vmt-sanciona-a-conductor-con-350-por-maniobras-peligrosas-en-el-bypass-de-usulutan/",
+        "published_date": "2026-07-23 22:36:57",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a young man who appeared on video making signs alluding to gangs",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-jovencito-que-aparecia-en-video-realizando-senas-alusivas-a-pandillas/",
+        "published_date": "2026-07-23 22:28:45",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a man who attacked his neighbor with a crowbar in Cuscatl\u00e1n Sur",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-hombre-que-ataco-con-un-corvo-a-su-vecino-en-cuscatlan-sur/",
+        "published_date": "2026-07-23 22:01:11",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a subject who stole a motorcycle in Chalchuapa",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-sujeto-que-hurto-una-motocicleta-en-chalchuapa/",
+        "published_date": "2026-07-23 18:59:28",
+        "category": "Military"
+    },
+    {
+        "title": "They arrest the person responsible for stealing a motorcycle in Chalchuapa",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/detienen-al-responsable-de-robar-una-motocicleta-en-chalchuapa/",
+        "published_date": "2026-07-23 13:09:51",
+        "category": "Military"
     },
     {
         "title": "Trifinio Plan, trinational shield for water and development in Central America",
@@ -203,81 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "PNC and VMT promote road safety education among Moraz\u00e1n students",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/pnc-y-vmt-promueven-educacion-vial-entre-estudiantes-de-morazan/",
-        "published_date": "2026-07-22 21:48:07",
-        "category": "Military"
-    },
-    {
-        "title": "PNC rescues an injured toucan that could not fly in San Miguel",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/pnc-rescata-a-tucan-herido-que-no-podia-volar-en-san-miguel/",
-        "published_date": "2026-07-22 19:52:01",
-        "category": "Military"
-    },
-    {
-        "title": "Motorcycle taxi driver loses life after fatal traffic accident",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/conductor-de-mototaxi-pierde-la-vida-tras-fatal-accidente-de-transito/",
-        "published_date": "2026-07-22 19:37:52",
-        "category": "Military"
-    },
-    {
-        "title": "At least 10 dead after house fire in Lima, Peru",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/al-menos-10-muertos-deja-incendio-de-vivienda-de-lima-peru/",
-        "published_date": "2026-07-22 18:54:22",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador accumulates 20 days without homicides in July",
+        "title": "Brent oil hits $100 per barrel following US-Iran tensions",
         "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-salvador-acumula-20-dias-sin-homicidios-en-julio/",
-        "published_date": "2026-07-22 16:36:09",
-        "category": "Military"
-    },
-    {
-        "title": "MS-13 gang member arrested in San Miguel after being deported from the United States",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/detienen-a-pandillero-de-la-ms-13-en-san-miguel-tras-ser-deportado-de-estados-unidos/",
-        "published_date": "2026-07-22 12:43:13",
-        "category": "Military"
-    },
-    {
-        "title": "\u201cFootball\u201d fight ends with six detainees in San Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/rina-futbolera-termina-con-seis-detenidos-en-san-salvador/",
-        "published_date": "2026-07-22 11:03:53",
-        "category": "Military"
-    },
-    {
-        "title": "Captured responsible for running over and causing the death of an 80-year-old man",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturado-responsable-de-atropellar-y-causar-muerte-de-anciano-de-80-anos/",
-        "published_date": "2026-07-22 01:10:53",
-        "category": "Military"
-    },
-    {
-        "title": "They capture the person responsible for running over an 80-year-old man in Ahuachap\u00e1n",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-responsable-de-atropellar-a-anciano-de-80-anos-en-ahuachapan/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-responsable-de-atropellar-a-anciano-de-80-anos-en-ahuachapan",
-        "published_date": "2026-07-22 01:05:35",
-        "category": "Military"
-    },
-    {
-        "title": "PNC finds MS-13 weapons buried in Olocuilta",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/pnc-encuentra-armas-de-la-ms-13-enterradas-en-olocuilta/",
-        "published_date": "2026-07-21 22:59:23",
-        "category": "Military"
-    },
-    {
-        "title": "They arrest an alleged drug distributor in San Miguel Centro",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/detienen-a-presunto-distribuidor-de-droga-en-san-miguel-centro/",
-        "published_date": "2026-07-21 22:51:53",
-        "category": "Military"
+        "url": "https://ultimahora.sv/el-petroleo-brent-alcanza-los-100-por-barril-tras-las-tensiones-entre-ee-uu-e-iran/",
+        "published_date": "2026-07-23 15:18:46",
+        "category": "Energy"
     },
     {
         "title": "\u201cNational inventories allow fuel prices to remain unchanged\u201d: DGEHM",
@@ -315,18 +322,11 @@
         "category": "Energy"
     },
     {
-        "title": "LOTRA Draw No. 458 dedicated to \u00bbBinary Cycle 2, Source of Energy for El Salvador!\u00bbby LAGEO",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/economia/sorteo-lotra-n-o-458-dedicado-a-ciclo-binario-2-fuente-de-energia-para-el-salvador-de-lageo/",
-        "published_date": "2026-07-15 23:25:31",
-        "category": "Energy"
-    },
-    {
-        "title": "LOTRA Giveaway No. 458 dedicated to \u201cBinary Cycle 2, Source of Energy for El Salvador!\u201dby LAGEO",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/sorteo-lotra-n-458-dedicado-a-ciclo-binario-2-fuente-de-energia-para-el-salvador-de-lageo/?utm_source=rss&utm_medium=rss&utm_campaign=sorteo-lotra-n-458-dedicado-a-ciclo-binario-2-fuente-de-energia-para-el-salvador-de-lageo",
-        "published_date": "2026-07-15 23:03:16",
-        "category": "Energy"
+        "title": "Mayor Acevedo highlights the impact of the Julias Festival on tourism and commerce",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/alcalde-acevedo-destaca-impacto-de-las-fiestas-julias-en-turismo-y-comercio/",
+        "published_date": "2026-07-23 22:20:12",
+        "category": "Economy"
     },
     {
         "title": "El Salvador and CABEI sign a loan agreement to modernize the country's road infrastructure",
@@ -378,143 +378,143 @@
         "category": "Economy"
     },
     {
-        "title": "Expedites compensation for former Rosales Hospital workers for more than $10 million",
+        "title": "IMF recognizes the economic achievements of El Salvador",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/agiliza-indemnizacion-extrabajadores-del-hospital-rosales-por-mas-de-10-millones/?utm_source=rss&utm_medium=rss&utm_campaign=agiliza-indemnizacion-extrabajadores-del-hospital-rosales-por-mas-de-10-millones",
-        "published_date": "2026-07-23 12:30:37",
+        "url": "https://lapagina.com.sv/nacionales/fmi-reconoce-los-logros-economicos-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=fmi-reconoce-los-logros-economicos-de-el-salvador",
+        "published_date": "2026-07-23 23:29:18",
         "category": "Local Events"
     },
     {
-        "title": "Compensation begins today for former Rosales Hospital workers",
+        "title": "El Salvador advances in compliance with the economic program supported by the IMF",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/hoy-inicia-indemnizacion-para-extrabajadores-del-hospital-rosales/",
-        "published_date": "2026-07-23 12:26:23",
+        "url": "https://diariolahuella.com/el-salvador-avanza-en-el-cumplimiento-del-programa-economico-respaldado-por-el-fmi/",
+        "published_date": "2026-07-23 23:26:13",
         "category": "Local Events"
     },
     {
-        "title": "Leonel Herrera calls to punish deputies who approved mining at the polls",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/leonel-herrera-llama-a-castigar-en-las-urnas-a-diputados-que-aprobaron-la-mineria/",
-        "published_date": "2026-07-23 11:03:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "MOVIR assures that more victims of the emergency regime are losing the fear of reporting",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/movir-asegura-que-mas-victimas-del-regimen-de-excepcion-estan-perdiendo-el-miedo-a-denunciar/",
-        "published_date": "2026-07-23 11:01:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Communities demand mining ban on World Day against open pit mining",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/comunidades-exigen-prohibicion-mineria-dia-mundiall-contra-mineria/",
-        "published_date": "2026-07-23 11:00:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Programs for deportees El Salvador and Latin America",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/programas-para-deportados-el-salvador-y-america-latina/",
-        "published_date": "2026-07-23 10:59:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "US Court sets trial against Venezuelan President Maduro for June 2027",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/tribunal-de-eeuu-fija-para-junio-de-2027-el-juicio-contra-presidente-venezolano-maduro/",
-        "published_date": "2026-07-23 10:45:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "USA: an empire in agony",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ee-uu-un-imperio-en-agonia/",
-        "published_date": "2026-07-23 10:30:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Archaeologists continue work after locating pre-Hispanic burial in La Libertad",
+        "title": "Former Rosales Hospital workers begin compensation process",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/arqueologos-continuan-trabajos-tras-localizar-entierro-prehispanico-en-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=arqueologos-continuan-trabajos-tras-localizar-entierro-prehispanico-en-la-libertad",
-        "published_date": "2026-07-23 05:40:37",
+        "url": "https://lapagina.com.sv/general/extrabajadores-del-hospital-rosales-comienzan-proceso-de-indemnizacion/?utm_source=rss&utm_medium=rss&utm_campaign=extrabajadores-del-hospital-rosales-comienzan-proceso-de-indemnizacion",
+        "published_date": "2026-07-23 23:21:22",
         "category": "Local Events"
     },
     {
-        "title": "Extraction of pre-Hispanic burial located in Antiguo Cuscatl\u00e1n continues",
+        "title": "Compensation process begins for former Rosales Hospital workers",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/continua-extraccion-de-entierro-prehispanico-localizado-en-antiguo-cuscatlan/",
-        "published_date": "2026-07-23 05:39:11",
+        "url": "https://diariolahuella.com/inicia-proceso-de-indemnizacion-para-extrabajadores-del-hospital-rosales/",
+        "published_date": "2026-07-23 23:19:27",
         "category": "Local Events"
     },
     {
-        "title": "La Libertad Sur Mayor's Office removes drunk people from the Educational Block and public spaces",
+        "title": "MS gang members sentenced for extorting a merchant in Ahuachap\u00e1n Sur",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/condenan-a-pandilleros-de-la-ms-por-extorsionar-a-un-comerciante-en-ahuachapan-sur/",
+        "published_date": "2026-07-23 23:15:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gustavo Acevedo announces six lagoons to regulate the flow of water in Santa Ana",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/gustavo-acevedo-anuncia-seis-lagunas-para-regular-el-caudal-de-agua-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=gustavo-acevedo-anuncia-seis-lagunas-para-regular-el-caudal-de-agua-en-santa-ana",
+        "published_date": "2026-07-23 23:14:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gang members receive 15 years in prison for demanding rent from a merchant",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/pandilleros-reciben-15-anos-de-prision-por-exigir-renta-a-un-comerciante/?utm_source=rss&utm_medium=rss&utm_campaign=pandilleros-reciben-15-anos-de-prision-por-exigir-renta-a-un-comerciante",
+        "published_date": "2026-07-23 23:14:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santa Ana builds its first laminar lagoon to contain waters from the volcano",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/santa-ana-construye-su-primera-laguna-laminar-para-contener-aguas-del-volcan/",
+        "published_date": "2026-07-23 23:11:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three traffic violations cost a driver $350 in Usulut\u00e1n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/tres-infracciones-de-transito-le-cuestan-350-a-conductor-en-usulutan/?utm_source=rss&utm_medium=rss&utm_campaign=tres-infracciones-de-transito-le-cuestan-350-a-conductor-en-usulutan",
+        "published_date": "2026-07-23 23:05:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deliveries of compensation checks to former Rosales Hospital workers begin, amid media and political struggles",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/inician-entregas-de-cheques-de-indemnizaciones-a-extrabajadores-del-hospital-rosales-entre-pugnas-mediaticas-y-politicas/",
+        "published_date": "2026-07-23 23:05:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Driver accumulates $350 in fines after committing three violations in Usulut\u00e1n",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/conductor-acumula-350-en-multas-tras-cometer-tres-infracciones-en-usulutan/",
+        "published_date": "2026-07-23 23:04:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "COFAPPES denounces serious violations of due process against members of the National Alliance for El Salvador in Peace",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cofappes-denuncia-graves-violaciones-al-debido-proceso-contra-integrantes-de-la-alianza-nacional-por-el-salvador-en-paz/",
+        "published_date": "2026-07-23 23:00:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "They capture a man accused of attacking his neighbor with a crowbar in Cuscatl\u00e1n Sur",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-hombre-acusado-de-atacar-con-un-corvo-a-su-vecino-en-cuscatlan-sur/",
+        "published_date": "2026-07-23 23:00:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Julian Carnival and other activities will increase the influx of visitors in Santa Ana",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/carnaval-juliano-y-otras-actividades-aumentaran-la-afluencia-de-visitantes-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=carnaval-juliano-y-otras-actividades-aumentaran-la-afluencia-de-visitantes-en-santa-ana",
+        "published_date": "2026-07-23 22:40:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Assembly approves recognition of Iv\u00e1n Barton and David Mor\u00e1n for participation in the 2026 World Cup",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/asamblea-aprueba-reconocimiento-a-ivan-barton-y-david-moran-por-participacion-en-el-mundial-2026/",
+        "published_date": "2026-07-23 22:37:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador strengthens its energy infrastructure to promote economic development",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/el-salvador-fortalece-su-infraestructura-energetica-para-impulsar-el-desarrollo-economico/",
+        "published_date": "2026-07-23 22:36:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor foresees traffic congestion during the busiest days of the Julia Festival",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/alcalde-preve-congestionamiento-vehicular-durante-los-dias-de-mayor-afluencia-de-las-fiestas-julias/",
+        "published_date": "2026-07-23 22:35:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador strengthens its energy infrastructure with the inauguration of the Surf City Electrical Substation",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/el-salvador-fortalece-su-infraestructura-energetica-con-la-inauguracion-de-la-subestacion-electrica-surf-city/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-fortalece-su-infraestructura-energetica-con-la-inauguracion-de-la-subestacion-electrica-surf-city",
+        "published_date": "2026-07-23 22:35:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "CCR and OMR sign alliance to strengthen regulatory improvement and government control",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/alcaldia-de-la-libertad-sur-retira-a-personas-en-estado-de-ebriedad-de-la-manzana-educativa-y-espacios-publicos/",
-        "published_date": "2026-07-23 04:14:52",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/ccr-y-omr-firman-alianza-para-fortalecer-la-mejora-regulatoria-y-el-control-gubernamental/",
+        "published_date": "2026-07-23 22:19:19",
         "category": "Local Events"
     },
     {
-        "title": "Dan Katz talks with President Bukele about the economic advances of El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/dan-katz-conversa-con-presidente-bukele-sobre-los-avances-economicos-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=dan-katz-conversa-con-presidente-bukele-sobre-los-avances-economicos-de-el-salvador",
-        "published_date": "2026-07-23 02:35:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Produce Storytelling Ads in Seconds With Seedance Quick Creation 2.5",
+        "title": "The \u201cgreatest abuse\u201d",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/producir-anuncios-de-narracion-de-cuentos-en-segundos-con-creacion-rapida-de-seedance-2-5/",
-        "published_date": "2026-07-23 02:14:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor Gustavo Acevedo takes accusations against his family to court",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/alcalde-gustavo-acevedo-lleva-a-tribunales-senalamientos-contra-su-familia/?utm_source=rss&utm_medium=rss&utm_campaign=alcalde-gustavo-acevedo-lleva-a-tribunales-senalamientos-contra-su-familia",
-        "published_date": "2026-07-23 01:57:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor Acevedo announces legal actions for defamation and slander against his family",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/alcalde-acevedo-anuncia-acciones-legales-por-difamacion-y-calumnia-contra-su-familia/",
-        "published_date": "2026-07-23 01:48:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "LOTRA Raffle No. 459 dedicated to \u201cTerror CIFCO VII \u2013 El Contacto\u201d",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/sorteo-lotra-n-o-459-dedicado-a-terror-cifco-vii-el-contacto/?utm_source=rss&utm_medium=rss&utm_campaign=sorteo-lotra-n-o-459-dedicado-a-terror-cifco-vii-el-contacto",
-        "published_date": "2026-07-23 01:25:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "First deputy managing director of the IMF highlights economic achievements of El Salvador under the Bukele administration",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/primer-subdirector-gerente-del-fmi-destaca-logros-economicos-de-el-salvador-bajo-la-administracion-bukele/",
-        "published_date": "2026-07-23 01:18:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Costa del Sol joins the ISTU parks with the Family Friendly Seal",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/costa-del-sol-se-suma-a-los-parques-del-istu-con-el-sello-family-friendly/?utm_source=rss&utm_medium=rss&utm_campaign=costa-del-sol-se-suma-a-los-parques-del-istu-con-el-sello-family-friendly",
-        "published_date": "2026-07-23 01:14:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Costa del Sol Recreational Park receives the Family Friendly Seal before the August holidays",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/parque-recreativo-costa-del-sol-recibe-el-sello-family-friendly-antes-de-las-vacaciones-de-agosto/",
-        "published_date": "2026-07-23 01:09:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u00abOH, LEGISLATOR!DO NOT GIVE ME LAWS FOR THE PEOPLE, BUT PEOPLE FOR THE LAWS.",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/oh-legislador-no-me-des-leyes-para-los-pueblos-sino-pueblos-para-las-leyes-2/",
-        "published_date": "2026-07-23 00:16:34",
+        "url": "https://www.diariocolatino.com/el-mayor-abuso/",
+        "published_date": "2026-07-23 21:58:35",
         "category": "Local Events"
     }
 ]
