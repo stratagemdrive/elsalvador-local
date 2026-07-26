@@ -140,6 +140,41 @@
         "category": "Diplomacy"
     },
     {
+        "title": "They capture an alleged MS homeboy in Santa Rosa de Lima",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/capturan-a-supuesto-homeboy-de-la-ms-en-santa-rosa-de-lima/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-supuesto-homeboy-de-la-ms-en-santa-rosa-de-lima",
+        "published_date": "2026-07-25 23:46:44",
+        "category": "Military"
+    },
+    {
+        "title": "PNC captures MS-13 gang member in Santa Rosa de Lima, La Uni\u00f3n Norte",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/pnc-captura-a-pandillero-de-la-ms-13-en-santa-rosa-de-lima-la-union-norte/",
+        "published_date": "2026-07-25 22:50:18",
+        "category": "Military"
+    },
+    {
+        "title": "Ecuador TV highlights security in El Salvador after image of students goes viral",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/ecuador-tv-destaca-la-seguridad-en-el-salvador-tras-viralizarse-imagen-de-estudiantes/",
+        "published_date": "2026-07-25 18:05:06",
+        "category": "Military"
+    },
+    {
+        "title": "PNC reports a new day without homicides in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/pnc-reporta-un-nuevo-dia-sin-homicidios-en-el-salvador-2/",
+        "published_date": "2026-07-25 17:57:36",
+        "category": "Military"
+    },
+    {
+        "title": "They arrest a drug distributor alias \u201c\u00d1a\u00f1a,\u201d in Soyapango",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/detienen-a-distribuidor-de-droga-en-alias-nana-en-soyapango/",
+        "published_date": "2026-07-25 14:59:08",
+        "category": "Military"
+    },
+    {
         "title": "They capture a drug distributor in flagrante delicto in San Miguel",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/capturan-en-flagrancia-a-distribuidor-de-droga-en-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-en-flagrancia-a-distribuidor-de-droga-en-san-miguel",
@@ -245,41 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Authorities verify illegal substances seized in 16 drug trafficking cases",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/autoridades-verifican-sustancias-ilicitas-decomisadas-en-16-casos-de-narcotrafico/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-verifican-sustancias-ilicitas-decomisadas-en-16-casos-de-narcotrafico",
-        "published_date": "2026-07-23 23:08:51",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a man accused of injuring his neighbor with a corvo in Cuscatl\u00e1n",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-hombre-senalado-de-lesionar-a-su-vecino-con-un-corvo-en-cuscatlan/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-hombre-senalado-de-lesionar-a-su-vecino-con-un-corvo-en-cuscatlan",
-        "published_date": "2026-07-23 22:59:58",
-        "category": "Military"
-    },
-    {
-        "title": "They arrest an alleged MS-13 gang member alias \"Snif\" in Usulut\u00e1n Norte",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/detienen-a-presunto-pandillero-de-la-ms-13-alias-snif-en-usulutan-norte/",
-        "published_date": "2026-07-23 22:55:11",
-        "category": "Military"
-    },
-    {
-        "title": "Woman dies after armed attack in supermarket parking lot in Sensuntepeque",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/mujer-muere-tras-ataque-armado-en-parqueo-de-supermercado-en-sensuntepeque/",
-        "published_date": "2026-07-23 22:48:24",
-        "category": "Military"
-    },
-    {
-        "title": "Armed attack against a woman in Sensuntepeque ends with the death of the main person accused",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/ataque-armado-contra-una-mujer-en-sensuntepeque-termina-con-muerte-del-principal-senalado/?utm_source=rss&utm_medium=rss&utm_campaign=ataque-armado-contra-una-mujer-en-sensuntepeque-termina-con-muerte-del-principal-senalado",
-        "published_date": "2026-07-23 22:48:15",
-        "category": "Military"
-    },
-    {
         "title": "President of Guatemala proposes fuel subsidy after transportation crisis",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/presidente-de-guatemala-propone-subsidio-a-los-combustibles-tras-crisis-de-transporte/",
@@ -322,18 +322,11 @@
         "category": "Energy"
     },
     {
-        "title": "Oil price soars after conflict in Iran",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/se-dispara-precio-del-crudo-tras-conflicto-en-iran/?utm_source=rss&utm_medium=rss&utm_campaign=se-dispara-precio-del-crudo-tras-conflicto-en-iran",
-        "published_date": "2026-07-17 20:13:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Price of a barrel of oil shoots up to 4% due to escalation of the conflict between the United States and Iran",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/precio-del-barril-de-petroleo-se-dispara-hasta-4-por-escalada-del-conflicto-entre-estados-unidos-e-iran/",
-        "published_date": "2026-07-17 18:57:24",
-        "category": "Energy"
+        "title": "Central American railway integration, a dream that can come true",
+        "source": "Cronio",
+        "url": "https://croniosv.com/opinet/la-integracion-ferroviaria-centroamericana-un-sueno-que-puede-hacerse-realidad/",
+        "published_date": "2026-07-25 21:00:16",
+        "category": "Economy"
     },
     {
         "title": "GOES requests reinforcement of $226 million for Education, Health and MOP",
@@ -371,157 +364,143 @@
         "category": "Economy"
     },
     {
-        "title": "\u201cWeavers of Life\u201d exhibition opens to strengthen artisanal exchange between El Salvador and Colombia",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/inauguran-exposicion-tejedores-de-vida-para-fortalecer-el-intercambio-artesanal-entre-el-salvador-y-colombia/",
-        "published_date": "2026-07-17 19:25:01",
-        "category": "Economy"
+        "title": "The art of restoring religious images that keeps a tradition alive",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/el-arte-de-restaurar-imagenes-religiosas-que-mantiene-viva-una-tradicion/?utm_source=rss&utm_medium=rss&utm_campaign=el-arte-de-restaurar-imagenes-religiosas-que-mantiene-viva-una-tradicion",
+        "published_date": "2026-07-25 22:14:35",
+        "category": "Local Events"
     },
     {
-        "title": "Government boosts economy with Weavers of Life exhibition",
+        "title": "Trump affirms that Venezuela \"is not yet ready\" to hold elections but highlights its progress",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/trump-afirma-que-venezuela-aun-no-esta-lista-para-celebrar-elecciones-pero-resalta-sus-avances/",
+        "published_date": "2026-07-25 21:25:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Summary of the main news of the fourth week of July 2026",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/resumen-de-las-principales-noticias-de-la-cuarta-semana-del-mes-de-julio-2026/",
+        "published_date": "2026-07-25 21:22:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hits and accidents leave several people injured in different parts of the country",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/atropellos-y-accidentes-dejan-varios-lesionados-en-distintos-puntos-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=atropellos-y-accidentes-dejan-varios-lesionados-en-distintos-puntos-del-pais",
+        "published_date": "2026-07-25 21:19:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three accidents leave people injured on roads in El Salvador",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-impulsa-economia-con-exposicion-tejedores-de-vida/",
-        "published_date": "2026-07-17 19:22:50",
-        "category": "Economy"
+        "url": "https://diariolahuella.com/tres-accidentes-dejan-personas-lesionadas-en-carreteras-de-el-salvador/",
+        "published_date": "2026-07-25 21:11:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman is injured after being run over by a harrow in La Libertad",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/mujer-resulta-lesionada-tras-ser-atropellada-por-una-rastra-en-la-libertad/",
+        "published_date": "2026-07-25 20:43:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Public Works continues the construction of the Aerocable with the casting of pile number 14",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/obras-publicas-continua-la-construccion-del-aerocable-con-el-colado-de-la-pila-numero-14/",
+        "published_date": "2026-07-25 20:13:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jairo Moreno wins the silver medal for El Salvador in judo in Santo Domingo 2026",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/jairo-moreno-conquista-la-medalla-de-plata-para-el-salvador-en-el-judo-de-santo-domingo-2026/",
+        "published_date": "2026-07-25 20:08:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Erling Haaland leads a \u201cViking row\u201d at the wedding of Gianluigi Donnarumma and Alessia Elefante",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/jetset/erling-haaland-lidera-un-viking-row-en-la-boda-de-gianluigi-donnarumma-y-alessia-elefante/",
+        "published_date": "2026-07-25 20:08:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lionel Messi absent from the All-Star Game for the third year",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/lionel-messi-ausente-por-tercer-ano-del-partido-de-las-estrellas/",
+        "published_date": "2026-07-25 20:03:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death toll rises to 35 in bus collision in central Syria",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/aumenta-a-35-numero-de-muertos-por-colision-de-autobuses-en-centro-de-siria/",
+        "published_date": "2026-07-25 19:50:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Yuca Festival brings together gastronomy, tradition and family atmosphere in Mejicanos",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/festival-de-la-yuca-reune-gastronomia-tradicion-y-ambiente-familiar-en-mejicanos/",
+        "published_date": "2026-07-25 19:49:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "China evacuates 20,000 people as Typhoon Noul approaches",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/china-evacua-a-20000-personas-ante-la-llegada-del-tifon-noul/",
+        "published_date": "2026-07-25 18:38:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tens of thousands evacuated due to fires in Spain and France",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/decenas-de-miles-de-evacuados-por-incendios-en-espana-y-francia/",
+        "published_date": "2026-07-25 18:30:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Habit brings a Pilates experience to the historic Santa Ana National Theater",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/habit-lleva-una-experiencia-de-pilates-al-historico-teatro-nacional-de-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=habit-lleva-una-experiencia-de-pilates-al-historico-teatro-nacional-de-santa-ana",
+        "published_date": "2026-07-25 16:53:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "The National Theater of Santa Ana is transformed into a wellness and pilates scene",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-teatro-nacional-de-santa-ana-se-transforma-en-escenario-de-bienestar-y-pilates/",
+        "published_date": "2026-07-25 16:50:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cI love you\u201d: Nayib Bukele responds to the birthday message that Gabriela de Bukele dedicated to him",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/las-amo-nayib-bukele-responde-al-mensaje-de-cumpleanos-que-le-dedico-gabriela-de-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=las-amo-nayib-bukele-responde-al-mensaje-de-cumpleanos-que-le-dedico-gabriela-de-bukele",
+        "published_date": "2026-07-25 16:12:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "First Lady congratulates Nayib Bukele on his birthday and the President responds: \u201cI love you\u201d",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/primera-dama-felicita-a-nayib-bukele-por-su-cumpleanos-y-el-presidente-responde-las-amo/",
+        "published_date": "2026-07-25 15:59:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Strong gusts of wind cause the roof of a gas station to collapse in Ilopango",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/fuertes-rafagas-de-viento-provocan-colapso-del-techo-de-una-gasolinera-en-ilopango/?utm_source=rss&utm_medium=rss&utm_campaign=fuertes-rafagas-de-viento-provocan-colapso-del-techo-de-una-gasolinera-en-ilopango",
+        "published_date": "2026-07-25 15:29:24",
+        "category": "Local Events"
     },
     {
         "title": "Analysts question the concentration of power and call for strengthening democratic counterweights",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/analistas-cuestionan-la-concentracion-del-poder-y-piden-fortalecer-los-contrapesos-democraticos/",
         "published_date": "2026-07-25 11:05:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marcela Villatoro confirms that she will seek re-election in the Assembly",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/marcela-villatoro-confirma-que-buscara-reeleccion-en-asamblea/",
-        "published_date": "2026-07-25 11:04:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "ANTA and Mesa Agropecuaria highlight results of the Production Increase Program",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/anta-y-mesa-agropecuaria-destacan-resultados-del-programa-de-aumento-a-la-produccion/",
-        "published_date": "2026-07-25 11:03:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Assembly acquires 11 vehicles for $425 thousand for \u201cinstitutional use\u201d",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/asamblea-adquiere-11-vehiculos-por-425-mil-para-uso-institucional/",
-        "published_date": "2026-07-25 11:01:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Early sowing and high-yield seeds guarantee the harvest:",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/siembra-adelantada-semillas-alto-rendimiento-garantizan-cosecha/",
-        "published_date": "2026-07-25 11:00:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "LOOTING OF THE REGIME OF THE NATION",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/saqueo-del-regimen-a-la-nacion/",
-        "published_date": "2026-07-25 10:59:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Guaira debates its routine between mourning and reconstruction",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-guaira-debate-su-rutina-entre-el-duelo-y-la-reconstruccion/",
-        "published_date": "2026-07-25 10:30:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "FAS comes back against Municipal Lime\u00f1o and starts the Apertura 2026 with victory in a historic premiere of Football Video Support",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/fas-remonta-ante-municipal-limeno-y-arranca-con-victoria-el-apertura-2026-en-un-historico-estreno-del-football-video-support/",
-        "published_date": "2026-07-25 04:30:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Open Doors Festival invites families to enjoy gastronomy and entrepreneurship on Paseo El Carmen",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/festival-de-puertas-abiertas-invita-a-las-familias-a-disfrutar-de-gastronomia-y-emprendimientos-en-el-paseo-el-carmen/",
-        "published_date": "2026-07-25 01:52:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jose Jerez",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/jose-jerez/",
-        "published_date": "2026-07-25 00:30:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "University of El Salvador recognizes the international career of referee Iv\u00e1n Barton",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/universidad-de-el-salvador-reconoce-la-trayectoria-internacional-del-arbitro-ivan-barton/",
-        "published_date": "2026-07-25 00:10:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "English in Central America XVII",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ingleses-en-centroamerica-xvii/",
-        "published_date": "2026-07-25 00:08:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "FESFUT authorizes registration of a fifth foreign player for the Apertura 2026",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/fesfut-autoriza-inscripcion-de-un-quinto-jugador-extranjero-para-el-apertura-2026/",
-        "published_date": "2026-07-24 23:52:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "H\u00e9ctor Hern\u00e1ndez remembers armed FMLN youth during the conflict: \u201cA machine gun in their hands\u201d",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/hector-hernandez-recuerda-a-jovenes-del-fmln-armados-durante-el-conflicto-en-sus-manos-una-metralleta/",
-        "published_date": "2026-07-24 21:59:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Citizen alerts about injured bird and allows its rescue in Metap\u00e1n",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/ciudadana-alerta-ave-herida-y-permite-su-rescate-en-metapan/?utm_source=rss&utm_medium=rss&utm_campaign=ciudadana-alerta-ave-herida-y-permite-su-rescate-en-metapan",
-        "published_date": "2026-07-24 21:53:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "They rescue an injured Aurora after a warning from a citizen in Metap\u00e1n",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/rescatan-a-una-aurora-herida-tras-aviso-de-una-ciudadana-en-metapan/",
-        "published_date": "2026-07-24 21:52:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Van is destroyed by fire on the old street of Zacatecoluca",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/camioneta-queda-destruida-por-incendio-en-la-calle-antigua-a-zacatecoluca/",
-        "published_date": "2026-07-24 21:44:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fire consumes a truck and causes preventive closure in the old Zacatecoluca",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/incendio-consume-camioneta-y-provoca-cierre-preventivo-en-la-antigua-a-zacatecoluca/?utm_source=rss&utm_medium=rss&utm_campaign=incendio-consume-camioneta-y-provoca-cierre-preventivo-en-la-antigua-a-zacatecoluca",
-        "published_date": "2026-07-24 21:44:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bessy R\u00edos: \u201cWhoever is upset about the drug seizure, it is either his or he is taking care of it\u201d",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/bessy-rios-quien-se-moleste-por-la-incautacion-de-droga-o-es-de-el-o-la-esta-cuidando/?utm_source=rss&utm_medium=rss&utm_campaign=bessy-rios-quien-se-moleste-por-la-incautacion-de-droga-o-es-de-el-o-la-esta-cuidando",
-        "published_date": "2026-07-24 21:32:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bessy R\u00edos questions Honduras' annoyance over drug seizures in the Gulf of Fonseca",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/bessy-rios-cuestiona-molestia-de-honduras-por-incautaciones-de-droga-en-el-golfo-de-fonseca/",
-        "published_date": "2026-07-24 21:29:03",
         "category": "Local Events"
     }
 ]
