@@ -1,5 +1,19 @@
 [
     {
+        "title": "El Salvador and Laos establish diplomatic relations",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-y-laos-establecen-relaciones-diplomaticas/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-laos-establecen-relaciones-diplomaticas",
+        "published_date": "2026-07-29 00:52:25",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "El Salvador establishes diplomatic relations with Laos",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-establece-relaciones-diplomaticas-con-laos/",
+        "published_date": "2026-07-29 00:46:14",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Man is miraculously saved after falling off a bridge in his car",
         "source": "Periodico Equilibrium",
         "url": "https://www.periodicoequilibrium.com/hombre-se-salva-de-milagro-al-caer-de-puente-en-su-auto/",
@@ -116,13 +130,6 @@
         "source": "Periodico Equilibrium",
         "url": "https://www.periodicoequilibrium.com/el-salvador-y-el-instituto-cervantes-proyectan-en-seul-literatura-nacional/",
         "published_date": "2026-07-21 15:43:57",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Vice Minister God\u00ednez highlights the friendship between El Salvador and Colombia during the independence anniversary",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/viceministra-godinez-destaca-la-amistad-entre-el-salvador-y-colombia-durante-aniversario-de-independencia/?utm_source=rss&utm_medium=rss&utm_campaign=viceministra-godinez-destaca-la-amistad-entre-el-salvador-y-colombia-durante-aniversario-de-independencia",
-        "published_date": "2026-07-21 00:42:36",
         "category": "Diplomacy"
     },
     {
@@ -301,11 +308,11 @@
         "category": "Energy"
     },
     {
-        "title": "\u201cNational inventories allow fuel prices to remain unchanged\u201d: DGEHM",
+        "title": "Assembly approved $733.8 million in financial operations in plenary session",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/inventarios-nacionales-permiten-mantener-sin-variacion-precio-combustibles-dgehm/",
-        "published_date": "2026-07-21 11:02:39",
-        "category": "Energy"
+        "url": "https://www.diariocolatino.com/asamblea-aprobo-en-plenaria-733-8-millones-en-operaciones-financieras/",
+        "published_date": "2026-07-29 11:04:46",
+        "category": "Economy"
     },
     {
         "title": "Resources are approved to promote education, technology and youth development",
@@ -420,6 +427,62 @@
         "category": "Economy"
     },
     {
+        "title": "Medical College attributes payment of compensation to pressure from international organizations",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/colegio-medico-atribuye-pago-de-indemnizaciones-a-presion-de-organismos-internacionales/",
+        "published_date": "2026-07-29 11:04:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "PROVIDA strengthens the capacities of rural women and promotes community health",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/provida-fortalece-las-capacidades-de-mujeres-rurales-y-promueve-la-salud-comunitaria/",
+        "published_date": "2026-07-29 11:03:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Student organizations commemorate the heroes and martyrs of July 30",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/organizaciones-estudiantiles-conmemoran-a-los-heroes-y-martires-de-30-de-julio/",
+        "published_date": "2026-07-29 11:02:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "A generation ahead of its time and aware of social problems",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/una-generacion-adelantada-a-su-tiempo-y-consciente-de-los-problemas-sociales/",
+        "published_date": "2026-07-29 11:01:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Organizations ask the Women's Hospital to provide medical information about Ruth L\u00f3pez",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/organizaciones-piden-al-hospital-de-la-mujer-que-entregue-informacion-medica-de-ruth-lopez/",
+        "published_date": "2026-07-29 11:00:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "A massacre continues and grows in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/una-matanza-continua-y-crece-en-el-salvador/",
+        "published_date": "2026-07-29 10:59:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "#assumes Presidency of Peru and offers \"clear route\" for the country's development",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/asume-presidencia-de-peru-y-ofrece-ruta-clara-para-desarrollo-del-pais/",
+        "published_date": "2026-07-29 10:45:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Talks with Trump include production of Patriot systems in Ukraine, says Zelensky",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/conversaciones-con-trump-incluyen-produccion-de-sistemas-patriot-en-ucrania-dice-zelensky/",
+        "published_date": "2026-07-29 04:35:11",
+        "category": "Local Events"
+    },
+    {
         "title": "Body of drowned person recovered in Playa El Pimental after search operation",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/recuperan-cuerpo-de-persona-ahogada-en-playa-el-pimental-tras-operativo-de-busqueda/?utm_source=rss&utm_medium=rss&utm_campaign=recuperan-cuerpo-de-persona-ahogada-en-playa-el-pimental-tras-operativo-de-busqueda",
@@ -501,62 +564,6 @@
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/en-el-silencio-del-exilio-la-memoria-sigue-marchando/",
         "published_date": "2026-07-28 20:25:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "They hold a macram\u00e9 workshop to enhance the creativity of participants",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/realizan-taller-de-macrame-para-potenciar-creatividad-de-participantes/?utm_source=rss&utm_medium=rss&utm_campaign=realizan-taller-de-macrame-para-potenciar-creatividad-de-participantes",
-        "published_date": "2026-07-28 20:24:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "They ask the Women's Hospital to clarify medical information about Ruth L\u00f3pez",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/piden-al-hospital-de-la-mujer-que-aclare-informacion-medica-de-ruth-lopez/",
-        "published_date": "2026-07-28 20:21:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "They promote creativity through macram\u00e9 workshop",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/promueven-creatividad-a-traves-de-taller-de-macrame/",
-        "published_date": "2026-07-28 20:19:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "San Salvador Centro expects to exceed 1.2 million visitors during the fair",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/san-salvador-centro-espera-superar-los-1-2-millones-de-visitantes-durante-la-feria/",
-        "published_date": "2026-07-28 20:17:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Let's rescue courtesy",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/rescatemos-la-cortesia/",
-        "published_date": "2026-07-28 20:15:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Italian team is once again left without direction after the departure of Maldini and Leonardo due to the rejection of Pirlo",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/la-seleccion-de-italia-vuelve-a-quedar-sin-rumbo-tras-la-salida-de-maldini-y-leonardo-por-el-rechazo-a-pirlo/?utm_source=rss&utm_medium=rss&utm_campaign=la-seleccion-de-italia-vuelve-a-quedar-sin-rumbo-tras-la-salida-de-maldini-y-leonardo-por-el-rechazo-a-pirlo",
-        "published_date": "2026-07-28 20:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Paolo Maldini and Leonardo resign from the Italian national team after Pirlo was rejected for \u201cbetting\u201d",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/paolo-maldini-y-leonardo-renuncian-a-la-seleccion-de-italia-tras-el-rechazo-a-pirlo-por-apuestas/",
-        "published_date": "2026-07-28 20:14:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cTwo Schools per Day\u201d Program has rebuilt 866 educational centers in El Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/programa-dos-escuelas-por-dia-ha-reconstruido-866-centros-educativos-en-el-salvador/",
-        "published_date": "2026-07-28 20:12:16",
         "category": "Local Events"
     }
 ]
