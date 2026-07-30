@@ -1,5 +1,19 @@
 [
     {
+        "title": "Eparchy of Argentina and South America: 80 years of Orthodox ministry",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/eparquia-de-argentina-y-sudamerica-80-anos-de-ministerio-ortodoxo/?utm_source=rss&utm_medium=rss&utm_campaign=eparquia-de-argentina-y-sudamerica-80-anos-de-ministerio-ortodoxo",
+        "published_date": "2026-07-29 17:57:58",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Eparchy of Argentina and South America: 80 years of Orthodox ministry",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/eparquia-de-argentina-y-sudamerica-80-anos-de-ministerio-ortodoxo/",
+        "published_date": "2026-07-29 17:38:50",
+        "category": "Diplomacy"
+    },
+    {
         "title": "El Salvador and Laos establish diplomatic relations",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/el-salvador-y-laos-establecen-relaciones-diplomaticas/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-laos-establecen-relaciones-diplomaticas",
@@ -126,11 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "El Salvador and the Cervantes Institute project national literature in Seoul",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/el-salvador-y-el-instituto-cervantes-proyectan-en-seul-literatura-nacional/",
-        "published_date": "2026-07-21 15:43:57",
-        "category": "Diplomacy"
+        "title": "PNC captures a student with drugs before entering classes in Zacatecoluca",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/pnc-captura-a-estudiante-con-droga-antes-de-ingresar-a-clases-en-zacatecoluca/",
+        "published_date": "2026-07-29 22:33:17",
+        "category": "Military"
+    },
+    {
+        "title": "High school student captured with drugs in his possession",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-estudiante-de-bachillerato-con-droga-en-su-poder/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-estudiante-de-bachillerato-con-droga-en-su-poder",
+        "published_date": "2026-07-29 20:47:41",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador has 180 days without homicides so far in 2026, according to the PNC",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/el-salvador-suma-180-dias-sin-homicidios-en-lo-que-va-de-2026-segun-la-pnc/",
+        "published_date": "2026-07-29 19:31:54",
+        "category": "Military"
     },
     {
         "title": "He is responsible for causing an accident where a person died",
@@ -252,27 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "They capture a man with cocaine, marijuana and almost $2,000 in cash in Moraz\u00e1n",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-hombre-con-cocaina-marihuana-y-casi-2000-en-efectivo-en-morazan/",
-        "published_date": "2026-07-28 02:11:52",
-        "category": "Military"
-    },
-    {
-        "title": "Authorities prepare for the August festivities",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/autoridades-se-preparan-para-las-fiestas-agostinas/",
-        "published_date": "2026-07-27 20:18:18",
-        "category": "Military"
-    },
-    {
-        "title": "The \u201cBliky\u201d gunman of 18 in Lourdes falls",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cae-el-bliky-gatillero-de-la-18-en-lourdes/?utm_source=rss&utm_medium=rss&utm_campaign=cae-el-bliky-gatillero-de-la-18-en-lourdes",
-        "published_date": "2026-07-27 19:12:17",
-        "category": "Military"
-    },
-    {
         "title": "El Salvador is emerging as an energy exporter in Central America, says ETESAL",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/el-salvador-se-perfila-como-exportador-de-energia-en-centroamerica-afirma-etesal/",
@@ -306,6 +313,41 @@
         "url": "https://ultimahora.sv/el-petroleo-brent-alcanza-los-100-por-barril-tras-las-tensiones-entre-ee-uu-e-iran/",
         "published_date": "2026-07-23 15:18:46",
         "category": "Energy"
+    },
+    {
+        "title": "\u201cWe never escaped the financial crisis of 2008\u201d: President Bukele",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/nunca-escapamos-de-la-crisis-financiera-del-2008-presidente-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=nunca-escapamos-de-la-crisis-financiera-del-2008-presidente-bukele",
+        "published_date": "2026-07-29 23:59:27",
+        "category": "Economy"
+    },
+    {
+        "title": "President Bukele regrets consequences of the 2008 financial crisis",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-lamenta-consecuencias-de-la-crisis-financiera-del-2008/",
+        "published_date": "2026-07-29 23:53:49",
+        "category": "Economy"
+    },
+    {
+        "title": "They will promote more development opportunities for young people in vulnerable situations",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/promoveran-mas-oportunidades-de-desarrollo-para-jovenes-en-situacion-vulnerable/",
+        "published_date": "2026-07-29 19:58:11",
+        "category": "Economy"
+    },
+    {
+        "title": "World Bank highlights the educational transformation of El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/banco-mundial-destaca-la-transformacion-educativa-de-el-salvador/",
+        "published_date": "2026-07-29 19:21:58",
+        "category": "Economy"
+    },
+    {
+        "title": "They authorize the incorporation of funds to the Ministry of Economy for employability programs",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/autorizan-incorporacion-de-fondos-al-ministerio-de-economia-para-programas-de-empleabilidad/",
+        "published_date": "2026-07-29 17:32:26",
+        "category": "Economy"
     },
     {
         "title": "Assembly approved $733.8 million in financial operations in plenary session",
@@ -413,157 +455,143 @@
         "category": "Economy"
     },
     {
-        "title": "El Salvador and CABEI reach an economic agreement to modernize the country's road infrastructure",
+        "title": "LOTRA Raffle No. 460 dedicated to Fiestas Agostinas San Salvador 2026",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-y-bcie-logran-acuerdo-economico-para-modernizar-infraestructura-vial-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-bcie-logran-acuerdo-economico-para-modernizar-infraestructura-vial-del-pais",
-        "published_date": "2026-07-22 01:21:15",
-        "category": "Economy"
-    },
-    {
-        "title": "CABEI and El Salvador sign financing to strengthen the Guluchapa drinking water system",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/bcie-y-el-salvador-firman-financiamiento-para-fortalecer-el-sistema-de-agua-potable-guluchapa/",
-        "published_date": "2026-07-21 18:45:12",
-        "category": "Economy"
-    },
-    {
-        "title": "Medical College attributes payment of compensation to pressure from international organizations",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/colegio-medico-atribuye-pago-de-indemnizaciones-a-presion-de-organismos-internacionales/",
-        "published_date": "2026-07-29 11:04:00",
+        "url": "https://lapagina.com.sv/empresarial/sorteo-lotra-n-460-dedicado-a-fiestas-agostinas-san-salvador-2026/?utm_source=rss&utm_medium=rss&utm_campaign=sorteo-lotra-n-460-dedicado-a-fiestas-agostinas-san-salvador-2026",
+        "published_date": "2026-07-29 23:51:44",
         "category": "Local Events"
     },
     {
-        "title": "PROVIDA strengthens the capacities of rural women and promotes community health",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/provida-fortalece-las-capacidades-de-mujeres-rurales-y-promueve-la-salud-comunitaria/",
-        "published_date": "2026-07-29 11:03:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Student organizations commemorate the heroes and martyrs of July 30",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/organizaciones-estudiantiles-conmemoran-a-los-heroes-y-martires-de-30-de-julio/",
-        "published_date": "2026-07-29 11:02:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "A generation ahead of its time and aware of social problems",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/una-generacion-adelantada-a-su-tiempo-y-consciente-de-los-problemas-sociales/",
-        "published_date": "2026-07-29 11:01:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Organizations ask the Women's Hospital to provide medical information about Ruth L\u00f3pez",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/organizaciones-piden-al-hospital-de-la-mujer-que-entregue-informacion-medica-de-ruth-lopez/",
-        "published_date": "2026-07-29 11:00:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "A massacre continues and grows in El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/una-matanza-continua-y-crece-en-el-salvador/",
-        "published_date": "2026-07-29 10:59:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "#assumes Presidency of Peru and offers \"clear route\" for the country's development",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/asume-presidencia-de-peru-y-ofrece-ruta-clara-para-desarrollo-del-pais/",
-        "published_date": "2026-07-29 10:45:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Talks with Trump include production of Patriot systems in Ukraine, says Zelensky",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/conversaciones-con-trump-incluyen-produccion-de-sistemas-patriot-en-ucrania-dice-zelensky/",
-        "published_date": "2026-07-29 04:35:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Body of drowned person recovered in Playa El Pimental after search operation",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/recuperan-cuerpo-de-persona-ahogada-en-playa-el-pimental-tras-operativo-de-busqueda/?utm_source=rss&utm_medium=rss&utm_campaign=recuperan-cuerpo-de-persona-ahogada-en-playa-el-pimental-tras-operativo-de-busqueda",
-        "published_date": "2026-07-28 23:02:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor's Office of San Salvador Este removes structures that obstructed pedestrian passage in Ilopango",
+        "title": "TINI is approaching SOLD OUT TOTAL in El Salvador: three locations are already sold out and 2 more are about to be sold out",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/alcaldia-de-san-salvador-este-retira-estructuras-que-obstruian-paso-peatonal-en-ilopango/",
-        "published_date": "2026-07-28 22:59:02",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/tini-se-acerca-al-sold-out-total-en-el-salvador-tres-localidades-ya-estan-agotadas-y-2-mas-estan-por-agotarse/",
+        "published_date": "2026-07-29 23:44:33",
         "category": "Local Events"
     },
     {
-        "title": "They locate the body of a drowned person on El Pimental beach",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/localizan-cuerpo-de-persona-ahogada-en-playa-el-pimental/",
-        "published_date": "2026-07-28 22:54:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "FESFUT announces random inspections of stadiums during the season to verify license compliance",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/fesfut-anuncia-inspecciones-aleatorias-a-estadios-durante-la-temporada-para-verificar-el-cumplimiento-de-licencias/",
-        "published_date": "2026-07-28 22:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Container falls off a header on the highway to the Port of Acajutla",
+        "title": "LOTRA Raffle No. 460 dedicated to Fiestas Agostinas San Salvador 2026",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/contenedor-se-desprende-de-un-cabezal-en-la-carretera-al-puerto-de-acajutla/",
-        "published_date": "2026-07-28 21:52:09",
+        "url": "https://croniosv.com/nacionales/economia/sorteo-lotra-n-o-460-dedicado-a-fiestas-agostinas-san-salvador-2026/",
+        "published_date": "2026-07-29 23:36:52",
         "category": "Local Events"
     },
     {
-        "title": "New extension to the Exception Regime approved",
+        "title": "False architect convicted of fraud",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/condenan-a-falso-arquitecto-por-estafa/",
+        "published_date": "2026-07-29 23:26:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cHe was my only friend\u201d: the heartbreaking story of a girl after the death of her dog in Argentina",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/era-mi-unico-amigo-el-desgarrador-relato-de-una-nina-tras-la-muerte-de-su-perrito-en-argentina/",
+        "published_date": "2026-07-29 23:24:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jail for scammer who posed as an architect",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/aprueban-nueva-extension-al-regimen-de-excepcion/?utm_source=rss&utm_medium=rss&utm_campaign=aprueban-nueva-extension-al-regimen-de-excepcion",
-        "published_date": "2026-07-28 21:46:22",
+        "url": "https://lapagina.com.sv/nacionales/carcel-para-estafador-que-se-hacia-pasar-por-arquitecto/?utm_source=rss&utm_medium=rss&utm_campaign=carcel-para-estafador-que-se-hacia-pasar-por-arquitecto",
+        "published_date": "2026-07-29 23:14:16",
         "category": "Local Events"
     },
     {
-        "title": "Legislative Assembly approves new extension of the Exception Regime",
+        "title": "Firefighters rescue an injured person in a difficult-to-access area of \u200b\u200bCerro Tecana",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/bomberos-rescatan-a-persona-lesionada-en-zona-de-dificil-acceso-del-cerro-tecana/",
+        "published_date": "2026-07-29 22:40:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor's Office of San Salvador Este removes abandoned vehicles to free up public spaces in Soyapango",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/alcaldia-de-san-salvador-este-retira-vehiculos-abandonados-para-liberar-espacios-publicos-en-soyapango/",
+        "published_date": "2026-07-29 21:55:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Elderly adult dies after being hit by a motorcycle in Los Planes de Renderos",
         "source": "Cronio",
-        "url": "https://croniosv.com/politica/asamblea-legislativa-aprueba-nueva-prorroga-del-regimen-de-excepcion/",
-        "published_date": "2026-07-28 21:38:38",
+        "url": "https://croniosv.com/nacionales/adulto-mayor-fallece-tras-ser-atropellado-por-una-motocicleta-en-los-planes-de-renderos/",
+        "published_date": "2026-07-29 21:50:38",
         "category": "Local Events"
     },
     {
-        "title": "Legislative Assembly approves new extension to the Exception Regime",
+        "title": "Terror CIFCO reopens its doors for the August holidays",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/terror-cifco-reabre-sus-puertas-para-las-vacaciones-agostinas/",
+        "published_date": "2026-07-29 21:32:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Teenager found responsible for simple homicide",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/asamblea-legislativa-aprueba-nueva-prorroga-al-regimen-de-excepcion/",
-        "published_date": "2026-07-28 21:37:51",
+        "url": "https://diariolahuella.com/adolescente-es-declarado-responsable-de-homicidio-simple/",
+        "published_date": "2026-07-29 21:21:07",
         "category": "Local Events"
     },
     {
-        "title": "Widow of murdered mayor in Mexico arrested for alleged extortion",
+        "title": "President Bukele invites to continue the decoration of the Salvadoran contingent that participated in the humanitarian mission in Venezuela",
         "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/detienen-por-presunta-extorsion-a-viuda-de-alcalde-asesinado-en-mexico/",
-        "published_date": "2026-07-28 21:20:33",
+        "url": "https://croniosv.com/nacionales/presidente-bukele-invita-a-seguir-la-condecoracion-del-contingente-salvadoreno-que-participo-en-mision-humanitaria-en-venezuela/",
+        "published_date": "2026-07-29 21:12:57",
         "category": "Local Events"
     },
     {
-        "title": "Rapper D4vd will go to trial for the murder and dismemberment of a teenager",
+        "title": "The city of fun returns this 2026 with many surprises at the Explanada En Vivo and now also at Parque El Principito",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/la-ciudad-de-la-diversion-regresa-este-2026-con-muchas-sorpresas-en-la-explanada-en-vivo-y-ahora-tambien-en-parque-el-principito/",
+        "published_date": "2026-07-29 21:03:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santa Ana Centro Mayor's Office intensifies efforts to eliminate mosquitoes that transmit Dengue",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/alcaldia-de-santa-ana-centro-intensifica-labores-de-eliminacion-de-zancudos-que-transmiten-el-dengue/?utm_source=rss&utm_medium=rss&utm_campaign=alcaldia-de-santa-ana-centro-intensifica-labores-de-eliminacion-de-zancudos-que-transmiten-el-dengue",
+        "published_date": "2026-07-29 20:55:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "30 people sentenced to prison for aggravated homicide",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/condenan-a-30-de-prision-a-sujeto-por-homicidio-agravado/",
+        "published_date": "2026-07-29 20:41:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "30 years in prison for La Uni\u00f3n murderer",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/30-anos-de-carcel-para-homicida-de-la-union/?utm_source=rss&utm_medium=rss&utm_campaign=30-anos-de-carcel-para-homicida-de-la-union",
+        "published_date": "2026-07-29 20:40:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Exemplary sentences for more than 150 gang members who operated in Caba\u00f1as",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/condenas-ejemplares-para-mas-de-150-pandilleros-que-operaban-en-cabanas/",
+        "published_date": "2026-07-29 20:33:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 150 gang members receive sentences for crimes committed in Caba\u00f1as",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/mas-de-150-pandilleros-reciben-condenas-por-delitos-cometidos-en-cabanas/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-150-pandilleros-reciben-condenas-por-delitos-cometidos-en-cabanas",
+        "published_date": "2026-07-29 20:31:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "VIDEO |Young boy goes viral after being caught leaving a motel with a cow",
         "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/rapero-d4vd-ira-a-juicio-por-el-homicidio-y-desmembramiento-de-una-adolescente/",
-        "published_date": "2026-07-28 21:10:33",
+        "url": "https://croniosv.com/nacionales/sucesos/video-jovencito-se-vuelve-viral-tras-ser-captado-saliendo-de-un-motel-con-una-vaca/",
+        "published_date": "2026-07-29 20:24:04",
         "category": "Local Events"
     },
     {
-        "title": "In El Salvador there are not four union members imprisoned: Union freedom is imprisoned",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/en-el-salvador-no-hay-cuatro-sindicalistas-presos-la-libertad-sindical-esta-encarcelada/",
-        "published_date": "2026-07-28 20:28:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "In the silence of exile, memory continues marching",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/en-el-silencio-del-exilio-la-memoria-sigue-marchando/",
-        "published_date": "2026-07-28 20:25:40",
+        "title": "PHOTO |Uber driver exposes passenger who showed an inappropriate attitude during the trip",
+        "source": "Cronio",
+        "url": "https://croniosv.com/redes/virales/foto-conductor-de-uber-expone-a-pasajera-que-mostro-una-actitud-inapropiada-durante-el-viaje/",
+        "published_date": "2026-07-29 19:50:50",
         "category": "Local Events"
     }
 ]
