@@ -1,5 +1,26 @@
 [
     {
+        "title": "EL SALVADOR IS A COUNTRY ALLY OF THE WORLD",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/el-salvador-es-un-pais-aliado-del-mundo/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-es-un-pais-aliado-del-mundo",
+        "published_date": "2026-07-30 23:21:45",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Vice Chancellor God\u00ednez promotes a meeting with the Salvadoran diaspora in Mexico to strengthen investment and culture",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/vicecanciller-godinez-impulsa-encuentro-con-la-diaspora-salvadorena-en-mexico-para-fortalecer-la-inversion-y-la-cultura/",
+        "published_date": "2026-07-30 20:30:26",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "This is Cinthya, a young woman who defeated cancer thanks to the support of the foundation where she was a volunteer.",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/entrega-especial/ella-es-cinthya-una-joven-que-vencio-el-cancer-gracias-al-apoyo-de-la-fundacion-donde-era-voluntaria/",
+        "published_date": "2026-07-30 17:33:41",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Venezuela and UN activate Post-Disaster Needs Assessment after earthquakes",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/venezuela-y-onu-activan-evaluacion-de-necesidades-post-desastre-tras-sismos/",
@@ -119,25 +140,67 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Two men are captured for attacking another during a dance party in Santiago Nonualco",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-dos-hombres-por-agredir-a-otro-durante-una-fiesta-bailable-en-santiago-nonualco/",
-        "published_date": "2026-07-23 22:17:39",
-        "category": "Diplomacy"
+        "title": "Civil Protection inspects mechanical games at S\u00edvarLand prior to the 2026 Agostina Festivities",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/proteccion-civil-inspecciona-juegos-mecanicos-de-sivarland-previo-a-las-fiestas-agostinas-2026/",
+        "published_date": "2026-07-30 23:32:20",
+        "category": "Military"
     },
     {
-        "title": "China supports pushing UN reform in right direction, says Chinese FM",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/china-apoya-impulsar-reforma-de-onu-en-la-direccion-correcta-dice-canciller-chino/",
-        "published_date": "2026-07-23 10:50:57",
-        "category": "Diplomacy"
+        "title": "US Embassy delivered emergency response equipment to the Municipal Mayor's Office of Ahuachap\u00e1n Norte",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/embajada-de-ee-uu-entrego-equipo-para-respuesta-a-emergencias-a-la-alcaldia-municipal-de-ahuachapan-norte/",
+        "published_date": "2026-07-30 22:15:45",
+        "category": "Military"
     },
     {
-        "title": "El Salvador and T\u00fcrkiye consolidate their alliance to promote investment and development",
+        "title": "El Salvador accumulates 90.1 tons of drugs seized during the current administration",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/el-salvador-y-turkiye-consolidan-su-alianza-para-promover-inversion-y-desarrollo/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-turkiye-consolidan-su-alianza-para-promover-inversion-y-desarrollo",
-        "published_date": "2026-07-22 23:45:24",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-acumula-90-1-toneladas-de-droga-decomisadas-durante-la-actual-gestion/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-acumula-90-1-toneladas-de-droga-decomisadas-durante-la-actual-gestion",
+        "published_date": "2026-07-30 19:55:51",
+        "category": "Military"
+    },
+    {
+        "title": "Authorities deal a new blow to drug trafficking with the seizure of 1,362 kilos of cocaine",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/autoridades-asestan-nuevo-golpe-al-narcotrafico-con-decomiso-de-1362-kilos-de-cocaina/",
+        "published_date": "2026-07-30 19:55:03",
+        "category": "Military"
+    },
+    {
+        "title": "Betpro becomes the first authorized operator to integrate the \u201cLoter\u00eda Pagos\u201d gateway in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/negocios/betpro-se-convierte-en-el-primer-operador-autorizado-en-integrar-la-pasarela-loteria-pagos-en-el-salvador/",
+        "published_date": "2026-07-30 18:56:38",
+        "category": "Military"
+    },
+    {
+        "title": "PNC of Guatemala locates 70 explosive devices during inspection in a warehouse",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/pnc-de-guatemala-localiza-70-artefactos-explosivos-durante-inspeccion-en-una-bodega/",
+        "published_date": "2026-07-30 18:36:43",
+        "category": "Military"
+    },
+    {
+        "title": "Security and cleaning device in Sivarland 2026",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/dispositivo-de-seguridad-y-limpieza-en-sivarland-2026/?utm_source=rss&utm_medium=rss&utm_campaign=dispositivo-de-seguridad-y-limpieza-en-sivarland-2026",
+        "published_date": "2026-07-30 18:04:06",
+        "category": "Military"
+    },
+    {
+        "title": "They will deploy a comprehensive security, cleaning and emergency device in Sivarland 2026",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/desplegaran-dispositivo-integral-de-seguridad-limpieza-y-emergencias-en-sivarland-2026/",
+        "published_date": "2026-07-30 17:51:53",
+        "category": "Military"
+    },
+    {
+        "title": "Three PNC agents are captured for demanding money from a driver at a checkpoint",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/tres-agentes-de-la-pnc-son-capturados-por-exigir-dinero-a-un-conductor-en-un-reten/",
+        "published_date": "2026-07-30 17:50:24",
+        "category": "Military"
     },
     {
         "title": "PNC captures man for alleged illicit drug trafficking during raid in Conchal\u00edo",
@@ -214,69 +277,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/capturan-a-traficante-de-drogas-tras-allanamiento-en-colon/",
         "published_date": "2026-07-28 21:34:49",
-        "category": "Military"
-    },
-    {
-        "title": "Five dead babies found in a home in France",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/hallan-cinco-bebes-muertos-en-un-domicilio-en-francia/",
-        "published_date": "2026-07-28 21:25:06",
-        "category": "Military"
-    },
-    {
-        "title": "Anti-drug operation leaves one captured and the seizure of narcotics in Col\u00f3n",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/operativo-antidrogas-deja-un-capturado-y-el-decomiso-de-estupefacientes-en-colon/",
-        "published_date": "2026-07-28 20:53:41",
-        "category": "Military"
-    },
-    {
-        "title": "Man arrested accused of illicit trafficking after anti-drug intervention",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/detienen-a-hombre-acusado-de-trafico-ilicito-tras-intervencion-antidrogas/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-hombre-acusado-de-trafico-ilicito-tras-intervencion-antidrogas",
-        "published_date": "2026-07-28 20:53:15",
-        "category": "Military"
-    },
-    {
-        "title": "Authorities carried out a search at a liquor store where drugs were sold",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/autoridades-efectuaron-un-registro-en-una-venta-de-bebidas-alcoholicas-donde-vendian-droga/",
-        "published_date": "2026-07-28 20:41:34",
-        "category": "Military"
-    },
-    {
-        "title": "PNC arrests two people who tried to extort a woman",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/pnc-detiene-a-dos-personas-que-intentaron-extorsionaron-a-una-mujer/",
-        "published_date": "2026-07-28 20:37:35",
-        "category": "Military"
-    },
-    {
-        "title": "Four people are captured for illicit drug trafficking in La Libertad",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-cuatro-personas-por-trafico-ilicito-de-drogas-en-la-libertad/",
-        "published_date": "2026-07-28 20:23:55",
-        "category": "Military"
-    },
-    {
-        "title": "Assembly extends the emergency regime to consolidate the Government's security strategy",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/asamblea-amplia-regimen-de-excepcion-para-consolidar-estrategia-de-seguridad-de-gobierno/",
-        "published_date": "2026-07-28 20:15:54",
-        "category": "Military"
-    },
-    {
-        "title": "Eight members of the Hollywood Locos Salvatruchos clique of the MS were sentenced to up to 53 years in prison",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/ocho-integrantes-de-la-clica-hollywood-locos-salvatruchos-de-la-ms-fueron-condenados-hasta-con-53-anos-de-prision/",
-        "published_date": "2026-07-28 20:03:23",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador adds 24 days without homicides in July",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-salvador-suma-24-dias-sin-homicidios-en-julio/",
-        "published_date": "2026-07-28 15:17:06",
         "category": "Military"
     },
     {
@@ -448,143 +448,143 @@
         "category": "Economy"
     },
     {
-        "title": "Rafael Aguirre promises to stop layoffs, make public management transparent and reform health and education",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/rafael-aguirre-promete-frenar-despidos-transparentar-la-gestion-publica-y-reformar-salud-y-educacion/",
-        "published_date": "2026-07-30 11:04:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Magisterial Bases confirms that instructors were fired for their sexual orientation in Sonsonate",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/bases-magisteriales-confirma-que-instructores-fueron-despedidos-por-su-orientacion-sexual-en-sonsonate/",
-        "published_date": "2026-07-30 11:03:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "ARENA defines its candidates who will compete in the 2027 elections",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/arena-define-a-sus-candidatos-que-competiran-en-elecciones-2027/",
-        "published_date": "2026-07-30 11:02:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ondina Ramos denounces irregularities in ARENA internal elections",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ondina-ramos-denuncia-irregularidades-en-elecciones-internas-de-arena/",
-        "published_date": "2026-07-30 11:01:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rafael G\u00f3mez, PhD in Physics, confirms the presence of arsenic in bodies of water in San Isidro",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/rafael-gomez-dr-en-fisica-confirma-presencia-de-arsenico-en-cuerpos-de-aguas-en-san-isidro/",
-        "published_date": "2026-07-30 11:00:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "TPS from immigration crisis to humanitarian crisis",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/tps-de-crisis-migratoria-a-crisis-humanitaria/",
-        "published_date": "2026-07-30 10:59:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "July 30, 1975:\u00a0 struggle, blood and hopes of the Salvadoran university youth",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/30-de-julio-de-1975-lucha-sangre-y-esperanzas-de-la-juventud-universitaria-salvadorena/",
-        "published_date": "2026-07-30 10:58:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alianza beats Antigua GFC 2-1 and adds its first three points in the Central American Cup",
+        "title": "An avalanche of migrants swimming from Morocco collapses controls in Ceuta and puts Spain on alert",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/alianza-vence-2-1-a-antigua-gfc-y-suma-sus-primeros-tres-puntos-en-la-copa-centroamericana/",
-        "published_date": "2026-07-30 04:45:18",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/una-avalancha-de-migrantes-que-llegan-a-nado-desde-marruecos-colapsa-los-controles-en-ceuta-y-pone-en-alerta-a-espana/",
+        "published_date": "2026-07-30 23:21:47",
         "category": "Local Events"
     },
     {
-        "title": "The Women's Selecta debuts with victory against the Dominican Republic in Santo Domingo 2026",
+        "title": "UEFA and its federations will not participate in FIFA competitions",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/la-selecta-femenina-debuta-con-victoria-ante-republica-dominicana-en-santo-domingo-2026/",
-        "published_date": "2026-07-30 04:38:49",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/la-uefa-y-sus-federaciones-no-participaran-en-las-competiciones-de-la-fifa/",
+        "published_date": "2026-07-30 21:08:43",
         "category": "Local Events"
     },
     {
-        "title": "President Bukele remembers the phrase that moved the rescuers: \u201cThis is your World Cup\u201d",
+        "title": "BTS withdraws from Grammys after introducing Asian pop category",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/bts-se-retira-de-los-grammy-tras-la-introduccion-de-una-categoria-de-pop-asiatico/",
+        "published_date": "2026-07-30 21:01:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Agostina Festivities San Salvador 2026 in LOTRA raffle dedication",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/fiestas-agostinas-san-salvador-2026-en-dedicatoria-de-sorteo-lotra/",
+        "published_date": "2026-07-30 20:57:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ratification of agreement will validate licenses of Salvadoran and Italian drivers",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/presidente-bukele-recuerda-la-frase-que-conmovio-a-los-rescatistas-este-es-su-mundial/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-recuerda-la-frase-que-conmovio-a-los-rescatistas-este-es-su-mundial",
-        "published_date": "2026-07-30 02:46:52",
+        "url": "https://lapagina.com.sv/nacionales/ratificacion-de-convenio-validara-licencias-de-conductores-salvadorenos-e-italianos/?utm_source=rss&utm_medium=rss&utm_campaign=ratificacion-de-convenio-validara-licencias-de-conductores-salvadorenos-e-italianos",
+        "published_date": "2026-07-30 20:55:20",
         "category": "Local Events"
     },
     {
-        "title": "President Bukele affirms that helping other nations has brought blessings to El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-afirma-que-ayudar-a-otras-naciones-ha-traido-bendiciones-para-el-salvador/",
-        "published_date": "2026-07-30 02:42:09",
+        "title": "The talent of Salvadoran artists shined in the Latt Art competition",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/07/el-talento-de-los-baristas-salvadorenos-brilloen-la-competencia-de-arte-latt/",
+        "published_date": "2026-07-30 20:50:03",
         "category": "Local Events"
     },
     {
-        "title": "President Bukele highlights Salvadoran humanitarian missions abroad",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-resalta-las-misiones-humanitarias-salvadorenas-en-el-extranjero/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-resalta-las-misiones-humanitarias-salvadorenas-en-el-extranjero",
-        "published_date": "2026-07-30 02:36:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "KNOW THAT THE BLESSED ONE COMES TO THE SAVIOR!",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/sabe-que-el-bendito-llega-a-el-salvador/",
-        "published_date": "2026-07-30 02:35:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThis is your World Cup\u201d: President Bukele highlights the recognition that the Salvadoran mission in Venezuela received",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/este-es-su-mundial-presidente-bukele-destaca-el-reconocimiento-que-recibio-la-mision-salvadorena-en-venezuela/",
-        "published_date": "2026-07-30 01:49:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government highlights the dedication and bravery of the Salvadoran team that supported rescue efforts in Venezuela",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-destaca-la-entrega-y-valentia-del-equipo-salvadoreno-que-apoyo-labores-de-rescate-en-venezuela/",
-        "published_date": "2026-07-30 01:49:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele honors the Salvadoran humanitarian mission deployed in Venezuela",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-condecora-a-mision-humanitaria-salvadorena-desplegada-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-condecora-a-mision-humanitaria-salvadorena-desplegada-en-venezuela",
-        "published_date": "2026-07-30 01:45:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele thanks the work of the Salvadoran contingent that provided hope after the tragedy in Venezuela",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-agradece-la-labor-del-contingente-salvadoreno-que-brindo-esperanza-tras-la-tragedia-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-agradece-la-labor-del-contingente-salvadoreno-que-brindo-esperanza-tras-la-tragedia-en-venezuela",
-        "published_date": "2026-07-30 01:41:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele recognizes 270 Venezuelans who joined the humanitarian mission of El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-reconoce-a-270-venezolanos-que-se-unieron-a-la-mision-humanitaria-de-el-salvador/",
-        "published_date": "2026-07-30 01:39:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele honors the Salvadoran humanitarian mission deployed in Venezuela",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-condecora-a-mision-humanitaria-salvadorena-desplegada-en-venezuela/",
-        "published_date": "2026-07-30 01:33:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Generic Pharma begins a new stage of growth in El Salvador through a strategic alliance with BIOL",
+        "title": "Young worker loses his life while unloading products from a truck in Chalatenango",
         "source": "Cronio",
-        "url": "https://croniosv.com/negocios/generic-pharma-inicia-una-nueva-etapa-de-crecimiento-en-el-salvador-mediante-una-alianza-estrategica-con-biol/",
-        "published_date": "2026-07-30 00:56:48",
+        "url": "https://croniosv.com/nacionales/joven-trabajador-pierde-la-vida-mientras-descargaba-productos-de-un-camion-en-chalatenango/",
+        "published_date": "2026-07-30 20:32:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Augustinian festivities will reach the Historic Center of San Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/festejos-agostinos-llegaran-al-centro-historico-de-san-salvador/",
+        "published_date": "2026-07-30 20:31:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young man dies after falling from the roof of a house in Chalatenango",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/muere-joven-tras-caer-del-techo-de-una-vivienda-en-chalatenango/",
+        "published_date": "2026-07-30 20:22:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Patricia God\u00ednez highlights forum in Mexico to bring the Salvadoran diaspora closer to investment opportunities",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/patricia-godinez-destaca-foro-en-mexico-para-acercar-a-la-diaspora-salvadorena-a-las-oportunidades-de-inversion/?utm_source=rss&utm_medium=rss&utm_campaign=patricia-godinez-destaca-foro-en-mexico-para-acercar-a-la-diaspora-salvadorena-a-las-oportunidades-de-inversion",
+        "published_date": "2026-07-30 20:20:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attorney General highlights that El Salvador exceeds 14 tons of drugs seized",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/fiscal-general-destaca-que-el-salvador-supera-las-14-toneladas-de-droga-incautadas/?utm_source=rss&utm_medium=rss&utm_campaign=fiscal-general-destaca-que-el-salvador-supera-las-14-toneladas-de-droga-incautadas",
+        "published_date": "2026-07-30 20:04:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attorney General assures that El Salvador is no longer a territory of impunity for drug trafficking",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/fiscal-general-asegura-que-el-salvador-ya-no-es-un-territorio-de-impunidad-para-el-narcotrafico/",
+        "published_date": "2026-07-30 20:04:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rodolfo Delgado affirms that the Prosecutor's Office will bring to justice all those responsible for international drug trafficking",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/rodolfo-delgado-afirma-que-la-fiscalia-llevara-ante-la-justicia-a-todos-los-responsables-del-narcotrafico-internacional/?utm_source=rss&utm_medium=rss&utm_campaign=rodolfo-delgado-afirma-que-la-fiscalia-llevara-ante-la-justicia-a-todos-los-responsables-del-narcotrafico-internacional",
+        "published_date": "2026-07-30 20:02:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attorney General highlights historic fight against drug trafficking after cocaine seizure on the high seas",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/fiscal-general-destaca-historico-combate-al-narcotrafico-tras-decomiso-de-cocaina-en-altamar/",
+        "published_date": "2026-07-30 19:59:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Everything ready for the 9th pilgrimage of the Camino de San \u00d3scar Romero",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/todo-listo-para-la-9a-peregrinacion-del-camino-de-san-oscar-romero/",
+        "published_date": "2026-07-30 19:54:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "They capture the moment when a motorcyclist crashes into a car while trying to escape from a pack",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/captan-momento-en-que-motociclista-choca-contra-un-carro-al-intentar-escapar-de-una-jauria/",
+        "published_date": "2026-07-30 19:15:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Strong traffic accident involves truck and vehicle on Monse\u00f1or Romero Boulevard",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/fuerte-accidente-de-transito-involucra-a-camion-y-vehiculo-en-el-bulevar-monsenor-romero/",
+        "published_date": "2026-07-30 18:18:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "The DOM begins the remodeling of the educational center",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/la-dom-comienza-la-remodelacion-de-centro-educativo/",
+        "published_date": "2026-07-30 18:07:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u00abComapronto\u00bb opens a new branch in the Historic Center of San Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/comapronto-abre-nueva-sucursal-en-el-centro-historico-de-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=comapronto-abre-nueva-sucursal-en-el-centro-historico-de-san-salvador",
+        "published_date": "2026-07-30 18:00:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cComapronto\u201d Restaurant returns to the Historic Center of the capital",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/restaurante-comapronto-regresa-al-centro-historico-de-la-capital/",
+        "published_date": "2026-07-30 17:52:16",
         "category": "Local Events"
     }
 ]
