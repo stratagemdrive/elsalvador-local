@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "He killed him for a comment;They capture the person responsible for the crime in San Miguel",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/lo-mato-por-un-comentario-capturan-al-responsable-del-crimen-en-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=lo-mato-por-un-comentario-capturan-al-responsable-del-crimen-en-san-miguel",
+        "published_date": "2026-08-01 02:14:10",
+        "category": "Military"
+    },
+    {
+        "title": "Customs strengthens alliance with Ternova to promote safer and more competitive trade",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/aduanas-fortalece-alianza-con-ternova-para-impulsar-un-comercio-mas-seguro-y-competitivo/",
+        "published_date": "2026-08-01 00:08:48",
+        "category": "Military"
+    },
+    {
         "title": "Labor warns of sanctions for companies that fail to comply with the law during vacations",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/general/trabajo-advierte-sanciones-a-empresas-que-incumplan-la-ley-durante-las-vacaciones/?utm_source=rss&utm_medium=rss&utm_campaign=trabajo-advierte-sanciones-a-empresas-que-incumplan-la-ley-durante-las-vacaciones",
@@ -263,20 +277,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/autoridades-asestan-nuevo-golpe-al-narcotrafico-con-decomiso-de-1362-kilos-de-cocaina/",
         "published_date": "2026-07-30 19:55:03",
-        "category": "Military"
-    },
-    {
-        "title": "Betpro becomes the first authorized operator to integrate the \u201cLoter\u00eda Pagos\u201d gateway in El Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/negocios/betpro-se-convierte-en-el-primer-operador-autorizado-en-integrar-la-pasarela-loteria-pagos-en-el-salvador/",
-        "published_date": "2026-07-30 18:56:38",
-        "category": "Military"
-    },
-    {
-        "title": "PNC of Guatemala locates 70 explosive devices during inspection in a warehouse",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/pnc-de-guatemala-localiza-70-artefactos-explosivos-durante-inspeccion-en-una-bodega/",
-        "published_date": "2026-07-30 18:36:43",
         "category": "Military"
     },
     {
@@ -448,6 +448,97 @@
         "category": "Economy"
     },
     {
+        "title": "Rafael Aguirre proposes decentralizing investment and tax reform in his economic proposal",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/rafael-aguirre-plantea-descentralizar-la-inversion-y-una-reforma-fiscal-en-su-propuesta-economica/",
+        "published_date": "2026-08-01 11:06:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "VAMOS calls internal elections to renew party authorities in September",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/vamos-convoca-elecciones-internas-para-renovar-autoridades-partidarias-en-septiembre/",
+        "published_date": "2026-08-01 11:04:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "FUNDEMAS and CRS promote youth employability with the \u201cOYE 2026\u201d fair",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fundemas-y-crs-impulsan-empleabilidad-juvenil-con-feria-oye-2026/",
+        "published_date": "2026-08-01 11:03:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "FEASIES promotes a campaign to defend the rights of maquila workers in La Paz",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/feasies-impulsa-campana-para-defender-los-derechos-de-trabajadores-de-maquila-en-la-paz/",
+        "published_date": "2026-08-01 11:02:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Solidarity with Cuba through art",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/solidaridad-con-cuba-a-traves-del-arte/",
+        "published_date": "2026-08-01 11:01:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "THE PULSE CALLS US TO PAUSE;WITH OPEN MINDS AND HEARTS",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-pulso-nos-convoca-a-la-pausa-con-mentes-y-corazones-abiertos/",
+        "published_date": "2026-08-01 10:59:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Clues point to Israeli involvement in Egyptian port attack",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/las-pistas-apuntan-a-la-participacion-israeli-en-el-ataque-al-puerto-egipcio/",
+        "published_date": "2026-08-01 10:58:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fuerte San Francisco thrashes Firpo 4-0 on the second date of the Women's League",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fuerte-san-francisco-golea-4-0-a-firpo-en-la-segunda-fecha-de-la-liga-femenina/",
+        "published_date": "2026-08-01 03:19:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former Peruvian president Ollanta Humala leaves prison after ruling by the highest court",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/expresidente-peruano-ollanta-humala-abandona-prision-tras-fallo-de-maximo-tribunal/",
+        "published_date": "2026-08-01 02:36:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele praises Gabriela de Bukele after a day with thousands of children in the Historic Center: \"The best First Lady that El Salvador has ever had\"",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/presidente-bukele-elogia-a-gabriela-de-bukele-tras-jornada-con-miles-de-ninos-en-el-centro-historico-la-mejor-primera-dama-que-ha-tenido-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-elogia-a-gabriela-de-bukele-tras-jornada-con-miles-de-ninos-en-el-centro-historico-la-mejor-primera-dama-que-ha-tenido-el-salvador",
+        "published_date": "2026-08-01 02:35:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Festivity of the Divine Savior of the World in Santa Tecla",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-festividad-del-divino-salvador-del-mundo-en-santa-tecla/",
+        "published_date": "2026-08-01 02:32:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"The best First Lady that El Salvador has ever had\": President Bukele recognizes the work of the First Lady, Gabriela de Bukele",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/la-mejor-primera-dama-que-ha-tenido-el-salvador-presidente-bukele-reconoce-la-labor-de-la-primera-dama-gabriela-de-bukele/",
+        "published_date": "2026-08-01 02:30:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Family friendly spaces promoted with the Game Festival in the Historic Center",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/impulsan-espacios-family-friendly-con-el-festival-del-juego-en-el-centro-historico/?utm_source=rss&utm_medium=rss&utm_campaign=impulsan-espacios-family-friendly-con-el-festival-del-juego-en-el-centro-historico",
+        "published_date": "2026-08-01 01:08:07",
+        "category": "Local Events"
+    },
+    {
         "title": "Fire consumes vehicle in Ahuachap\u00e1n",
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/incendio-consume-vehiculo-en-ahuachapan/",
@@ -494,97 +585,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/autoridades-presentan-el-plan-vacacion-2026/",
         "published_date": "2026-07-31 18:24:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "VMT announces inspections of collective transportation during the August holidays",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/vmt-anuncia-inspecciones-al-transporte-colectivo-durante-las-vacaciones-agostinas/",
-        "published_date": "2026-07-31 17:42:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "15 years in prison for MS extortionist",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/15-anos-de-carcel-para-extorsionista-de-la-ms/",
-        "published_date": "2026-07-31 17:34:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "15 years in prison for MS gang member for extortion",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/15-anos-de-prision-para-pandillero-de-la-ms-por-extorsion/?utm_source=rss&utm_medium=rss&utm_campaign=15-anos-de-prision-para-pandillero-de-la-ms-por-extorsion",
-        "published_date": "2026-07-31 17:25:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Political parties will have one month to register candidacies before the TSE",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/partidos-politicos-tendran-un-mes-para-inscribir-candidaturas-ante-el-tse/",
-        "published_date": "2026-07-31 17:25:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reconstruction and improvement work on wall in front of Sunset Park progresses",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/avanzan-trabajos-de-reconstruccion-y-mejoramiento-de-muro-frente-a-sunset-park/",
-        "published_date": "2026-07-31 17:23:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cacahuatique scores and Metap\u00e1n conquers the Santaneco derby on the second date of the Apertura",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cacahuatique-golea-y-metapan-conquista-el-derbi-santaneco-en-la-segunda-fecha-del-apertura/",
-        "published_date": "2026-07-31 17:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The AFC joins the fight against FIFA and rejects its commercial plan for the World Cup",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/la-afc-se-suma-al-pulso-contra-la-fifa-y-rechaza-su-plan-comercial-para-el-mundial/",
-        "published_date": "2026-07-31 17:09:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "South Koreans support the training of students in schools in San Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/surcoreanos-apoyan-la-formacion-de-estudiantes-en-escuelas-de-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=surcoreanos-apoyan-la-formacion-de-estudiantes-en-escuelas-de-san-salvador",
-        "published_date": "2026-07-31 17:08:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "South Korean volunteers support the training of students in schools in San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/voluntarios-surcoreanos-apoyan-la-formacion-de-estudiantes-en-escuelas-de-san-salvador/",
-        "published_date": "2026-07-31 17:01:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "CONCACAF rejects Infantino's plan for the World Cup after UEFA boycott threat",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/07/concacaf-rechaza-el-plan-de-infantino-para-el-mundial-tras-amenaza-de-boicot-de-uefa/",
-        "published_date": "2026-07-31 16:57:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "20 years in prison for subject who abused a minor",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/20-anos-de-prision-para-sujeto-que-abuso-de-una-menor-de-edad/?utm_source=rss&utm_medium=rss&utm_campaign=20-anos-de-prision-para-sujeto-que-abuso-de-una-menor-de-edad",
-        "published_date": "2026-07-31 16:13:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "20 years in prison for subject who abused a minor",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/20-anos-de-prision-para-sujeto-que-abuso-de-una-menor-de-edad/",
-        "published_date": "2026-07-31 16:03:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The heartbreaking case of an elderly woman evicted from her home due to a family dispute in Guatemala",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/el-desgarrador-caso-de-una-anciana-desalojada-de-su-vivienda-por-una-disputa-familiar-en-guatemala/?utm_source=rss&utm_medium=rss&utm_campaign=el-desgarrador-caso-de-una-anciana-desalojada-de-su-vivienda-por-una-disputa-familiar-en-guatemala",
-        "published_date": "2026-07-31 15:58:34",
         "category": "Local Events"
     }
 ]
