@@ -105,6 +105,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "They capture a young man reported by neighbors in Soyapango for trying to reactivate gangs",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-joven-denunciado-por-vecinos-en-soyapango-por-intentar-reactivar-pandillas/",
+        "published_date": "2026-08-03 03:04:49",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a gang member from 18 after a complaint on social networks",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-pandillero-de-la-18-tras-denuncia-en-redes-sociales/",
+        "published_date": "2026-08-03 02:52:57",
+        "category": "Military"
+    },
+    {
         "title": "They investigate the homicide of a 66-year-old man whose body was found with burns in El Divisadero",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/08/investigan-homicidio-de-hombre-de-66-anos-cuyo-cuerpo-fue-encontrado-con-quemaduras-en-el-divisadero/",
@@ -228,20 +242,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/desarticulan-estructura-narcotraficante-que-operaba-en-el-pais/",
         "published_date": "2026-08-01 15:19:33",
-        "category": "Military"
-    },
-    {
-        "title": "They dismantle drug trafficking structure that operated in the country",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/desarticulan-estructura-narcotrafico-que-operaba-en-el-pais/",
-        "published_date": "2026-08-01 15:15:19",
-        "category": "Military"
-    },
-    {
-        "title": "He killed him for a comment;They capture the person responsible for the crime in San Miguel",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/lo-mato-por-un-comentario-capturan-al-responsable-del-crimen-en-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=lo-mato-por-un-comentario-capturan-al-responsable-del-crimen-en-san-miguel",
-        "published_date": "2026-08-01 02:14:10",
         "category": "Military"
     },
     {
@@ -392,6 +392,118 @@
         "category": "Economy"
     },
     {
+        "title": "Camino de Monse\u00f1or Romero pilgrimage ends with a call for justice and peace",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/peregrinacion-camino-de-monsenor-romero-finaliza-con-llamado-a-la-justicia-y-la-paz/",
+        "published_date": "2026-08-03 11:06:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Agostina Festivities: faith, tradition and culture mark the festivities in honor of the Divine Savior of the World",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fiestas-agostinas-fe-tradicion-y-cultura-marcan-las-fiestas-en-honor-al-divino-salvador-del-mundo/",
+        "published_date": "2026-08-03 11:05:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ministry of Education annuls the new guidelines for the 2026 civic parades",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ministerio-de-educacion-deja-sin-efecto-los-nuevos-lineamientos-para-los-desfiles-civicos-de-2026/",
+        "published_date": "2026-08-03 11:04:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gunpowder burning leaves more than 30 injured in Chinameca",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/quema-de-polvora-deja-mas-de-30-lesionados-en-chinameca/",
+        "published_date": "2026-08-03 11:03:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man reported missing was found dead in Moraz\u00e1n Sur",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/hombre-reportado-como-desaparecido-fue-encontrado-sin-vida-en-morazan-sur/",
+        "published_date": "2026-08-03 11:02:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "One deceased and one survivor leaves an accident in a clandestine mine in San Sebasti\u00e1n",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/un-fallecido-y-un-sobreviviente-deja-accidente-en-mina-clandestina-en-san-sebastian/",
+        "published_date": "2026-08-03 11:01:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pension reform remains pending despite commitment made to the IMF",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/reforma-de-pensiones-sigue-pendiente-pese-a-compromiso-asumido-con-el-fmi/",
+        "published_date": "2026-08-03 11:00:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWHAT MORAL IS THAT?\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/que-moral-es-esa/",
+        "published_date": "2026-08-03 10:59:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump announces talks with Iran on Monday",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/trump-anuncia-conversaciones-con-iran-el-lunes/",
+        "published_date": "2026-08-03 10:39:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spanish government figures 72 deaths in Ceuta",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/gobierno-espanol-cifra-en-72-muertes-en-ceuta/",
+        "published_date": "2026-08-03 10:35:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vozinha arrives in Chile to sign for Colo Colo",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/vozinha-llega-a-chile-para-fichar-por-colo-colo/",
+        "published_date": "2026-08-03 02:59:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ministry of Education confirms that student parades will be held as in previous years",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/ministerio-de-educacion-confirma-que-desfiles-estudiantiles-se-realizaran-como-en-anos-anteriores/",
+        "published_date": "2026-08-03 02:47:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Women's Selecta defeats Costa Rica and qualifies for the semifinals of Santo Domingo 2026",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/la-selecta-femenina-vence-a-costa-rica-y-clasifica-a-semifinales-de-santo-domingo-2026/",
+        "published_date": "2026-08-03 02:37:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man fined $900 for charging for illegal parking near S\u00edvarLand",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/multan-con-900-a-hombre-por-cobrar-parqueo-ilegal-cerca-de-sivarland/",
+        "published_date": "2026-08-03 01:23:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "MARN warns of increased heat and little chance of rain this Sunday",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/marn-advierte-incremento-de-calor-y-poca-probabilidad-de-lluvia-este-domingo/",
+        "published_date": "2026-08-03 01:21:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ministry of Education rescinds provisions for the 2026 Student Civic Parades",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/ministerio-de-educacion-deja-sin-efecto-disposiciones-para-los-desfiles-civicos-estudiantiles-2026/",
+        "published_date": "2026-08-03 00:34:37",
+        "category": "Local Events"
+    },
+    {
         "title": "Changes in civic parades are void",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/dejan-ain-efecto-cambios-en-desfiles-civicos/?utm_source=rss&utm_medium=rss&utm_campaign=dejan-ain-efecto-cambios-en-desfiles-civicos",
@@ -413,122 +525,10 @@
         "category": "Local Events"
     },
     {
-        "title": "They inspect food businesses in tourist areas of the country",
+        "title": "Salvadorans fill the S\u00edvarLand fair",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/inspeccionan-negocios-de-alimentos-en-zonas-turisticas-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=inspeccionan-negocios-de-alimentos-en-zonas-turisticas-del-pais",
-        "published_date": "2026-08-02 22:02:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran entrepreneurs present their work in the new edition of SMODA",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/emprendedores-salvadorenos-presentan-su-trabajo-en-nueva-edicion-del-smoda/?utm_source=rss&utm_medium=rss&utm_campaign=emprendedores-salvadorenos-presentan-su-trabajo-en-nueva-edicion-del-smoda",
-        "published_date": "2026-08-02 21:42:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 52% of Santanecos would be willing to re-elect Gustavo Acevedo, according to a study",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mas-del-52-de-santanecos-estaria-dispuesto-a-reelegir-a-gustavo-acevedo-segun-estudio/?utm_source=rss&utm_medium=rss&utm_campaign=mas-del-52-de-santanecos-estaria-dispuesto-a-reelegir-a-gustavo-acevedo-segun-estudio",
-        "published_date": "2026-08-02 20:50:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "UES survey reflects support for the management of Mayor Gustavo Acevedo in Santa Ana Centro",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/encuesta-de-la-ues-refleja-respaldo-a-la-gestion-del-alcalde-gustavo-acevedo-en-santa-ana-centro/",
-        "published_date": "2026-08-02 20:46:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "They identify a young man drowned in the Chapeltique river, San Miguel",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/identifican-a-joven-ahogado-en-rio-de-chapeltique-san-miguel/",
-        "published_date": "2026-08-02 20:42:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador International Airport exceeds 3 million passengers",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/aeropuerto-internacional-de-el-salvador-supera-los-3-millones-de-pasajeros/",
-        "published_date": "2026-08-02 20:25:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Airport ready for August Holidays 2026",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/aeropuerto-listo-para-las-vacaciones-de-agosto-2026/",
-        "published_date": "2026-08-02 20:17:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Couple of motorcyclists injured in traffic accident in Soyapango",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/pareja-de-motociclistas-resulta-lesionada-en-accidente-de-transito-en-soyapango/?utm_source=rss&utm_medium=rss&utm_campaign=pareja-de-motociclistas-resulta-lesionada-en-accidente-de-transito-en-soyapango",
-        "published_date": "2026-08-02 19:35:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "MUNA presents historic discovery from 2,900 years ago with innovative interactive experience",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/muna-presenta-historico-hallazgo-de-hace-2900-anos-con-innovadora-experiencia-interactiva/?utm_source=rss&utm_medium=rss&utm_campaign=muna-presenta-historico-hallazgo-de-hace-2900-anos-con-innovadora-experiencia-interactiva",
-        "published_date": "2026-08-02 19:13:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Discovery of bones from almost 2,900 years ago arrives at MUNA with artificial intelligence technology",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/descubrimiento-de-osamenta-de-hace-casi-2900-anos-llega-al-muna-con-tecnologia-de-inteligencia-artificial/",
-        "published_date": "2026-08-02 19:01:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "August vacations promote the reunion of Salvadorans with their families",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/vacaciones-agostinas-impulsan-el-reencuentro-de-salvadorenos-con-sus-familias/",
-        "published_date": "2026-08-02 17:39:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Honduras: They capture a man who dragged a dog tied to his vehicle in Choloma",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/honduras-capturan-a-hombre-que-arrastro-a-un-perro-atado-a-su-vehiculo-en-choloma/",
-        "published_date": "2026-08-02 16:55:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shooting at In-N-Out in Idaho leaves 3 dead and 7 injured;suspect also died",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/tiroteo-en-in-n-out-de-idaho-deja-3-muertos-y-7-heridos-sospechoso-tambien-fallecio/",
-        "published_date": "2026-08-02 16:21:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Between 25 and 30 injured by gunpowder burning in Chinameca patron saint festivities",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/entre-25-y-30-lesionados-por-quema-de-polvora-en-fiestas-patronales-de-chinameca/",
-        "published_date": "2026-08-02 16:01:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marina Spadoni wins gold and breaks record in 50 meter butterfly in Santo Domingo 2026",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/marina-spadoni-gana-oro-y-rompe-record-en-50-metros-mariposa-en-santo-domingo-2026/",
-        "published_date": "2026-08-02 15:52:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marina Spadoni wins gold and sets a record in the 50 meter butterfly in Santo Domingo 2026",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/marina-spadoni-conquista-el-oro-e-impone-record-en-los-50-metros-mariposa-de-santo-domingo-2026/",
-        "published_date": "2026-08-02 15:34:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Terror CIFCO returns to Fenadesal with its seventh edition \u201cEl Contacto\u201d",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/terror-cifco-regresa-a-fenadesal-con-su-septima-edicion-el-contacto/",
-        "published_date": "2026-08-02 07:02:50",
+        "url": "https://lapagina.com.sv/nacionales/salvadorenos-abarrotan-feria-sivarland/?utm_source=rss&utm_medium=rss&utm_campaign=salvadorenos-abarrotan-feria-sivarland",
+        "published_date": "2026-08-02 22:10:34",
         "category": "Local Events"
     }
 ]
