@@ -1,5 +1,12 @@
 [
     {
+        "title": "Woman is injured after falling from a tree while collecting fruits in Santiago Nonualco",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/mujer-resulta-lesionada-tras-caer-de-un-arbol-mientras-recolectaba-frutas-en-santiago-nonualco/",
+        "published_date": "2026-08-04 21:32:38",
+        "category": "Diplomacy"
+    },
+    {
         "title": "China highlights progress of the Global Development Initiative on its fifth anniversary",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/china-destaca-avances-de-la-iniciativa-de-desarrollo-global-en-su-quinto-aniversario/",
@@ -91,11 +98,74 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Commercial mission of a Salvadoran company promotes investment opportunities and logistics development in Argentina",
+        "title": "They capture three subjects for illicit groups thanks to citizen complaints",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-tres-sujetos-por-agrupaciones-ilicitas-gracias-a-denuncias-ciudadanas/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-tres-sujetos-por-agrupaciones-ilicitas-gracias-a-denuncias-ciudadanas",
+        "published_date": "2026-08-04 22:30:27",
+        "category": "Military"
+    },
+    {
+        "title": "PNC reinforces vehicle controls during the holiday period",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/pnc-refuerza-controles-vehiculares-durante-el-periodo-vacacional/",
+        "published_date": "2026-08-04 21:09:40",
+        "category": "Military"
+    },
+    {
+        "title": "PHOTOS |Three gang members captured after citizen complaint",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/fotos-capturan-a-tres-pandilleros-tras-denuncia-ciudadana/",
+        "published_date": "2026-08-04 19:43:12",
+        "category": "Military"
+    },
+    {
+        "title": "POLITUR reinforces security and assistance in aquatic destinations during the August holidays",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/politur-refuerza-la-seguridad-y-asistencia-en-destinos-acuaticos-durante-las-vacaciones-agostinas/",
+        "published_date": "2026-08-04 19:01:02",
+        "category": "Military"
+    },
+    {
+        "title": "They present the capture of the content creator known as \u201cCristian Megu\u201d after a traffic accident",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/presentan-la-captura-del-creador-de-contenido-conocido-como-cristian-megu-tras-accidente-de-transito/?utm_source=rss&utm_medium=rss&utm_campaign=presentan-la-captura-del-creador-de-contenido-conocido-como-cristian-megu-tras-accidente-de-transito",
+        "published_date": "2026-08-04 18:14:02",
+        "category": "Military"
+    },
+    {
+        "title": "They arrest a content creator who allegedly tried to flee after a road accident",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/mision-comercial-de-empresa-salvadorena-promueve-oportunidades-de-inversion-y-desarrollo-logistico-en-argentina/",
-        "published_date": "2026-07-27 20:40:38",
-        "category": "Diplomacy"
+        "url": "https://diariolahuella.com/detienen-a-creador-de-contenido-que-presuntamente-intento-huir-tras-un-percance-vial/",
+        "published_date": "2026-08-04 18:05:01",
+        "category": "Military"
+    },
+    {
+        "title": "They capture three members of criminal structures after citizen complaints",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-tres-integrantes-de-estructuras-criminales-tras-denuncias-ciudadanas/",
+        "published_date": "2026-08-04 17:46:26",
+        "category": "Military"
+    },
+    {
+        "title": "Man will face criminal proceedings for the murder of a woman in Santa Ana",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/hombre-enfrentara-proceso-penal-por-el-homicidio-de-una-mujer-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=hombre-enfrentara-proceso-penal-por-el-homicidio-de-una-mujer-en-santa-ana",
+        "published_date": "2026-08-04 16:08:27",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a man responsible for the murder of a woman in Santa Ana",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-hombre-responsable-del-homicidio-de-una-mujer-en-santa-ana/",
+        "published_date": "2026-08-04 16:05:59",
+        "category": "Military"
+    },
+    {
+        "title": "PNC maintains vehicle controls to prevent risks and detect people with outstanding accounts",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/pnc-mantiene-controles-vehiculares-para-prevenir-riesgos-y-detectar-a-personas-con-cuentas-pendientes/",
+        "published_date": "2026-08-04 15:41:52",
+        "category": "Military"
     },
     {
         "title": "Woman arrested after injuring her life partner with a knife",
@@ -168,74 +238,11 @@
         "category": "Military"
     },
     {
-        "title": "Three arrested for the murder of a man after an argument in Apaneca",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/tres-detenidos-por-el-homicidio-de-un-hombre-tras-una-discusion-en-apaneca/?utm_source=rss&utm_medium=rss&utm_campaign=tres-detenidos-por-el-homicidio-de-un-hombre-tras-una-discusion-en-apaneca",
-        "published_date": "2026-08-03 16:33:28",
-        "category": "Military"
-    },
-    {
-        "title": "They capture those responsible for the homicide reported in Moraz\u00e1n",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-responsables-del-homicidio-reportado-en-morazan/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-responsables-del-homicidio-reportado-en-morazan",
-        "published_date": "2026-08-03 14:40:21",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a young man reported by neighbors in Soyapango for trying to reactivate gangs",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-joven-denunciado-por-vecinos-en-soyapango-por-intentar-reactivar-pandillas/",
-        "published_date": "2026-08-03 03:04:49",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a gang member from 18 after a complaint on social networks",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-pandillero-de-la-18-tras-denuncia-en-redes-sociales/",
-        "published_date": "2026-08-03 02:52:57",
-        "category": "Military"
-    },
-    {
-        "title": "They investigate the homicide of a 66-year-old man whose body was found with burns in El Divisadero",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/investigan-homicidio-de-hombre-de-66-anos-cuyo-cuerpo-fue-encontrado-con-quemaduras-en-el-divisadero/",
-        "published_date": "2026-08-02 22:55:10",
-        "category": "Military"
-    },
-    {
-        "title": "They capture an 18-year-old young man for distributing drugs in Col\u00f3n, La Libertad",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-joven-de-18-anos-por-distribuir-drogas-en-colon-la-libertad/",
-        "published_date": "2026-08-02 20:50:44",
-        "category": "Military"
-    },
-    {
-        "title": "Villatoro highlights that security allows Salvadorans to enjoy vacations freely",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/villatoro-destaca-que-la-seguridad-permite-a-los-salvadorenos-disfrutar-las-vacaciones-con-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=villatoro-destaca-que-la-seguridad-permite-a-los-salvadorenos-disfrutar-las-vacaciones-con-libertad",
-        "published_date": "2026-08-02 20:16:05",
-        "category": "Military"
-    },
-    {
-        "title": "Minister of Security assures that order and peace make El Salvador a destination to enjoy without fear",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ministro-de-seguridad-asegura-que-el-orden-y-la-paz-convierten-a-el-salvador-en-un-destino-para-disfrutar-sin-temor/",
-        "published_date": "2026-08-02 20:11:38",
-        "category": "Military"
-    },
-    {
-        "title": "They rescue a person who was about to drown in Playa San Blas",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/rescatan-a-persona-que-estuvo-apunto-de-ahogarse-en-playa-san-blas/?utm_source=rss&utm_medium=rss&utm_campaign=rescatan-a-persona-que-estuvo-apunto-de-ahogarse-en-playa-san-blas",
-        "published_date": "2026-08-02 18:35:36",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a young drug distributor after a raid on a home in Col\u00f3n",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-joven-distribuidor-de-droga-tras-allanamiento-en-vivienda-en-colon/",
-        "published_date": "2026-08-02 17:58:45",
-        "category": "Military"
+        "title": "Fuels are close to $5 after an increase of up to $0.17 per gallon",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/combustibles-rozan-los-5-tras-incremento-de-hasta-0-17-al-galon/",
+        "published_date": "2026-08-04 20:37:19",
+        "category": "Energy"
     },
     {
         "title": "Find out about the new fuel reference prices",
@@ -249,13 +256,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/crisis-en-medio-oriente-provoca-alza-de-0-17-en-precios-de-combustibles/",
         "published_date": "2026-08-03 14:46:29",
-        "category": "Energy"
-    },
-    {
-        "title": "El Salvador is emerging as an energy exporter in Central America, says ETESAL",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-se-perfila-como-exportador-de-energia-en-centroamerica-afirma-etesal/",
-        "published_date": "2026-07-27 17:53:51",
         "category": "Energy"
     },
     {
@@ -392,150 +392,143 @@
         "category": "Economy"
     },
     {
-        "title": "Incorrect statement by an IMF official",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/incorrecta-declaracion-de-un-funcionario-del-fmi/",
-        "published_date": "2026-07-27 22:58:18",
-        "category": "Economy"
-    },
-    {
-        "title": "Luis \u00c1ngel Firpo will debut against Plaza Amador in the 2026 Central American Cup",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/luis-angel-firpo-debutara-ante-plaza-amador-en-la-copa-centroamericana-2026/",
-        "published_date": "2026-08-04 13:03:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "On hunger strike for the defense of the territories and the release of innocent detainees",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/en-huelga-de-hambre-por-defensa-de-los-territorios-y-liberacion-de-inocentes-detenidos/",
-        "published_date": "2026-08-04 11:04:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six deaths with indications of suicide marked July;gaps persist in official statistics and prevention",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/seis-muertes-con-indicios-de-suicidio-marcaron-julio-persisten-vacios-en-estadisticas-oficiales-y-prevencion/",
-        "published_date": "2026-08-04 11:02:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "AFPs and banks increase profits while low pensions and salaries persist",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/afps-y-banca-incrementan-ganancias-mientras-persisten-bajas-pensiones-y-salarios/",
-        "published_date": "2026-08-04 11:01:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Photovoltaic project in the West generates concern about environmental impacts, says \u00c1ngel Flores of MILPA",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/proyecto-fotovoltaico-en-occidente-genera-preocupacion-por-afectaciones-ambientales-afirma-angel-flores-de-milpa/",
-        "published_date": "2026-08-04 11:00:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of deaths from earthquakes in Venezuela increases to 6,125",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/aumenta-a-6-125-la-cifra-de-fallecidos-por-sismos-en-venezuela/",
-        "published_date": "2026-08-04 10:50:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "CAM San Salvador carries out an operation to prevent illegal parking charges in the surroundings of S\u00edvarLand",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/cam-san-salvador-realiza-operativo-para-prevenir-cobros-ilegales-de-parqueo-en-los-alrededores-de-sivarland/",
-        "published_date": "2026-08-04 04:08:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Andr\u00e9s Espinoza, founder of Yolocamba I T\u00e1 and reference of Salvadoran committed music, dies",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/muere-andres-espinoza-fundador-de-yolocamba-i-ta-y-referente-de-la-musica-comprometida-salvadorena/",
-        "published_date": "2026-08-04 03:37:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "President and CCR Magistrates supervise the Control Plan for the Use of National Vehicles",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/presidente-y-magistrados-ccr-supervisan-el-plan-de-fiscalizacion-del-uso-de-vehiculos-nacionales/",
-        "published_date": "2026-08-04 02:12:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "We're talking to Iran 'right now,' says Trump",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/estamos-conversando-con-iran-en-este-preciso-momento-dice-trump/",
-        "published_date": "2026-08-04 01:09:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court of Accounts supervises use of national vehicles during vacation periods",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/corte-de-cuentas-supervisa-uso-de-vehiculos-nacionales-en-periodo-vacacional/",
-        "published_date": "2026-08-03 23:35:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Families learn to make piscuchas during the Traditions Festival in the Historic Center",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/familias-aprenden-a-elaborar-piscuchas-durante-el-festival-tradiciones-en-el-centro-historico/",
-        "published_date": "2026-08-03 23:24:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Committed citizens carry out a hunger strike in the Historic Center",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ciudadanos-comprometidos-realizan-una-huelga-de-hambre-en-el-centro-historico/",
-        "published_date": "2026-08-03 23:04:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "FGR will request life sentences for two accused of homicide in El Divisadero, Moraz\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/fgr-solicitara-cadena-perpetua-para-dos-acusados-de-homicidio-en-el-divisadero-morazan/",
-        "published_date": "2026-08-03 22:47:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "76-year-old woman dies after suffering a fall in her home in Zacatecoluca",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/mujer-de-76-anos-fallece-tras-sufrir-una-caida-en-su-vivienda-en-zacatecoluca/",
-        "published_date": "2026-08-03 22:33:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "They push an older adult when he was about to cross the finish line of a race and the event generates outrage",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/empujan-a-un-adulto-mayor-cuando-estaba-por-cruzar-la-meta-de-una-carrera-y-el-hecho-genera-indignacion/",
-        "published_date": "2026-08-03 22:06:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "FGR will ask for life sentences for murderers of older adults in Moraz\u00e1n",
+        "title": "MS leaders receive up to 40 years in prison for murders and other crimes",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/fgr-pedira-cadena-perpetua-para-homicidas-de-adulto-mayor-en-morazan/?utm_source=rss&utm_medium=rss&utm_campaign=fgr-pedira-cadena-perpetua-para-homicidas-de-adulto-mayor-en-morazan",
-        "published_date": "2026-08-03 22:04:27",
+        "url": "https://lapagina.com.sv/nacionales/cabecillas-de-la-ms-reciben-hasta-40-anos-de-carcel-por-asesinatos-y-otros-delitos/?utm_source=rss&utm_medium=rss&utm_campaign=cabecillas-de-la-ms-reciben-hasta-40-anos-de-carcel-por-asesinatos-y-otros-delitos",
+        "published_date": "2026-08-04 22:59:26",
         "category": "Local Events"
     },
     {
-        "title": "The eclipse of thought in the era of synthesized knowledge \u2013 Lisandro Prieto Femen\u00eda",
-        "source": "Cronio",
-        "url": "https://croniosv.com/opinet/el-eclipse-del-pensamiento-en-la-era-del-saber-sintetizado-lisandro-prieto-femenia/",
-        "published_date": "2026-08-03 21:50:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ex-partner of \u201cBaby Meshi\u201d denounces alleged physical attacks and threats",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/expareja-de-baby-meshi-denuncia-presuntas-agresiones-fisicas-y-amenazas/",
-        "published_date": "2026-08-03 21:13:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran bonds increase their value in international markets",
+        "title": "MS gang members in San Miguel sentenced to up to 40 years in prison",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/bonos-salvadorenos-aumentan-su-valor-en-mercados-internacionales/",
-        "published_date": "2026-08-03 20:55:07",
+        "url": "https://diariolahuella.com/condenan-hasta-con-40-anos-de-prision-a-pandilleros-de-la-ms-en-san-miguel/",
+        "published_date": "2026-08-04 22:57:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "CCR intensifies supervision of the use of national vehicles in Apopa",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/ccr-intensifica-supervisiones-al-uso-de-vehiculos-nacionales-en-apopa/?utm_source=rss&utm_medium=rss&utm_campaign=ccr-intensifica-supervisiones-al-uso-de-vehiculos-nacionales-en-apopa",
+        "published_date": "2026-08-04 22:40:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Verifications continue on the use of State vehicles in different parts of the country",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/continuan-las-verificaciones-al-uso-de-vehiculos-del-estado-en-distintos-puntos-del-pais/",
+        "published_date": "2026-08-04 22:39:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young motorcyclist dies after accident caused by driver who fled",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/joven-motociclista-pierde-la-vida-tras-accidente-causado-por-conductor-que-huyo/",
+        "published_date": "2026-08-04 22:11:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "S\u00edvar Band 2026 brings together 16 peace bands in the Historic Center of San Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/sivar-band-2026-reune-a-16-bandas-de-paz-en-el-centro-historico-de-san-salvador/",
+        "published_date": "2026-08-04 21:11:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Elderly adult is injured after a road accident in the San Jacinto neighborhood",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/adulto-mayor-resulta-lesionado-tras-siniestro-vial-en-el-barrio-san-jacinto/",
+        "published_date": "2026-08-04 20:58:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Civil Protection reports reduction in accidents and deaths during the beginning of the holiday period",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/proteccion-civil-reporta-reduccion-de-accidentes-y-fallecidos-durante-el-inicio-del-periodo-vacacional/",
+        "published_date": "2026-08-04 20:48:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inter Tecla is the leader of the Apertura 2026 with 9 points",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/inter-tecla-derrota-por-la-minima-al-fuerte-san-francisco-aldo-medina-colaborador-un-partido-bastante-complicado-fue-el-que-se-tuvo-en-cancha-correcaminos/",
+        "published_date": "2026-08-04 20:48:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities report 11 people died in the first three days of August holidays in 2026",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/autoridades-reportan-11-personas-fallecidas-en-los-primeros-tres-dias-de-vacaciones-agostinas-2026/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-reportan-11-personas-fallecidas-en-los-primeros-tres-dias-de-vacaciones-agostinas-2026",
+        "published_date": "2026-08-04 20:36:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man is injured after falling from the roof of his home",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/hombre-resulta-lesionado-tras-caer-del-techo-de-su-vivienda/",
+        "published_date": "2026-08-04 20:21:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "First response teams carry out traffic accident simulation in San Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/equipos-de-primera-respuesta-realizan-simulacro-de-accidente-de-transito-en-san-salvador/",
+        "published_date": "2026-08-04 19:52:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rain is forecast for this afternoon and evening in various parts of El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/se-pronostican-lluvias-para-esta-tarde-y-noche-en-diversos-puntos-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=se-pronostican-lluvias-para-esta-tarde-y-noche-en-diversos-puntos-de-el-salvador",
+        "published_date": "2026-08-04 18:55:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lionel Messi donates 80,000 euros for reconstruction after the fires in Madrid",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/jetset/lionel-messi-dona-80-000-euros-para-la-reconstruccion-tras-los-incendios-en-madrid/",
+        "published_date": "2026-08-04 18:32:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Greek firefighters use planes to fight fire in northwest Athens",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/bomberos-griegos-usan-aviones-para-combatir-el-incendio-en-el-noroeste-de-atenas/",
+        "published_date": "2026-08-04 18:25:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Waste collectors in Italy help recover lost lottery ticket",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/recolectores-de-residuos-en-italia-ayudan-a-recuperar-un-billete-de-loteria-perdido/",
+        "published_date": "2026-08-04 18:20:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hundreds evacuated due to powerful eruption of the Fuego volcano in Guatemala",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/cientos-de-evacuados-por-potente-erupcion-del-volcan-de-fuego-en-guatemala/",
+        "published_date": "2026-08-04 18:16:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mexico denies that it seeks to censor through the new radio and TV law",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/mexico-niega-que-busque-censurar-a-traves-de-la-nueva-ley-de-radio-y-tv/",
+        "published_date": "2026-08-04 18:03:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Content creator Cristian Mej\u00eda \u201cMEGU,\u201d was arrested after causing an accident in Cuscatl\u00e1n Sur",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/creador-de-contenido-cristian-mejia-megu-fue-detenido-tras-provocar-un-accidente-en-cuscatlan-sur/",
+        "published_date": "2026-08-04 17:04:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rains are expected this Tuesday in different parts of the national territory",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/se-esperan-lluvias-para-este-martes-en-diferentes-puntos-del-territorio-nacional/",
+        "published_date": "2026-08-04 16:54:46",
         "category": "Local Events"
     }
 ]
