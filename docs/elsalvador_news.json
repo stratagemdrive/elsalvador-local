@@ -98,6 +98,41 @@
         "category": "Diplomacy"
     },
     {
+        "title": "They identify Ana Yazm\u00edn, the woman who was murdered by a neighbor obsessed with her",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/identifican-a-ana-yazmin-la-mujer-que-fue-asesinada-por-un-vecino-obsesionado-con-ella/",
+        "published_date": "2026-08-05 04:22:58",
+        "category": "Military"
+    },
+    {
+        "title": "She was Ana Yazm\u00edn, a woman who was murdered by a neighbor who had an obsession with her",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/ella-era-ana-yazmin-mujer-que-fue-asesinada-por-un-vecino-que-mantenia-una-obsesion-con-ella/?utm_source=rss&utm_medium=rss&utm_campaign=ella-era-ana-yazmin-mujer-que-fue-asesinada-por-un-vecino-que-mantenia-una-obsesion-con-ella",
+        "published_date": "2026-08-05 04:17:09",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a man for attempted murder after attacking two women in San Miguel",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-hombre-por-intento-de-homicidio-tras-agredir-a-dos-mujeres-en-san-miguel/",
+        "published_date": "2026-08-05 03:21:05",
+        "category": "Military"
+    },
+    {
+        "title": "Man captured for attacking his ex-partner and ex-mother-in-law with a knife San Miguel",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-hombre-por-atacar-con-un-cuchillo-a-su-ex-pareja-y-a-su-ex-suegra-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-hombre-por-atacar-con-un-cuchillo-a-su-ex-pareja-y-a-su-ex-suegra-san-miguel",
+        "published_date": "2026-08-05 03:19:50",
+        "category": "Military"
+    },
+    {
+        "title": "MILPA: when the defense of work, land and ancestral identity become a single fight",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/milpa-cuando-la-defensa-del-trabajo-la-tierra-y-la-identidad-ancestral-se-convierten-en-una-sola-lucha/",
+        "published_date": "2026-08-05 03:17:01",
+        "category": "Military"
+    },
+    {
         "title": "They capture three subjects for illicit groups thanks to citizen complaints",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/capturan-a-tres-sujetos-por-agrupaciones-ilicitas-gracias-a-denuncias-ciudadanas/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-tres-sujetos-por-agrupaciones-ilicitas-gracias-a-denuncias-ciudadanas",
@@ -200,41 +235,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/politica/vicepresidente-felix-ulloa-se-muestra-optimista-por-prorroga-del-tps-y-destaca-preparacion-del-pais-ante-cualquier-escenario/",
         "published_date": "2026-08-03 22:45:41",
-        "category": "Military"
-    },
-    {
-        "title": "Woman is murdered by her life partner in Santa Ana",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/mujer-es-asesinada-por-su-companero-de-vida-en-santa-ana/",
-        "published_date": "2026-08-03 22:42:27",
-        "category": "Military"
-    },
-    {
-        "title": "Two young people are arrested for transporting pyrotechnic material without the required documentation in La Palma",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/dos-jovenes-son-detenidos-por-transportar-material-pirotecnico-sin-la-documentacion-requerida-en-la-palma/",
-        "published_date": "2026-08-03 20:36:22",
-        "category": "Military"
-    },
-    {
-        "title": "SivarLand businesses are inspected to reinforce security measures",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/inspeccionan-comercios-de-sivarland-para-reforzar-medidas-de-seguridad/",
-        "published_date": "2026-08-03 19:39:35",
-        "category": "Military"
-    },
-    {
-        "title": "They verify businesses installed at the S\u00edvarLand fair",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/verifican-comercios-instalados-en-feria-sivarland/?utm_source=rss&utm_medium=rss&utm_campaign=verifican-comercios-instalados-en-feria-sivarland",
-        "published_date": "2026-08-03 18:36:52",
-        "category": "Military"
-    },
-    {
-        "title": "Tension and cancellation of artists at the Perqu\u00edn Winter Festival after the display of the Palestinian flag",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/tension-y-cancelacion-de-artistas-en-el-festival-de-invierno-de-perquin-tras-despliegue-de-bandera-de-palestina/",
-        "published_date": "2026-08-03 17:35:49",
         "category": "Military"
     },
     {
@@ -378,18 +378,39 @@
         "category": "Economy"
     },
     {
-        "title": "Deputies agree to allocate $108 million for Phase II of Doctor SV",
+        "title": "The Salvadoran oligarchy killed the: Father, Son and Holy Spirit",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/diputados-acuerdan-asignar-108-millones-para-la-fase-ii-de-doctor-sv/",
-        "published_date": "2026-07-28 11:02:52",
-        "category": "Economy"
+        "url": "https://www.diariocolatino.com/la-oligarquia-salvadorena-mato-al-padre-hijo-y-espiritu-santo/",
+        "published_date": "2026-08-05 10:00:00",
+        "category": "Local Events"
     },
     {
-        "title": "President Bukele announces an ambitious educational reform with support from the World Bank",
+        "title": "Peace in El Salvador: Bukele's Farce and the Reality of a Country in Crisis",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-paz-en-el-salvador-la-farsa-de-bukele-y-la-realidad-de-un-pais-en-crisis-2/",
+        "published_date": "2026-08-05 03:38:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "The thirst for punishment and the thirst for Truth",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-sed-de-castigo-y-la-sed-de-verdad/",
+        "published_date": "2026-08-05 03:28:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Red Cross lifeguards remain alert to respond to emergencies in tourist centers",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/socorristas-de-cruz-roja-se-mantienen-alertas-para-atender-emergencias-en-centros-turisticos/",
+        "published_date": "2026-08-05 02:38:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran Red Cross provides nearly 40 assistance in Apulo during the August holidays",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-anuncia-una-ambiciosa-reforma-educativa-con-apoyo-del-banco-mundial/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-anuncia-una-ambiciosa-reforma-educativa-con-apoyo-del-banco-mundial",
-        "published_date": "2026-07-28 03:18:45",
-        "category": "Economy"
+        "url": "https://lapagina.com.sv/nacionales/cruz-roja-salvadorena-brinda-cerca-de-40-asistencias-en-apulo-durante-las-vacaciones-agostinas/?utm_source=rss&utm_medium=rss&utm_campaign=cruz-roja-salvadorena-brinda-cerca-de-40-asistencias-en-apulo-durante-las-vacaciones-agostinas",
+        "published_date": "2026-08-05 02:33:44",
+        "category": "Local Events"
     },
     {
         "title": "MS leaders receive up to 40 years in prison for murders and other crimes",
@@ -494,41 +515,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/bomberos-griegos-usan-aviones-para-combatir-el-incendio-en-el-noroeste-de-atenas/",
         "published_date": "2026-08-04 18:25:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Waste collectors in Italy help recover lost lottery ticket",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/recolectores-de-residuos-en-italia-ayudan-a-recuperar-un-billete-de-loteria-perdido/",
-        "published_date": "2026-08-04 18:20:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hundreds evacuated due to powerful eruption of the Fuego volcano in Guatemala",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/cientos-de-evacuados-por-potente-erupcion-del-volcan-de-fuego-en-guatemala/",
-        "published_date": "2026-08-04 18:16:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mexico denies that it seeks to censor through the new radio and TV law",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/mexico-niega-que-busque-censurar-a-traves-de-la-nueva-ley-de-radio-y-tv/",
-        "published_date": "2026-08-04 18:03:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Content creator Cristian Mej\u00eda \u201cMEGU,\u201d was arrested after causing an accident in Cuscatl\u00e1n Sur",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/creador-de-contenido-cristian-mejia-megu-fue-detenido-tras-provocar-un-accidente-en-cuscatlan-sur/",
-        "published_date": "2026-08-04 17:04:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rains are expected this Tuesday in different parts of the national territory",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/se-esperan-lluvias-para-este-martes-en-diferentes-puntos-del-territorio-nacional/",
-        "published_date": "2026-08-04 16:54:46",
         "category": "Local Events"
     }
 ]
