@@ -1,5 +1,12 @@
 [
     {
+        "title": "Argentina celebrates \"historic visit\" of the Pope in November",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/argentina-celebra-visita-historica-del-papa-en-noviembre/",
+        "published_date": "2026-08-05 17:58:07",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Woman is injured after falling from a tree while collecting fruits in Santiago Nonualco",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/08/mujer-resulta-lesionada-tras-caer-de-un-arbol-mientras-recolectaba-frutas-en-santiago-nonualco/",
@@ -91,11 +98,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Man is miraculously saved after falling off a bridge in his car",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/hombre-se-salva-de-milagro-al-caer-de-puente-en-su-auto/",
-        "published_date": "2026-07-28 17:58:30",
-        "category": "Diplomacy"
+        "title": "They capture a teenager who tried to create a new gang under the name \"Antrax\"",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-adolescente-que-pretendia-crear-una-nueva-pandilla-bajo-el-nombre-de-antrax/",
+        "published_date": "2026-08-05 22:39:25",
+        "category": "Military"
+    },
+    {
+        "title": "They thwart an attempt to create a new gang called \u201cAnthrax\u201d in Col\u00f3n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/frustan-intento-de-crear-una-nueva-pandilla-denominada-antrax-en-colon/?utm_source=rss&utm_medium=rss&utm_campaign=frustan-intento-de-crear-una-nueva-pandilla-denominada-antrax-en-colon",
+        "published_date": "2026-08-05 21:32:29",
+        "category": "Military"
+    },
+    {
+        "title": "Authorities surprise young man with marijuana in Ilopango",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/autoridades-sorprenden-a-jovencito-con-marihuana-en-ilopango/",
+        "published_date": "2026-08-05 17:33:31",
+        "category": "Military"
     },
     {
         "title": "They identify Ana Yazm\u00edn, the woman who was murdered by a neighbor obsessed with her",
@@ -217,25 +238,11 @@
         "category": "Military"
     },
     {
-        "title": "Woman dies after being attacked with a knife in Santa Ana, according to the PNC",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/mujer-muere-tras-ser-atacada-con-arma-blanca-en-santa-ana-segun-la-pnc/",
-        "published_date": "2026-08-04 02:22:39",
-        "category": "Military"
-    },
-    {
-        "title": "Subjects captured for transporting smuggled pyrotechnic material in Chalatenango",
+        "title": "Mexico dismantles four clandestine refineries",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-sujetos-por-transportar-material-pirotecnico-de-contrabando-en-chalatenango/",
-        "published_date": "2026-08-03 23:03:34",
-        "category": "Military"
-    },
-    {
-        "title": "Vice President F\u00e9lix Ulloa is optimistic about the extension of the TPS and highlights the country's preparation for any scenario",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/vicepresidente-felix-ulloa-se-muestra-optimista-por-prorroga-del-tps-y-destaca-preparacion-del-pais-ante-cualquier-escenario/",
-        "published_date": "2026-08-03 22:45:41",
-        "category": "Military"
+        "url": "https://croniosv.com/internacionales/mexico-desmantela-cuatro-refinerias-clandestinas/",
+        "published_date": "2026-08-05 20:11:59",
+        "category": "Energy"
     },
     {
         "title": "Fuels are close to $5 after an increase of up to $0.17 per gallon",
@@ -343,39 +350,102 @@
         "category": "Economy"
     },
     {
-        "title": "Resources are approved to promote education, technology and youth development",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/aprueban-recursos-para-impulsar-la-educacion-la-tecnologia-y-el-desarrollo-de-la-juventud/?utm_source=rss&utm_medium=rss&utm_campaign=aprueban-recursos-para-impulsar-la-educacion-la-tecnologia-y-el-desarrollo-de-la-juventud",
-        "published_date": "2026-07-28 21:59:26",
-        "category": "Economy"
+        "title": "CAM fines store owner for charging $5.00 in parking for S\u00edvarLand",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/cam-multa-a-propietario-de-tienda-por-cobrar-5-00-de-parqueo-para-sivarland/",
+        "published_date": "2026-08-05 22:20:56",
+        "category": "Local Events"
     },
     {
-        "title": "They will promote more development opportunities for young people in vulnerable situations",
+        "title": "They rescue a woman who fell into a ravine during a walk in Cojutepeque",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/rescatan-a-mujer-que-cayo-a-un-barranco-durante-una-caminata-en-cojutepeque/",
+        "published_date": "2026-08-05 21:32:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two injured after a serious traffic accident in San Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/dos-lesionados-tras-fuerte-accidente-de-transito-en-san-salvador/",
+        "published_date": "2026-08-05 20:21:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 1,200 residents evacuated as fire at chemical plant generates irritating smoke in southwest China",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/evacuados-mas-de-1200-residentes-mientras-incendio-en-planta-quimica-genera-humo-irritante-en-suroeste-de-china/",
+        "published_date": "2026-08-05 20:01:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Editorial of the Don Bosco University promotes the rescue of Salvadoran literary memory",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/editorial-de-la-universidad-don-bosco-impulsa-rescate-de-la-memoria-literaria-salvadorena/",
+        "published_date": "2026-08-05 18:53:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "VIDEOS |Mexican influencer murdered during a live broadcast in Sinaloa",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/videos-asesinan-a-influencer-mexicano-durante-una-transmision-en-vivo-en-sinaloa/",
+        "published_date": "2026-08-05 18:08:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "A baby hippo from the Escobar colony is rescued in Colombia",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/rescatan-en-colombia-a-un-hipopotamo-bebe-de-la-colonia-de-escobar/",
+        "published_date": "2026-08-05 17:45:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Faith fills the streets again with the procession of the Divine Savior of the World",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/promoveran-mas-oportunidades-de-desarrollo-para-jovenes-en-situacion-de-vulnerabilidad/",
-        "published_date": "2026-07-28 21:58:31",
-        "category": "Economy"
+        "url": "https://diariolahuella.com/la-fe-vuelve-a-llenar-las-calles-con-la-procesion-del-divino-salvador-del-mundo/",
+        "published_date": "2026-08-05 17:17:58",
+        "category": "Local Events"
     },
     {
-        "title": "President of the World Bank visits El Salvador",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/presidente-del-banco-mundial-visita-el-salvador/",
-        "published_date": "2026-07-28 17:49:11",
-        "category": "Economy"
+        "title": "Mayor's Office of San Salvador Centro intervenes illegal charges for parking on public roads",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/alcaldia-de-san-salvador-centro-interviene-cobros-ilegales-por-estacionar-en-la-via-publica/",
+        "published_date": "2026-08-05 17:10:13",
+        "category": "Local Events"
     },
     {
-        "title": "CABEI and ANDA inaugurate desalination plant that will supply drinking water to 700 inhabitants of La Libertad",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/bcie-y-anda-inauguran-planta-desalinizadora-que-abastecera-de-agua-potable-a-700-habitantes-de-la-libertad/",
-        "published_date": "2026-07-28 17:20:10",
-        "category": "Economy"
+        "title": "Mayor's Office of San Salvador Centro intervenes illegal charge for parking on public roads",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/alcaldia-de-san-salvador-centro-interviene-cobro-ilegal-por-estacionarse-en-la-via-publica/?utm_source=rss&utm_medium=rss&utm_campaign=alcaldia-de-san-salvador-centro-interviene-cobro-ilegal-por-estacionarse-en-la-via-publica",
+        "published_date": "2026-08-05 16:55:29",
+        "category": "Local Events"
     },
     {
-        "title": "President Nayib Bukele and the World Bank strengthen cooperation in strategic projects for El Salvador",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/presidente-nayib-bukele-y-banco-mundial-fortalecen-cooperacion-en-proyectos-estrategicos-para-el-salvador/",
-        "published_date": "2026-07-28 15:34:55",
-        "category": "Economy"
+        "title": "Patricia God\u00ednez invites the Salvadoran diaspora in the US to the inauguration of new DUI services",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/patricia-godinez-invita-a-la-diaspora-salvadorena-en-ee-uu-a-la-inauguracion-de-nuevos-servicios-de-dui/?utm_source=rss&utm_medium=rss&utm_campaign=patricia-godinez-invita-a-la-diaspora-salvadorena-en-ee-uu-a-la-inauguracion-de-nuevos-servicios-de-dui",
+        "published_date": "2026-08-05 16:48:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "International tourists and the diaspora arrive in the country to enjoy the August Vacations",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/turistas-internacionales-y-la-diaspora-arriban-al-pais-para-disfrutar-las-vacaciones-de-agosto/?utm_source=rss&utm_medium=rss&utm_campaign=turistas-internacionales-y-la-diaspora-arriban-al-pais-para-disfrutar-las-vacaciones-de-agosto",
+        "published_date": "2026-08-05 16:41:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador International Airport welcomes families with Family Friendly activations",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/aeropuerto-internacional-de-el-salvador-recibe-a-las-familias-con-activaciones-family-friendly/?utm_source=rss&utm_medium=rss&utm_campaign=aeropuerto-internacional-de-el-salvador-recibe-a-las-familias-con-activaciones-family-friendly",
+        "published_date": "2026-08-05 16:30:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Thousands of faithful accompany the procession of the Divine Savior of the World during the Augustinian Festivities",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/miles-de-fieles-acompanan-la-procesion-del-divino-salvador-del-mundo-durante-las-fiestas-agostinas/?utm_source=rss&utm_medium=rss&utm_campaign=miles-de-fieles-acompanan-la-procesion-del-divino-salvador-del-mundo-durante-las-fiestas-agostinas",
+        "published_date": "2026-08-05 14:48:11",
+        "category": "Local Events"
     },
     {
         "title": "The Salvadoran oligarchy killed the: Father, Son and Holy Spirit",
@@ -417,104 +487,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/cabecillas-de-la-ms-reciben-hasta-40-anos-de-carcel-por-asesinatos-y-otros-delitos/?utm_source=rss&utm_medium=rss&utm_campaign=cabecillas-de-la-ms-reciben-hasta-40-anos-de-carcel-por-asesinatos-y-otros-delitos",
         "published_date": "2026-08-04 22:59:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "MS gang members in San Miguel sentenced to up to 40 years in prison",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/condenan-hasta-con-40-anos-de-prision-a-pandilleros-de-la-ms-en-san-miguel/",
-        "published_date": "2026-08-04 22:57:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "CCR intensifies supervision of the use of national vehicles in Apopa",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ccr-intensifica-supervisiones-al-uso-de-vehiculos-nacionales-en-apopa/?utm_source=rss&utm_medium=rss&utm_campaign=ccr-intensifica-supervisiones-al-uso-de-vehiculos-nacionales-en-apopa",
-        "published_date": "2026-08-04 22:40:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Verifications continue on the use of State vehicles in different parts of the country",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/continuan-las-verificaciones-al-uso-de-vehiculos-del-estado-en-distintos-puntos-del-pais/",
-        "published_date": "2026-08-04 22:39:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young motorcyclist dies after accident caused by driver who fled",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/joven-motociclista-pierde-la-vida-tras-accidente-causado-por-conductor-que-huyo/",
-        "published_date": "2026-08-04 22:11:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "S\u00edvar Band 2026 brings together 16 peace bands in the Historic Center of San Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/sivar-band-2026-reune-a-16-bandas-de-paz-en-el-centro-historico-de-san-salvador/",
-        "published_date": "2026-08-04 21:11:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elderly adult is injured after a road accident in the San Jacinto neighborhood",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/adulto-mayor-resulta-lesionado-tras-siniestro-vial-en-el-barrio-san-jacinto/",
-        "published_date": "2026-08-04 20:58:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Civil Protection reports reduction in accidents and deaths during the beginning of the holiday period",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/proteccion-civil-reporta-reduccion-de-accidentes-y-fallecidos-durante-el-inicio-del-periodo-vacacional/",
-        "published_date": "2026-08-04 20:48:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inter Tecla is the leader of the Apertura 2026 with 9 points",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/inter-tecla-derrota-por-la-minima-al-fuerte-san-francisco-aldo-medina-colaborador-un-partido-bastante-complicado-fue-el-que-se-tuvo-en-cancha-correcaminos/",
-        "published_date": "2026-08-04 20:48:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities report 11 people died in the first three days of August holidays in 2026",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/autoridades-reportan-11-personas-fallecidas-en-los-primeros-tres-dias-de-vacaciones-agostinas-2026/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-reportan-11-personas-fallecidas-en-los-primeros-tres-dias-de-vacaciones-agostinas-2026",
-        "published_date": "2026-08-04 20:36:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man is injured after falling from the roof of his home",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/hombre-resulta-lesionado-tras-caer-del-techo-de-su-vivienda/",
-        "published_date": "2026-08-04 20:21:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "First response teams carry out traffic accident simulation in San Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/equipos-de-primera-respuesta-realizan-simulacro-de-accidente-de-transito-en-san-salvador/",
-        "published_date": "2026-08-04 19:52:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rain is forecast for this afternoon and evening in various parts of El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/se-pronostican-lluvias-para-esta-tarde-y-noche-en-diversos-puntos-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=se-pronostican-lluvias-para-esta-tarde-y-noche-en-diversos-puntos-de-el-salvador",
-        "published_date": "2026-08-04 18:55:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lionel Messi donates 80,000 euros for reconstruction after the fires in Madrid",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/jetset/lionel-messi-dona-80-000-euros-para-la-reconstruccion-tras-los-incendios-en-madrid/",
-        "published_date": "2026-08-04 18:32:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Greek firefighters use planes to fight fire in northwest Athens",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/bomberos-griegos-usan-aviones-para-combatir-el-incendio-en-el-noroeste-de-atenas/",
-        "published_date": "2026-08-04 18:25:45",
         "category": "Local Events"
     }
 ]
