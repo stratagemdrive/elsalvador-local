@@ -84,6 +84,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "PNC captures the alleged person responsible for the accident on the Hip\u00f3dromo boulevard",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/pnc-captura-al-presunto-responsable-del-accidente-en-el-bulevar-del-hipodromo/",
+        "published_date": "2026-08-10 11:02:49",
+        "category": "Military"
+    },
+    {
+        "title": "Trump claims to be \u201conly semi-negotiating\u201d with Iran, media report",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/trump-afirma-estar-solo-seminegociando-con-iran-reportan-medios/",
+        "published_date": "2026-08-10 10:00:01",
+        "category": "Military"
+    },
+    {
         "title": "They capture a subject for stabbing another in Cuscatl\u00e1n",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/capturan-a-sujeto-por-acuchillar-a-otro-en-cuscatlan/",
@@ -116,6 +130,13 @@
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/sucesos/pnc-captura-a-traficante-de-metanfetaminas-en-colon-con-apoyo-de-binomios-k9/",
         "published_date": "2026-08-09 16:16:36",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador adds 188 days without homicides so far in 2026",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-suma-188-dias-sin-homicidios-en-lo-que-va-del-2026/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-suma-188-dias-sin-homicidios-en-lo-que-va-del-2026",
+        "published_date": "2026-08-09 15:20:35",
         "category": "Military"
     },
     {
@@ -203,27 +224,6 @@
         "category": "Military"
     },
     {
-        "title": "They arrest a structure that was dedicated to dismantling motorcycles in Santa Ana",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/detienen-a-estructura-que-se-dedicaban-a-desmantelamiento-de-motocicletas-en-santa-ana/",
-        "published_date": "2026-08-07 19:52:26",
-        "category": "Military"
-    },
-    {
-        "title": "They capture seven mechanics accused of dismantling stolen motorcycles in Santa Ana",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-siete-mecanicos-senalados-de-desmantelar-motocicletas-hurtadas-en-santa-ana/",
-        "published_date": "2026-08-07 19:04:04",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a subject accused of raping an elderly woman in Cuscatl\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-sujeto-acusado-de-violar-a-una-adulta-mayor-en-cuscatlan/",
-        "published_date": "2026-08-07 18:45:02",
-        "category": "Military"
-    },
-    {
         "title": "Tepesianos in their reality: expendable there, without competitive advantage here",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/tepesianos-en-su-realidad-prescindibles-alla-sin-ventaja-competitiva-aca/",
@@ -278,6 +278,62 @@
         "url": "https://www.elmetropolitanodigital.com/2026/08/caballos-de-alta-escuela-cautivan-a-miles-de-asistentes-durante-el-desfile-del-comercio/",
         "published_date": "2026-08-03 19:38:41",
         "category": "Economy"
+    },
+    {
+        "title": "Hunger strike continues in front of the Metropolitan Cathedral of San Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/continua-huelga-de-hambre-frente-a-catedral-metropolitana-de-san-salvador/",
+        "published_date": "2026-08-10 11:06:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Injuries due to traffic accidents increase during this holiday period",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/lesionados-por-accidentes-de-transito-aumentan-en-este-periodo-vacacional/",
+        "published_date": "2026-08-10 11:05:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Father Am\u00edlcar Flores calls to trust in God in the midst of storms",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/padre-amilcar-flores-llama-a-confiar-en-dios-en-medio-de-las-tormentas/",
+        "published_date": "2026-08-10 11:04:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran researchers present book on \u201cthe father of social sciences\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/investigadores-salvadorenos-presentan-libro-sobre-el-padre-de-ciencias-sociales/",
+        "published_date": "2026-08-10 11:03:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Assembly begins interviews with CCR candidates this Monday",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/asamblea-inicia-entrevistas-a-aspirantes-de-la-ccr-este-lunes/",
+        "published_date": "2026-08-10 11:01:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Catholic Church reiterates call to authorities to stop mining",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/iglesia-catolica-reitera-llamado-a-las-autoridades-a-frenar-la-mineria/",
+        "published_date": "2026-08-10 11:00:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Another unconditional, like Bukele, to \u201cTrumpism\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/otro-incondicional-mas-como-bukele-al-trumpismo/",
+        "published_date": "2026-08-10 10:59:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "They rescue a person who fell into a 15-meter ravine in Santo Tom\u00e1s",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/rescatan-a-persona-que-cayo-en-quebrada-de-15-metros-en-santo-tomas/",
+        "published_date": "2026-08-10 03:09:51",
+        "category": "Local Events"
     },
     {
         "title": "El Salvador registers a record number of tourism in August festivities in 2026 with more than 95 thousand international visitors",
@@ -361,62 +417,6 @@
         "source": "Periodico Equilibrium",
         "url": "https://www.periodicoequilibrium.com/finaliza-sequia-meteorologica-y-ola-de-calor-en-el-salvador/",
         "published_date": "2026-08-09 01:47:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President F\u00e9lix Ulloa promotes the coordination between El Salvador, Guatemala and Honduras",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-impulsa-la-articulacion-entre-el-salvador-guatemala-y-honduras/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-impulsa-la-articulacion-entre-el-salvador-guatemala-y-honduras",
-        "published_date": "2026-08-09 01:27:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Body recovered from a ravine in Soyapango",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/recuperan-cuerpo-de-una-barranca-en-soyapango/",
-        "published_date": "2026-08-09 00:37:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Usulut\u00e1n teacher sentenced to 20 years in prison for sexually assaulting and harassing two students aged 9 and 12",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/condenan-a-20-anos-de-prision-a-maestro-de-usulutan-por-agredir-y-acosar-sexualmente-a-dos-alumnas-de-9-y-12-anos/",
-        "published_date": "2026-08-08 23:26:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ernesto Castro questions criticism made after an accident on El Hip\u00f3dromo boulevard",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ernesto-castro-cuestiona-criticas-que-le-hicieron-tras-accidente-en-el-bulevar-el-hipodromo/?utm_source=rss&utm_medium=rss&utm_campaign=ernesto-castro-cuestiona-criticas-que-le-hicieron-tras-accidente-en-el-bulevar-el-hipodromo",
-        "published_date": "2026-08-08 23:19:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "He didn't sell it in time: the Mini Cooper went viral due to the ad \u201cI'm selling it before my wife takes it away from me\u201d ends up being shocked",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/no-lo-vendio-a-tiempo-el-mini-cooper-viral-por-el-anuncio-lo-vendo-antes-que-mi-esposa-me-lo-quite-termina-chocado/",
-        "published_date": "2026-08-08 23:07:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Joe Biden's prostate cancer has advanced, his son confirms",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/cancer-de-prostata-de-joe-biden-ha-avanzado-confirma-su-hijo/",
-        "published_date": "2026-08-08 22:19:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u00d3scar Mart\u00ednez, head of El Faro, says that his \u201clove letter\u201d to El Salvador is not reciprocated\u2026 while he calls Bukele a dictator and admits that he put an end to the gangs",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/oscar-martinez-jefe-de-el-faro-dice-que-su-carta-de-amor-a-el-salvador-no-es-correspondida-mientras-llama-dictador-a-bukele-y-admite-que-acabo-con-las-pandillas/",
-        "published_date": "2026-08-08 20:59:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Art, memory and community resistance in Moraz\u00e1n",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/arte-memoria-y-resistencia-comunitaria-en-morazan/",
-        "published_date": "2026-08-08 20:49:26",
         "category": "Local Events"
     }
 ]
