@@ -119,18 +119,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "F\u00e9lix Ulloa will represent Nayib Bukele in the possession of Abelardo de la Espriella",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/felix-ulloa-representara-a-nayib-bukele-en-posesion-de-abelardo-de-la-espriella/",
-        "published_date": "2026-08-06 03:17:59",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Vice President F\u00e9lix Ulloa strengthens bilateral relations during official visit to Colombia",
+        "title": "They capture a gang member who let his hair grow to hide his tattoos",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-fortalece-relaciones-bilaterales-durante-visita-oficial-a-colombia/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-fortalece-relaciones-bilaterales-durante-visita-oficial-a-colombia",
-        "published_date": "2026-08-06 01:58:13",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-pandillero-que-se-dejaba-crecer-el-cabello-para-ocultar-sus-tatuajes/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-pandillero-que-se-dejaba-crecer-el-cabello-para-ocultar-sus-tatuajes",
+        "published_date": "2026-08-14 00:58:38",
+        "category": "Military"
     },
     {
         "title": "MS-13 drug distributor arrested",
@@ -266,13 +259,6 @@
         "category": "Military"
     },
     {
-        "title": "El Salvador accumulates eight days without homicides in August",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-salvador-acumula-ocho-dias-sin-homicidios-en-agosto/",
-        "published_date": "2026-08-11 15:55:40",
-        "category": "Military"
-    },
-    {
         "title": "Explosion at a munitions factory near Rome",
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/explosion-en-una-fabrica-de-municiones-cerca-de-roma/",
@@ -280,11 +266,11 @@
         "category": "Energy"
     },
     {
-        "title": "Tepesianos in their reality: expendable there, without competitive advantage here",
+        "title": "Entrepreneurs from Usulut\u00e1n strengthen their businesses with financial and business training",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/tepesianos-en-su-realidad-prescindibles-alla-sin-ventaja-competitiva-aca/",
-        "published_date": "2026-08-06 00:12:56",
-        "category": "Energy"
+        "url": "https://www.diariocolatino.com/emprendedores-de-usulutan-fortalecen-sus-negocios-con-formacion-financiera-y-empresarial/",
+        "published_date": "2026-08-14 11:02:22",
+        "category": "Economy"
     },
     {
         "title": "Shin Fujiyama builds a new school in Honduras with funds donated by President Bukele",
@@ -313,6 +299,55 @@
         "url": "https://www.diariocolatino.com/los-pobre-dolares-una-bendicion-para-la-oligarquia-criolla/",
         "published_date": "2026-08-12 10:50:48",
         "category": "Economy"
+    },
+    {
+        "title": "From the heavy hand to the truce: the long route of violence in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/de-la-mano-dura-a-la-tregua-la-larga-ruta-de-la-violencia-en-el-salvador/",
+        "published_date": "2026-08-14 11:04:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Doctors from the Americas and Rescue Commands provide medical care to more than a thousand people",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/doctores-de-las-americas-y-comandos-de-salvamento-brindan-atencion-medica-a-mas-de-mil-personas/",
+        "published_date": "2026-08-14 11:03:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cV\u00e9rtices\u201d, the feature film that wins the award for Best International Film in the USA.",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/vertices-el-largometraje-que-conquista-el-premio-a-la-mejor-pelicula-internacional-en-ee-uu/",
+        "published_date": "2026-08-14 11:01:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Caba\u00f1as closed 2025 with 605 kidney patients and 4 out of 10 in the terminal phase",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cabanas-cerro-2025-con-605-pacientes-renales-y-4-de-cada-10-en-fase-terminal/",
+        "published_date": "2026-08-14 11:00:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "SERVE IS OUR BEST PROJECT;DISCOVER OUR BEST PROJECTION",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/servir-es-nuestro-mejor-proyecto-descubrir-nuestra-mejor-proyeccion/",
+        "published_date": "2026-08-14 10:59:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pampas party!Firpo thrashes Diriang\u00e9n 4-0 and signs a great night in the Central American Cup",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/fiesta-pampera-firpo-golea-4-0-al-diriangen-y-firma-una-gran-noche-en-copa-centroamericana/",
+        "published_date": "2026-08-14 04:26:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government of El Salvador deploys comprehensive care and delivers humanitarian aid to affected families in Cali",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/gobierno-de-el-salvador-despliega-atencion-integral-y-entrega-ayuda-humanitaria-a-familias-afectadas-en-cali/",
+        "published_date": "2026-08-14 01:27:49",
+        "category": "Local Events"
     },
     {
         "title": "They bring comprehensive care to girls, adolescents and women in the east of the country",
@@ -403,55 +438,6 @@
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/iran-condiciona-reapertura-de-ormuz-a-aceptacion-de-sus-demandas/",
         "published_date": "2026-08-13 20:52:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "They commemorate in Cuba the centenary of the historical leader Fidel Castro",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/conmemoran-en-cuba-centenario-del-lider-historico-fidel-castro/",
-        "published_date": "2026-08-13 20:48:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government signs agreement with Belize to increase exports",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gobierno-firma-acuerdo-con-belice-para-aumentar-exportaciones/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-firma-acuerdo-con-belice-para-aumentar-exportaciones",
-        "published_date": "2026-08-13 20:11:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "The devastating earthquake in Colombia leaves hundreds dead and thousands of homes destroyed",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/el-devastador-terremoto-en-colombia-deja-cientos-de-fallecidos-y-miles-de-viviendas-destruidas/?utm_source=rss&utm_medium=rss&utm_campaign=el-devastador-terremoto-en-colombia-deja-cientos-de-fallecidos-y-miles-de-viviendas-destruidas",
-        "published_date": "2026-08-13 20:11:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "C\u00b2 Labs begins operations in El Salvador to promote the development of artificial intelligence from Latin America",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/c%c2%b2-labs-inicia-operaciones-en-el-salvador-paraimpulsar-el-desarrollo-de-inteligencia-artificialdesde-america-latina/",
-        "published_date": "2026-08-13 20:08:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government signs agreement with Belize to increase exports",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-firma-acuerdo-con-belice-para-aumentar-exportaciones/",
-        "published_date": "2026-08-13 20:05:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prosecuted for aggravated fraud reconciles and must return $6,200 to the victim",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/procesado-por-estafa-agravada-concilia-y-debera-restituir-6200-a-la-victima/",
-        "published_date": "2026-08-13 19:22:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former Puerto Rican boxer Prichard Col\u00f3n dies at 33",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/fallece-a-los-33-anos-el-exboxeador-puertorriqueno-prichard-colon/",
-        "published_date": "2026-08-13 19:10:50",
         "category": "Local Events"
     }
 ]
