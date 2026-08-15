@@ -133,6 +133,34 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Trafficker of illicit substances who operated in Guazapa falls",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/cae-traficante-de-sustancias-ilicitas-que-operaba-en-guazapa/",
+        "published_date": "2026-08-15 03:22:46",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a drug trafficker who commits crimes in Guazapa",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-traficante-de-drogas-que-delinquia-en-guazapa/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-traficante-de-drogas-que-delinquia-en-guazapa",
+        "published_date": "2026-08-15 03:04:40",
+        "category": "Military"
+    },
+    {
+        "title": "They renovate rest and dining areas of Military Detachment No. 3 of La Uni\u00f3n",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/renuevan-areas-de-descanso-y-comedor-del-destacamento-militar-no-3-de-la-union/",
+        "published_date": "2026-08-15 00:53:14",
+        "category": "Military"
+    },
+    {
+        "title": "Tropa de La Uni\u00f3n already has modern facilities for your well-being",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/tropa-de-la-union-ya-cuenta-con-modernas-instalaciones-para-su-bienestar/?utm_source=rss&utm_medium=rss&utm_campaign=tropa-de-la-union-ya-cuenta-con-modernas-instalaciones-para-su-bienestar",
+        "published_date": "2026-08-15 00:42:22",
+        "category": "Military"
+    },
+    {
         "title": "El Salvador seeks to consolidate a new image based on security, investment and innovation",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/08/el-salvador-busca-consolidar-una-nueva-imagen-basada-en-seguridad-inversion-e-innovacion/",
@@ -245,39 +273,18 @@
         "category": "Military"
     },
     {
-        "title": "Authorities capture a man accused of murdering his partner with a knife in San Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/autoridades-capturan-a-hombre-acusado-de-asesinar-a-su-pareja-con-arma-blanca-en-san-salvador/",
-        "published_date": "2026-08-13 19:25:49",
-        "category": "Military"
-    },
-    {
-        "title": "PNC captures a subject who had two arrest warrants in Santa Rosa de Lima",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/pnc-captura-a-sujeto-que-tenia-dos-ordenes-de-captura-en-santa-rosa-de-lima/",
-        "published_date": "2026-08-13 19:21:13",
-        "category": "Military"
-    },
-    {
-        "title": "August continues to accumulate days without violent deaths throughout the national territory",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/agosto-sigue-acumulando-dias-sin-muertes-violentas-en-todo-el-territorio-nacional/",
-        "published_date": "2026-08-13 17:23:07",
-        "category": "Military"
-    },
-    {
-        "title": "They capture an MS gunman with a record of several crimes",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-gatillero-de-la-ms-con-antecedentes-por-varios-delitos/",
-        "published_date": "2026-08-13 04:10:16",
-        "category": "Military"
-    },
-    {
         "title": "Explosion at a munitions factory near Rome",
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/explosion-en-una-fabrica-de-municiones-cerca-de-roma/",
         "published_date": "2026-08-13 20:50:57",
         "category": "Energy"
+    },
+    {
+        "title": "Government of Venezuela and opposition agree to recover assets abroad and restructure the justice system",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/gobierno-de-venezuela-y-oposicion-acuerdan-recuperar-activos-en-el-exterior-y-reestructurar-sistema-justicial/",
+        "published_date": "2026-08-15 10:41:54",
+        "category": "Economy"
     },
     {
         "title": "CABEI expands financing to the FSV to benefit more Salvadoran families with housing loans",
@@ -322,6 +329,118 @@
         "category": "Economy"
     },
     {
+        "title": "They demand the cancellation of Era Dorada mine licenses and denounce violation of the right to consultation",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/exigen-cancelar-licencias-de-mina-era-dorada-y-denuncian-vulneracion-al-derecho-de-consulta/",
+        "published_date": "2026-08-15 11:05:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deputy Villatoro asks to approach TPS with a humanitarian perspective and to bilaterally manage its extension",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diputada-villatoro-pide-abordar-tps-con-perspectiva-humanitaria-y-gestionar-bilateralmente-su-prorroga/",
+        "published_date": "2026-08-15 11:03:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "ANVEGE FMLN denounces judicial delay and lack of evidence in the case of war veterans",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/anvegefmln-denuncia-dilatacion-judicial-y-falta-de-pruebas-en-el-caso-de-los-veteranos-de-guerra/",
+        "published_date": "2026-08-15 11:03:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Union celebrates reinstatement of worker after illegal dismissal in La Libertad Norte",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/sindicato-celebra-reinstalo-trabajador-despido-ilegal-la-libertad-norte/",
+        "published_date": "2026-08-15 11:01:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Clergyman highlights the resounding failure of the United States in the war against Iran",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/clerigo-destaca-el-rotundo-fracaso-de-estados-unidos-en-la-guerra-contra-iran/",
+        "published_date": "2026-08-15 10:00:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 5.2 magnitude earthquake hit southern Spain and caused destruction in Granada",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/un-sismo-de-magnitud-52-golpeo-el-sur-de-espana-y-provoco-destrozos-en-granada/",
+        "published_date": "2026-08-15 03:01:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 7.7 magnitude earthquake shook the coast of Indonesia and triggered a tsunami warning",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/un-terremoto-de-magnitud-77-sacudio-la-costa-de-indonesia-y-disparo-una-alerta-por-tsunami/",
+        "published_date": "2026-08-15 02:46:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Strong 5-degree earthquake shakes Spain and causes damage to infrastructure",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/internacionales/fuerte-sismo-de-5-grados-sacude-espana-y-provoca-danos-en-infraestructura/?utm_source=rss&utm_medium=rss&utm_campaign=fuerte-sismo-de-5-grados-sacude-espana-y-provoca-danos-en-infraestructura",
+        "published_date": "2026-08-15 01:49:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201c50 Doctors\u201d begins its expansion in El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/50-doctors-inicia-su-expansion-en-el-salvador/",
+        "published_date": "2026-08-15 01:18:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mexican company 50 Doctors announces arrival in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/empresa-mexicana-50-doctors-anuncia-llegada-a-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=empresa-mexicana-50-doctors-anuncia-llegada-a-el-salvador",
+        "published_date": "2026-08-15 01:09:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador is left out of the list of countries under US commercial risk.",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/el-salvador-queda-fuera-del-listado-de-paises-bajo-riesgo-comercial-de-ee-uu/",
+        "published_date": "2026-08-15 00:40:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"The message\", by Julio Enrique \u00c1vila, and the commentary by Miguel de Unamuno",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-mensaje-de-julio-enrique-avila-y-el-comentario-de-miguel-de-unamuno/",
+        "published_date": "2026-08-15 00:04:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u00abFlowery Vocabulary of the Virile Organ\u00bb VI",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/florido-vocabulario-del-organo-viril-vi/",
+        "published_date": "2026-08-15 00:02:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "WHERE DEATH IS GIVEN",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/donde-se-de-muerte-a-la-muerte/",
+        "published_date": "2026-08-15 00:01:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "English in Central America Interoceanic Canal XX",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ingleses-en-centroamerica-canal-interoceanico-xx/",
+        "published_date": "2026-08-15 00:00:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Usulut\u00e1n supply center will seek to stop unjustified increases in the East",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/central-de-abastos-usulutan-buscara-frenar-alzas-injustificadas-en-oriente/",
+        "published_date": "2026-08-14 23:38:57",
+        "category": "Local Events"
+    },
+    {
         "title": "Strong earthquake shakes Indonesia",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/internacionales/fuerte-sismo-sacude-indonesia/?utm_source=rss&utm_medium=rss&utm_campaign=fuerte-sismo-sacude-indonesia",
@@ -347,118 +466,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/08/mas-de-170000-salvadorenos-enfrentan-una-carrera-contrarreloj-ante-el-vencimiento-del-tps-en-ee-uu/",
         "published_date": "2026-08-14 22:48:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "ANGEVEFMLN denounce the prolongation of the judicial process without evidence against veterans and ex-combatants",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/angevefmln-denuncian-prolongacion-del-proceso-judicial-sin-pruebas-en-contra-veteranos-y-excombatientes/",
-        "published_date": "2026-08-14 22:40:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "VIDEO |Motorcycle taxi driver dies after spectacular accident in San Miguel",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/video-conductor-de-mototaxi-muere-tras-aparatoso-accidente-en-san-miguel/",
-        "published_date": "2026-08-14 21:38:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Discover the cultural heritage of El Salvador protected by UNESCO",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/descubre-el-patrimonio-cultural-de-el-salvador-protegido-por-la-unesco/",
-        "published_date": "2026-08-14 21:35:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ninel Conde launches reality show to reveal \"her truth\" about plastic surgeries",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/jetset/ninel-conde-estrena-reality-para-revelar-su-verdad-sobre-las-cirugias-plasticas/",
-        "published_date": "2026-08-14 21:29:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Information circulates about the supposed release of the tiktoker and broadcaster Cristian Megu",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/circula-informacion-sobre-la-supuesta-liberacion-del-tiktoker-y-locutor-cristian-megu/",
-        "published_date": "2026-08-14 21:09:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "A subject who threatened to kill President Laura Fern\u00e1ndez is arrested in Costa Rica",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/arrestan-en-costa-rica-a-sujeto-que-amenazo-de-muerte-a-la-presidenta-laura-fernandez/",
-        "published_date": "2026-08-14 21:09:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Members of Gang 18 who operated in Sonsonate are sentenced",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/condenan-a-integrantes-de-la-pandilla-18-que-operaban-en-sonsonate/",
-        "published_date": "2026-08-14 19:56:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Legislative Assembly recognizes humanitarian work of the USAR team in Venezuela",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/asamblea-legislativa-reconoce-trabajo-humanitario-de-equipo-usar-en-venezuela/",
-        "published_date": "2026-08-14 19:55:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "USAR team recognized for humanitarian mission in Venezuela",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/reconocen-a-equipo-usar-por-mision-humanitaria-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=reconocen-a-equipo-usar-por-mision-humanitaria-en-venezuela",
-        "published_date": "2026-08-14 19:48:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador has the potential to develop luxury tourism with its own identity",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-tiene-potencial-para-desarrollar-un-turismo-de-lujo-con-identidad-propia/",
-        "published_date": "2026-08-14 17:53:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nature, culture and hospitality: the keys to promoting luxury tourism in El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/naturaleza-cultura-y-hospitalidad-las-claves-para-impulsar-el-turismo-de-lujo-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=naturaleza-cultura-y-hospitalidad-las-claves-para-impulsar-el-turismo-de-lujo-en-el-salvador",
-        "published_date": "2026-08-14 17:52:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Complete agenda for matchday 5 of the Apertura tournament",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/agenda-completa-de-la-jornada-5-del-torneo-apertura/",
-        "published_date": "2026-08-14 17:40:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "They rebuild the General Adolfo Bland\u00f3n Special Education School in Cojutepeque",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/reconstruyen-la-escuela-de-educacion-especial-general-adolfo-blandon-en-cojutepeque/",
-        "published_date": "2026-08-14 17:23:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Candidate for mayor of Chalatenango Norte provides support for road improvement project in Buena Vista hamlet",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/candidato-a-alcalde-de-chalatenango-norte-brinda-apoyo-en-proyecto-de-mejoramiento-vial-en-caserio-buena-vista/?utm_source=rss&utm_medium=rss&utm_campaign=candidato-a-alcalde-de-chalatenango-norte-brinda-apoyo-en-proyecto-de-mejoramiento-vial-en-caserio-buena-vista",
-        "published_date": "2026-08-14 17:18:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "MARN incorporates artificial intelligence into its environmental management",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/marn-incorpora-inteligencia-artificial-a-su-gestion-ambiental/",
-        "published_date": "2026-08-14 16:26:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "New Supply Center will open its doors in Usulut\u00e1n",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/nueva-central-de-abastos-abrira-sus-puertas-en-usulutan/",
-        "published_date": "2026-08-14 16:18:29",
         "category": "Local Events"
     }
 ]
