@@ -112,20 +112,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "China highlights progress in its cooperation with El Salvador during the Government of President Nayib Bukele",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/china-destaca-avances-de-su-cooperacion-con-el-salvador-durante-el-gobierno-del-presidente-nayib-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=china-destaca-avances-de-su-cooperacion-con-el-salvador-durante-el-gobierno-del-presidente-nayib-bukele",
-        "published_date": "2026-08-12 04:02:29",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Chinese Ambassador highlights that cooperation with the Government of President Bukele is already transforming El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/embajador-de-china-destaca-que-la-cooperacion-con-el-gobierno-del-presidente-bukele-ya-transforma-el-salvador/",
-        "published_date": "2026-08-12 03:54:51",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Santa Marta Community asks for freedom for \u00c1ngel Callejas;The PNC gave him the nickname of a gang member from Caba\u00f1as",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/comunidad-santa-marta-pide-libertad-para-angel-callejas-la-pnc-le-coloco-el-apodo-de-un-pandillero-de-cabanas/",
@@ -264,6 +250,13 @@
         "url": "https://lapagina.com.sv/empresarial/lanzamiento-oficial-de-cero-crimen/?utm_source=rss&utm_medium=rss&utm_campaign=lanzamiento-oficial-de-cero-crimen",
         "published_date": "2026-08-17 17:47:19",
         "category": "Military"
+    },
+    {
+        "title": "US establishes oil shipping route through Strait of Hormuz",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/eeuu-establece-ruta-de-navegacion-de-petroleo-por-estrecho-de-ormuz/",
+        "published_date": "2026-08-20 10:15:55",
+        "category": "Energy"
     },
     {
         "title": "From knowledge to spectacle: The political use of digital degradation",
@@ -420,150 +413,143 @@
         "category": "Economy"
     },
     {
-        "title": "\"The poor-dollars. A blessing for the Creole oligarchy\"",
+        "title": "Santa Marta Community demands freedom for \u00c1ngel Callejas",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/los-pobre-dolares-una-bendicion-para-la-oligarquia-criolla/",
-        "published_date": "2026-08-12 10:50:48",
-        "category": "Economy"
-    },
-    {
-        "title": "Mujer Emprende graduates 281 entrepreneurs from 11 districts of El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/mujer-emprende-gradua-a-281-emprendedoras-de-11-distritos-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=mujer-emprende-gradua-a-281-emprendedoras-de-11-distritos-de-el-salvador",
-        "published_date": "2026-08-19 22:54:10",
+        "url": "https://www.diariocolatino.com/comunidad-santa-marta-exige-libertad-de-angel-callejas/",
+        "published_date": "2026-08-20 11:07:44",
         "category": "Local Events"
     },
     {
-        "title": "FGR supervises destruction of 1,362 kilos of cocaine valued at more than $34 million",
+        "title": "Ronal Uma\u00f1a questions participation of FMLN and ARENA in the 2027 elections",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ronal-umana-cuestiona-participacion-fmln-arena-elecciones-2027/",
+        "published_date": "2026-08-20 11:06:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Residents of Valle Verde maintain complaints about lack of water and demand a solution",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/habitantes-valle-verde-mantienen-denuncias-falta-agua-exigen-solucion/",
+        "published_date": "2026-08-20 11:05:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Teacher Bases denounce MINED restrictions to support schools",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/bases-magisteriales-denuncia-restriciones-mined-apoyo-centros-escolares/",
+        "published_date": "2026-08-20 11:04:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deputies in favor of DOM donating 3 properties to MINED",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diputados-a-favor-dom-doneinmuebles-a-mined/",
+        "published_date": "2026-08-20 11:03:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sitrabordo points out job insecurity among home-based embroidery workers",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/sitrabordo-senala-precariedad-laboral-trabajadoras-bordado-domicilio/",
+        "published_date": "2026-08-20 11:02:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran Red Cross promotes healthy coexistence in communities of Santa Ana",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cruz-roja-salvadorena-promueve-convivencia-comunidades-santa-ana/",
+        "published_date": "2026-08-20 11:01:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Health Movement points out that the Government is promoting \u201chealth privatization 2.0\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/movimiento-salud-senala-al-gobierno-impulsar-privatizacion-salud-2-0/",
+        "published_date": "2026-08-20 11:00:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Florida primaries: Angie Nixon, surprise on the Democratic side",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/primarias-en-florida-angie-nixon-sorpresa-en-el-lado-democrata/",
+        "published_date": "2026-08-20 10:30:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "The meteorological drought continues in El Salvador",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/continua-la-sequia-meteorologica-en-el-salvador/",
+        "published_date": "2026-08-20 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "FAS draws against Municipal and gets complicated in the fight for the quarterfinals",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/fgr-supervisa-destruccion-de-1362-kilos-de-cocaina-valorados-en-mas-de-34-millones/",
-        "published_date": "2026-08-19 22:29:42",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/fas-empata-ante-municipal-y-se-complica-en-la-pelea-por-los-cuartos-de-final/",
+        "published_date": "2026-08-20 05:12:57",
         "category": "Local Events"
     },
     {
-        "title": "El Salvador, Guatemala and Honduras promote a new trinational tourist route",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/el-salvador-guatemala-y-honduras-impulsan-nueva-ruta-turistica-trinacional/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-guatemala-y-honduras-impulsan-nueva-ruta-turistica-trinacional",
-        "published_date": "2026-08-19 21:49:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador, Guatemala and Honduras promote a new trinational tourist route",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-guatemala-y-honduras-impulsan-nueva-ruta-turistica-trinacional/",
-        "published_date": "2026-08-19 21:49:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador, Honduras and Guatemala promote a new trinational tourism route",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/el-salvador-honduras-y-guatemala-impulsan-una-nueva-ruta-trinacional-de-turismo/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-honduras-y-guatemala-impulsan-una-nueva-ruta-trinacional-de-turismo",
-        "published_date": "2026-08-19 21:47:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "PHOTOS \u2013 VIDEOS |Cameras installed by gangs to control police movements in Guatemala are dismantled",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/fotos-videos-desmantelan-camaras-instaladas-por-las-maras-para-controlar-los-movimientos-policiales-en-guatemala/",
-        "published_date": "2026-08-19 21:36:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motorcyclist injured after serious traffic accident in Chalatenango",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/motociclista-lesionado-tras-fuerte-accidente-de-transito-en-chalatenango/",
-        "published_date": "2026-08-19 21:20:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five injured in an accident between a water delivery truck and a van in Sonsonate",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/cinco-lesionados-deja-accidente-entre-camion-repartidor-de-agua-y-camioneta-en-sonsonate/",
-        "published_date": "2026-08-19 21:12:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Environment provides support to farming families in the face of climatic conditions",
+        "title": "Firefighters control fire in the Municipal Market of Armenia",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/medio-ambiente-brinda-apoyo-a-familias-agricultoras-ante-condiciones-climaticas/",
-        "published_date": "2026-08-19 20:51:40",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/bomberos-controlan-incendio-en-el-mercado-municipal-de-armenia/",
+        "published_date": "2026-08-20 05:02:52",
         "category": "Local Events"
     },
     {
-        "title": "Claudia Ortiz will seek the general secretary of her VAMOS party",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/claudia-ortiz-buscara-la-secretaria-general-de-su-partido-vamos/",
-        "published_date": "2026-08-19 20:45:06",
+        "title": "Alliance is in the quarterfinals!The albos beat Marath\u00f3n and advance in the Central American Cup",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/alianza-esta-en-cuartos-los-albos-vencen-al-marathon-y-avanzan-en-la-copa-centroamericana/",
+        "published_date": "2026-08-20 04:50:40",
         "category": "Local Events"
     },
     {
-        "title": "Claudia Ortiz will seek to lead VAMOS as the next general secretary",
+        "title": "Customs and Prosecutor's Office strengthen cooperation to combat tax evasion and smuggling",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/claudia-ortiz-buscara-liderar-vamos-como-proxima-secretaria-general/?utm_source=rss&utm_medium=rss&utm_campaign=claudia-ortiz-buscara-liderar-vamos-como-proxima-secretaria-general",
-        "published_date": "2026-08-19 20:43:35",
+        "url": "https://lapagina.com.sv/general/aduanas-y-fiscalia-fortalecen-cooperacion-para-combatir-evasion-fiscal-y-contrabando/?utm_source=rss&utm_medium=rss&utm_campaign=aduanas-y-fiscalia-fortalecen-cooperacion-para-combatir-evasion-fiscal-y-contrabando",
+        "published_date": "2026-08-20 01:11:35",
         "category": "Local Events"
     },
     {
-        "title": "Subject sentenced to 17 years in prison for international illicit trafficking",
+        "title": "LOTRA Raffle No. 462 dedicated to \u201cAt the SRS we take care of everyone's health\u201d from the Superintendency of Health Regulation",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/economia/sorteo-lotra-n-o-462-dedicado-a-en-la-srs-cuidamos-la-salud-de-todos-de-la-superintendencia-de-regulacion-sanitaria/",
+        "published_date": "2026-08-20 00:55:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three countries, a shared vision",
+        "source": "Cronio",
+        "url": "https://croniosv.com/politica/tres-paises-una-vision-compartida/",
+        "published_date": "2026-08-20 00:40:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "AES El Salvador and FUNDEMAS promote female leadership",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/aes-el-salvador-y-fundemas-impulsan-el-liderazgo-femenino/",
+        "published_date": "2026-08-20 00:30:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mikis Theodorakis: The musical freedom activist",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/mikis-theodorakis-el-militante-musical-de-la-libertad/",
+        "published_date": "2026-08-20 00:11:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "According to NOAA, \u201cEl Ni\u00f1o\u201d is forming and is expected to intensify",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/segun-la-noaa-se-forma-el-nino-y-se-espera-que-se-intensifique/",
+        "published_date": "2026-08-19 23:48:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ministry of Housing explains the land legalization process in El Chaparral I",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/sujeto-condenado-a-17-anos-de-prision-por-trafico-ilicito-internacional/",
-        "published_date": "2026-08-19 20:36:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "84-year-old woman survives three days under rubble after earthquake in Indonesia",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/entrega-especial/mujer-de-84-anos-sobrevive-tres-dias-bajo-los-escombros-tras-terremoto-en-indonesia/",
-        "published_date": "2026-08-19 20:33:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Protected witness murdered in human trafficking case in Roat\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/asesinan-a-testigo-protegido-por-caso-de-trata-de-personas-en-roatan/",
-        "published_date": "2026-08-19 20:06:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kast declared a state of catastrophe in a town in northern Chile after a flood",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/kast-decreto-estado-de-catastrofe-en-localidad-del-norte-de-chile-tras-aluvion/",
-        "published_date": "2026-08-19 19:53:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Waiver of default interest will be valid until next August 29",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/dispensa-de-intereses-moratorios-estara-vigente-hasta-el-proximo-29-de-agosto/",
-        "published_date": "2026-08-19 19:42:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Donald Trump claims that North Korea has 57 nuclear weapons",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/donald-trump-afirma-que-corea-del-norte-cuenta-con-57-armas-nucleares/",
-        "published_date": "2026-08-19 19:39:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hacks for happiness: Crecer presents the world's leading reference in resilience",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/hacks-para-la-felicidad-crecer-presenta-al-maximo-referente-mundial-en-resiliencia/",
-        "published_date": "2026-08-19 19:31:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Puma Energy carries out the first \u201cSave and Win\u201d draw after exceeding 750 thousand entries in its first week",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/puma-energy-realiza-el-primer-sorteo-de-ahorra-y-gana-tras-superar-las-750-mil-participaciones-en-su-primera-semana/",
-        "published_date": "2026-08-19 19:17:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Puma Energy carries out the first \u201cSave and Win\u201d draw after exceeding 750 thousand entries in its first week",
-        "source": "Cronio",
-        "url": "https://croniosv.com/negocios/empresarial/puma-energy-realiza-el-primer-sorteo-de-ahorra-y-gana-tras-superar-las-750-mil-participaciones-en-su-primera-semana/",
-        "published_date": "2026-08-19 19:03:26",
+        "url": "https://diariolahuella.com/ministerio-de-vivienda-explica-proceso-de-legalizacion-de-terrenos-en-el-chaparral-i/",
+        "published_date": "2026-08-19 23:38:56",
         "category": "Local Events"
     }
 ]
