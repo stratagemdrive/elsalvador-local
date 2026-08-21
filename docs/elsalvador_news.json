@@ -1,5 +1,12 @@
 [
     {
+        "title": "UN condemns Israeli aggression against Palestine",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/onu-condena-agresiones-israelies-contra-palestina/",
+        "published_date": "2026-08-21 10:30:41",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The United States allocates $224,586 for a new phase of conservation of the Cihuat\u00e1n archaeological park",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/08/estados-unidos-destina-224586-para-una-nueva-fase-de-conservacion-del-parque-arqueologico-cihuatan/",
@@ -98,11 +105,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Immediate issuance of the DUI is expanded in five consulates of El Salvador in the USA",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/amplian-emision-inmediata-del-dui-en-cinco-consulados-de-el-salvador-en-eua/",
-        "published_date": "2026-08-13 01:17:08",
-        "category": "Diplomacy"
+        "title": "They capture a gunman from the 18 gang with a record of homicide and extortion",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/capturan-a-gatillero-de-la-pandilla-18-con-antecedentes-por-homicidio-y-extorsion/",
+        "published_date": "2026-08-21 04:04:48",
+        "category": "Military"
+    },
+    {
+        "title": "They capture drug dealers who operated in several areas of Chalatenango",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-narcomenudistas-que-operaban-en-varias-zonas-de-chalatenango/",
+        "published_date": "2026-08-21 02:15:35",
+        "category": "Military"
+    },
+    {
+        "title": "They capture drug traffickers who operated in Chalatenango",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-narcotraficantes-que-operaban-en-chalatenango/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-narcotraficantes-que-operaban-en-chalatenango",
+        "published_date": "2026-08-21 02:08:31",
+        "category": "Military"
     },
     {
         "title": "Man is accused of physically and verbally attacking the ex-partner of his current life partner",
@@ -224,27 +245,6 @@
         "category": "Military"
     },
     {
-        "title": "More than 1.3 tons of drugs will be destroyed",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/mas-de-1-3-toneladas-de-droga-seran-destruidos/",
-        "published_date": "2026-08-18 20:15:14",
-        "category": "Military"
-    },
-    {
-        "title": "Authorities will destroy more than 1.3 tons of drugs",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/autoridades-destruiran-mas-de-1-3-toneladas-de-droga/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-destruiran-mas-de-1-3-toneladas-de-droga",
-        "published_date": "2026-08-18 20:09:55",
-        "category": "Military"
-    },
-    {
-        "title": "Web scraping: what it is, how it works and when it is legal",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/web-scraping-que-es-como-funciona-y-cuando-es-legal/",
-        "published_date": "2026-08-18 18:00:33",
-        "category": "Military"
-    },
-    {
         "title": "Oil prices rise again due to lack of dialogue",
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/precios-del-petroleo-vuelven-a-subir-ante-falta-de-dialogo/",
@@ -285,6 +285,13 @@
         "url": "https://croniosv.com/internacionales/explosion-en-una-fabrica-de-municiones-cerca-de-roma/",
         "published_date": "2026-08-13 20:50:57",
         "category": "Energy"
+    },
+    {
+        "title": "Assembly ratifies $100 million loan for educational program",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/asamblea-ratifica-prestamo-por-100-millones-para-programa-educativo/",
+        "published_date": "2026-08-21 11:02:13",
+        "category": "Economy"
     },
     {
         "title": "CABEI supports the promotion of green and digital solutions in El Salvador",
@@ -406,6 +413,132 @@
         "category": "Economy"
     },
     {
+        "title": "San Salvador Mayor's Office gives Central Market merchants 72 hours to vacate",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/alcaldia-san-salvador-72-horas-comerciantes-mercado-central-desalojo/",
+        "published_date": "2026-08-21 11:05:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nuevas Ideas refuses to summon a representative of the MAG to present a plan against drought",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/nuevas-ideas-rechaza-citar-a-representante-del-mag-para-presentar-plan-contra-sequia/",
+        "published_date": "2026-08-21 11:04:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Consumer Ombudsman launches portal to consult credit records",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/defensoria-del-consumidor-lanza-portal-para-consultar-record-crediticio/",
+        "published_date": "2026-08-21 11:03:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "FUNDEMAS announces Sustainability and CSR Week 2026",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fundemas-anuncia-semana-de-la-sostenibilidad-y-rse-2026/",
+        "published_date": "2026-08-21 11:01:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cayetano Cruz questions the direction of municipalism and warns of risks for the 2027 elections",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cayetano-cruz-cuestiona-el-rumbo-del-municipalismo-y-advierte-riesgos-para-las-elecciones-de-2027/",
+        "published_date": "2026-08-21 11:00:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Strong earthquake in Peru without victims or significant damage",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fuerte-sismo-en-peru-sin-victimas-ni-danos-de-consideracion/",
+        "published_date": "2026-08-21 10:55:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "THE OBSOLESCENCE OF MAN",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-obsolescencia-del-hombre/",
+        "published_date": "2026-08-21 10:50:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alianza celebrates the ticket to the quarterfinals and sets the course for CONCACHAMPIONS",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/alianza-celebra-el-boleto-a-cuartos-y-fija-el-rumbo-a-concachampions/",
+        "published_date": "2026-08-21 10:20:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Firpo takes the lead!The Pamperos beat Alajuelense 1-0 in the Central American Cup",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/firpo-toma-el-liderato-los-pamperos-vencen-1-0-a-alajuelense-en-la-copa-centroamericana/",
+        "published_date": "2026-08-21 05:19:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador strengthens cultural and commercial ties with the Chinese communities in the region",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-estrecha-lazos-culturales-y-comerciales-con-las-comunidades-chinas-de-la-region/",
+        "published_date": "2026-08-21 03:27:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador hosts the 61st Meeting and 50th Convention of Chinese Associations of Central America and Panama",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/economia/el-salvador-es-sede-de-la-61-a-reunion-y-50-a-convencion-de-asociaciones-chinas-de-centroamerica-y-panama/",
+        "published_date": "2026-08-21 03:26:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador strengthens ties with Chinese communities in Central America and Panama",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-fortalece-vinculos-con-comunidades-chinas-de-centroamerica-y-panama/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-fortalece-vinculos-con-comunidades-chinas-de-centroamerica-y-panama",
+        "published_date": "2026-08-21 03:19:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The wait is over... PRE-SALE STARTS to see Los Tigres del Norte in El Salvador!",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/la-espera-termino-arranca-la-preventa-para-ver-a-los-tigres-del-norte-en-el-salvador/",
+        "published_date": "2026-08-21 01:55:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Analysis begins to modify working hours in El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/inicia-analisis-para-modificar-jornada-laboral-en-el-salvador/",
+        "published_date": "2026-08-21 00:49:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Study begins to modify working hours in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/inicia-estudio-para-modificar-jornada-laboral-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=inicia-estudio-para-modificar-jornada-laboral-en-el-salvador",
+        "published_date": "2026-08-21 00:25:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three countries consolidate a joint agenda for the development of the Trifinio territory",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/tres-paises-consolidan-una-agenda-conjunta-para-el-desarrollo-del-territorio-trifinio/?utm_source=rss&utm_medium=rss&utm_campaign=tres-paises-consolidan-una-agenda-conjunta-para-el-desarrollo-del-territorio-trifinio",
+        "published_date": "2026-08-21 00:03:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trifinio Plan countries advance a shared vision for regional development",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/paises-del-plan-trifinio-avanzan-en-una-vision-compartida-para-el-desarrollo-regional/?utm_source=rss&utm_medium=rss&utm_campaign=paises-del-plan-trifinio-avanzan-en-una-vision-compartida-para-el-desarrollo-regional",
+        "published_date": "2026-08-20 23:56:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Exemplary sentences for MS leaders who operated in San Miguel and Moraz\u00e1n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/condenas-ejemplares-para-lideres-de-la-ms-que-operaban-en-san-miguel-y-morazan/?utm_source=rss&utm_medium=rss&utm_campaign=condenas-ejemplares-para-lideres-de-la-ms-que-operaban-en-san-miguel-y-morazan",
+        "published_date": "2026-08-20 23:40:16",
+        "category": "Local Events"
+    },
+    {
         "title": "Former President Hern\u00e1ndez hopes for \u201ca letter of freedom\u201d in his trial for fraud and money laundering",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/08/el-expresidente-hernandez-espera-una-carta-de-libertad-en-su-proceso-por-fraude-y-lavado/",
@@ -417,132 +550,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/08/bomberos-controlan-incendio-en-carga-de-camion-tras-contacto-con-tendido-electrico/",
         "published_date": "2026-08-20 23:08:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Up to 45 years in prison for MS leaders for various crimes",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/hasta-45-anos-de-prision-para-lideres-de-ms-por-diversos-delitos/",
-        "published_date": "2026-08-20 22:55:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prison for subject who set fire to a fur store in Santa Ana",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/prision-para-sujeto-que-incendio-una-peleteria-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=prision-para-sujeto-que-incendio-una-peleteria-en-santa-ana",
-        "published_date": "2026-08-20 22:11:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "VIDEOS \u2013 PHOTOS |This is how Ur\u00edas Lobo was arrested after starring in a controversial video with a minor",
-        "source": "Cronio",
-        "url": "https://croniosv.com/redes/virales/videos-fotos-asi-fue-detenido-urias-lobo-tras-protagonizar-polemico-video-con-un-menor/",
-        "published_date": "2026-08-20 21:49:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Truck carrying students falls into a ravine and leaves 13 injured in Guatemala",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/camion-que-transportaba-estudiantes-cae-a-un-barranco-y-deja-13-lesionados-en-guatemala/",
-        "published_date": "2026-08-20 21:09:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Deputy Lira demands a plan against drought and food shortages",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/diputado-lira-exige-plan-contra-sequia-y-desabastecimiento-alimentario/",
-        "published_date": "2026-08-20 21:06:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motorcyclist suffers accident and suffers several injuries in Soyapango",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/motociclista-sufre-accidente-y-resulta-con-varias-lesiones-en-soyapango/",
-        "published_date": "2026-08-20 20:54:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "7.2 magnitude earthquake shakes southern region of Peru",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/sismo-de-magnitud-72-remece-region-sur-de-peru/",
-        "published_date": "2026-08-20 20:51:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 10/11 hour fallacy.Why El Salvador should not renounce the 8x8x8 rule",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-falacia-de-las-10-11-horas-por-que-el-salvador-no-debe-renunciar-a-la-regla-del-8x8x8/",
-        "published_date": "2026-08-20 20:39:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aerocable de Mejicanos advances with the construction of its first line",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/aerocable-de-mejicanos-avanza-con-la-construccion-de-su-primera-linea/",
-        "published_date": "2026-08-20 20:35:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Peru, shaken by a 7.2 magnitude earthquake that was felt from Ayacucho to Lima",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/peru-sacudido-por-un-sismo-de-magnitud-72-que-se-sintio-desde-ayacucho-hasta-lima/",
-        "published_date": "2026-08-20 20:29:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man sentenced to 11 years in prison for shooting and illegally carrying a firearm",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/condenan-a-11-anos-de-prision-a-hombre-por-disparo-y-portacion-ilegal-de-arma-de-fuego/",
-        "published_date": "2026-08-20 20:25:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "7.2 magnitude earthquake shakes Peru",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/terremoto-de-7-2-grados-sacude-peru/?utm_source=rss&utm_medium=rss&utm_campaign=terremoto-de-7-2-grados-sacude-peru",
-        "published_date": "2026-08-20 20:20:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "VIDEOS |6.7 magnitude earthquake shakes southern Peru",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/videos-sismo-de-magnitud-6-7-sacude-el-sur-de-peru/",
-        "published_date": "2026-08-20 20:09:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "They deliver a plan that will guide the development of the Historic Center of San Salvador for the next 15 years",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/entregan-plan-que-guiara-el-desarrollo-del-centro-historico-de-san-salvador-durante-los-proximos-15-anos/?utm_source=rss&utm_medium=rss&utm_campaign=entregan-plan-que-guiara-el-desarrollo-del-centro-historico-de-san-salvador-durante-los-proximos-15-anos",
-        "published_date": "2026-08-20 20:07:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "They present the Special Territorial Planning and Development Plan for the Historic Center of San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presentan-el-plan-especial-de-ordenamiento-y-desarrollo-territorial-para-el-centro-historico-de-san-salvador/",
-        "published_date": "2026-08-20 20:00:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Keys to improve the guest experience from the first reservation",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/claves-para-mejorar-la-experiencia-del-huesped-desde-la-primera-reserva/",
-        "published_date": "2026-08-20 19:55:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran is captured in Virginia on suspicion of murdering his co-worker",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/salvadoreno-es-capturado-en-virginia-como-sospechoso-de-asesinar-a-su-companera-de-trabajo/",
-        "published_date": "2026-08-20 19:11:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two tractor trailers collide on the road to Metap\u00e1n and one hits a house",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/dos-rastras-chocan-en-la-carretera-a-metapan-y-una-impacta-contra-una-vivienda/",
-        "published_date": "2026-08-20 18:17:34",
         "category": "Local Events"
     }
 ]
