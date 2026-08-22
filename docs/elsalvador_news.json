@@ -105,6 +105,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Several injured after bus overturns on route 104 in La Libertad Sur",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/varios-lesionados-tras-vuelco-de-bus-de-la-ruta-104-en-la-libertad-sur/?utm_source=rss&utm_medium=rss&utm_campaign=varios-lesionados-tras-vuelco-de-bus-de-la-ruta-104-en-la-libertad-sur",
+        "published_date": "2026-08-22 00:50:32",
+        "category": "Military"
+    },
+    {
         "title": "What does \u201cfarming aura\u201d mean?The expression that went viral among young people",
         "source": "Cronio",
         "url": "https://croniosv.com/redes/virales/que-significa-farmear-aura-la-expresion-que-se-volvio-viral-entre-los-jovenes/",
@@ -235,13 +242,6 @@
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/dinamarca-envia-reclutas-groelandia-primera-vez-historia-reciente/",
         "published_date": "2026-08-19 10:30:57",
-        "category": "Military"
-    },
-    {
-        "title": "Special Forces are attacked during patrol in Santa Isabel Ishuat\u00e1n, one attacker died",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/fuerzas-especiales-son-atacadas-durante-patrullaje-en-santa-isabel-ishuatan-un-agresor-fallecio/",
-        "published_date": "2026-08-19 05:48:45",
         "category": "Military"
     },
     {
@@ -406,11 +406,130 @@
         "category": "Economy"
     },
     {
-        "title": "Entrepreneurs from Usulut\u00e1n strengthen their businesses with financial and business training",
+        "title": "Assembly empowers FOVIAL to create and participate in commercial companies",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/emprendedores-de-usulutan-fortalecen-sus-negocios-con-formacion-financiera-y-empresarial/",
-        "published_date": "2026-08-14 11:02:22",
-        "category": "Economy"
+        "url": "https://www.diariocolatino.com/asamblea-faculta-al-fovial-a-crear-y-participar-en-sociedades-mercantiles/",
+        "published_date": "2026-08-22 11:03:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Those affected by COSAVI will file a complaint with the Inter-American Court and the US Senate",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/afectados-cosavi-llevaran-denuncia-ante-corte-idh-y-senado-de-eeuu/",
+        "published_date": "2026-08-22 11:02:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "MOVIE insists that the emergency regime has weakened justice",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/movir-insiste-que-el-regimen-de-excepcion-ha-debilitado-la-justicia/",
+        "published_date": "2026-08-22 11:01:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "BRP calls to march on September 15 against the regime and for true independence",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/brp-llama-a-marchar-el-15-de-septiembre-contra-el-regimen-y-por-una-verdadera-independencia/",
+        "published_date": "2026-08-22 11:00:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Selecta already has a route in the League of Nations: Dates, venues and defined times",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-selecta-ya-tiene-ruta-en-la-liga-de-naciones-fechas-sedes-y-horarios-definidos/",
+        "published_date": "2026-08-22 10:30:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Night Labor Justice continues its deployment throughout the national territory",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/justicia-laboral-nocturna-continua-su-despliegue-en-todo-el-territorio-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=justicia-laboral-nocturna-continua-su-despliegue-en-todo-el-territorio-nacional",
+        "published_date": "2026-08-22 05:12:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two defendants will remain in provisional prison for homicide in Moraz\u00e1n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/dos-acusados-seguiran-en-prision-provisional-por-homicidio-en-morazan/?utm_source=rss&utm_medium=rss&utm_campaign=dos-acusados-seguiran-en-prision-provisional-por-homicidio-en-morazan",
+        "published_date": "2026-08-22 05:05:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Those accused of homicide in Moraz\u00e1n will continue in prison while the investigations progress",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/acusados-de-homicidio-en-morazan-continuaran-en-prision-mientras-avanzan-las-investigaciones/",
+        "published_date": "2026-08-22 05:05:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "The United States highlights economic alliance with El Salvador and announces interest in holding a bilateral summit",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/estados-unidos-destaca-alianza-economica-con-el-salvador-y-anuncia-interes-en-realizar-cumbre-bilateral/?utm_source=rss&utm_medium=rss&utm_campaign=estados-unidos-destaca-alianza-economica-con-el-salvador-y-anuncia-interes-en-realizar-cumbre-bilateral",
+        "published_date": "2026-08-22 01:35:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The United States highlights President Nayib Bukele as one of its most valuable partners in the region",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/estados-unidos-destaca-al-presidente-nayib-bukele-como-uno-de-sus-socios-mas-valiosos-en-la-region/",
+        "published_date": "2026-08-22 01:34:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "MTD rejects proposal to extend the working day to 11 hours and asks to reduce it to six",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/mtd-rechaza-propuesta-de-ampliar-la-jornada-laboral-a-11-horas-y-pide-reducirla-a-seis/",
+        "published_date": "2026-08-22 01:27:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "President of Cuba confirms preparation for defense",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/presidente-de-cuba-constata-preparacion-para-la-defensa/",
+        "published_date": "2026-08-22 01:20:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lula and Trump talk by phone about tariffs and organized crime",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/lula-y-trump-conversan-por-telefono-sobre-aranceles-y-crimen-organizado/",
+        "published_date": "2026-08-22 01:17:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "MS gang members are convicted of extortion, drugs and planning homicides",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/pandilleros-de-la-ms-son-condenados-por-extorsion-drogas-y-planificacion-de-homicidios/?utm_source=rss&utm_medium=rss&utm_campaign=pandilleros-de-la-ms-son-condenados-por-extorsion-drogas-y-planificacion-de-homicidios",
+        "published_date": "2026-08-22 00:55:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "24 MS gang members are sentenced to sentences of up to 85 years in prison",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/24-pandilleros-de-la-ms-son-condenados-a-penas-de-hasta-85-anos-de-prision/",
+        "published_date": "2026-08-22 00:55:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Route 104 bus overturns on the road to Comasagua and leaves several injured",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/bus-de-la-ruta-104-vuelca-en-carretera-hacia-comasagua-y-deja-varios-lesionados/",
+        "published_date": "2026-08-22 00:49:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "English in Central America XXI",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ingleses-en-centro-america-xxi/",
+        "published_date": "2026-08-22 00:32:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "The outlined streets of Tecla",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/las-delineadas-calles-teclenas/",
+        "published_date": "2026-08-22 00:26:34",
+        "category": "Local Events"
     },
     {
         "title": "CLARO drives a new era of mobile innovation with the Samsung Galaxy Z Fold8, Z Flip8, and Z Fold8 Ultra",
@@ -424,132 +543,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/08/consolida-su-crecimiento-en-el-salvador-y-proyecta-terminar-2026-con-siete-puntos-de-atencion/",
         "published_date": "2026-08-21 22:52:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the players sanctioned by FIFA after the incidents in the 2026 World Cup final",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/estos-son-los-jugadores-sancionados-por-la-fifa-tras-los-incidentes-en-la-final-del-mundial-2026/",
-        "published_date": "2026-08-21 22:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman is accused of the death of her four-year-old daughter in Nicaragua",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/mujer-es-acusada-por-la-muerte-de-su-hija-de-cuatro-anos-en-nicaragua/",
-        "published_date": "2026-08-21 22:27:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "VMT announces vehicle restrictions around the \u201cEl M\u00e1gico\u201d Gonz\u00e1lez stadium",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/vmt-anuncia-restricciones-vehiculares-en-los-alrededores-del-estadio-el-magico-gonzalez/",
-        "published_date": "2026-08-21 22:19:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the voting centers for Salvadorans in Central America and the Caribbean in 2027",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/estos-son-los-centros-de-votacion-para-salvadorenos-en-centroamerica-y-el-caribe-en-2027/",
-        "published_date": "2026-08-21 21:29:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Paul Steiner points out that CONAMYPE expanded its programs to support women entrepreneurs",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/paul-steiner-senala-que-conamype-amplio-sus-programas-para-apoyar-a-mujeres-emprendedoras/?utm_source=rss&utm_medium=rss&utm_campaign=paul-steiner-senala-que-conamype-amplio-sus-programas-para-apoyar-a-mujeres-emprendedoras",
-        "published_date": "2026-08-21 21:22:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "CAM San Salvador celebrates 140 years of serving the capital's residents",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/cam-san-salvador-cumple-140-anos-de-servir-a-los-capitalinos/",
-        "published_date": "2026-08-21 21:17:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "CAM San Salvador celebrates 140 years of existence",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cam-san-salvador-cumple-140-anos-de-existencia/?utm_source=rss&utm_medium=rss&utm_campaign=cam-san-salvador-cumple-140-anos-de-existencia",
-        "published_date": "2026-08-21 21:15:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "They identify a young man who died in a traffic accident in Cerro de Las Pavas",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/identifican-a-joven-que-murio-en-accidente-de-transito-en-el-cerro-de-las-pavas/",
-        "published_date": "2026-08-21 21:07:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Argentine Football Association will appeal the FIFA sanction against the World Cup team",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/la-asociacion-del-futbol-argentino-apelara-la-sancion-de-la-fifa-a-seleccion-del-mundial/",
-        "published_date": "2026-08-21 21:06:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ukraine sanctions \"Masha and the Bear\" for this reason",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/ucrania-sanciona-a-masha-y-el-oso-por-esta-razon/",
-        "published_date": "2026-08-21 20:29:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ebola epidemic exceeds 2,500 deaths in the Democratic Republic of the Congo",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/epidemia-de-ebola-supera-los-2500-muertos-en-republica-democratica-del-congo/",
-        "published_date": "2026-08-21 20:17:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four people shot dead in Mexican town after soccer game",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/asesinan-a-tiros-a-cuatro-personas-en-poblado-mexicano-tras-juego-de-futbol/",
-        "published_date": "2026-08-21 20:02:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Japan executes perpetrator of deadly 2009 fire",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/japon-ejecuta-al-autor-de-un-incendio-mortal-en-2009/",
-        "published_date": "2026-08-21 19:57:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Popular Resistance and Rebellion Block calls for a massive march for September 15",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/bloque-de-resistencia-y-rebeldia-popular-convoca-a-marcha-masiva-para-el-15-de-septiembre/",
-        "published_date": "2026-08-21 19:07:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Firpo defeats Alajuelense in Las Delicias and leads group A",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/firpo-vence-a-alajuelense-en-las-delicias-y-lidera-grupo-a/",
-        "published_date": "2026-08-21 18:58:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Los Tigres del Norte will light up Cuscatl\u00e1n this December 12 with their \u201cLos Tigres del Mundo\u201d tour",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/los-tigres-del-norte-encenderan-el-cuscatlan-este-12-de-diciembre-con-su-gira-los-tigres-del-mundo/",
-        "published_date": "2026-08-21 18:52:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "They rescue a person who fell into a ravine in El Tr\u00e1nsito, San Miguel",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/rescatan-a-persona-que-cayo-en-una-quebrada-en-el-transito-san-miguel/",
-        "published_date": "2026-08-21 18:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spain registers almost 4,500 deaths attributed to heat since June",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/espana-registra-casi-4500-muertes-atribuidas-al-calor-desde-junio/",
-        "published_date": "2026-08-21 17:55:58",
         "category": "Local Events"
     }
 ]
