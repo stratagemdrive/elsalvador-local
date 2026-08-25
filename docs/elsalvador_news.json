@@ -98,11 +98,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Qatar vows diplomatic efforts to ease regional tensions",
+        "title": "Iran says it would attack bases in Europe if they are used to attack it",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/qatar-promete-realizar-esfuerzos-diplomaticos-para-aliviar-tensiones-regionales/",
-        "published_date": "2026-08-17 10:15:57",
-        "category": "Diplomacy"
+        "url": "https://www.diariocolatino.com/iran-dice-que-atacaria-bases-en-europa-si-se-utilizan-para-atacarla/",
+        "published_date": "2026-08-25 10:00:55",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a subject accused of murdering a man after an argument over jealousy in Apopa",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/capturan-a-sujeto-senalado-de-asesinar-a-un-hombre-tras-discusion-por-celos-en-apopa/",
+        "published_date": "2026-08-25 04:40:55",
+        "category": "Military"
+    },
+    {
+        "title": "Three arrested for fighting during a soccer match in San Miguel Oeste",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/tres-detenidos-por-protagonizar-pelea-durante-partido-de-futbol-en-san-miguel-oeste/",
+        "published_date": "2026-08-25 01:08:56",
+        "category": "Military"
+    },
+    {
+        "title": "They capture three subjects after fighting during a soccer match in San Miguel",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-tres-sujetos-tras-protagonizar-pelea-durante-partido-de-futbol-en-san-miguel/",
+        "published_date": "2026-08-25 01:08:34",
+        "category": "Military"
     },
     {
         "title": "PNC captures three men after fight during soccer game in Nueva Guadalupe",
@@ -116,6 +137,13 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/08/capturan-a-sujetos-tras-protagonizar-pelea-durante-partido-de-futbol-en-nueva-guadalupe/",
         "published_date": "2026-08-24 22:28:47",
+        "category": "Military"
+    },
+    {
+        "title": "Subject with material related to gangs falls in La Paz",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/cae-sujeto-con-material-afin-a-las-pandillas-en-la-paz/?utm_source=rss&utm_medium=rss&utm_campaign=cae-sujeto-con-material-afin-a-las-pandillas-en-la-paz",
+        "published_date": "2026-08-24 21:36:48",
         "category": "Military"
     },
     {
@@ -210,39 +238,11 @@
         "category": "Military"
     },
     {
-        "title": "Several injured after bus overturns on route 104 in La Libertad Sur",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/varios-lesionados-tras-vuelco-de-bus-de-la-ruta-104-en-la-libertad-sur/?utm_source=rss&utm_medium=rss&utm_campaign=varios-lesionados-tras-vuelco-de-bus-de-la-ruta-104-en-la-libertad-sur",
-        "published_date": "2026-08-22 00:50:32",
-        "category": "Military"
-    },
-    {
-        "title": "What does \u201cfarming aura\u201d mean?The expression that went viral among young people",
-        "source": "Cronio",
-        "url": "https://croniosv.com/redes/virales/que-significa-farmear-aura-la-expresion-que-se-volvio-viral-entre-los-jovenes/",
-        "published_date": "2026-08-21 23:11:52",
-        "category": "Military"
-    },
-    {
-        "title": "Drug distributors arrested in Chalatenango Centro",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/detienen-a-distribuidores-de-droga-en-chalatenango-centro/",
-        "published_date": "2026-08-21 21:19:16",
-        "category": "Military"
-    },
-    {
-        "title": "Vigil for Carlos Abarca.Young university students and social activists demand justice",
+        "title": "The intellectual orphanhood of invulnerable power",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/vigilia-por-carlos-abarca-jovenes-universitarios-y-activistas-sociales-demandan-justicia/",
-        "published_date": "2026-08-21 19:12:29",
-        "category": "Military"
-    },
-    {
-        "title": "\u201cZero Crime\u201d reconstructs decades of violence and the change in El Salvador's security",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cero-crimen-reconstruye-decadas-de-violencia-y-el-cambio-en-la-seguridad-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=cero-crimen-reconstruye-decadas-de-violencia-y-el-cambio-en-la-seguridad-de-el-salvador",
-        "published_date": "2026-08-21 17:49:28",
-        "category": "Military"
+        "url": "https://www.diariocolatino.com/la-orfandad-intelectual-del-poder-invulnerable/",
+        "published_date": "2026-08-25 10:55:05",
+        "category": "Energy"
     },
     {
         "title": "Blockade is the main cause of the situation in Cuba, D\u00edaz-Canel reiterates",
@@ -278,6 +278,20 @@
         "url": "https://croniosv.com/nacionales/economia/conozca-los-nuevos-precios-de-referencia-de-los-combustibles-3/",
         "published_date": "2026-08-17 22:26:58",
         "category": "Energy"
+    },
+    {
+        "title": "Cleaning begins around the Central Market after evictions of vendors",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/inicia-limpieza-alrededores-mercado-central-tras-desalojos-vendedores/",
+        "published_date": "2026-08-25 11:04:08",
+        "category": "Economy"
+    },
+    {
+        "title": "Economy grows in official figures, but the high cost of living hits Salvadoran households: Villalona",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/economia-crece-cifras-oficiales-alto-costo-vida-golpea-hogares-salvadorenos/",
+        "published_date": "2026-08-25 11:02:18",
+        "category": "Economy"
     },
     {
         "title": "Mayor's Office dismantles the structures of 1,500 informal stalls around the Central Market",
@@ -406,18 +420,74 @@
         "category": "Economy"
     },
     {
-        "title": "Total success at the Pata Soup Festival",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/exito-total-en-el-festival-de-sopa-de-pata/?utm_source=rss&utm_medium=rss&utm_campaign=exito-total-en-el-festival-de-sopa-de-pata",
-        "published_date": "2026-08-18 19:50:11",
-        "category": "Economy"
+        "title": "Magisterial Bases denounce labor violations due to MINEDUCYT reforms",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/bases-magisteriales-denucia-vulneraciones-laborales-reformas-mineducyt/",
+        "published_date": "2026-08-25 11:03:55",
+        "category": "Local Events"
     },
     {
-        "title": "POTATO SOUP FESTIVAL: Flavor, music and tradition at the Tinetti market",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/festival-de-sopa-de-pata-sabor-musica-y-tradicion-en-el-mercado-tinetti/",
-        "published_date": "2026-08-18 19:38:08",
-        "category": "Economy"
+        "title": "Alianza Women devastates Metap\u00e1n with six goals from M\u00f3nica Rodr\u00edguez",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/alianza-women-arrasa-a-metapan-con-seis-goles-de-monica-rodriguez/",
+        "published_date": "2026-08-25 10:50:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jealousy, insults and an argument, this is how a homicide in Apopa originated",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/celos-insultos-y-una-discusion-asi-se-origino-un-homicidio-en-apopa/?utm_source=rss&utm_medium=rss&utm_campaign=celos-insultos-y-una-discusion-asi-se-origino-un-homicidio-en-apopa",
+        "published_date": "2026-08-25 03:51:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The incredible story of \u201cGuardi\u00e1n\u201d, the dog that found a missing girl in Honduras",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/la-increible-historia-de-guardian-el-perro-que-encontro-a-una-nina-desaparecida-en-honduras/?utm_source=rss&utm_medium=rss&utm_campaign=la-increible-historia-de-guardian-el-perro-que-encontro-a-una-nina-desaparecida-en-honduras",
+        "published_date": "2026-08-25 03:37:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Get ahead, \u00c1baco ecosystem so that companies anticipate and grow",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/adelantate-ecosistema-de-abaco-para-que-empresas-se-anticipen-y-crezcan/",
+        "published_date": "2026-08-25 03:27:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prison for woman who swindled $8,000 for a false construction in La Libertad",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/prision-para-mujer-que-estafo-8000-por-una-falsa-costruccion-en-la-libertad/",
+        "published_date": "2026-08-25 00:58:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four UES graduates stand out among the best scores on the national exam for residents",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/cuatro-graduados-de-la-ues-sobresalen-entre-las-mejores-notas-del-examen-nacional-para-residentes/?utm_source=rss&utm_medium=rss&utm_campaign=cuatro-graduados-de-la-ues-sobresalen-entre-las-mejores-notas-del-examen-nacional-para-residentes",
+        "published_date": "2026-08-25 00:36:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Atlantic sargassum belt grows",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/crece-el-cinturon-de-sargazo-del-atlantico/",
+        "published_date": "2026-08-25 00:07:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US threatens those who refuse to break economic ties with Iran",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/eeuu-amenaza-a-quienes-rechacen-romper-vinculos-economicos-con-iran/",
+        "published_date": "2026-08-24 23:44:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "The United States describes President Bukele as one of its most valuable partners in the region",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/estados-unidos-califica-al-presidente-bukele-como-uno-de-sus-socios-mas-valiosos-de-la-region/?utm_source=rss&utm_medium=rss&utm_campaign=estados-unidos-califica-al-presidente-bukele-como-uno-de-sus-socios-mas-valiosos-de-la-region",
+        "published_date": "2026-08-24 23:29:00",
+        "category": "Local Events"
     },
     {
         "title": "Voces Vitales will train women in financial well-being",
@@ -462,6 +532,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Traffic accident leaves one person injured in La Uni\u00f3n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/accidente-de-transito-deja-una-persona-lesionada-en-la-union-2/",
+        "published_date": "2026-08-24 22:01:06",
+        "category": "Local Events"
+    },
+    {
         "title": "One dead and two injured after armed attack in Guatemala",
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/un-muerto-y-dos-heridos-tras-ataque-armado-en-guatemala/",
@@ -469,94 +546,17 @@
         "category": "Local Events"
     },
     {
+        "title": "Two young people die after being struck by lightning in Ahuachap\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/dos-jovenes-mueren-tras-ser-impactados-por-un-rayo-en-ahuachapan/",
+        "published_date": "2026-08-24 21:24:43",
+        "category": "Local Events"
+    },
+    {
         "title": "Authorities advance with the demolition work of concrete structures in the Historic Center",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/08/autoridades-avanzan-con-los-trabajos-de-demolicion-de-estructuras-de-concreto-del-centro-historico/",
         "published_date": "2026-08-24 21:05:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador projects its textile industry at a specialized fair in Guatemala",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-proyecta-su-industria-textil-en-feria-especializada-de-guatemala/",
-        "published_date": "2026-08-24 20:35:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele responds to criticism about supposedly oppressed youth: \u201cWhat we have here is pure joy\u201d",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-responde-a-las-criticas-sobre-una-supuesta-juventud-oprimida-aqui-lo-que-hay-es-pura-alegria/",
-        "published_date": "2026-08-24 20:20:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Robot imitates Cristiano Ronaldo's celebration after scoring a goal in China",
-        "source": "Cronio",
-        "url": "https://croniosv.com/redes/virales/robot-imita-el-festejo-de-cristiano-ronaldo-tras-marcar-un-gol-en-china/",
-        "published_date": "2026-08-24 20:16:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "F\u00e9lix Ulloa delivers the book \u201cZero Crime\u201d to President Nayib Bukele",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/felix-ulloa-entrega-al-presidente-nayib-bukele-el-libro-cero-crimen/?utm_source=rss&utm_medium=rss&utm_campaign=felix-ulloa-entrega-al-presidente-nayib-bukele-el-libro-cero-crimen",
-        "published_date": "2026-08-24 20:09:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "F\u00e9lix Ulloa shares the book \u201cZero Crime\u201d with Nayib Bukele",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/felix-ulloa-comparte-con-nayib-bukele-el-libro-cero-crimen/",
-        "published_date": "2026-08-24 20:08:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Firefighters attend to a road accident between a bus and a truck",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/bomberos-atienden-siniestro-vial-entre-un-autobus-y-un-camion/?utm_source=rss&utm_medium=rss&utm_campaign=bomberos-atienden-siniestro-vial-entre-un-autobus-y-un-camion",
-        "published_date": "2026-08-24 20:06:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "STRONG VIDEO |Motorcyclist dies after hitting a harrow in Usulut\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/video-fuerte-motociclista-muere-tras-impactar-contra-una-rastra-en-usulutan/",
-        "published_date": "2026-08-24 19:52:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "VIDEOS |Did you know that the first \u201cfarming aura\u201d battle already took place in Zacatecoluca?",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/videos-sabias-que-ya-se-realizo-la-primera-batalla-de-farmear-aura-en-zacatecoluca/",
-        "published_date": "2026-08-24 18:45:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six people affected after collision between a bus and a dump truck on the Pan-American Highway",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/seis-personas-afectadas-tras-colision-entre-un-autobus-y-una-volqueta-en-la-carretera-panamericana/",
-        "published_date": "2026-08-24 18:41:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Analyzing the relationship between excess and power",
-        "source": "Cronio",
-        "url": "https://croniosv.com/opinet/analizando-la-relacion-entre-la-desmesura-y-el-poder/",
-        "published_date": "2026-08-24 18:24:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rock blasting on the Los Chorros slope will take place on August 29 and 30",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/voladuras-de-roca-en-talud-de-los-chorros-se-realizara-el-29-y-30-de-agosto/",
-        "published_date": "2026-08-24 18:17:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Slope blasting on the road to Los Chorros will be carried out on August 29 and 30",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/voladuras-de-talud-en-carretera-a-los-chorros-se-realizaran-el-29-y-30-de-agosto/?utm_source=rss&utm_medium=rss&utm_campaign=voladuras-de-talud-en-carretera-a-los-chorros-se-realizaran-el-29-y-30-de-agosto",
-        "published_date": "2026-08-24 18:15:04",
         "category": "Local Events"
     }
 ]
