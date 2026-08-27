@@ -1,5 +1,12 @@
 [
     {
+        "title": "They carry out a medical day in the canton of El Golfo de San Juan Nonualco",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/realizan-jornada-medica-en-el-canton-el-golfo-de-san-juan-nonualco/",
+        "published_date": "2026-08-27 18:08:24",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Peru expresses solidarity with China and Nepal over floods",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/peru-expresa-solidaridad-con-china-y-nepal-por-inundaciones/",
@@ -77,11 +84,46 @@
         "category": "Diplomacy"
     },
     {
-        "title": "HRF and Perseus Strategies ask the UN to declare the detention of Ruth L\u00f3pez and Enrique Anaya arbitrary",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/hrf-y-perseus-strategies-piden-a-la-onu-declarar-arbitraria-la-detencion-de-ruth-lopez-y-enrique-anaya/",
-        "published_date": "2026-08-19 11:02:05",
-        "category": "Diplomacy"
+        "title": "They seize more than half a million quetzals linked to extortion in a home in Guatemala",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/incautan-mas-de-medio-millon-de-quetzales-vinculados-a-extorsiones-en-una-vivienda-de-guatemala/",
+        "published_date": "2026-08-27 19:58:31",
+        "category": "Military"
+    },
+    {
+        "title": "Authorities capture a subject who had drugs attached to his body in Ilopango",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/autoridades-capturan-a-sujeto-que-tenia-droga-adherida-a-su-cuerpo-en-ilopango/",
+        "published_date": "2026-08-27 18:33:54",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a subject who sold drugs to teenagers in San Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-sujeto-que-vendia-droga-a-adolescentes-en-san-salvador/",
+        "published_date": "2026-08-27 18:11:16",
+        "category": "Military"
+    },
+    {
+        "title": "Subject who trafficked drugs in La Libertad Oeste falls",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/cae-sujeto-que-traficaba-drogas-en-la-libertad-oeste/?utm_source=rss&utm_medium=rss&utm_campaign=cae-sujeto-que-traficaba-drogas-en-la-libertad-oeste",
+        "published_date": "2026-08-27 17:49:44",
+        "category": "Military"
+    },
+    {
+        "title": "\u201cZero Crime\u201d: the book that tells how El Salvador left the fear of gangs behind",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/cero-crimen-el-libro-que-relata-como-el-salvador-dejo-atras-el-miedo-de-las-pandillas/?utm_source=rss&utm_medium=rss&utm_campaign=cero-crimen-el-libro-que-relata-como-el-salvador-dejo-atras-el-miedo-de-las-pandillas",
+        "published_date": "2026-08-27 14:09:04",
+        "category": "Military"
+    },
+    {
+        "title": "Vice President of the Republic of El Salvador, Mr. F\u00e9lix Ulloa Jr. participates in the launch of the book Cero Crimen, which exposes the transformation of El Salvador and the results of its security strategy",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/entrevistas/vicepresidente-de-la-republica-de-el-salvador-sr-felix-ulloa-hijo-participa-en-el-lanzamiento-del-libro-cero-crimen-el-cual-expone-la-transformacion-de-el-salvador-y-los-resultados-de-su-estrategia/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-de-la-republica-de-el-salvador-sr-felix-ulloa-hijo-participa-en-el-lanzamiento-del-libro-cero-crimen-el-cual-expone-la-transformacion-de-el-salvador-y-los-resultados-de-su-estrategia",
+        "published_date": "2026-08-27 13:40:51",
+        "category": "Military"
     },
     {
         "title": "\u201cZero Crime\u201d: the book that portrays how Nayib Bukele's El Salvador left fear behind and opened a new era of peace",
@@ -182,48 +224,6 @@
         "category": "Military"
     },
     {
-        "title": "Authorities capture alias \u201cCrazy\u201d, a woman accused of belonging to 18S",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/autoridades-capturan-a-alias-crazy-mujer-senalada-de-pertenecer-a-la-18s/",
-        "published_date": "2026-08-26 01:53:05",
-        "category": "Military"
-    },
-    {
-        "title": "Drug distributors arrested in different parts of San Miguel",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/detienen-a-distribuidores-de-droga-en-distintos-puntos-de-san-miguel/",
-        "published_date": "2026-08-25 21:14:09",
-        "category": "Military"
-    },
-    {
-        "title": "MS gang member captured in La Paz",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-pandillero-de-la-ms-en-la-paz-2/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-pandillero-de-la-ms-en-la-paz-2",
-        "published_date": "2026-08-25 17:29:55",
-        "category": "Military"
-    },
-    {
-        "title": "Hooded and with a screwdriver: this is how he entered a store to demand the money from the sale in La Uni\u00f3n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/encapuchado-y-con-un-desarmador-asi-ingreso-a-una-tienda-para-exigir-el-dinero-de-la-venta-en-la-union/",
-        "published_date": "2026-08-25 17:15:39",
-        "category": "Military"
-    },
-    {
-        "title": "An argument marked by jealousy and insults ended in homicide in Apopa",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/una-discusion-marcada-por-celos-e-insultos-termino-en-homicidio-en-apopa/",
-        "published_date": "2026-08-25 16:22:23",
-        "category": "Military"
-    },
-    {
-        "title": "Court of Accounts strengthens cooperation with the State Cybersecurity Agency for secure digitalization",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/corte-de-cuentas-fortalece-cooperacion-con-agencia-de-ciberseguridad-del-estado-para-una-digitalizacion-segura/",
-        "published_date": "2026-08-25 16:10:26",
-        "category": "Military"
-    },
-    {
         "title": "El Salvador and Kuwait promote the installation of a solar energy plant in La Libertad",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/el-salvador-y-kuwait-impulsan-la-instalacion-de-una-planta-de-energia-solar-en-la-libertad/",
@@ -257,6 +257,20 @@
         "url": "https://www.diariocolatino.com/eeuu-establece-ruta-de-navegacion-de-petroleo-por-estrecho-de-ormuz/",
         "published_date": "2026-08-20 10:15:55",
         "category": "Energy"
+    },
+    {
+        "title": "Trifinio Plan will present results of the Value Chains Project and announce a new stage for the regional development of Trifinio",
+        "source": "Cronio",
+        "url": "https://croniosv.com/politica/plan-trifinio-presentara-resultados-del-proyecto-cadenas-de-valor-y-anunciara-una-nueva-etapa-para-el-desarrollo-regional-del-trifinio/",
+        "published_date": "2026-08-27 20:45:22",
+        "category": "Economy"
+    },
+    {
+        "title": "Banco CUSCATLAN delivers $30,000 in seed capital to tourism ventures",
+        "source": "Cronio",
+        "url": "https://croniosv.com/negocios/empresarial/banco-cuscatlan-entrega-30000-en-capital-semilla-a-emprendimientos-turisticos/",
+        "published_date": "2026-08-27 17:31:51",
+        "category": "Economy"
     },
     {
         "title": "World Bank highlights educational transformation of El Salvador with artificial intelligence",
@@ -385,157 +399,143 @@
         "category": "Economy"
     },
     {
-        "title": "CABEI supports the promotion of green and digital solutions in El Salvador",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/bcie-apoya-el-impulso-de-soluciones-verdes-y-digitales-en-el-salvador/",
-        "published_date": "2026-08-19 19:20:20",
-        "category": "Economy"
-    },
-    {
-        "title": "Ronal Uma\u00f1a affirms that Ortega manages the economy better than Bukele",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/ronal-umana-afirma-que-ortega-administra-mejor-la-economia-que-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=ronal-umana-afirma-que-ortega-administra-mejor-la-economia-que-bukele",
-        "published_date": "2026-08-19 17:36:28",
-        "category": "Economy"
-    },
-    {
-        "title": "Walter Sosa assumes the presidency of the Court of Accounts for the period 2026-2029",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/walter-sosa-asume-la-presidencia-de-la-corte-de-cuentas-para-el-periodo-2026-2029/?utm_source=rss&utm_medium=rss&utm_campaign=walter-sosa-asume-la-presidencia-de-la-corte-de-cuentas-para-el-periodo-2026-2029",
-        "published_date": "2026-08-27 01:32:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture a young man with 8 portions of marijuana attached to his body in Ilopango",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/capturan-a-joven-con-8-porciones-de-marihuana-adheridas-a-su-cuerpo-en-ilopango/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-joven-con-8-porciones-de-marihuana-adheridas-a-su-cuerpo-en-ilopango",
-        "published_date": "2026-08-27 01:23:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "They arrest a man in Ilopango who was transporting marijuana attached to his body",
+        "title": "Provisional prison for drunk person responsible for road accident in Santa Ana",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/detienen-en-ilopango-a-hombre-que-transportaba-marihuana-adherida-a-su-cuerpo/",
-        "published_date": "2026-08-27 01:15:23",
+        "url": "https://diariolahuella.com/prision-provisional-para-ebrio-responsable-de-accidente-vial-en-santa-ana/",
+        "published_date": "2026-08-27 20:46:06",
         "category": "Local Events"
     },
     {
-        "title": "Bus with Firpo fans suffers an accident in Guatemala",
+        "title": "Jail for person responsible for road accident in Santa Ana",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/autobus-con-aficionados-de-firpo-sufre-accidente-en-guatemala/?utm_source=rss&utm_medium=rss&utm_campaign=autobus-con-aficionados-de-firpo-sufre-accidente-en-guatemala",
-        "published_date": "2026-08-27 00:09:51",
+        "url": "https://lapagina.com.sv/nacionales/carcel-para-responsable-de-accidente-vial-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=carcel-para-responsable-de-accidente-vial-en-santa-ana",
+        "published_date": "2026-08-27 20:45:10",
         "category": "Local Events"
     },
     {
-        "title": "Puma Energy delivers the first \u201cSave and Earn\u201d prizes and celebrates 14 days of participation with more than 1.5 million opportunities",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/puma-energy-entrega-los-primeros-premios-de-ahorra-y-gana-y-celebra-14-dias-de-participacion-con-mas-de-1-5-millones-de-oportunidades/",
-        "published_date": "2026-08-27 00:09:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Assembly grants new extension to the emergency regime",
+        "title": "People and territories of the region articulate knowledge and struggles for life and land",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/asamblea-concede-nueva-prorroga-al-regimen-de-excepcion-6/",
-        "published_date": "2026-08-26 23:23:55",
+        "url": "https://www.diariocolatino.com/pueblos-y-territorios-de-la-region-articulan-saberes-y-luchas-por-la-vida-y-la-tierra/",
+        "published_date": "2026-08-27 20:25:11",
         "category": "Local Events"
     },
     {
-        "title": "LOTRA Draw No. 463 dedicated to + INDES Sports",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/economia/sorteo-lotra-n-o-463-dedicado-a-deportes-de-indes/",
-        "published_date": "2026-08-26 22:42:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "LOTRA Raffle No. 463 dedicated to + INDES Sports",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/sorteo-lotra-n-o-463-dedicado-a-deportes-de-indes/",
-        "published_date": "2026-08-26 22:35:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Puma Energy delivers the first \u201cSave and Earn\u201d prizes and celebrates 14 days of participation with more than 1.5 million opportunities",
-        "source": "Cronio",
-        "url": "https://croniosv.com/negocios/empresarial/puma-energy-entrega-los-primeros-premios-de-ahorra-y-gana-y-celebra-14-dias-de-participacion-con-mas-de-1-5-millones-de-oportunidades/",
-        "published_date": "2026-08-26 22:29:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "United States Embassy celebrates more than 4,600 young people who benefited from the \u201cEnglish for a Better Future\u201d program",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/embajada-de-los-estados-unidos-celebra-a-mas-de-4600-jovenes-beneficiados-por-elprograma-ingles-para-un-futuro-mejor/",
-        "published_date": "2026-08-26 22:23:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "315 people have died from being run over in El Salvador this year",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/315-personas-han-fallecido-atropelladas-en-el-salvador-este-ano/",
-        "published_date": "2026-08-26 22:16:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "14 babies dead after fire in Pakistan hospital",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/14-bebes-muertos-tras-incendio-en-un-hospital-de-pakistan/",
-        "published_date": "2026-08-26 22:08:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "SHELL turns the passion for FAS into experiences for its fans with \u201cwatch the game\u201d",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/shell-convierte-la-pasion-por-el-fas-en-experiencias-para-sus-fanaticos-con-watch-the-game/",
-        "published_date": "2026-08-26 22:02:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "5.1 magnitude earthquake shakes Colombia two weeks after the devastating earthquake",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/sismo-de-magnitud-51-sacude-a-colombia-dos-semanas-despues-del-devastador-terremoto/",
-        "published_date": "2026-08-26 21:53:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "STRONG VIDEOS |Flash flood devastates villages on the border between Nepal and China, leaving more than 150 dead and hundreds missing",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/videos-fuertes-inundacion-repentina-arrasa-pueblos-en-la-frontera-entre-nepal-y-china-y-deja-mas-de-150-muertos-y-cientos-de-desaparecidos/",
-        "published_date": "2026-08-26 21:45:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government develops First National Digital Health Meeting",
+        "title": "Facial recognition gives him away: Salvadoran gang member hid his identity with Guatemalan documents",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-desarrolla-primer-encuentro-nacional-de-salud-digital/",
-        "published_date": "2026-08-26 20:58:04",
+        "url": "https://diariolahuella.com/reconocimiento-facial-lo-delata-pandillero-salvadoreno-oculto-su-identidad-con-documentos-guatemaltecos/",
+        "published_date": "2026-08-27 20:01:58",
         "category": "Local Events"
     },
     {
-        "title": "Tim Curry, actor of It and The Rocky Horror Picture Show, dies at 80",
+        "title": "First Division condemns violence against Salvadoran fans during the Central American Cup",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/murio-tim-curry-actor-de-it-y-de-the-rocky-horror-picture-show-a-los-80-anos/",
-        "published_date": "2026-08-26 20:53:45",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/primera-division-condena-violencia-contra-aficionados-salvadorenos-durante-la-copa-centroamericana/",
+        "published_date": "2026-08-27 19:41:40",
         "category": "Local Events"
     },
     {
-        "title": "THE SALVADORAN POPULATION, BETWEEN THE \u201cSEARCH\u201d AND UNCERTAINTY",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-poblacion-salvadorena-entre-la-rebusca-y-la-incertidumbre/",
-        "published_date": "2026-08-26 20:25:46",
+        "title": "Mario Dur\u00e1n consolidates himself as the second most popular capital mayor in Latin America",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/mario-duran-se-consolida-como-el-segundo-alcalde-capitalino-mas-popular-de-america-latina/",
+        "published_date": "2026-08-27 19:13:14",
         "category": "Local Events"
     },
     {
-        "title": "Dignity as a trench in the face of the economic crisis",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-dignidad-como-trinchera-frente-a-la-crisis-economica/",
-        "published_date": "2026-08-26 20:15:04",
+        "title": "Mario Dur\u00e1n consolidates himself in second place in the Latin American ranking of most popular mayors",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/mario-duran-se-consolida-en-segundo-lugar-del-ranking-latinoamericano-de-alcaldes-mas-populares/?utm_source=rss&utm_medium=rss&utm_campaign=mario-duran-se-consolida-en-segundo-lugar-del-ranking-latinoamericano-de-alcaldes-mas-populares",
+        "published_date": "2026-08-27 19:11:55",
         "category": "Local Events"
     },
     {
-        "title": "SOMETHING MUCH DEEPER HAPPENS IN EL SALVADOR",
+        "title": "Salvadoran talent against stigmas about menstruation",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/talento-salvadoreno-contra-estigmas-sobre-la-menstruacion/",
+        "published_date": "2026-08-27 18:55:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "They help a woman after falling from a coaster in Nejapa",
         "source": "Cronio",
-        "url": "https://croniosv.com/opinet/en-el-salvador-pasa-algo-mucho-mas-profundo/",
-        "published_date": "2026-08-26 20:07:21",
+        "url": "https://croniosv.com/nacionales/auxilian-a-mujer-tras-caer-de-una-coaster-en-nejapa/",
+        "published_date": "2026-08-27 18:49:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "SISTEMA FEDECR\u00c9DITO obtains first place in customer experience at TCX 2026",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/sistema-fedecredito-obtiene-el-primer-lugar-en-experiencia-al-cliente-en-el-tcx-2026/",
+        "published_date": "2026-08-27 18:25:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "SISTEMA FEDECR\u00c9DITO obtains first place in customer experience at TCX 2026",
+        "source": "Cronio",
+        "url": "https://croniosv.com/negocios/empresarial/sistema-fedecredito-obtiene-el-primer-lugar-en-experiencia-al-cliente-en-el-tcx-2026/",
+        "published_date": "2026-08-27 18:23:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Civil Protection reinforces actions in response to red alert due to drought",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/proteccion-civil-refuerza-acciones-ante-alerta-roja-por-sequia/?utm_source=rss&utm_medium=rss&utm_campaign=proteccion-civil-refuerza-acciones-ante-alerta-roja-por-sequia",
+        "published_date": "2026-08-27 18:22:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government strengthens prevention actions in the face of lack of rain",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-fortalece-acciones-de-prevencion-ante-falta-de-lluvias/",
+        "published_date": "2026-08-27 18:21:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Firpo secures its place in the quarterfinals of the Central American Cup with a tie against Xelaj\u00fa",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/firpo-asegura-su-lugar-en-los-cuartos-de-final-de-copa-centroamericana-con-empate-ante-xelaju/",
+        "published_date": "2026-08-27 18:14:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "WHO declares Uganda free of Ebola",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/la-oms-declara-uganda-libre-de-ebola/",
+        "published_date": "2026-08-27 18:00:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hero Motocorp strengthens its presence in El Salvador through a strategic alliance with Velosa",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/hero-motocorp-fortalece-su-presencia-en-el-salvador-mediante-una-alianza-estrategica-con-velosa/",
+        "published_date": "2026-08-27 17:43:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "They capture a subject who trafficked drugs in La Libertad Oeste",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-sujeto-que-traficaba-drogas-en-la-libertad-oeste/",
+        "published_date": "2026-08-27 17:24:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Why does the heat feel so intense in El Salvador?",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/por-que-el-calor-se-siente-tan-intenso-en-el-salvador/",
+        "published_date": "2026-08-27 17:00:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran executed more than 500 people so far in 2026, NGO says",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/iran-ejecuto-a-mas-de-500-personas-en-lo-que-va-de-2026-afirma-ong/",
+        "published_date": "2026-08-27 17:00:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Person faints while exercising at El Cafetal\u00f3n",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/persona-se-desmaya-mientras-hacia-ejercicio-en-el-cafetalon/",
+        "published_date": "2026-08-27 16:53:39",
         "category": "Local Events"
     }
 ]
