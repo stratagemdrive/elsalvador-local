@@ -63,25 +63,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "El Salvador and Guatemala specify areas of joint work for the next two years",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-y-guatemala-concretan-areas-de-trabajo-conjunto-para-los-proximos-dos-anos/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-guatemala-concretan-areas-de-trabajo-conjunto-para-los-proximos-dos-anos",
-        "published_date": "2026-08-23 00:14:06",
-        "category": "Diplomacy"
+        "title": "They capture a man accused of attacking another with a machete while they were drinking alcohol in Santa Ana",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/capturan-a-hombre-acusado-de-atacar-con-machete-a-otro-mientras-bebian-alcohol-en-santa-ana/",
+        "published_date": "2026-08-30 22:29:11",
+        "category": "Military"
     },
     {
-        "title": "Government provides opportunities to entrepreneurial women in the country",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gobierno-brinda-oportunidades-a-mujeres-emprendedoras-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-brinda-oportunidades-a-mujeres-emprendedoras-del-pais",
-        "published_date": "2026-08-22 15:48:01",
-        "category": "Diplomacy"
+        "title": "Man and woman found dead in motel in Sonsonate;They investigate possible carbon monoxide poisoning",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/hallan-sin-vida-a-hombre-y-mujer-en-motel-de-sonsonate-investigan-posible-intoxicacion-por-monoxido-de-carbono/",
+        "published_date": "2026-08-30 18:32:06",
+        "category": "Military"
     },
     {
-        "title": "Salvadoran government provides opportunities to entrepreneurial women in the country",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-salvadoreno-brinda-oportunidades-a-mujeres-emprendedoras-del-pais/",
-        "published_date": "2026-08-22 15:41:24",
-        "category": "Diplomacy"
+        "title": "PNC captures two brothers with cocaine, money and a minibus at the San Crist\u00f3bal, Santa Ana border",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/pnc-captura-a-dos-hermanos-con-cocaina-dinero-y-un-microbus-en-la-frontera-san-cristobal-santa-ana/",
+        "published_date": "2026-08-30 17:31:03",
+        "category": "Military"
     },
     {
         "title": "Couple found dead in a motel in Sonsonate",
@@ -95,6 +95,13 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/pareja-es-hallada-sin-vida-dentro-de-habitacion-de-motel-en-sonsonate/",
         "published_date": "2026-08-30 14:41:57",
+        "category": "Military"
+    },
+    {
+        "title": "They capture two men with drugs during an operation in a bar in La Uni\u00f3n",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/capturan-a-dos-hombres-con-droga-durante-operativo-en-un-bar-de-la-union/",
+        "published_date": "2026-08-30 14:37:21",
         "category": "Military"
     },
     {
@@ -193,34 +200,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/08/capturan-a-hombre-deportado-de-costa-rica-por-homicidio-agravado/",
         "published_date": "2026-08-28 21:48:38",
-        "category": "Military"
-    },
-    {
-        "title": "They arrest a drug seller in the San Mateo neighborhood",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/detienen-a-vendedor-de-droga-en-colonia-san-mateo/",
-        "published_date": "2026-08-28 20:44:40",
-        "category": "Military"
-    },
-    {
-        "title": "Subject wanted for homicide in the country captured in Costa Rica",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-en-costa-rica-a-sujeto-buscado-por-homicidio-en-el-pais/",
-        "published_date": "2026-08-28 20:42:37",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador consolidates its tourism boom, surpassing Cuba and Costa Rica",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/el-salvador-consolida-su-auge-turistico-superando-a-cuba-y-costa-rica/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-consolida-su-auge-turistico-superando-a-cuba-y-costa-rica",
-        "published_date": "2026-08-28 20:19:38",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador surpasses Cuba and Costa Rica and consolidates itself as a regional tourism power",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-supera-a-cuba-y-costa-rica-y-se-consolida-como-potencia-turistica-regional/",
-        "published_date": "2026-08-28 20:11:29",
         "category": "Military"
     },
     {
@@ -413,6 +392,97 @@
         "category": "Economy"
     },
     {
+        "title": "From the Popular Day of Salvadoran Afro-descendants to the International Day of People of African Descent",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/del-dia-popular-de-la-afrodescendencia-salvadorena-al-dia-internacional-de-las-personas-afrodescendientes/",
+        "published_date": "2026-08-30 23:23:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santa Rosa de Lima reached 42.6 \u00b0C",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/santa-rosa-de-lima-llego-a-42-6-c/?utm_source=rss&utm_medium=rss&utm_campaign=santa-rosa-de-lima-llego-a-42-6-c",
+        "published_date": "2026-08-30 22:39:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vogue Latin America sets its eyes on El Salvador with a special production held on El Zonte beach",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/vogue-latinoamerica-pone-sus-ojos-en-el-salvador-con-produccion-especial-realizada-en-playa-el-zonte/",
+        "published_date": "2026-08-30 22:23:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bukele responds to Elon Musk and provides news about Grok in Salvadoran schools",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/bukele-responde-a-elon-musk-y-adelanta-novedades-sobre-grok-en-las-escuelas-salvadorenas/?utm_source=rss&utm_medium=rss&utm_campaign=bukele-responde-a-elon-musk-y-adelanta-novedades-sobre-grok-en-las-escuelas-salvadorenas",
+        "published_date": "2026-08-30 19:33:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele anticipates \u201cfantastic news\u201d about Grok and education in El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-anticipa-noticias-fantasticas-sobre-grok-y-la-educacion-en-el-salvador/",
+        "published_date": "2026-08-30 19:10:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barcelona agrees to the signing of Gabriel Jes\u00fas: the Brazilian striker will arrive from Arsenal",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/barcelona-acuerda-el-fichaje-de-gabriel-jesus-el-delantero-brasileno-llegara-procedente-del-arsenal/",
+        "published_date": "2026-08-30 18:09:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "MARN predicts rain and storms for the afternoon and evening of this Sunday in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/marn-pronostica-lluvias-y-tormentas-para-la-tarde-y-noche-de-este-domingo-en-el-salvador/",
+        "published_date": "2026-08-30 17:39:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Moments of tension in Santa Ana: woman tried to drive a bus with passengers from the terminal",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/momentos-de-tension-en-santa-ana-mujer-intento-conducir-un-autobus-con-pasajeros-desde-la-terminal/",
+        "published_date": "2026-08-30 17:35:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Real Madrid thrashes M\u00e1laga 4-0 at the Bernab\u00e9u and maintains its perfect pace in LaLiga",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/real-madrid-golea-4-0-al-malaga-en-el-bernabeu-y-mantiene-su-paso-perfecto-en-laliga/",
+        "published_date": "2026-08-30 17:23:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The 2026 Book Fair brings together publishers, authors and readers in Kalpataru",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/vida/la-feria-del-libro-2026-reune-a-editoriales-autores-y-lectores-en-kalpataru/",
+        "published_date": "2026-08-30 17:19:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Editorial director of Vogue Mexico and Latin America, falls in love with El Zonte",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/directora-editorial-de-vogue-mexico-y-latinoamerica-se-enamora-de-el-zonte/",
+        "published_date": "2026-08-30 16:53:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Elon Musk highlights Grok's educational access in El Salvador",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/elon-musk-destaca-acceso-educativo-de-grok-en-el-salvador/",
+        "published_date": "2026-08-30 16:29:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Karla Mart\u00ednez de Salas arrives in El Salvador and shows the beauty of El Zonte in Vogue",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/karla-martinez-de-salas-llega-a-el-salvador-y-muestra-en-vogue-la-belleza-de-el-zonte/?utm_source=rss&utm_medium=rss&utm_campaign=karla-martinez-de-salas-llega-a-el-salvador-y-muestra-en-vogue-la-belleza-de-el-zonte",
+        "published_date": "2026-08-30 16:16:54",
+        "category": "Local Events"
+    },
+    {
         "title": "Lionel Messi scores four goals in historic 7-1 win over Inter Miami and reaches 927 in his career",
         "source": "Cronio",
         "url": "https://croniosv.com/deportes/internacionales-deportes/lionel-messi-marca-cuatro-goles-en-historica-goleada-7-1-del-inter-miami-y-alcanza-los-927-en-su-carrera/",
@@ -459,97 +529,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/general/los-chorros-continua-mientras-el-mop-retira-material-tras-voladuras-controladas/?utm_source=rss&utm_medium=rss&utm_campaign=los-chorros-continua-mientras-el-mop-retira-material-tras-voladuras-controladas",
         "published_date": "2026-08-29 21:59:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "3.9 magnitude earthquake shakes part of El Salvador with epicenter off the coast of La Paz",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/sismo-de-magnitud-3-9-sacude-parte-de-el-salvador-con-epicentro-frente-a-la-costa-de-la-paz/",
-        "published_date": "2026-08-29 19:07:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Los Chorros highway reopens after 12 hours of closure due to controlled blasting on the slope",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/reabren-carretera-los-chorros-tras-12-horas-de-cierre-por-voladuras-controladas-en-talud/",
-        "published_date": "2026-08-29 19:04:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Summary of the last week of August 2026",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/resumen-de-la-ultima-semana-del-mes-de-agosto-de-2026/",
-        "published_date": "2026-08-29 18:49:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "They rescue a snake measuring almost two meters inside a home in Nejapa, San Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/rescatan-serpiente-de-casi-dos-metros-dentro-de-una-vivienda-en-nejapa-san-salvador/",
-        "published_date": "2026-08-29 18:49:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Los Chorros remains closed while cleanup work continues after controlled blasting",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/los-chorros-continua-cerrado-mientras-avanzan-las-labores-de-limpieza-tras-voladuras-controladas/?utm_source=rss&utm_medium=rss&utm_campaign=los-chorros-continua-cerrado-mientras-avanzan-las-labores-de-limpieza-tras-voladuras-controladas",
-        "published_date": "2026-08-29 17:47:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "1 and a half-year-old baby dies after being hit by his father's minibus in Serik, Antalya",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/bebe-de-1-ano-y-medio-muere-atropellado-por-el-minibus-de-su-padre-en-serik-antalya/",
-        "published_date": "2026-08-29 15:40:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "The green house in Nepal that resisted the avalanche: the family that survived the disaster that already exceeds 600 deaths",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/entrega-especial/la-casa-verde-de-nepal-que-resistio-la-avalancha-la-familia-que-sobrevivio-al-desastre-que-ya-supera-los-600-muertos/",
-        "published_date": "2026-08-29 15:26:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Los Chorros remains closed due to blasting and road widening work",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/los-chorros-permanece-cerrado-por-trabajos-de-voladura-y-ampliacion-de-la-carretera/?utm_source=rss&utm_medium=rss&utm_campaign=los-chorros-permanece-cerrado-por-trabajos-de-voladura-y-ampliacion-de-la-carretera",
-        "published_date": "2026-08-29 15:23:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Machinery removes material after controlled blasting in the Tadisa sector, in Los Chorros",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/maquinaria-retira-material-tras-voladuras-controladas-en-el-sector-de-tadisa-en-los-chorros/",
-        "published_date": "2026-08-29 15:18:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "UEFA is preparing a criminal complaint against Infantino for alleged unfair management",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/la-uefa-prepara-una-denuncia-penal-contra-infantino-por-presunta-gestion-desleal/",
-        "published_date": "2026-08-29 15:13:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Yandel Sinf\u00f3nico conquers El Salvador with a sold out and a night of reggaeton, classical music and Salvadoran flavor",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/yandel-sinfonico-conquista-el-salvador-con-un-sold-out-y-una-noche-de-regueton-musica-clasica-y-sabor-salvadoreno/",
-        "published_date": "2026-08-29 14:53:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture a woman in Ahuachap\u00e1n Norte with a court order for aggravated homicide",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-mujer-en-ahuachapan-norte-con-orden-judicial-por-homicidio-agravado/",
-        "published_date": "2026-08-29 14:10:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "FEDECACES obtains an award in the Top Customer Experience 2026",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fedecaces-obtiene-un-galardon-en-el-top-customer-experience-2026/",
-        "published_date": "2026-08-29 11:06:13",
         "category": "Local Events"
     }
 ]
