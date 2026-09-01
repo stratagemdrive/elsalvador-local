@@ -1,5 +1,12 @@
 [
     {
+        "title": "San Salvador Centro raises the monumental flag to start the national month",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/san-salvador-centro-iza-la-monumental-bandera-para-dar-inicio-al-mes-patrio/",
+        "published_date": "2026-09-01 13:35:56",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The Secretary General of the OAS asks to pressure Nicaragua before the next reform to annul the opposition",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/08/el-secretario-general-de-la-oea-pide-presionar-a-nicaragua-ante-la-proxima-reforma-para-anular-a-la-oposicion/",
@@ -75,6 +82,20 @@
         "url": "https://www.periodicoequilibrium.com/andres-fernando-rios-asume-presidencia-ejecutiva-de-delsur/",
         "published_date": "2026-08-24 23:05:14",
         "category": "Diplomacy"
+    },
+    {
+        "title": "They capture a subject with an arrest warrant for homicide in La Libertad",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-sujeto-con-orden-de-captura-por-homicidio-en-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-sujeto-con-orden-de-captura-por-homicidio-en-la-libertad",
+        "published_date": "2026-09-01 14:24:27",
+        "category": "Military"
+    },
+    {
+        "title": "Authorities maintain security device during the traditional Fireballs in Nejapa",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/08/autoridades-mantienen-dispositivo-de-seguridad-durante-las-tradicionales-bolas-de-fuego-en-nejapa/",
+        "published_date": "2026-09-01 04:11:37",
+        "category": "Military"
     },
     {
         "title": "AIR FORCE AIRCRAFT ARE OFFERED AS UBER",
@@ -203,18 +224,18 @@
         "category": "Military"
     },
     {
-        "title": "They capture two men with drugs during an operation in a bar in La Uni\u00f3n",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/capturan-a-dos-hombres-con-droga-durante-operativo-en-un-bar-de-la-union/",
-        "published_date": "2026-08-30 14:37:21",
-        "category": "Military"
+        "title": "Fuels reach $4.97 for the next fortnight",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/combustibles-alcanzan-los-4-97-para-la-proxima-quincena/",
+        "published_date": "2026-09-01 11:03:42",
+        "category": "Energy"
     },
     {
-        "title": "They capture a man accused of making signs alluding to gangs near the Mercadito El \u00c1ngel in Sonsonate",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/capturan-a-hombre-senalado-de-hacer-senas-alusivas-a-pandillas-cerca-del-mercadito-el-angel-en-sonsonate/",
-        "published_date": "2026-08-30 03:33:03",
-        "category": "Military"
+        "title": "Unconventional energy with governance and social responsibility",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/energia-no-convencional-con-gobernanza-y-responsabilidad-social/",
+        "published_date": "2026-09-01 10:59:30",
+        "category": "Energy"
     },
     {
         "title": "Fuels rise to $0.10 and are close to $5",
@@ -280,11 +301,25 @@
         "category": "Energy"
     },
     {
-        "title": "Blockade is the main cause of the situation in Cuba, D\u00edaz-Canel reiterates",
+        "title": "Grupo ESTRELLA acquires Cemento Fortaleza in El Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/grupo-estrella-adquiere-cemento-fortaleza-en-el-salvador/",
+        "published_date": "2026-09-01 14:33:25",
+        "category": "Economy"
+    },
+    {
+        "title": "Reduction of rates and surplus without cutting social spending, Lula's objectives of being re-elected",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/bloqueo-es-principal-causa-de-situacion-en-cuba-reitera-diaz-canel/",
-        "published_date": "2026-08-24 10:45:34",
-        "category": "Energy"
+        "url": "https://www.diariocolatino.com/reduccion-de-tasas-y-superavit-sin-cortar-gasto-social-objetivos-de-lula-de-ser-reelecto/",
+        "published_date": "2026-09-01 10:40:04",
+        "category": "Economy"
+    },
+    {
+        "title": "Deputies in favor of allocating $137 thousand to Education to expand Bicentennial Scholarships",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diputados-a-favor-de-asignar-137-mil-a-educacion-para-ampliar-becas-bicentenario/",
+        "published_date": "2026-09-01 02:04:13",
+        "category": "Economy"
     },
     {
         "title": "El Salvador equips Early Childhood centers with books, games and teaching materials",
@@ -406,25 +441,74 @@
         "category": "Economy"
     },
     {
-        "title": "Chino Flores questions the cost of living and calls to remember the economic situation of seven years ago",
+        "title": "Rains and storms are predicted for this Tuesday in different areas of El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/preven-lluvias-y-tormentas-para-este-martes-en-distintas-zonas-de-el-salvador/",
+        "published_date": "2026-09-01 15:23:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Manuel Flores reiterates that the economic crisis hits Salvadorans hard",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/manuel-flores-reitera-que-crisis-economica-golpea-fuertemente-a-los-salvadorenos/",
+        "published_date": "2026-09-01 11:04:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Indigenous peoples of Izalco claim ancestral territory before the photovoltaic plant project",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/pueblos-indigenas-reivindican-territorio-ancestral-ante-proyecto-fotovoltaica/",
+        "published_date": "2026-09-01 11:02:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "PRO-VIDA strengthens community resilience and access to safe water in vulnerable areas",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/pro-vida-fortalece-resiliencia-comunitaria-y-acceso-a-agua-segura-en-zonas-vulnerables/",
+        "published_date": "2026-09-01 11:01:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fagoaga: The 50 thousand scholarships expand coverage, but do not solve the crisis in higher education",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fagoaga-las-50-mil-becas-amplian-la-cobertura-pero-no-resuelven-la-crisis-de-la-educacion-superior/",
+        "published_date": "2026-09-01 11:00:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran does not seek war, but will respond to aggression, says Pezeshkian",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/iran-no-busca-guerra-pero-respondera-a-agresion-afirma-pezeshkian/",
+        "published_date": "2026-09-01 10:30:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former mayor of Chalchuapa captured for attacking his son with a firearm",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/chino-flores-cuestiona-el-costo-de-la-vida-y-llama-a-recordar-la-situacion-economica-de-hace-siete-anos/",
-        "published_date": "2026-08-24 17:20:46",
-        "category": "Economy"
+        "url": "https://diariolahuella.com/capturan-a-exalcalde-de-chalchuapa-por-agredir-con-arma-de-fuego-a-su-hijo/",
+        "published_date": "2026-09-01 02:29:14",
+        "category": "Local Events"
     },
     {
-        "title": "President Bukele makes available 50 thousand scholarships for higher and technical education",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/presidente-bukele-pone-a-disposicion-50-mil-becas-para-educacion-superior-y-tecnica/",
-        "published_date": "2026-08-24 17:04:18",
-        "category": "Economy"
+        "title": "Professional sectors, artists and university groups denounce job insecurity",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/sectores-profesionales-artistas-y-colectivos-universitarios-denuncian-precarizacion-laboral/",
+        "published_date": "2026-09-01 02:25:47",
+        "category": "Local Events"
     },
     {
-        "title": "El Salvador is betting on education with an investment of more than 8% of GDP",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-salvador-le-apuesta-a-la-educacion-con-inversion-de-mas-del-8-del-pib/",
-        "published_date": "2026-08-24 14:29:57",
-        "category": "Economy"
+        "title": "They present proposals to create the electoral board for voting abroad",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presentan-propuestas-para-crear-la-junta-electoral-de-voto-en-el-exterior/",
+        "published_date": "2026-09-01 02:23:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former mayor of Chalchuapa captured for attacking his son with a weapon",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-exalcalde-de-chalchuapa-por-agredir-con-un-arma-a-su-hijo/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-exalcalde-de-chalchuapa-por-agredir-con-un-arma-a-su-hijo",
+        "published_date": "2026-09-01 02:17:01",
+        "category": "Local Events"
     },
     {
         "title": "TSE receives proposals to form electoral boards for voting in the",
@@ -494,76 +578,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/redes/virales/video-jovencito-falto-al-trabajo-para-farmear-aura-y-se-indigno-porque-le-descontaron-el-dia/",
         "published_date": "2026-08-31 21:36:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "H\u00e9ctor C\u00e1rdenas is the new coach of the U-17 Men's National Team",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/08/hector-cardenas-es-el-nuevo-dt-de-la-seleccion-sub-17-masculina/",
-        "published_date": "2026-08-31 21:31:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how two young men were murdered in Choluteca, Honduras",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/asi-fueron-asesinados-dos-jovencitos-en-choluteca-honduras/",
-        "published_date": "2026-08-31 21:10:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Manuel Flores highlights that the economic issue is not a priority for the Government",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/manuel-flores-destaca-que-tema-economico-no-es-prioridad-para-el-gobierno/",
-        "published_date": "2026-08-31 21:04:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cKiller Soul\u201d ends up on the sidewalk after a spectacular crash in San Vicente",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/killer-soul-acaba-en-la-acera-tras-aparatoso-choque-en-san-vicente/",
-        "published_date": "2026-08-31 21:00:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador promotes business opportunities with Bolivia in the pharmaceutical sector",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-promueve-oportunidades-de-negocio-con-bolivia-en-el-rubro-farmaceutico/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-promueve-oportunidades-de-negocio-con-bolivia-en-el-rubro-farmaceutico",
-        "published_date": "2026-08-31 20:58:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inhabitants of the Los Amates canton will enjoy a new recreational park thanks to the DOM",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/habitantes-del-canton-los-amates-gozaran-de-nuevo-parque-recreativo-gracias-a-la-dom/",
-        "published_date": "2026-08-31 20:57:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "New recreational park delivered in Chalatenango",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/entregan-nuevo-parque-recreativo-en-chalatenango/?utm_source=rss&utm_medium=rss&utm_campaign=entregan-nuevo-parque-recreativo-en-chalatenango",
-        "published_date": "2026-08-31 20:49:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "PHOTOS |Maduro reappears on social networks with a message of \u201clove\u201d from prison",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/fotos-maduro-reaparece-en-redes-sociales-con-un-mensaje-de-amor-desde-la-carcel/",
-        "published_date": "2026-08-31 20:41:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Truck overturns after avoiding a motorcycle and leaves three injured",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/camion-vuelca-tras-esquivar-una-motocicleta-y-deja-tres-lesionados/",
-        "published_date": "2026-08-31 20:25:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador promotes business opportunities with Bolivia in the pharmaceutical sector",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-promueve-oportunidades-de-negocio-con-bolivia-en-el-rubro-farmaceutico/",
-        "published_date": "2026-08-31 20:19:03",
         "category": "Local Events"
     }
 ]
