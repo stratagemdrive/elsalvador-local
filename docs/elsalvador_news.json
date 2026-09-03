@@ -1,5 +1,12 @@
 [
     {
+        "title": "Foreign Ministry strengthens actions to protect and reintegrate people in human mobility",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/cancilleria-fortalece-acciones-para-proteger-y-reintegrar-a-personas-en-movilidad-humana/?utm_source=rss&utm_medium=rss&utm_campaign=cancilleria-fortalece-acciones-para-proteger-y-reintegrar-a-personas-en-movilidad-humana",
+        "published_date": "2026-09-03 12:57:28",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Municipality of Santa Ana Centro presents advances in security before the Israeli ambassador in the country",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/municipalidad-de-santa-ana-centro-presenta-avances-en-seguridad-ante-embajador-de-israel-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=municipalidad-de-santa-ana-centro-presenta-avances-en-seguridad-ante-embajador-de-israel-en-el-pais",
@@ -102,13 +109,6 @@
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/peru-expresa-solidaridad-con-china-y-nepal-por-inundaciones/",
         "published_date": "2026-08-27 01:09:57",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "President Nayib Bukele: \"Security gave us peace. Now with education you are going to win our future\"",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/presidente-nayib-bukele-la-seguridad-nos-devolvio-la-paz-ahora-ustedes-con-la-educacion-nos-van-a-ganar-el-futuro/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-nayib-bukele-la-seguridad-nos-devolvio-la-paz-ahora-ustedes-con-la-educacion-nos-van-a-ganar-el-futuro",
-        "published_date": "2026-08-26 03:29:43",
         "category": "Diplomacy"
     },
     {
@@ -315,6 +315,20 @@
         "category": "Energy"
     },
     {
+        "title": "Public debt is close to $35,000 million and pensions are $11,700 million",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/deuda-publica-roza-los-35000-millones-y-pensiones-11700-millones/",
+        "published_date": "2026-09-03 11:04:50",
+        "category": "Economy"
+    },
+    {
+        "title": "Assembly assigns $137,000 in donations to the MINED for Scholarships",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/asamblea-asigna-al-mined-137-mil-de-donaciones-para-becas/",
+        "published_date": "2026-09-03 11:02:25",
+        "category": "Economy"
+    },
+    {
         "title": "Woman loses her life in a serious traffic accident in the La Poza section, Usulut\u00e1n",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/09/mujer-pierde-la-vida-en-fuerte-accidente-de-transito-en-el-tramo-la-poza-usulutan/",
@@ -441,18 +455,60 @@
         "category": "Economy"
     },
     {
-        "title": "Trifinio Plan will present results of the Value Chains Project and announce a new stage for the regional development of Trifinio",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/plan-trifinio-presentara-resultados-del-proyecto-cadenas-de-valor-y-anunciara-una-nueva-etapa-para-el-desarrollo-regional-del-trifinio/",
-        "published_date": "2026-08-27 20:45:22",
-        "category": "Economy"
+        "title": "Nuevas Ideas denies studying the proposal to reduce the working day to 7 hours",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/nuevas-ideas-niega-estudiar-propuesta-para-reducir-jornada-laboral-a-7-horas/",
+        "published_date": "2026-09-03 11:05:03",
+        "category": "Local Events"
     },
     {
-        "title": "Banco CUSCATLAN delivers $30,000 in seed capital to tourism ventures",
-        "source": "Cronio",
-        "url": "https://croniosv.com/negocios/empresarial/banco-cuscatlan-entrega-30000-en-capital-semilla-a-emprendimientos-turisticos/",
-        "published_date": "2026-08-27 17:31:51",
-        "category": "Economy"
+        "title": "Communities of Izalco reiterate their rejection of the solar panel project and ask to protect their territories",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comunidades-de-izalco-reiteran-rechazo-proyecto-de-paneles-solares-y-piden-proteger-sus-territorios/",
+        "published_date": "2026-09-03 11:03:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jewels of Salvadoran historical music on MARTE",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/joyas-de-la-musica-historica-salvadorena-en-marte/",
+        "published_date": "2026-09-03 11:01:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "FGR excludes his main witness in trial against war veterans;Cofappes asks for absolution",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fgr-excluye-a-su-principal-testigo-en-juicio-contra-veteranos-de-guerra-cofappes-pide-absolucion/",
+        "published_date": "2026-09-03 11:00:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "TPS and DACA uncertainty;Obama thanks Salvadorans from the US military",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/incertidumbre-de-tps-y-daca-obama-agradece-a-salvadorenos-del-ejercito-ee-uu/",
+        "published_date": "2026-09-03 10:59:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "LOTRA Raffle No. 464 dedicated to La Laguna de Alegr\u00eda",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/sorteo-lotra-n-464-dedicado-a-la-laguna-de-alegria/?utm_source=rss&utm_medium=rss&utm_campaign=sorteo-lotra-n-464-dedicado-a-la-laguna-de-alegria",
+        "published_date": "2026-09-03 04:52:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Qalibaf condemns recent US attacks",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/qalibaf-condena-los-recientes-ataques-de-estados-unidos/",
+        "published_date": "2026-09-03 03:00:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "LOTRA Raffle for Laguna de Alegr\u00eda, the \u201cEmerald of America\u201d",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/sorteo-lotra-por-la-laguna-de-alegria-la-esmeralda-de-america/",
+        "published_date": "2026-09-03 01:12:01",
+        "category": "Local Events"
     },
     {
         "title": "El Salvador joins efforts to expand study opportunities for young people",
@@ -536,62 +592,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/lluvias-y-tormentas-para-la-tarde-y-noche-de-este-miercoles-4/?utm_source=rss&utm_medium=rss&utm_campaign=lluvias-y-tormentas-para-la-tarde-y-noche-de-este-miercoles-4",
         "published_date": "2026-09-02 20:17:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran attacks US bases in Jordan again",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/iran-vuelve-a-atacar-bases-estadounidenses-en-jordania/",
-        "published_date": "2026-09-02 20:15:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Smugglers captured when they tried to enter illegal cigarettes through a blind spot",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-contrabandistas-cuando-trataban-de-entrar-por-punto-ciego-cigarros-ilegales/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-contrabandistas-cuando-trataban-de-entrar-por-punto-ciego-cigarros-ilegales",
-        "published_date": "2026-09-02 20:14:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "VIDEO |Motorcyclist tried to overtake and suffered an accident",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/video-motociclista-intento-sobrepasar-y-sufrio-un-accidente/",
-        "published_date": "2026-09-02 20:13:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "FGR arrives at hearing against war veterans without its key witness, Cofappes exposes",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fgr-llega-a-audiencia-contra-veteranos-de-guerra-sin-su-testigo-clave-expone-cofappes/",
-        "published_date": "2026-09-02 19:51:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "ANDA attends to water leak in Buenos Aires neighborhood",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/anda-atiende-fuga-de-agua-en-colonia-buenos-aires/?utm_source=rss&utm_medium=rss&utm_campaign=anda-atiende-fuga-de-agua-en-colonia-buenos-aires",
-        "published_date": "2026-09-02 19:43:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "They pay tribute to Jos\u00e9 de la Tomasa for his career in \"flamenco singing\"",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/rinden-homenaje-a-jose-de-la-tomasa-por-su-trayectoria-en-el-cante-flamenco/",
-        "published_date": "2026-09-02 19:40:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman goes to the doctor for severe pain and they discover something terrifying in her ear",
-        "source": "Cronio",
-        "url": "https://croniosv.com/redes/virales/mujer-va-al-medico-por-un-fuerte-dolor-y-descubren-algo-aterrador-en-su-oido/",
-        "published_date": "2026-09-02 19:15:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ebola epidemic in the Democratic Republic of the Congo exceeds 3,000 deaths",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/epidemia-de-ebola-en-republica-democratica-del-congo-supera-los-3000-fallecidos/",
-        "published_date": "2026-09-02 17:23:09",
         "category": "Local Events"
     }
 ]
