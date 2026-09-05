@@ -1,5 +1,19 @@
 [
     {
+        "title": "Iran's air defense achieves self-sufficiency in equipment",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-defensa-aerea-de-iran-logra-la-autosuficiencia-en-equipamiento/",
+        "published_date": "2026-09-05 10:00:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Municipal union of San Salvador Centro denounces withholding of dues, persecution of vendors",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/sindicato-municipal-de-san-salvador-centro-denuncia-retencion-de-cuotas-persecucion-a-vendedores/",
+        "published_date": "2026-09-05 02:23:18",
+        "category": "Diplomacy"
+    },
+    {
         "title": "English in Central America XXIII",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/ingleses-en-centroamerica-xxiii/",
@@ -126,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "\u201cIt is not enough to announce scholarships if there are not sufficient conditions to guarantee access\u201d: FES-UES",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/no-basta-con-anunciar-becas-si-no-existen-condiciones-suficientes-para-garantizar-el-acceso-fes-ues/",
-        "published_date": "2026-08-28 11:05:02",
-        "category": "Diplomacy"
+        "title": "Authorities of El Salvador and Chile strengthen cooperation in security matters",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/autoridades-de-el-salvador-y-chile-fortalecen-cooperacion-en-materia-de-seguridad/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-de-el-salvador-y-chile-fortalecen-cooperacion-en-materia-de-seguridad",
+        "published_date": "2026-09-05 01:49:14",
+        "category": "Military"
     },
     {
         "title": "OF THE FRAGILE HUMAN CONDITION",
@@ -266,11 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "September adds two consecutive days without homicides nationwide",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/septiembre-suma-dos-dias-consecutivos-sin-homicidios-a-nivel-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=septiembre-suma-dos-dias-consecutivos-sin-homicidios-a-nivel-nacional",
-        "published_date": "2026-09-03 15:52:44",
-        "category": "Military"
+        "title": "Delcy Rodr\u00edguez calls to build a great Venezuela together",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/delcy-rodriguez-llama-a-construir-todos-juntos-una-gran-venezuela/",
+        "published_date": "2026-09-05 10:30:19",
+        "category": "Energy"
     },
     {
         "title": "Panama announces increase in fuel prices starting this Friday",
@@ -347,6 +361,13 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/09/nayib-bukele-desmiente-transferencia-de-las-reservas-de-bitcoin-a-un-agente-privado/",
         "published_date": "2026-09-04 23:56:59",
+        "category": "Economy"
+    },
+    {
+        "title": "El Salvador celebrates 5 years of adopting bitcoin",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/el-salvador-cumple-5-anos-de-adopcion-del-bitcoin/",
+        "published_date": "2026-09-04 20:48:20",
         "category": "Economy"
     },
     {
@@ -462,11 +483,102 @@
         "category": "Economy"
     },
     {
-        "title": "Video|First Lady announces educational resources for 100% of Early Childhood schools",
+        "title": "Trials of three possible vaccines against Ebola would begin between October and November",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/internacionales/ensayos-de-tres-posibles-vacunas-contra-el-ebola-comenzarian-entre-octubre-y-noviembre/?utm_source=rss&utm_medium=rss&utm_campaign=ensayos-de-tres-posibles-vacunas-contra-el-ebola-comenzarian-entre-octubre-y-noviembre",
+        "published_date": "2026-09-05 13:43:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Soyapango vendors would be evicted without a defined plan, councilor denounces",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/vendedores-de-soyapango-serian-desalojados-sin-un-plan-definido-denuncia-concejal/",
+        "published_date": "2026-09-05 11:05:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Claudia Ortiz denounces attempted expulsion as a maneuver to stop her candidacy in VAMOS",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/claudia-ortiz-denuncia-intento-de-expulsion-como-maniobra-para-frenar-su-candidatura-en-vamos/",
+        "published_date": "2026-09-05 11:04:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadorans press in Washington for the extension of TPS and denounce the government's silence",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/salvadorenos-presionan-washington-extension-tps-denuncian-silencio-gobierno/",
+        "published_date": "2026-09-05 11:03:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "IMF and GOES reach technical agreement for disbursement of $140 million",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fmi-y-goes-alcanzan-acuerdo-tecnico-para-desembolso-de-140-millones/",
+        "published_date": "2026-09-05 11:01:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cBot farms can create a false sense of majority\u201d: Marvin Aguilar",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/las-granjas-de-bots-pueden-fabricar-una-falsa-sensacion-de-mayoria-marvin-aguilar/",
+        "published_date": "2026-09-05 11:00:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Beach Soccer teams will compete in the 2026 Nations Cup in Brazil",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/selecciones-futbol-playa-disputaran-copa-naciones-2026-brasil/",
+        "published_date": "2026-09-05 10:55:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "The 2026 Central American Motovelocity Championship reaches the semifinals",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/campamento-centroamericano-moovelocidad-llega-semifinales/",
+        "published_date": "2026-09-05 10:40:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Central American Torch travels through El Salvador with a message of peace and freedom",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/video-primera-dama-anuncia-recursos-educativos-para-el-100-de-las-escuelas-de-primera-infancia/",
-        "published_date": "2026-08-31 03:15:49",
-        "category": "Economy"
+        "url": "https://diariolahuella.com/antorcha-centroamericana-recorre-el-salvador-con-mensaje-de-paz-y-libertad/",
+        "published_date": "2026-09-05 03:45:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Central American Torch travels through El Salvador with a message of peace and freedom",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/antorcha-centroamericana-recorre-el-salvador-con-mensaje-de-paz-y-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=antorcha-centroamericana-recorre-el-salvador-con-mensaje-de-paz-y-libertad",
+        "published_date": "2026-09-05 03:06:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The IMF will carry out the second and third reviews of the SAF for El Salvador",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/el-fmi-realizara-la-segunda-y-tercera-revisiones-del-saf-para-el-salvador/",
+        "published_date": "2026-09-05 02:45:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "ESIAP and the Government sign a Memorandum of Understanding to strengthen training in public administration",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/esiap-y-gobernacion-suscriben-memorando-de-entendimiento-para-fortalecer-la-formacion-en-administracion-publica/",
+        "published_date": "2026-09-05 02:29:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "ESIAP and the Government strengthen the professionalization of public servants through a strategic alliance",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/esiap-y-gobernacion-fortalecen-la-profesionalizacion-de-servidores-publicos-mediante-alianza-estrategica/?utm_source=rss&utm_medium=rss&utm_campaign=esiap-y-gobernacion-fortalecen-la-profesionalizacion-de-servidores-publicos-mediante-alianza-estrategica",
+        "published_date": "2026-09-05 02:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Natalia Lafourcade in El Salvador and now you can experience the \u201ccancionera tour\u201d in installments!",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/natalia-lafourcade-en-el-salvador-y-ahora-puedes-vivir-el-cancionera-tour-en-cuotas/",
+        "published_date": "2026-09-05 01:36:22",
+        "category": "Local Events"
     },
     {
         "title": "NATALIA LAFOURCADE IN EL SALVADOR AND NOW YOU CAN LIVE THE \u201cCANCIONERA TOUR\u201d IN INSTALLMENTS!",
@@ -508,104 +620,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/tendencias/jetset/se-cumplen-20-anos-del-fallecimiento-de-steve-irwin-el-cazador-de-cocodrilos/",
         "published_date": "2026-09-04 23:15:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "They deliver cement for community projects in 32 cantons of Santa Ana Centro",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/entregan-cemento-para-proyectos-comunitarios-en-32-cantones-de-santa-ana-centro/?utm_source=rss&utm_medium=rss&utm_campaign=entregan-cemento-para-proyectos-comunitarios-en-32-cantones-de-santa-ana-centro",
-        "published_date": "2026-09-04 23:04:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "J\u00f3venes S\u00ed + mobilizes youth towards more than 700 opportunities",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/jovenes-si-moviliza-a-las-juventudes-hacia-mas-de-700-oportunidades/",
-        "published_date": "2026-09-04 22:48:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rick Harrison, from \"The Price of History\", remains hospitalized after emergency surgery",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/jetset/rick-harrison-de-el-precio-de-la-historia-permanece-hospitalizado-tras-cirugia-de-emergencia/",
-        "published_date": "2026-09-04 22:33:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "4.6 magnitude earthquake shakes the coast of Sonsonate",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sismo-de-magnitud-4-6-sacude-la-costa-de-sonsonate/",
-        "published_date": "2026-09-04 22:15:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Take note: Partial closure on Jerusalem Avenue due to fence dismantling",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/tome-nota-cierre-parcial-en-avenida-jerusalen-por-desmontaje-de-valla/",
-        "published_date": "2026-09-04 22:07:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Real Madrid loses its undefeated record against Betis and lets the perfect lead slip away",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/real-madrid-pierde-el-invicto-ante-el-betis-y-deja-escapar-el-liderato-perfecto/",
-        "published_date": "2026-09-04 21:23:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Exception regime registers 93,039 arrests linked to gangs since 2022",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/regimen-de-excepcion-registra-93039-capturas-vinculadas-a-pandillas-desde-2022/",
-        "published_date": "2026-09-04 21:12:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "He will continue in detention accused of vehicle appropriation",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/continuara-en-detencion-acusado-de-apropiacion-de-vehiculos/?utm_source=rss&utm_medium=rss&utm_campaign=continuara-en-detencion-acusado-de-apropiacion-de-vehiculos",
-        "published_date": "2026-09-04 21:06:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "AURA.FM is committed to electronic music with national coverage from 99.3 FM",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/aura-fm-apuesta-por-la-musica-electronica-con-cobertura-nacional-desde-el-99-3-fm/?utm_source=rss&utm_medium=rss&utm_campaign=aura-fm-apuesta-por-la-musica-electronica-con-cobertura-nacional-desde-el-99-3-fm",
-        "published_date": "2026-09-04 20:34:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Beach Soccer teams will compete in the 2026 Nations Cup in Brazil",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/selecciones-de-futbol-playa-disputaran-la-copa-de-naciones-2026-en-brasil/",
-        "published_date": "2026-09-04 20:10:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Claudia Ortiz is notified of a complaint before the VAMOS Court of Honor",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/claudia-ortiz-es-notificada-de-una-denuncia-ante-tribunal-de-honor-de-vamos/",
-        "published_date": "2026-09-04 19:59:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rain and storms are forecast for the afternoon and evening of this Friday",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/pronostican-lluvias-y-tormentas-para-la-tarde-y-noche-de-este-viernes/?utm_source=rss&utm_medium=rss&utm_campaign=pronostican-lluvias-y-tormentas-para-la-tarde-y-noche-de-este-viernes",
-        "published_date": "2026-09-04 18:59:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rain and storms will continue this Friday and could extend until Saturday",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/lluvias-y-tormentas-continuaran-este-viernes-y-podrian-extenderse-hasta-el-sabado/?utm_source=rss&utm_medium=rss&utm_campaign=lluvias-y-tormentas-continuaran-este-viernes-y-podrian-extenderse-hasta-el-sabado",
-        "published_date": "2026-09-04 17:17:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reconstruction of the Colonia La Mielera School Center in Chalchuapa advances",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/avanza-reconstruccion-del-centro-escolar-colonia-la-mielera-en-chalchuapa/",
-        "published_date": "2026-09-04 16:12:54",
         "category": "Local Events"
     }
 ]
