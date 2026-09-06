@@ -133,13 +133,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "THE NEW MEANING OF CONCORD LIES IN MUTUAL AND SINCERE RESPECT",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-nuevo-significado-de-la-concordia-radica-en-el-respeto-mutuo-y-sincero/",
-        "published_date": "2026-08-29 10:59:38",
-        "category": "Diplomacy"
-    },
-    {
         "title": "El Salvador adds four days without homicides during September",
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/el-salvador-suma-cuatro-dias-sin-homicidios-durante-septiembre/",
@@ -476,6 +469,20 @@
         "category": "Economy"
     },
     {
+        "title": "Ciudad del Triunfo receives Central American fire",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ciudad-del-triunfo-recibe-el-fuego-centroamericano/",
+        "published_date": "2026-09-06 03:17:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "First day of the ISA World Junior Surfing Championship 2026 ends",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/finaliza-primera-jornada-del-isa-world-junior-surfing-championship-2026/",
+        "published_date": "2026-09-06 01:12:07",
+        "category": "Local Events"
+    },
+    {
         "title": "Up to 45 years in prison for MS gang members for their crimes",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/hasta-45-anos-de-prision-para-pandilleros-de-la-ms-por-sus-delitos/?utm_source=rss&utm_medium=rss&utm_campaign=hasta-45-anos-de-prision-para-pandilleros-de-la-ms-por-sus-delitos",
@@ -599,20 +606,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/presidente-bukele-destaca-resultados-del-plan-piloto-educativo-usando-ia/",
         "published_date": "2026-09-05 15:36:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Selecta will play against Martinique and Jamaica in El Salvador: tickets are now available",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/la-selecta-jugara-ante-martinica-y-jamaica-en-el-salvador-ya-estan-disponibles-los-boletos/",
-        "published_date": "2026-09-05 14:57:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cZero Crime\u201d continues to generate conversation and spark interest among readers in Germany",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/cero-crimen-continua-generando-conversacion-y-despierta-interes-entre-lectores-en-alemania/?utm_source=rss&utm_medium=rss&utm_campaign=cero-crimen-continua-generando-conversacion-y-despierta-interes-entre-lectores-en-alemania",
-        "published_date": "2026-09-05 14:39:33",
         "category": "Local Events"
     }
 ]
