@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cuba expects majority support in UN vote against blockade",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cuba-espera-apoyo-mayoritario-en-votacion-de-onu-contra-el-bloqueo/",
+        "published_date": "2026-09-08 10:45:30",
+        "category": "Diplomacy"
+    },
+    {
         "title": "El Salvador and Korea strengthen six decades of friendship and cooperation",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/empresarial/el-salvador-y-corea-fortalecen-seis-decadas-de-amistad-y-cooperacion/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-corea-fortalecen-seis-decadas-de-amistad-y-cooperacion",
@@ -126,6 +133,34 @@
         "category": "Diplomacy"
     },
     {
+        "title": "September adds seven days without homicides and El Salvador reaches 214 days in 2026",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/septiembre-suma-siete-dias-sin-homicidios-y-el-salvador-llega-a-214-jornadas-en-2026/?utm_source=rss&utm_medium=rss&utm_campaign=septiembre-suma-siete-dias-sin-homicidios-y-el-salvador-llega-a-214-jornadas-en-2026",
+        "published_date": "2026-09-08 12:24:30",
+        "category": "Military"
+    },
+    {
+        "title": "Exception regime: security, suspended rights and a pending debate on the rule of law",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/regimen-de-excepcion-seguridad-derechos-suspendidos-y-un-debate-pendiente-sobre-el-estado-de-derecho/",
+        "published_date": "2026-09-08 11:05:36",
+        "category": "Military"
+    },
+    {
+        "title": "SEPTEMBER 11, 1973, WHEN IT ALL BEGAN",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/11-de-septiembre-de-1973-cuando-todo-comenzo/",
+        "published_date": "2026-09-08 10:50:28",
+        "category": "Military"
+    },
+    {
+        "title": "One soldier dead and two others injured after attack in Nari\u00f1o, Colombia",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/un-militar-muerto-y-otros-dos-heridos-tras-ataque-en-narino-colombia/",
+        "published_date": "2026-09-08 10:40:26",
+        "category": "Military"
+    },
+    {
         "title": "They capture a man who, while intoxicated, shot into the air several times",
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/capturan-a-hombre-que-en-estado-de-ebriedad-disparo-al-aire-varias-veces/",
@@ -238,34 +273,6 @@
         "category": "Military"
     },
     {
-        "title": "They capture a drug trafficker who operated in Ciudad Arce",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-traficante-de-drogas-que-operaba-en-ciudad-arce/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-traficante-de-drogas-que-operaba-en-ciudad-arce",
-        "published_date": "2026-09-06 20:30:20",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador adds five days without homicides in September",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/el-salvador-suma-cinco-dias-sin-homicidios-en-septiembre/",
-        "published_date": "2026-09-06 18:40:42",
-        "category": "Military"
-    },
-    {
-        "title": "PNC captures subject accused of injuring another with a knife in Col\u00f3n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/pnc-captura-a-sujeto-senalado-de-lesionar-con-un-cuchillo-a-otro-en-colon/",
-        "published_date": "2026-09-06 17:46:49",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador adds four days without homicides during September",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/el-salvador-suma-cuatro-dias-sin-homicidios-durante-septiembre/",
-        "published_date": "2026-09-05 17:28:58",
-        "category": "Military"
-    },
-    {
         "title": "Delcy Rodr\u00edguez calls to build a great Venezuela together",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/delcy-rodriguez-llama-a-construir-todos-juntos-una-gran-venezuela/",
@@ -313,6 +320,34 @@
         "url": "https://diariolahuella.com/combustibles-aumentaran-de-precio-para-la-proxima-quincena/",
         "published_date": "2026-08-31 15:13:16",
         "category": "Energy"
+    },
+    {
+        "title": "171 public schools in El Salvador achieve results comparable to Germany and Sweden",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/171-escuelas-publicas-de-el-salvador-alcanzan-resultados-comparables-a-alemania-y-suecia/",
+        "published_date": "2026-09-08 12:57:59",
+        "category": "Economy"
+    },
+    {
+        "title": "They agree to allocate $97 million to various institutions for \u201cpriority and unavoidable obligations\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/acuerdan-asignar-97-millones-a-diversas-instituciones-para-obligaciones-prioritarias-e-ineludibles/",
+        "published_date": "2026-09-08 11:02:08",
+        "category": "Economy"
+    },
+    {
+        "title": "Five years after the Bitcoin Law",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/a-cinco-anos-de-la-ley-bitcoin/",
+        "published_date": "2026-09-08 04:00:32",
+        "category": "Economy"
+    },
+    {
+        "title": "All schools in the country will participate in the PISA program in 2028",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/todas-las-escuelas-del-pais-participaran-en-programa-pisa-en-2028/",
+        "published_date": "2026-09-08 03:17:23",
+        "category": "Economy"
     },
     {
         "title": "Bitcoin celebrates 5 years of being legal tender in El Salvador",
@@ -427,38 +462,101 @@
         "category": "Economy"
     },
     {
-        "title": "CRIO together with the La Barrica and Cheers stores present the 6th Edition of their El Salvador Wine Fair 2026",
+        "title": "Schools 947 and 948 receive investments to modernize classrooms and educational spaces in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/escuelas-947-y-948-reciben-inversiones-para-modernizar-aulas-y-espacios-educativos-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=escuelas-947-y-948-reciben-inversiones-para-modernizar-aulas-y-espacios-educativos-en-el-salvador",
+        "published_date": "2026-09-08 14:48:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jorge Drexler performs tonight in El Salvador with his Tarac\u00e1 2026 Tour",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/crio-junto-a-las-tiendas-la-barrica-y-cheers-presentan-la-6ta-edicion-de-su-feria-de-vinos-el-salvador-2026/",
-        "published_date": "2026-09-01 23:27:36",
-        "category": "Economy"
+        "url": "https://www.elmetropolitanodigital.com/2026/09/jorge-drexler-se-presenta-esta-noche-en-el-salvador-con-su-gira-taraca-2026/",
+        "published_date": "2026-09-08 14:46:18",
+        "category": "Local Events"
     },
     {
-        "title": "Grupo ESTRELLA acquires Cemento Fortaleza in El Salvador",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/grupo-estrella-adquiere-cemento-fortaleza-en-el-salvador/",
-        "published_date": "2026-09-01 17:02:32",
-        "category": "Economy"
+        "title": "Vozinha nominated for best goalkeeper of 2026",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/vozinha-nominado-a-mejor-portero-del-2026/?utm_source=rss&utm_medium=rss&utm_campaign=vozinha-nominado-a-mejor-portero-del-2026",
+        "published_date": "2026-09-08 14:30:47",
+        "category": "Local Events"
     },
     {
-        "title": "MAG will create a fodder bank in the eastern zone",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/mag-creara-un-banco-forrajero-en-la-zona-oriental/",
-        "published_date": "2026-09-01 16:49:05",
-        "category": "Economy"
-    },
-    {
-        "title": "Grupo ESTRELLA acquires Cemento Fortaleza in El Salvador",
+        "title": "Lighthouse Day, one of the most emblematic celebrations in the country",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/grupo-estrella-adquiere-cemento-fortaleza-en-el-salvador/",
-        "published_date": "2026-09-01 14:33:25",
-        "category": "Economy"
+        "url": "https://www.elmetropolitanodigital.com/2026/09/dia-de-los-farolitos-una-de-las-celebraciones-mas-emblematicas-del-pais/",
+        "published_date": "2026-09-08 14:21:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayte\u00e9 Iraheta is committed to presenting ARENA as a new alternative for Salvadorans",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/maytee-iraheta-apuesta-por-presentar-a-arena-como-una-nueva-alternativa-para-los-salvadorenos/?utm_source=rss&utm_medium=rss&utm_campaign=maytee-iraheta-apuesta-por-presentar-a-arena-como-una-nueva-alternativa-para-los-salvadorenos",
+        "published_date": "2026-09-08 14:00:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "New job destination for Salvadorans will be announced this week, according to Rolando Castro",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/nuevo-destino-laboral-para-salvadorenos-sera-anunciado-esta-semana-segun-rolando-castro/?utm_source=rss&utm_medium=rss&utm_campaign=nuevo-destino-laboral-para-salvadorenos-sera-anunciado-esta-semana-segun-rolando-castro",
+        "published_date": "2026-09-08 13:50:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Heavy rains and storms are expected tonight in San Salvador and other areas of El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/lluvias-y-tormentas-fuertes-se-esperan-esta-noche-en-san-salvador-y-otras-zonas-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=lluvias-y-tormentas-fuertes-se-esperan-esta-noche-en-san-salvador-y-otras-zonas-de-el-salvador",
+        "published_date": "2026-09-08 13:41:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ahuachap\u00e1n is filled with light and color with the celebration of Lantern Day",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/ahuachapan-se-llena-de-luz-y-color-con-la-celebracion-del-dia-de-los-farolitos/?utm_source=rss&utm_medium=rss&utm_campaign=ahuachapan-se-llena-de-luz-y-color-con-la-celebracion-del-dia-de-los-farolitos",
+        "published_date": "2026-09-08 12:04:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "ORMUSA registers 17 femicides between January and August 2026",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ormusa-registra-17-feminicidios-entre-enero-y-agosto-de-2026/",
+        "published_date": "2026-09-08 11:03:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran teacher travel to Germany to observe teaching",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/maestro-salvadoreno-viajara-a-alemania-para-realizar-observacion-docente/",
+        "published_date": "2026-09-08 11:01:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court again suspends hearing against veterans for alleged connection failures and medical appointments",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/tribunal-vuelve-a-suspender-audiencia-contra-veteranos-por-supuestas-fallas-de-conexion-y-citas-medicas/",
+        "published_date": "2026-09-08 11:00:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tourism in El Salvador grows 22% and reaches more than 3.2 million visitors in 2026",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/turismo-en-el-salvador-crece-22-y-alcanza-mas-de-3-2-millones-de-visitantes-en-2026/?utm_source=rss&utm_medium=rss&utm_campaign=turismo-en-el-salvador-crece-22-y-alcanza-mas-de-3-2-millones-de-visitantes-en-2026",
+        "published_date": "2026-09-08 01:38:10",
+        "category": "Local Events"
     },
     {
         "title": "President Bukele clarifies PISA for Schools results and defends expansion of educational reform in El Salvador",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/general/presidente-bukele-aclara-resultados-de-pisa-for-schools-y-defiende-expansion-de-reforma-educativa-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-aclara-resultados-de-pisa-for-schools-y-defiende-expansion-de-reforma-educativa-en-el-salvador",
         "published_date": "2026-09-07 23:07:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Amazon plane that crashed in Miami collided with a van with seven passengers",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/el-avion-de-amazon-que-se-estrello-en-miami-choco-con-una-furgoneta-con-siete-pasajeros/",
+        "published_date": "2026-09-07 22:56:59",
         "category": "Local Events"
     },
     {
@@ -476,6 +574,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Mat\u00edas Mier breaks the silence and denies obscene gestures after his expulsion in the classic",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/matias-mier-rompe-el-silencio-y-niega-gestos-obscenos-tras-su-expulsion-en-el-clasico/",
+        "published_date": "2026-09-07 22:05:06",
+        "category": "Local Events"
+    },
+    {
         "title": "They report abandonment of kittens inside a basket in Santa Ana",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/general/denuncian-abandono-de-gatitos-dentro-de-una-canasta-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=denuncian-abandono-de-gatitos-dentro-de-una-canasta-en-santa-ana",
@@ -490,108 +595,10 @@
         "category": "Local Events"
     },
     {
-        "title": "El Salvador delivers the Central American Torch for Peace and Freedom to Honduras",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/el-salvador-entrega-a-honduras-la-antorcha-centroamericana-por-la-paz-y-la-libertad/",
-        "published_date": "2026-09-07 20:56:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "First Lady highlights participation of children and families in early childhood parade",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/primera-dama-resalta-participacion-de-ninos-y-familias-en-desfile-de-primera-infancia/?utm_source=rss&utm_medium=rss&utm_campaign=primera-dama-resalta-participacion-de-ninos-y-familias-en-desfile-de-primera-infancia",
-        "published_date": "2026-09-07 20:54:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Renovated road in Los Toles allows children to participate in early childhood parade",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/carretera-renovada-en-los-toles-permite-a-ninos-participar-en-desfile-de-primera-infancia/?utm_source=rss&utm_medium=rss&utm_campaign=carretera-renovada-en-los-toles-permite-a-ninos-participar-en-desfile-de-primera-infancia",
-        "published_date": "2026-09-07 20:49:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man sentenced to 35 years in prison for committing feminicide against his own partner",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/condenan-a-35-anos-de-carcel-a-hombre-por-cometer-feminicidio-contra-su-propia-pareja/",
-        "published_date": "2026-09-07 20:42:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man sentenced to 35 years in prison for femicide in Usulut\u00e1n",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/condenan-a-35-anos-de-carcel-a-hombre-por-feminicidio-en-usulutan/?utm_source=rss&utm_medium=rss&utm_campaign=condenan-a-35-anos-de-carcel-a-hombre-por-feminicidio-en-usulutan",
-        "published_date": "2026-09-07 20:41:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man who sold rented vehicle sentenced to five years in prison",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/condenan-a-cinco-anos-de-prision-a-hombre-que-vendio-vehiculo-alquilado/?utm_source=rss&utm_medium=rss&utm_campaign=condenan-a-cinco-anos-de-prision-a-hombre-que-vendio-vehiculo-alquilado",
-        "published_date": "2026-09-07 20:25:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five years in prison for a man who sold a vehicle he rented to another person",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/cinco-anos-de-prision-para-hombre-que-vendio-vehiculo-que-rento-a-otra-persona/",
-        "published_date": "2026-09-07 20:25:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Central American Torch arrives in Honduras after touring the 14 departments of El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/antorcha-centroamericana-llega-a-honduras-despues-de-recorrer-los-14-departamentos-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=antorcha-centroamericana-llega-a-honduras-despues-de-recorrer-los-14-departamentos-de-el-salvador",
-        "published_date": "2026-09-07 20:13:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "San Salvador Centro fines people who throw garbage in prohibited places",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/san-salvador-centro-multa-a-personas-que-arrojan-basura-en-lugares-prohibidos/?utm_source=rss&utm_medium=rss&utm_campaign=san-salvador-centro-multa-a-personas-que-arrojan-basura-en-lugares-prohibidos",
-        "published_date": "2026-09-07 20:10:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "79 MS gang members face hearing for illicit groups",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/79-pandilleros-de-la-ms-enfrentan-audiencia-por-agrupaciones-ilicitas/",
-        "published_date": "2026-09-07 19:59:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prison for woman who abandoned her newborn in a garbage dump",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/prision-para-mujer-que-abandono-a-su-recien-nacido-en-un-basurero/",
-        "published_date": "2026-09-07 19:00:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Acer introduces the Veriton RI110 AI mini workstation",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/acer-presenta-la-miniestacion-de-trabajo-veriton-ri110-ai/",
-        "published_date": "2026-09-07 18:53:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man is arrested after attacking a woman in Sonsonate",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/hombre-es-detenido-tras-agredir-a-una-mujer-en-sonsonate/",
-        "published_date": "2026-09-07 18:32:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "VIDEO |Soccer match ends in a pitched battle in San Miguel",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/video-partido-de-futbol-termina-en-batalla-campal-en-san-miguel/",
-        "published_date": "2026-09-07 18:00:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "DOM remodels health unit in Jicalapa, La Libertad",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/dom-remodela-unidad-de-salud-en-jicalapa-la-libertad/",
-        "published_date": "2026-09-07 17:51:09",
+        "title": "Dominican Joheirry Mola wins the Miss World 2026 crown in Vietnam",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/la-dominicana-joheirry-mola-gana-en-vietnam-la-corona-del-miss-mundo-2026/",
+        "published_date": "2026-09-07 21:02:03",
         "category": "Local Events"
     }
 ]
