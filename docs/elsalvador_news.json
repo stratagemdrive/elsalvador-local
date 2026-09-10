@@ -1,5 +1,19 @@
 [
     {
+        "title": "Vice President Felix Ulloa highlights the historical ties between El Salvador and Mexico",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-destaca-los-historicos-vinculos-entre-el-salvador-y-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-destaca-los-historicos-vinculos-entre-el-salvador-y-mexico",
+        "published_date": "2026-09-10 14:20:30",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "\u201cPatience and trust\u201d: President Bukele speaks out regarding the expectation for the TPS in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/paciencia-y-confianza-presidente-bukele-se-pronuncia-ante-la-expectativa-por-el-tps-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=paciencia-y-confianza-presidente-bukele-se-pronuncia-ante-la-expectativa-por-el-tps-de-el-salvador",
+        "published_date": "2026-09-10 03:33:57",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The culprit for the future end of TPS is the government's own narrative",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/el-culpable-del-futuro-fin-del-tps-es-la-propia-narrativa-gubernamental/",
@@ -105,11 +119,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "El Salvador and Maryland strengthen their ties of friendship and cooperation with recognition from the Senate",
+        "title": "September adds another day without fatalities at the national level",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/septiembre-suma-otro-dia-sin-letalidades-a-nivel-nacional/",
+        "published_date": "2026-09-10 14:44:01",
+        "category": "Military"
+    },
+    {
+        "title": "September continues adding days without homicides",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/el-salvador-y-maryland-fortalecen-sus-vinculos-de-amistad-y-cooperacion-con-reconocimiento-del-senado/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-maryland-fortalecen-sus-vinculos-de-amistad-y-cooperacion-con-reconocimiento-del-senado",
-        "published_date": "2026-09-02 14:00:23",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/septiembre-continua-sumando-dias-sin-homicidios/?utm_source=rss&utm_medium=rss&utm_campaign=septiembre-continua-sumando-dias-sin-homicidios",
+        "published_date": "2026-09-10 14:32:21",
+        "category": "Military"
+    },
+    {
+        "title": "MS-13 gang member with criminal record dating back to 2010 arrested",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/detienen-a-pandillero-de-la-ms-13-con-antecedentes-desde-el-2010/",
+        "published_date": "2026-09-10 14:06:17",
+        "category": "Military"
+    },
+    {
+        "title": "PNC incorporates electric vehicles to strengthen its operational tasks",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/pnc-incorpora-vehiculos-electricos-para-fortalecer-sus-labores-operativas/",
+        "published_date": "2026-09-10 02:03:46",
+        "category": "Military"
     },
     {
         "title": "Salvadorans will be protected by TPS for at least six more months",
@@ -224,32 +259,11 @@
         "category": "Military"
     },
     {
-        "title": "Families from 11 departments receive deeds of land affected by the Corporaci\u00f3n Argoz case",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/familias-de-11-departamentos-reciben-escrituras-de-terrenos-afectados-por-el-caso-corporacion-argoz/?utm_source=rss&utm_medium=rss&utm_campaign=familias-de-11-departamentos-reciben-escrituras-de-terrenos-afectados-por-el-caso-corporacion-argoz",
-        "published_date": "2026-09-08 19:49:46",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador registers zero homicides on Monday, September 7",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/el-salvador-registra-cero-homicidios-durante-el-lunes-7-de-septiembre/",
-        "published_date": "2026-09-08 15:43:53",
-        "category": "Military"
-    },
-    {
-        "title": "September adds seven days without homicides and El Salvador reaches 214 days in 2026",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/septiembre-suma-siete-dias-sin-homicidios-y-el-salvador-llega-a-214-jornadas-en-2026/?utm_source=rss&utm_medium=rss&utm_campaign=septiembre-suma-siete-dias-sin-homicidios-y-el-salvador-llega-a-214-jornadas-en-2026",
-        "published_date": "2026-09-08 12:24:30",
-        "category": "Military"
-    },
-    {
-        "title": "Exception regime: security, suspended rights and a pending debate on the rule of law",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/regimen-de-excepcion-seguridad-derechos-suspendidos-y-un-debate-pendiente-sobre-el-estado-de-derecho/",
-        "published_date": "2026-09-08 11:05:36",
-        "category": "Military"
+        "title": "Brent exceeds $104 per barrel and reaches its highest level",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/brent-supera-los-104-por-barril-y-alcanza-su-nivel-mas-alto/",
+        "published_date": "2026-09-10 13:17:11",
+        "category": "Energy"
     },
     {
         "title": "Venezuela: the price of not converting wealth into power",
@@ -406,11 +420,123 @@
         "category": "Economy"
     },
     {
-        "title": "Bank deposits grow 12.6% and are close to $25 million as of July of this year",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/depositos-bancarios-crecen-12-6-y-roza-los-25-millones-a-julio-de-este-ano/",
-        "published_date": "2026-09-02 13:54:07",
-        "category": "Economy"
+        "title": "They predict a lot of heat and occasional rains for this Thursday",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/pronostican-mucho-calor-y-lluvias-puntuales-para-este-jueves/?utm_source=rss&utm_medium=rss&utm_campaign=pronostican-mucho-calor-y-lluvias-puntuales-para-este-jueves",
+        "published_date": "2026-09-10 14:55:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Very hot and occasional rain for this Thursday",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/mucho-calor-y-lluvias-puntuales-para-este-jueves/",
+        "published_date": "2026-09-10 14:48:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "LOTRA Raffle No. 465 dedicated to \u201cSympathy and good camaraderie\u201d of the Grotto El Salvador Association",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/sorteo-lotra-n-465-dedicado-a-simpatia-y-buen-companerismo-de-la-asociacion-grotto-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=sorteo-lotra-n-465-dedicado-a-simpatia-y-buen-companerismo-de-la-asociacion-grotto-el-salvador",
+        "published_date": "2026-09-10 12:37:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "MILPA denounces destruction of forest and archaeological sites due to housing project",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/milpa-denuncia-destruccion-de-bosque-y-sitios-arqueologicos-por-proyecto-habitacional/",
+        "published_date": "2026-09-10 11:05:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThey are not numbers, they are families\u201d: FMLN on Salvadorans protected by TPS",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/no-son-numeros-son-familias-fmln-sobre-salvadorenos-amparados-en-el-tps/",
+        "published_date": "2026-09-10 11:04:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "VAMOS temporarily suspends its internal elections to compose the CEP",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/vamos-suspende-de-forma-temporal-sus-elecciones-internas-para-componer-la-cep/",
+        "published_date": "2026-09-10 11:03:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nuevas Ideas refuses to redirect $20 million to support farmers",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/nuevas-ideas-se-niega-a-reorientar-20-millones-para-apoyar-agricultores/",
+        "published_date": "2026-09-10 11:02:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "President of the APES explains journalistic work from exile",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/presidente-de-la-apes-explica-el-trabajo-periodistico-desde-el-exilio/",
+        "published_date": "2026-09-10 11:01:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "End of TPS or demand for a permanent solution?",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fin-del-tps-o-demanda-de-solucion-permanente/",
+        "published_date": "2026-09-10 10:57:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil calls on Google to remove profiles of fake doctors made with artificial intelligence",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/brasil-emplaza-a-google-a-retirar-perfiles-de-falsos-medicos-hechos-con-inteligencia-artificial/",
+        "published_date": "2026-09-10 10:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cul\u00e9 rout: Barcelona defeats Feyenoord 5-1 in its Champions League start",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/goleada-cule-el-barcelona-arrolla-5-1-al-feyenoord-en-su-arranque-de-champions/",
+        "published_date": "2026-09-10 10:30:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "US attacks two Iranian oil tankers off Jask",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/estados-unidos-ataca-dos-petroleros-iranies-frente-a-jask/",
+        "published_date": "2026-09-10 10:00:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Coup in Tegucigalpa!Alianza receives a defeat and is on the ropes against Motagua",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/golpe-en-tegucigalpa-alianza-recibe-goleada-y-queda-contra-las-cuerdas-ante-motagua/",
+        "published_date": "2026-09-10 05:28:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele asks Salvadorans for \u201cpatience and trust\u201d regarding the future of the TPS",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-pide-paciencia-y-confianza-a-salvadorenos-ante-el-futuro-del-tps/",
+        "published_date": "2026-09-10 03:47:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "They demand labor justice and transparency after layoffs at Bloom Hospital",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/exigen-justicia-laboral-y-transparencia-tras-despidos-en-el-hospital-bloom/",
+        "published_date": "2026-09-10 03:43:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "TPS of El Salvador remains in force while the United States prepares a new announcement",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/tps-de-el-salvador-continua-vigente-mientras-estados-unidos-prepara-un-nuevo-anuncio/",
+        "published_date": "2026-09-10 01:31:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadorans with TPS maintain protection and work permits waiting for a new announcement",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/salvadorenos-con-tps-mantienen-proteccion-y-permiso-de-trabajo-a-la-espera-de-nuevo-anuncio/?utm_source=rss&utm_medium=rss&utm_campaign=salvadorenos-con-tps-mantienen-proteccion-y-permiso-de-trabajo-a-la-espera-de-nuevo-anuncio",
+        "published_date": "2026-09-10 01:20:59",
+        "category": "Local Events"
     },
     {
         "title": "The US confirms continuity of benefits for Salvadorans registered in the TPS",
@@ -431,125 +557,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/negocios/empresarial/ahorra-y-gana-ya-supera-los-2-9-millones-de-oportunidades-y-entrega-mas-de-120-mil-premios-en-el-salvador/",
         "published_date": "2026-09-10 00:07:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "VAMOS internal elections are suspended while the CEP recomposes",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/elecciones-internas-de-vamos-se-suspenden-mientras-la-cep-se-recompone/",
-        "published_date": "2026-09-09 22:55:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "They prohibit the resale of products purchased in agricultural markets in El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/prohiben-la-reventa-de-productos-adquiridos-en-los-agromercados-de-el-salvador/",
-        "published_date": "2026-09-09 22:27:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Agromarkets will reinforce controls to avoid purchases intended for resale",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/agromercados-reforzaran-controles-para-evitar-compras-destinadas-a-la-reventa/?utm_source=rss&utm_medium=rss&utm_campaign=agromercados-reforzaran-controles-para-evitar-compras-destinadas-a-la-reventa",
-        "published_date": "2026-09-09 22:17:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Save and win now exceeds 2.9 million opportunities and delivers more than 120 thousand prizes in El Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/ahorra-y-gana-ya-supera-los-2-9-millones-de-oportunidades-y-entrega-mas-de-120-mil-premios-en-el-salvador/",
-        "published_date": "2026-09-09 22:07:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "The favorites prevail on the first day of the Champions League",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/los-favoritos-se-imponen-en-la-primera-jornada-de-la-champions-league/",
-        "published_date": "2026-09-09 21:44:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Truck with wooden pallets overturns on the Golden Highway",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/camion-con-tarimas-de-madera-vuelca-en-la-carretera-de-oro/",
-        "published_date": "2026-09-09 21:21:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US confirms the destruction of five Iranian oil tankers due to an attack on one of its ships",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/eeuu-confirma-destruccion-de-cinco-petroleros-iranies-por-ataque-contra-uno-de-sus-buques/",
-        "published_date": "2026-09-09 21:15:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "43 members of MS-13 face trial for illicit groups in San Miguel",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/43-integrantes-de-la-ms-13-enfrentan-juicio-por-agrupaciones-ilicitas-en-san-miguel/",
-        "published_date": "2026-09-09 21:14:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "40 years in prison for MS gang member for various crimes",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/40-anos-de-carcel-para-pandillero-de-la-ms-por-diversos-delitos/?utm_source=rss&utm_medium=rss&utm_campaign=40-anos-de-carcel-para-pandillero-de-la-ms-por-diversos-delitos",
-        "published_date": "2026-09-09 20:55:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture a subject who broke into a store and stole more than $5,000 in San Miguel",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-sujeto-que-se-metio-a-una-tienda-y-hurto-mas-de-5000-en-san-miguel/",
-        "published_date": "2026-09-09 20:47:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government promotes international sporting events",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gobierno-impulsa-eventos-deportivos-de-talla-internacional/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-impulsa-eventos-deportivos-de-talla-internacional",
-        "published_date": "2026-09-09 20:14:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Clubs participating in the Champions League will share almost 2.8 billion dollars",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/clubes-participantes-en-la-champions-se-repartiran-casi-2-800-millones-de-dolares/",
-        "published_date": "2026-09-09 19:56:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government promotes international sporting events",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-impulsa-eventos-deportivos-de-talla-internacional/",
-        "published_date": "2026-09-09 19:46:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 10 thousand free sandwiches will be offered at the Central Market Gastronomic Festival",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/mas-de-10-mil-bocadillos-gratuitos-seran-ofrecidos-en-festival-gastronomico-del-mercado-central/",
-        "published_date": "2026-09-09 19:41:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "30 years in prison for the subject who murdered a person in a brewery in La Uni\u00f3n",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/30-anos-de-carcel-para-sujeto-que-asesino-a-una-persona-en-una-cerveceria-de-la-union/?utm_source=rss&utm_medium=rss&utm_campaign=30-anos-de-carcel-para-sujeto-que-asesino-a-una-persona-en-una-cerveceria-de-la-union",
-        "published_date": "2026-09-09 19:41:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barcelona crushes Feyenoord 5-1 in Champions League",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/barcelona-aplasta-5-1-a-feyenoord-en-champions-league/",
-        "published_date": "2026-09-09 19:37:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trial for Maradona's death begins a new stage with defense witnesses",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/juicio-por-muerte-de-maradona-inicia-nueva-etapa-con-testigos-de-la-defensa/",
-        "published_date": "2026-09-09 19:25:31",
         "category": "Local Events"
     }
 ]
