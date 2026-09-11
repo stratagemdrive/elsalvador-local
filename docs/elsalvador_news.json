@@ -1,5 +1,12 @@
 [
     {
+        "title": "Rescue Commands report a deceased person after being run over in the vicinity of the Olocuilta Bridge",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/comandos-de-salvamento-reporta-a-una-persona-fallecida-tras-ser-atropellada-en-las-inmediaciones-del-puente-de-olocuilta/",
+        "published_date": "2026-09-11 00:20:35",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Vice President Felix Ulloa highlights the historical ties between El Salvador and Mexico",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-destaca-los-historicos-vinculos-entre-el-salvador-y-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-destaca-los-historicos-vinculos-entre-el-salvador-y-mexico",
@@ -112,11 +119,39 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Municipality of Santa Ana Centro presents advances in security before the Israeli ambassador in the country",
+        "title": "Guatemalan government forcibly removes protesters with riot gear",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-guatemalteco-retira-por-la-fuerza-a-manifestantes-con-antimotines/",
+        "published_date": "2026-09-10 20:39:51",
+        "category": "Military"
+    },
+    {
+        "title": "Riot police confront protesters in Guatemala to remove blockades",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/municipalidad-de-santa-ana-centro-presenta-avances-en-seguridad-ante-embajador-de-israel-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=municipalidad-de-santa-ana-centro-presenta-avances-en-seguridad-ante-embajador-de-israel-en-el-pais",
-        "published_date": "2026-09-03 00:11:51",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/internacionales/policias-antimotines-enfrentan-manifestantes-en-guatemala-para-retirar-bloqueos/?utm_source=rss&utm_medium=rss&utm_campaign=policias-antimotines-enfrentan-manifestantes-en-guatemala-para-retirar-bloqueos",
+        "published_date": "2026-09-10 20:25:40",
+        "category": "Military"
+    },
+    {
+        "title": "A Salvadoran gang member who took refuge in that country is located in Guatemala",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/ubican-en-guatemala-a-pandillero-salvadoreno-que-se-refugiaba-en-ese-pais/",
+        "published_date": "2026-09-10 19:41:35",
+        "category": "Military"
+    },
+    {
+        "title": "Remnants of gangs continue to fall in the country or outside of it",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/siguen-cayendo-remanentes-de-pandillas-en-el-pais-o-fuera-de-este/",
+        "published_date": "2026-09-10 18:11:55",
+        "category": "Military"
+    },
+    {
+        "title": "They capture seven gang members accused of murdering 17 people in Guatemala",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/capturan-a-siete-pandilleros-senalados-de-asesinar-a-17-personas-en-guatemala/",
+        "published_date": "2026-09-10 16:41:48",
+        "category": "Military"
     },
     {
         "title": "September adds another day without fatalities at the national level",
@@ -224,41 +259,6 @@
         "category": "Military"
     },
     {
-        "title": "They capture a subject who stole $5,000 from a store in San Miguel",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-sujeto-que-hurto-5000-de-una-tienda-en-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-sujeto-que-hurto-5000-de-una-tienda-en-san-miguel",
-        "published_date": "2026-09-09 14:44:43",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a man with an arrest warrant for aggravated homicide in Ahuachap\u00e1n",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/capturan-a-hombre-con-orden-de-captura-por-homicidio-agravado-en-ahuachapan/",
-        "published_date": "2026-09-09 14:21:37",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a man accused of stealing $5,000 from a store in San Gerardo",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/capturan-a-hombre-senalado-de-hurtar-5000-de-una-tienda-en-san-gerardo/",
-        "published_date": "2026-09-09 14:10:18",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador promotes the \"economic miracle\" through logistical development",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/el-salvador-impulsa-el-milagro-economico-a-traves-del-desarrollo-logistico/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-impulsa-el-milagro-economico-a-traves-del-desarrollo-logistico",
-        "published_date": "2026-09-08 20:51:24",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador continues to strengthen the conditions that position it as a strategic point for trade",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/el-salvador-continua-fortaleciendo-las-condiciones-que-lo-posicionan-como-un-punto-estrategico-para-el-comercio/",
-        "published_date": "2026-09-08 20:36:12",
-        "category": "Military"
-    },
-    {
         "title": "Brent exceeds $104 per barrel and reaches its highest level",
         "source": "Ultima Hora SV",
         "url": "https://ultimahora.sv/brent-supera-los-104-por-barril-y-alcanza-su-nivel-mas-alto/",
@@ -285,6 +285,20 @@
         "url": "https://croniosv.com/internacionales/panama-anuncia-aumento-en-los-precios-de-los-combustibles-desde-este-viernes/",
         "published_date": "2026-09-03 23:52:55",
         "category": "Energy"
+    },
+    {
+        "title": "Santander projects improvement of El Salvador's credit rating towards investment grade",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/santander-proyecta-mejora-de-la-calificacion-crediticia-de-el-salvador-hacia-el-grado-de-inversion/",
+        "published_date": "2026-09-10 18:56:23",
+        "category": "Economy"
+    },
+    {
+        "title": "Tax collection grows in El Salvador and reaches $5,772.4 million as of July 2026",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/recaudacion-tributaria-crece-en-el-salvador-y-alcanza-5772-4-millones-a-julio-de-2026/",
+        "published_date": "2026-09-10 16:16:42",
+        "category": "Economy"
     },
     {
         "title": "171 public schools in El Salvador achieve results comparable to Germany and Sweden",
@@ -392,171 +406,143 @@
         "category": "Economy"
     },
     {
-        "title": "Woman loses her life in a serious traffic accident in the La Poza section, Usulut\u00e1n",
+        "title": "Government launches the Mini Nido at Zacamil National Hospital",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/gobierno-lanza-el-mini-nido/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-lanza-el-mini-nido",
+        "published_date": "2026-09-11 00:38:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Salvadoran working class expresses itself in the face of the risk of flexibility and historical regression",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/clase-trabajadora-salvadorena-expres-riesgo-flexibilizacion-retroceso-historico/",
+        "published_date": "2026-09-10 23:59:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The XXIV edition of the Flamenco Biennial begins with \u201cEl mundo por Montera\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/arranca-la-xxiv-edicion-de-la-bienal-de-flamenco-con-el-mundo-por-montera/",
+        "published_date": "2026-09-10 23:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nearly 100 Salvadoran workers will travel to Italy through the Labor Migration Program",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/cerca-de-100-trabajadores-salvadorenos-viajaran-a-italia-mediante-el-programa-de-migracion-laboral/?utm_source=rss&utm_medium=rss&utm_campaign=cerca-de-100-trabajadores-salvadorenos-viajaran-a-italia-mediante-el-programa-de-migracion-laboral",
+        "published_date": "2026-09-10 22:51:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sentences of up to 626 years in prison for 24 MS-13 gang members",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/penas-de-hasta-626-anos-de-prision-para-24-pandilleros-de-la-ms-13/?utm_source=rss&utm_medium=rss&utm_campaign=penas-de-hasta-626-anos-de-prision-para-24-pandilleros-de-la-ms-13",
+        "published_date": "2026-09-10 22:50:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities free public spaces and remove obstacles in different parts of Zone 1",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/mujer-pierde-la-vida-en-fuerte-accidente-de-transito-en-el-tramo-la-poza-usulutan/",
-        "published_date": "2026-09-02 23:23:01",
-        "category": "Economy"
-    },
-    {
-        "title": "Deputies approve incorporating a donation from CABEI to the Bicentennial scholarship program",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/diputados-aprueban-incorporar-donativo-del-bcie-al-programa-de-becas-bicentenario/?utm_source=rss&utm_medium=rss&utm_campaign=diputados-aprueban-incorporar-donativo-del-bcie-al-programa-de-becas-bicentenario",
-        "published_date": "2026-09-02 21:00:25",
-        "category": "Economy"
-    },
-    {
-        "title": "CAF seeks startups to promote financial inclusion in the silver economy",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/caf-busca-startups-para-impulsar-inclusion-financiera-de-economia-plateada/",
-        "published_date": "2026-09-02 17:00:20",
-        "category": "Economy"
-    },
-    {
-        "title": "Remittances in cryptocurrencies grow 35.7% from January to July, in El Salvador",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/remesas-en-criptomonedas-crecen-35-7-de-enero-a-julio-en-el-salvador/",
-        "published_date": "2026-09-02 16:46:21",
-        "category": "Economy"
-    },
-    {
-        "title": "They predict a lot of heat and occasional rains for this Thursday",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/pronostican-mucho-calor-y-lluvias-puntuales-para-este-jueves/?utm_source=rss&utm_medium=rss&utm_campaign=pronostican-mucho-calor-y-lluvias-puntuales-para-este-jueves",
-        "published_date": "2026-09-10 14:55:11",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/autoridades-liberan-espacios-publicos-y-retiran-obstaculos-en-distintos-puntos-de-la-zona-1/",
+        "published_date": "2026-09-10 22:42:39",
         "category": "Local Events"
     },
     {
-        "title": "Very hot and occasional rain for this Thursday",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/mucho-calor-y-lluvias-puntuales-para-este-jueves/",
-        "published_date": "2026-09-10 14:48:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "LOTRA Raffle No. 465 dedicated to \u201cSympathy and good camaraderie\u201d of the Grotto El Salvador Association",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/sorteo-lotra-n-465-dedicado-a-simpatia-y-buen-companerismo-de-la-asociacion-grotto-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=sorteo-lotra-n-465-dedicado-a-simpatia-y-buen-companerismo-de-la-asociacion-grotto-el-salvador",
-        "published_date": "2026-09-10 12:37:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "MILPA denounces destruction of forest and archaeological sites due to housing project",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/milpa-denuncia-destruccion-de-bosque-y-sitios-arqueologicos-por-proyecto-habitacional/",
-        "published_date": "2026-09-10 11:05:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThey are not numbers, they are families\u201d: FMLN on Salvadorans protected by TPS",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/no-son-numeros-son-familias-fmln-sobre-salvadorenos-amparados-en-el-tps/",
-        "published_date": "2026-09-10 11:04:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "VAMOS temporarily suspends its internal elections to compose the CEP",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/vamos-suspende-de-forma-temporal-sus-elecciones-internas-para-componer-la-cep/",
-        "published_date": "2026-09-10 11:03:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nuevas Ideas refuses to redirect $20 million to support farmers",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/nuevas-ideas-se-niega-a-reorientar-20-millones-para-apoyar-agricultores/",
-        "published_date": "2026-09-10 11:02:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "President of the APES explains journalistic work from exile",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/presidente-de-la-apes-explica-el-trabajo-periodistico-desde-el-exilio/",
-        "published_date": "2026-09-10 11:01:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "End of TPS or demand for a permanent solution?",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fin-del-tps-o-demanda-de-solucion-permanente/",
-        "published_date": "2026-09-10 10:57:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazil calls on Google to remove profiles of fake doctors made with artificial intelligence",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/brasil-emplaza-a-google-a-retirar-perfiles-de-falsos-medicos-hechos-con-inteligencia-artificial/",
-        "published_date": "2026-09-10 10:35:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cul\u00e9 rout: Barcelona defeats Feyenoord 5-1 in its Champions League start",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/goleada-cule-el-barcelona-arrolla-5-1-al-feyenoord-en-su-arranque-de-champions/",
-        "published_date": "2026-09-10 10:30:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "US attacks two Iranian oil tankers off Jask",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/estados-unidos-ataca-dos-petroleros-iranies-frente-a-jask/",
-        "published_date": "2026-09-10 10:00:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Coup in Tegucigalpa!Alianza receives a defeat and is on the ropes against Motagua",
+        "title": "The third day of date 1 of the Champions League ends",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/golpe-en-tegucigalpa-alianza-recibe-goleada-y-queda-contra-las-cuerdas-ante-motagua/",
-        "published_date": "2026-09-10 05:28:00",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/finalizo-el-tercer-dia-de-la-fecha-1-de-la-champions-league/",
+        "published_date": "2026-09-10 22:24:36",
         "category": "Local Events"
     },
     {
-        "title": "President Bukele asks Salvadorans for \u201cpatience and trust\u201d regarding the future of the TPS",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-pide-paciencia-y-confianza-a-salvadorenos-ante-el-futuro-del-tps/",
-        "published_date": "2026-09-10 03:47:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "They demand labor justice and transparency after layoffs at Bloom Hospital",
+        "title": "SHARE SOCIAL CONFLICTS;APPROACH TO MUTUAL AGREEMENTS",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/exigen-justicia-laboral-y-transparencia-tras-despidos-en-el-hospital-bloom/",
-        "published_date": "2026-09-10 03:43:16",
+        "url": "https://www.diariocolatino.com/compartir-los-conflictos-sociales-acercarse-a-los-acuerdos-mutuos/",
+        "published_date": "2026-09-10 21:28:25",
         "category": "Local Events"
     },
     {
-        "title": "TPS of El Salvador remains in force while the United States prepares a new announcement",
+        "title": "Peru joins the Shield of the Americas, confirms Keiko Fujimori",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/tps-de-el-salvador-continua-vigente-mientras-estados-unidos-prepara-un-nuevo-anuncio/",
-        "published_date": "2026-09-10 01:31:26",
+        "url": "https://diariolahuella.com/peru-se-suma-al-escudo-de-las-americas-confirma-keiko-fujimori/",
+        "published_date": "2026-09-10 21:26:00",
         "category": "Local Events"
     },
     {
-        "title": "Salvadorans with TPS maintain protection and work permits waiting for a new announcement",
+        "title": "Keiko Fujimori confirms that Peru joins the Shield of the Americas",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/salvadorenos-con-tps-mantienen-proteccion-y-permiso-de-trabajo-a-la-espera-de-nuevo-anuncio/?utm_source=rss&utm_medium=rss&utm_campaign=salvadorenos-con-tps-mantienen-proteccion-y-permiso-de-trabajo-a-la-espera-de-nuevo-anuncio",
-        "published_date": "2026-09-10 01:20:59",
+        "url": "https://lapagina.com.sv/internacionales/keiko-fujimori-confirma-que-peru-se-suma-al-escudo-de-las-americas/?utm_source=rss&utm_medium=rss&utm_campaign=keiko-fujimori-confirma-que-peru-se-suma-al-escudo-de-las-americas",
+        "published_date": "2026-09-10 21:23:02",
         "category": "Local Events"
     },
     {
-        "title": "The US confirms continuity of benefits for Salvadorans registered in the TPS",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/ee-uu-confirma-continuidad-de-beneficios-para-salvadorenos-inscritos-en-el-tps/",
-        "published_date": "2026-09-10 00:43:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "LOTRA Raffle No. 465 dedicated to \u201cSympathy and good camaraderie\u201d of the Grotto El Salvador Association",
+        "title": "65 gang members sentenced to up to 880 years in prison",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/economia/sorteo-lotra-n-o-465-dedicado-a-simpatia-y-buen-companerismo-de-la-asociacion-grotto-el-salvador/",
-        "published_date": "2026-09-10 00:25:05",
+        "url": "https://croniosv.com/nacionales/judicial/condenan-hasta-a-880-anos-de-prision-a-65-mareros/",
+        "published_date": "2026-09-10 20:50:21",
         "category": "Local Events"
     },
     {
-        "title": "Save and win now exceeds 2.9 million opportunities and delivers more than 120 thousand prizes in El Salvador",
+        "title": "Four people reported dead in different parts of Sonsonate",
         "source": "Cronio",
-        "url": "https://croniosv.com/negocios/empresarial/ahorra-y-gana-ya-supera-los-2-9-millones-de-oportunidades-y-entrega-mas-de-120-mil-premios-en-el-salvador/",
-        "published_date": "2026-09-10 00:07:35",
+        "url": "https://croniosv.com/nacionales/sucesos/reportan-cuatro-personas-fallecidas-en-diferentes-puntos-de-sonsonate/",
+        "published_date": "2026-09-10 20:32:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government advances in the modernization of tourist infrastructure",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/gobierno-avanza-en-la-modernizacion-de-infraestructura-turistica/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-avanza-en-la-modernizacion-de-infraestructura-turistica",
+        "published_date": "2026-09-10 20:26:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government advances in the modernization of tourist infrastructure",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-avanza-en-la-modernizacion-de-infraestructura-turistica/",
+        "published_date": "2026-09-10 20:13:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Luis \u00c1ngel Firpo receives the 'King of Cups' Olimpia in search of a surprise in the Central American Cup",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/luis-angel-firpo-recibe-al-rey-de-copas-olimpia-en-busca-de-dar-la-sorpresa-en-la-copa-centroamericana/",
+        "published_date": "2026-09-10 20:09:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Keiko Fujimori and Marco Rubio confirm the entry of Peru to the Shield of the Americas",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/keiko-fujimori-y-marco-rubio-confirman-el-ingreso-de-peru-al-escudo-de-las-americas/",
+        "published_date": "2026-09-10 19:59:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Wisin: 'La Universidad del Perreo' is full of sounds that were not made and people asked for",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/wisin-la-universidad-del-perreo-esta-lleno-de-sonido-que-no-se-hacia-y-la-gente-pedia/",
+        "published_date": "2026-09-10 19:54:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Andrea Bocelli will offer a concert in El Salvador in February 2027",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/jetset/andrea-bocelli-ofrecera-concierto-en-el-salvador-en-febrero-de-2027/",
+        "published_date": "2026-09-10 19:30:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorcyclist is injured after an accident on the North Trunk",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/motociclista-resulta-lesionado-tras-accidente-en-la-troncal-del-norte/",
+        "published_date": "2026-09-10 19:02:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spectacular traffic accident at the Apopa overpass",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/aparatoso-accidente-de-transito-en-el-paso-a-desnivel-de-apopa/",
+        "published_date": "2026-09-10 18:33:02",
         "category": "Local Events"
     }
 ]
