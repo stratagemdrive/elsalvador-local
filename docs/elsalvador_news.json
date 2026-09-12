@@ -1,5 +1,12 @@
 [
     {
+        "title": "Salvadoran representation participates in the National Day of Costa Rica",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/representacion-salvadorena-participa-en-el-dia-nacional-de-costa-rica/",
+        "published_date": "2026-09-12 01:06:01",
+        "category": "Diplomacy"
+    },
+    {
         "title": "English in Central America XXIV",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/ingleses-en-centroamerica-xxiv/",
@@ -119,18 +126,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "President Ernesto Castro also says he is worried about TPS",
+        "title": "Why demonstrate on September 15: The validity of collective historical memory",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/presidente-ernesto-castro-dice-tambien-estar-preocupado-por-el-tps/",
-        "published_date": "2026-09-04 11:06:15",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cuba, an international symbol of independence, says foreign minister",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cuba-un-simbolo-internacional-de-independencia-afirma-canciller/",
-        "published_date": "2026-09-04 10:30:59",
-        "category": "Diplomacy"
+        "url": "https://www.diariocolatino.com/porque-manifestarnos-el-15-de-septiembre-la-vigencia-de-la-memoria-historica-colectiva/",
+        "published_date": "2026-09-12 03:13:32",
+        "category": "Military"
     },
     {
         "title": "President Bukele regarding economic growth projections for El Salvador: \u201cSecurity was only the beginning\u201d",
@@ -266,13 +266,6 @@
         "category": "Military"
     },
     {
-        "title": "FONAT installs two vehicle controls in Usulut\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/fonat-instala-dos-controles-vehiculares-en-usulutan/",
-        "published_date": "2026-09-09 22:13:19",
-        "category": "Military"
-    },
-    {
         "title": "Brent exceeds $104 per barrel and reaches its highest level",
         "source": "Ultima Hora SV",
         "url": "https://ultimahora.sv/brent-supera-los-104-por-barril-y-alcanza-su-nivel-mas-alto/",
@@ -292,6 +285,13 @@
         "url": "https://www.diariocolatino.com/delcy-rodriguez-llama-a-construir-todos-juntos-una-gran-venezuela/",
         "published_date": "2026-09-05 10:30:19",
         "category": "Energy"
+    },
+    {
+        "title": "Labor inspectors find more irregularities in night work",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/inspectores-de-trabajo-encuentran-mas-irregularidades-en-labores-nocturnas/",
+        "published_date": "2026-09-12 02:29:11",
+        "category": "Economy"
     },
     {
         "title": "El Salvador will invest 8% of GDP in education starting in 2027, announces Bukele",
@@ -427,11 +427,60 @@
         "category": "Economy"
     },
     {
-        "title": "El Salvador celebrates 5 years of adopting bitcoin",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/el-salvador-cumple-5-anos-de-adopcion-del-bitcoin/",
-        "published_date": "2026-09-04 20:48:20",
-        "category": "Economy"
+        "title": "\u201cRomero would be next to mothers, the poor, fighters, migrants and workers\u201d: Mons. Romero Committee",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/romero-estaria-al-lado-de-las-madres-pobres-luchadores-migrantes-y-trabajadores-comite-mons-romero/",
+        "published_date": "2026-09-12 11:04:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Los Naranjos Community denounces police intimidation due to antenna installation",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comunidad-los-naranjos-denuncia-intimidacion-policial-por-instalacion-de-antena/",
+        "published_date": "2026-09-12 11:03:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran bishops conclude ad limina apostolorum visit with meeting with Pope Leo XIV",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/obispos-salvadorenos-concluyen-visita-ad-limina-apostolorum-con-encuentro-con-el-papa-leon-xiv/",
+        "published_date": "2026-09-12 11:02:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "They denounce destruction of Lenca and Mayan heritage in an area intervened by a real estate project",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/denuncian-destruccion-de-patrimonio-lenca-y-maya-en-zona-intervenida-por-proyecto-inmobiliario/",
+        "published_date": "2026-09-12 11:01:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Development and progress is only seen in two departments, in the rest extreme poverty has grown: Rafael Lemus",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-desarrollo-y-progreso-solo-se-ve-en-dos-departamentos-en-el-resto-ha-crecido-la-pobreza-extrema-rafael-lemus/",
+        "published_date": "2026-09-12 11:00:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "EL SALVADOR ON THE ROUTE OF 2027: ELECTIONS WITHOUT DEMOCRACY AND IN A DICTATORSHIP",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-salvador-en-la-ruta-del-2027-elecciones-sin-democracia-y-en-dictadura/",
+        "published_date": "2026-09-12 10:59:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Firpo with the hope intact: Solano promises to \"seek absolutely all means\" to come back",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/firpo-con-la-ilusion-intacta-solano-promete-buscar-absolutamente-todos-los-medios-para-remontar/",
+        "published_date": "2026-09-12 10:45:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government of Ecuador announces curfew in four provinces",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/gobierno-de-ecuador-anuncia-toque-de-queda-en-cuatro-provincias/",
+        "published_date": "2026-09-12 10:30:56",
+        "category": "Local Events"
     },
     {
         "title": "Elon Musk threatens legal action over documentary about his life",
@@ -515,62 +564,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/09/yamil-bukele-descarta-rumores-y-confirma-transmision-en-vivo-para-el-clasico-entre-fas-y-alianza/",
         "published_date": "2026-09-11 22:36:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Monsignor Romero Committee invites citizens to participate in the march on September 15",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/comite-monsenor-romero-invita-a-la-ciudadania-a-participar-en-la-marcha-del-15-de-septiembre/",
-        "published_date": "2026-09-11 21:27:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Selecta Femenina will face Paraguay in two friendly matches at the Cuscatl\u00e1n Stadium",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/la-selecta-femenina-se-enfrentara-a-paraguay-en-dos-partidos-amistosos-en-el-estadio-cuscatlan/",
-        "published_date": "2026-09-11 21:26:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "They report the alleged death of the former mayor of Santa Ana, Jos\u00e9 Orlando Mena",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/reportan-el-presunto-fallecimiento-del-exalcalde-de-santa-ana-jose-orlando-mena/",
-        "published_date": "2026-09-11 21:19:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Road closures and alternative routes announced in San Salvador for the 2026 Independence Parade",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/anuncian-cierres-viales-y-rutas-alternas-en-san-salvador-por-el-desfile-de-independencia-2026/",
-        "published_date": "2026-09-11 20:32:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the points where you can enjoy the civic parade on September 15",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/estos-son-los-puntos-donde-podras-disfrutar-del-desfile-civico-del-15-de-septiembre/",
-        "published_date": "2026-09-11 19:38:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Education will deploy more than 650 collaborators during the Independence Parade",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/educacion-desplegara-a-mas-de-650-colaboradores-durante-el-desfile-de-independencia/?utm_source=rss&utm_medium=rss&utm_campaign=educacion-desplegara-a-mas-de-650-colaboradores-durante-el-desfile-de-independencia",
-        "published_date": "2026-09-11 19:36:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 2,200 students will participate in the 2026 Independence Parade",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/mas-de-2200-estudiantes-participaran-en-el-desfile-de-independencia-2026/",
-        "published_date": "2026-09-11 19:36:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "TINI arrives in El Salvador with a very special guest!",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/tini-llega-a-el-salvador-con-un-invitado-muy-especial/",
-        "published_date": "2026-09-11 19:31:33",
         "category": "Local Events"
     }
 ]
