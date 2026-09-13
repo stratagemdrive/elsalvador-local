@@ -91,20 +91,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Iran's air defense achieves self-sufficiency in equipment",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-defensa-aerea-de-iran-logra-la-autosuficiencia-en-equipamiento/",
-        "published_date": "2026-09-05 10:00:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Municipal union of San Salvador Centro denounces withholding of dues, persecution of vendors",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/sindicato-municipal-de-san-salvador-centro-denuncia-retencion-de-cuotas-persecucion-a-vendedores/",
-        "published_date": "2026-09-05 02:23:18",
-        "category": "Diplomacy"
-    },
-    {
         "title": "ONI system allows identifying and capturing a member of the MS",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/sistema-oni-permite-identificar-y-capturar-a-miembro-de-la-ms/?utm_source=rss&utm_medium=rss&utm_campaign=sistema-oni-permite-identificar-y-capturar-a-miembro-de-la-ms",
@@ -259,13 +245,6 @@
         "category": "Energy"
     },
     {
-        "title": "Delcy Rodr\u00edguez calls to build a great Venezuela together",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/delcy-rodriguez-llama-a-construir-todos-juntos-una-gran-venezuela/",
-        "published_date": "2026-09-05 10:30:19",
-        "category": "Energy"
-    },
-    {
         "title": "Elon Musk celebrates El Salvador's announcement to invest 8% of GDP in education",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/elon-musk-celebra-anuncio-de-el-salvador-de-invertir-el-8-del-pib-en-educacion/?utm_source=rss&utm_medium=rss&utm_campaign=elon-musk-celebra-anuncio-de-el-salvador-de-invertir-el-8-del-pib-en-educacion",
@@ -399,6 +378,90 @@
         "category": "Economy"
     },
     {
+        "title": "\u201cRice Grains\u2026\u201d from Chinchilla will be presented in Honduras",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/granos-de-arroz-de-chinchilla-sera-presentado-en-honduras/",
+        "published_date": "2026-09-13 13:04:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "The agreement with Oman does not mean the reopening of the Strait of Hormuz: Araqchi",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-acuerdo-con-oman-no-significa-la-reapertura-del-estrecho-de-ormuz-araqchi/",
+        "published_date": "2026-09-13 12:36:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tini's concert in Santa Tecla is canceled and rescheduled for this Sunday",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/cancelan-concierto-de-tini-en-santa-tecla-y-lo-reprograman-para-este-domingo/",
+        "published_date": "2026-09-13 07:11:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorcyclist dies after colliding with a cargo vehicle",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/motociclista-pierde-la-vida-tras-colisionar-contra-un-vehiculo-de-carga/?utm_source=rss&utm_medium=rss&utm_campaign=motociclista-pierde-la-vida-tras-colisionar-contra-un-vehiculo-de-carga",
+        "published_date": "2026-09-13 03:50:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Seven people are rescued after a tree falls on four vehicles in San Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/siete-personas-son-rescatadas-tras-caida-de-arbol-sobre-cuatro-vehiculos-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=siete-personas-son-rescatadas-tras-caida-de-arbol-sobre-cuatro-vehiculos-en-san-salvador",
+        "published_date": "2026-09-13 03:31:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Large tree falls on four vehicles in the Atlacatl neighborhood, San Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/arbol-de-gran-magnitud-cae-sobre-cuatro-vehiculos-en-colonia-atlacatl-san-salvador/",
+        "published_date": "2026-09-13 03:29:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Game between FAS and Alianza suspended due to strong electrical storm in Santa Ana",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/suspenden-juego-entre-fas-y-alianza-por-fuerte-tormenta-electrica-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=suspenden-juego-entre-fas-y-alianza-por-fuerte-tormenta-electrica-en-santa-ana",
+        "published_date": "2026-09-13 02:10:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man is convicted of defrauding with the alleged installation of air conditioners",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/hombre-es-condenado-por-estafar-con-la-supuesta-instalacion-de-aires-acondicionados/?utm_source=rss&utm_medium=rss&utm_campaign=hombre-es-condenado-por-estafar-con-la-supuesta-instalacion-de-aires-acondicionados",
+        "published_date": "2026-09-13 01:48:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Subject promised to install two air conditioners and ended up convicted of fraud",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/sujeto-prometio-instalar-dos-aires-acondicionados-y-termino-condenado-por-estafa/",
+        "published_date": "2026-09-13 01:36:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Crash between two motorcyclists leaves two injured in Sensuntepeque, Caba\u00f1as",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/choque-entre-dos-motociclistas-deja-dos-lesionados-en-sensuntepeque-cabanas/",
+        "published_date": "2026-09-13 01:16:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fire in a home for the elderly in Chile leaves 16 dead;Prosecutor's Office investigates the causes and situation of the facility",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/incendio-en-hogar-de-adultos-mayores-en-chile-deja-16-muertos-fiscalia-investiga-las-causas-y-situacion-del-recinto/",
+        "published_date": "2026-09-13 01:10:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorcyclist who died after an accident with a tanker truck in Izalco is identified as Jean Paul Cu\u00e9llar Mor\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/identifican-como-jean-paul-cuellar-moran-a-motociclista-fallecido-tras-accidente-con-camion-cisterna-en-izalco/",
+        "published_date": "2026-09-13 01:03:58",
+        "category": "Local Events"
+    },
+    {
         "title": "Motorcyclist dies after being hit by a tanker truck in Izalco",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/motociclista-muere-tras-ser-impactado-por-un-camion-cisterna-en-izalco/?utm_source=rss&utm_medium=rss&utm_campaign=motociclista-muere-tras-ser-impactado-por-un-camion-cisterna-en-izalco",
@@ -452,90 +515,6 @@
         "source": "Periodico Equilibrium",
         "url": "https://www.periodicoequilibrium.com/el-salvador-se-apresta-a-celebrar-sus-205-anos-de-independencia/",
         "published_date": "2026-09-12 18:36:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Diesel exceeds US$6 per gallon in the United States and reaches a historical record due to tension in energy markets",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/diesel-supera-los-us6-por-galon-en-estados-unidos-y-alcanza-un-record-historico-por-tension-en-mercados-energeticos/",
-        "published_date": "2026-09-12 18:30:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government invites Salvadorans to celebrate the 205 years of Independence with a civic parade",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/gobierno-invita-a-salvadorenos-celebrar-los-205-anos-de-independencia-con-desfile-civico/",
-        "published_date": "2026-09-12 18:27:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "They report alleged poisoning of dogs in the Yomo canton, Alegr\u00eda;at least four animals have died",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/denuncian-presunto-envenenamiento-de-perros-en-canton-yomo-alegria-al-menos-cuatro-animales-han-muerto/",
-        "published_date": "2026-09-12 17:26:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motorcyclist dies after hitting the lane separator on the highway to Sonsonate, in Izalco",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/motociclista-muere-tras-impactar-contra-separador-de-carriles-en-carretera-a-sonsonate-en-izalco/",
-        "published_date": "2026-09-12 17:16:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motorcyclist falls into a river after leaving the road in Sarapiqu\u00ed and surprises when he appears having a drink",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/motociclista-cae-a-un-rio-tras-salirse-de-la-carretera-en-sarapiqui-y-sorprende-al-aparecer-tomando-una-bebida/",
-        "published_date": "2026-09-12 17:02:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Triple crash in Quezaltepeque leaves a 37-year-old woman injured and trapped inside the vehicle",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/triple-choque-en-quezaltepeque-deja-a-mujer-de-37-anos-lesionada-y-atrapada-dentro-de-vehiculo/",
-        "published_date": "2026-09-12 16:52:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "26-year-old motorcyclist is injured after crashing into a pickup truck on the road to Los Naranjos",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/motociclista-de-26-anos-resulta-lesionado-tras-chocar-contra-un-pick-up-en-carretera-a-los-naranjos/",
-        "published_date": "2026-09-12 16:46:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crist\u00f3bal Soria suffers a rafting accident in Costa Rica during the recording of Planeta Calleja",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/cristobal-soria-sufre-accidente-de-rafting-en-costa-rica-durante-grabacion-de-planeta-calleja/",
-        "published_date": "2026-09-12 16:27:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ministry of Environment predicts rain and storms for this weekend",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ministerio-de-medio-ambiente-preve-lluvias-y-tormentas-para-este-fin-de-semana/?utm_source=rss&utm_medium=rss&utm_campaign=ministerio-de-medio-ambiente-preve-lluvias-y-tormentas-para-este-fin-de-semana",
-        "published_date": "2026-09-12 15:10:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The weekend will have rain and storms, with greater emphasis on Saturday",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/fin-de-semana-tendra-lluvias-y-tormentas-con-mayor-enfasis-durante-el-sabado/",
-        "published_date": "2026-09-12 15:07:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Edwin Luna and La Trakalosa de Monterrey will perform at the Patron Saint Festivities of the Soyapango District",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/edwin-luna-y-la-trakalosa-de-monterrey-se-presentaran-en-las-fiestas-patronales-del-distrito-de-soyapango/",
-        "published_date": "2026-09-12 14:31:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cRomero would be next to mothers, the poor, fighters, migrants and workers\u201d: Mons. Romero Committee",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/romero-estaria-al-lado-de-las-madres-pobres-luchadores-migrantes-y-trabajadores-comite-mons-romero/",
-        "published_date": "2026-09-12 11:04:41",
         "category": "Local Events"
     }
 ]
