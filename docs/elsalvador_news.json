@@ -91,6 +91,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "They investigate the death of a man located on the edge of a ravine in Jiquilisco",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/investigan-muerte-de-hombre-localizado-a-la-orilla-de-una-quebrada-en-jiquilisco/?utm_source=rss&utm_medium=rss&utm_campaign=investigan-muerte-de-hombre-localizado-a-la-orilla-de-una-quebrada-en-jiquilisco",
+        "published_date": "2026-09-14 00:17:47",
+        "category": "Military"
+    },
+    {
+        "title": "They locate and capture two MS homeboys during patrol in Quezaltepeque",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/ubican-y-capturan-a-dos-homeboys-de-la-ms-durante-patrullaje-en-quezaltepeque/?utm_source=rss&utm_medium=rss&utm_campaign=ubican-y-capturan-a-dos-homeboys-de-la-ms-durante-patrullaje-en-quezaltepeque",
+        "published_date": "2026-09-13 22:47:15",
+        "category": "Military"
+    },
+    {
+        "title": "They capture two MS gang members with criminal records in Quezaltepeque",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-dos-pandilleros-de-la-ms-con-antecedentes-delictivos-en-quezaltepeque/",
+        "published_date": "2026-09-13 22:47:04",
+        "category": "Military"
+    },
+    {
         "title": "ONI system allows identifying and capturing a member of the MS",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/sistema-oni-permite-identificar-y-capturar-a-miembro-de-la-ms/?utm_source=rss&utm_medium=rss&utm_campaign=sistema-oni-permite-identificar-y-capturar-a-miembro-de-la-ms",
@@ -207,27 +228,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/general/jorge-castro-pide-proteccion-tras-denunciar-amenazas/?utm_source=rss&utm_medium=rss&utm_campaign=jorge-castro-pide-proteccion-tras-denunciar-amenazas",
         "published_date": "2026-09-11 02:50:31",
-        "category": "Military"
-    },
-    {
-        "title": "Mayor Jorge Castro asks for protection after reporting threats",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/alcalde-jorge-castro-pide-proteccion-tras-denunciar-amenazas/",
-        "published_date": "2026-09-11 02:40:12",
-        "category": "Military"
-    },
-    {
-        "title": "Mayor Jorge Castro asks for protection after reporting threats",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/alcalde-jorge-castro-pide-proteccion-tras-denunciar-amenazas/?utm_source=rss&utm_medium=rss&utm_campaign=alcalde-jorge-castro-pide-proteccion-tras-denunciar-amenazas",
-        "published_date": "2026-09-11 02:30:54",
-        "category": "Military"
-    },
-    {
-        "title": "Guatemalan government forcibly removes protesters with riot gear",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-guatemalteco-retira-por-la-fuerza-a-manifestantes-con-antimotines/",
-        "published_date": "2026-09-10 20:39:51",
         "category": "Military"
     },
     {
@@ -364,18 +364,88 @@
         "category": "Economy"
     },
     {
-        "title": "World Bank recognizes progress in education in El Salvador",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/banco-mundial-reconoce-avances-en-la-educacion-en-el-salvador/",
-        "published_date": "2026-09-05 15:55:21",
-        "category": "Economy"
+        "title": "Man is found lifeless on a street in Metal\u00edo, Sonsonate",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/hombre-es-localizado-sin-vida-sobre-una-calle-en-metalio-sonsonate/",
+        "published_date": "2026-09-13 23:58:32",
+        "category": "Local Events"
     },
     {
-        "title": "Educational reform in El Salvador achieves levels comparable to Sweden and Germany in students",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/reforma-educativa-en-el-salvador-logra-niveles-comparables-a-suecia-y-alemania-en-estudiantes/",
-        "published_date": "2026-09-05 15:48:06",
-        "category": "Economy"
+        "title": "They investigate the death of a man found dead in Metal\u00edo, Sonsonate",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/investigan-muerte-de-hombre-encontrado-sin-vida-en-metalio-sonsonate/?utm_source=rss&utm_medium=rss&utm_campaign=investigan-muerte-de-hombre-encontrado-sin-vida-en-metalio-sonsonate",
+        "published_date": "2026-09-13 23:58:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Australia and the United States win the titles of the Surf City El Salvador ISA World Junior Surfing Championship 2026",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/australia-y-estados-unidos-conquistan-los-titulos-del-surf-city-el-salvador-isa-world-junior-surfing-championship-2026/?utm_source=rss&utm_medium=rss&utm_campaign=australia-y-estados-unidos-conquistan-los-titulos-del-surf-city-el-salvador-isa-world-junior-surfing-championship-2026",
+        "published_date": "2026-09-13 23:49:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three people are rescued after finding themselves in danger on San Blas beach",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/tres-personas-son-rescatadas-tras-encontrarse-en-peligro-en-playa-san-blas/?utm_source=rss&utm_medium=rss&utm_campaign=tres-personas-son-rescatadas-tras-encontrarse-en-peligro-en-playa-san-blas",
+        "published_date": "2026-09-13 22:15:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santa Rosa de Lima registers the highest temperature on Sunday with 42.4 \u00b0C",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/santa-rosa-de-lima-registra-la-temperatura-mas-alta-del-domingo-con-42-4-c/?utm_source=rss&utm_medium=rss&utm_campaign=santa-rosa-de-lima-registra-la-temperatura-mas-alta-del-domingo-con-42-4-c",
+        "published_date": "2026-09-13 22:08:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santa Rosa de Lima reaches 42.4 \u00b0C, the highest temperature on Sunday",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/santa-rosa-de-lima-alcanza-los-42-4-c-la-temperatura-mas-alta-del-domingo/",
+        "published_date": "2026-09-13 22:08:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Los Toles opens a renovated road and school a year after the parade that went viral",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/los-toles-estrena-carretera-y-escuela-renovada-a-un-ano-del-desfile-que-se-volvio-viral/?utm_source=rss&utm_medium=rss&utm_campaign=los-toles-estrena-carretera-y-escuela-renovada-a-un-ano-del-desfile-que-se-volvio-viral",
+        "published_date": "2026-09-13 19:15:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "An image that went viral gave way to a transformation in Los Toles",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/una-imagen-que-se-volvio-viral-dio-paso-a-una-transformacion-en-los-toles/",
+        "published_date": "2026-09-13 18:59:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Students from Los Toles celebrate the Independence Parade on a new fully paved road in Ahuachap\u00e1n Centro",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/estudiantes-de-los-toles-celebran-el-desfile-de-independencia-sobre-una-nueva-carretera-totalmente-pavimentada-en-ahuachapan-centro/",
+        "published_date": "2026-09-13 17:05:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran community in Milan commemorates Independence with culture and traditions",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/comunidad-salvadorena-en-milan-conmemora-la-independencia-con-cultura-y-tradiciones/?utm_source=rss&utm_medium=rss&utm_campaign=comunidad-salvadorena-en-milan-conmemora-la-independencia-con-cultura-y-tradiciones",
+        "published_date": "2026-09-13 16:34:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "A fulfilled promise transforms the civic parade of Los Toles students",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/una-promesa-cumplida-transforma-el-desfile-civico-de-estudiantes-de-los-toles/?utm_source=rss&utm_medium=rss&utm_campaign=una-promesa-cumplida-transforma-el-desfile-civico-de-estudiantes-de-los-toles",
+        "published_date": "2026-09-13 15:09:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "The promise came true: students from Los Toles parade on a new road",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/la-promesa-se-hizo-realidad-estudiantes-de-los-toles-desfilan-sobre-una-nueva-carretera/",
+        "published_date": "2026-09-13 15:09:20",
+        "category": "Local Events"
     },
     {
         "title": "\u201cRice Grains\u2026\u201d from Chinchilla will be presented in Honduras",
@@ -431,90 +501,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/hombre-es-condenado-por-estafar-con-la-supuesta-instalacion-de-aires-acondicionados/?utm_source=rss&utm_medium=rss&utm_campaign=hombre-es-condenado-por-estafar-con-la-supuesta-instalacion-de-aires-acondicionados",
         "published_date": "2026-09-13 01:48:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Subject promised to install two air conditioners and ended up convicted of fraud",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/sujeto-prometio-instalar-dos-aires-acondicionados-y-termino-condenado-por-estafa/",
-        "published_date": "2026-09-13 01:36:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crash between two motorcyclists leaves two injured in Sensuntepeque, Caba\u00f1as",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/choque-entre-dos-motociclistas-deja-dos-lesionados-en-sensuntepeque-cabanas/",
-        "published_date": "2026-09-13 01:16:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fire in a home for the elderly in Chile leaves 16 dead;Prosecutor's Office investigates the causes and situation of the facility",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/incendio-en-hogar-de-adultos-mayores-en-chile-deja-16-muertos-fiscalia-investiga-las-causas-y-situacion-del-recinto/",
-        "published_date": "2026-09-13 01:10:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motorcyclist who died after an accident with a tanker truck in Izalco is identified as Jean Paul Cu\u00e9llar Mor\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/identifican-como-jean-paul-cuellar-moran-a-motociclista-fallecido-tras-accidente-con-camion-cisterna-en-izalco/",
-        "published_date": "2026-09-13 01:03:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motorcyclist dies after being hit by a tanker truck in Izalco",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/motociclista-muere-tras-ser-impactado-por-un-camion-cisterna-en-izalco/?utm_source=rss&utm_medium=rss&utm_campaign=motociclista-muere-tras-ser-impactado-por-un-camion-cisterna-en-izalco",
-        "published_date": "2026-09-12 23:10:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government prepares activities for the public during the Surf World Cup",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gobierno-prepara-actividades-para-el-publico-durante-el-mundial-de-surf/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-prepara-actividades-para-el-publico-durante-el-mundial-de-surf",
-        "published_date": "2026-09-12 23:01:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Families enjoy the Surf World Cup and recreational activities in La Libertad Costa",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/familias-disfrutan-del-mundial-de-surf-y-actividades-recreativas-en-la-libertad-costa/",
-        "published_date": "2026-09-12 22:57:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mercado Central brings together Salvadorans and foreigners in the first Gastronomic Festival",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/mercado-central-reune-a-salvadorenos-y-extranjeros-en-primer-festival-gastronomico/",
-        "published_date": "2026-09-12 22:22:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "How they reconstruct live odds after the first goal",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/como-cambian-las-cuotas-en-vivo-despues-del-primer-gol/",
-        "published_date": "2026-09-12 21:20:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Summary of the second week of September 2026",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/resumen-de-la-segunda-semana-del-mes-de-septiembre-2026/",
-        "published_date": "2026-09-12 18:45:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train derailment in France leaves 44 injured;authorities investigate possible sabotage in Normandy",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/descarrilamiento-de-tren-en-francia-deja-44-heridos-autoridades-investigan-posible-sabotaje-en-normandia/",
-        "published_date": "2026-09-12 18:42:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador prepares to celebrate its 205 years of independence",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/el-salvador-se-apresta-a-celebrar-sus-205-anos-de-independencia/",
-        "published_date": "2026-09-12 18:36:07",
         "category": "Local Events"
     }
 ]
