@@ -91,6 +91,90 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Two people are captured for illicit drug trafficking in Ahuachap\u00e1n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/capturan-a-dos-personas-por-trafico-ilicito-de-drogas-en-ahuachapan/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-dos-personas-por-trafico-ilicito-de-drogas-en-ahuachapan",
+        "published_date": "2026-09-14 16:02:30",
+        "category": "Military"
+    },
+    {
+        "title": "September accumulates 13 days without homicides in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/septiembre-acumula-13-dias-sin-homicidios-en-el-salvador/",
+        "published_date": "2026-09-14 15:52:46",
+        "category": "Military"
+    },
+    {
+        "title": "More than 10,000 elements will be displayed for the civic parade on September 15",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/mas-de-10000-elementos-seran-desplegados-por-el-desfile-civico-del-15-de-septiembre/",
+        "published_date": "2026-09-14 15:20:06",
+        "category": "Military"
+    },
+    {
+        "title": "An alleged MS-13 extortionist is captured in San Miguel Norte",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/capturan-en-san-miguel-norte-a-presunta-extorsionista-de-la-ms-13/",
+        "published_date": "2026-09-14 14:39:12",
+        "category": "Military"
+    },
+    {
+        "title": "They locate a minor under 16 years old linked to the 18 Sure\u00f1os gang in San Antonio Pajonal, Santa Ana Oeste",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/ubican-a-menor-de-16-anos-vinculado-a-la-pandilla-18-surenos-en-san-antonio-pajonal-santa-ana-oeste/",
+        "published_date": "2026-09-14 13:56:32",
+        "category": "Military"
+    },
+    {
+        "title": "Two MS-13 gang members are arrested in the Primavera canton, Quezaltepeque",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/detienen-a-dos-pandilleros-de-la-ms-13-en-el-canton-primavera-quezaltepeque/",
+        "published_date": "2026-09-14 13:49:05",
+        "category": "Military"
+    },
+    {
+        "title": "Three people are found dead in different parts of El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/tres-personas-localizadas-sin-vida-distintos-puntos-el-salvador/",
+        "published_date": "2026-09-14 11:02:02",
+        "category": "Military"
+    },
+    {
+        "title": "Armed Forces locate minor accused of promoting the incorporation of young people into gangs",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/fuerza-armada-ubica-a-menor-senalado-de-promover-la-incorporacion-de-jovenes-a-pandilla/?utm_source=rss&utm_medium=rss&utm_campaign=fuerza-armada-ubica-a-menor-senalado-de-promover-la-incorporacion-de-jovenes-a-pandilla",
+        "published_date": "2026-09-14 03:04:12",
+        "category": "Military"
+    },
+    {
+        "title": "A 16-year-old minor is found with images that would link him to the 18 Sure\u00f1os gang",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/menor-de-16-anos-es-ubicado-con-imagenes-que-lo-vincularian-con-la-pandilla-18-surenos/",
+        "published_date": "2026-09-14 03:03:19",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a young man with an active warrant for aggravated extortion and illicit groups",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-joven-con-orden-vigente-por-extorsion-agravada-y-agrupaciones-ilicitas/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-joven-con-orden-vigente-por-extorsion-agravada-y-agrupaciones-ilicitas",
+        "published_date": "2026-09-14 02:49:00",
+        "category": "Military"
+    },
+    {
+        "title": "They arrest a young woman wanted for extortion and illicit groups in San Miguel",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/detienen-a-joven-requerida-por-extorsion-y-agrupaciones-ilicitas-en-san-miguel/",
+        "published_date": "2026-09-14 02:48:47",
+        "category": "Military"
+    },
+    {
+        "title": "PNC captures a 26-year-old woman from the MS13 in Sesori for aggravated extortion thanks to the ONI system",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/pnc-captura-en-sesori-a-mujer-de-26-anos-de-la-ms13-por-extorsion-agravada-gracias-al-sistema-oni/",
+        "published_date": "2026-09-14 01:34:48",
+        "category": "Military"
+    },
+    {
         "title": "They investigate the death of a man located on the edge of a ravine in Jiquilisco",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/investigan-muerte-de-hombre-localizado-a-la-orilla-de-una-quebrada-en-jiquilisco/?utm_source=rss&utm_medium=rss&utm_campaign=investigan-muerte-de-hombre-localizado-a-la-orilla-de-una-quebrada-en-jiquilisco",
@@ -147,88 +231,39 @@
         "category": "Military"
     },
     {
-        "title": "Drunk driver captured after causing two accidents in Chalchuapa and Santa Ana and trying to flee",
+        "title": "Find out the fuel reference prices in force from September 15 to 28",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-conductor-ebrio-tras-provocar-dos-accidentes-en-chalchuapa-y-santa-ana-e-intentar-huir/",
-        "published_date": "2026-09-12 16:31:33",
-        "category": "Military"
+        "url": "https://croniosv.com/nacionales/economia/conozca-los-precios-de-referencia-de-los-combustibles-vigentes-del-15-al-28-de-septiembre/",
+        "published_date": "2026-09-14 15:57:32",
+        "category": "Energy"
     },
     {
-        "title": "They deport and capture a subject claimed for homicide and illegal carrying of weapons",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/deportan-y-capturan-a-sujeto-reclamado-por-homicidio-y-portacion-ilegal-de-armas/",
-        "published_date": "2026-09-12 14:59:04",
-        "category": "Military"
-    },
-    {
-        "title": "They capture in Ahuachap\u00e1n Centro a subject claimed for human trafficking, rape and illicit groups",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/capturan-en-ahuachapan-centro-a-sujeto-reclamado-por-trata-de-personas-violacion-y-agrupaciones-ilicitas/",
-        "published_date": "2026-09-12 14:44:12",
-        "category": "Military"
-    },
-    {
-        "title": "Subject enters to steal drinks from a business in the Concepci\u00f3n neighborhood of San Rafael Cedros",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/sujeto-ingresa-a-robar-bebidas-a-un-negocio-en-el-barrio-concepcion-de-san-rafael-cedros/",
-        "published_date": "2026-09-12 14:40:26",
-        "category": "Military"
-    },
-    {
-        "title": "Why demonstrate on September 15: The validity of collective historical memory",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/porque-manifestarnos-el-15-de-septiembre-la-vigencia-de-la-memoria-historica-colectiva/",
-        "published_date": "2026-09-12 03:13:32",
-        "category": "Military"
-    },
-    {
-        "title": "President Bukele regarding economic growth projections for El Salvador: \u201cSecurity was only the beginning\u201d",
+        "title": "Fuel prices rise $0.17 in El Salvador from September 15 to 28",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-ante-proyecciones-de-crecimiento-economico-para-el-salvador-la-seguridad-solo-fue-el-inicio/",
-        "published_date": "2026-09-11 19:55:04",
-        "category": "Military"
+        "url": "https://diariolahuella.com/precios-de-combustibles-suben-0-17-en-el-salvador-del-15-al-28-de-septiembre/",
+        "published_date": "2026-09-14 14:39:17",
+        "category": "Energy"
     },
     {
-        "title": "More than 500 police officers will be deployed during the 2026 Independence Parade",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/mas-de-500-policias-seran-desplegados-durante-el-desfile-de-independencia-2026/",
-        "published_date": "2026-09-11 19:29:30",
-        "category": "Military"
-    },
-    {
-        "title": "PNC and Armed Forces prepare security device for the Independence Parade",
+        "title": "Premium, regular gasoline and diesel increase $0.17 per gallon in the new fortnight",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/pnc-y-fuerza-armada-preparan-dispositivo-de-seguridad-para-el-desfile-de-independencia/?utm_source=rss&utm_medium=rss&utm_campaign=pnc-y-fuerza-armada-preparan-dispositivo-de-seguridad-para-el-desfile-de-independencia",
-        "published_date": "2026-09-11 19:29:26",
-        "category": "Military"
+        "url": "https://lapagina.com.sv/general/gasolina-superior-regular-y-diesel-aumentan-0-17-por-galon-en-la-nueva-quincena/?utm_source=rss&utm_medium=rss&utm_campaign=gasolina-superior-regular-y-diesel-aumentan-0-17-por-galon-en-la-nueva-quincena",
+        "published_date": "2026-09-14 14:25:33",
+        "category": "Energy"
     },
     {
-        "title": "Manuel \u201cEl Chino\u201d Flores avoids addressing government security during interview",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/manuel-el-chino-flores-evita-abordar-la-seguridad-del-gobierno-durante-entrevista/",
-        "published_date": "2026-09-11 17:25:53",
-        "category": "Military"
+        "title": "Increase in fuel prices responds to international factors",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/alza-en-precios-de-combustibles-responde-a-factores-internacionales/",
+        "published_date": "2026-09-14 14:10:41",
+        "category": "Energy"
     },
     {
-        "title": "They capture a man accused of hitting his mother in Moraz\u00e1n Sur",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/capturan-a-hombre-acusado-de-golpear-a-su-madre-en-morazan-sur/",
-        "published_date": "2026-09-11 14:33:20",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador and Costa Rica strengthen 180 years of friendship, cooperation and development",
+        "title": "Tini lights up the Salvadoran public with an emotional and dazzling concert at the Las Delicias Stadium",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/el-salvador-y-costa-rica-fortalecen-180-anos-de-amistad-cooperacion-y-desarrollo-2/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-costa-rica-fortalecen-180-anos-de-amistad-cooperacion-y-desarrollo-2",
-        "published_date": "2026-09-11 13:35:13",
-        "category": "Military"
-    },
-    {
-        "title": "Jorge Castro asks for protection after reporting threats",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/jorge-castro-pide-proteccion-tras-denunciar-amenazas/?utm_source=rss&utm_medium=rss&utm_campaign=jorge-castro-pide-proteccion-tras-denunciar-amenazas",
-        "published_date": "2026-09-11 02:50:31",
-        "category": "Military"
+        "url": "https://lapagina.com.sv/nacionales/tini-enciende-al-publico-salvadoreno-con-un-emotivo-ydeslumbrante-concierto-en-el-estadio-las-delicias/?utm_source=rss&utm_medium=rss&utm_campaign=tini-enciende-al-publico-salvadoreno-con-un-emotivo-ydeslumbrante-concierto-en-el-estadio-las-delicias",
+        "published_date": "2026-09-14 03:09:00",
+        "category": "Energy"
     },
     {
         "title": "Brent exceeds $104 per barrel and reaches its highest level",
@@ -364,143 +399,143 @@
         "category": "Economy"
     },
     {
-        "title": "Man is found lifeless on a street in Metal\u00edo, Sonsonate",
+        "title": "A 21-year-old Spanish student who was on an exchange is killed in Mexico",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/matan-en-mexico-a-estudiante-espanola-de-21-anos-que-se-encontraba-de-intercambio/",
+        "published_date": "2026-09-14 16:39:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Patricia Godinez highlights that Iberojet brings the Salvadoran diaspora closer to their country",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/hombre-es-localizado-sin-vida-sobre-una-calle-en-metalio-sonsonate/",
-        "published_date": "2026-09-13 23:58:32",
+        "url": "https://diariolahuella.com/patricia-godinez-destaca-que-iberojet-acerca-a-la-diaspora-salvadorena-a-su-pais/",
+        "published_date": "2026-09-14 16:31:44",
         "category": "Local Events"
     },
     {
-        "title": "They investigate the death of a man found dead in Metal\u00edo, Sonsonate",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/investigan-muerte-de-hombre-encontrado-sin-vida-en-metalio-sonsonate/?utm_source=rss&utm_medium=rss&utm_campaign=investigan-muerte-de-hombre-encontrado-sin-vida-en-metalio-sonsonate",
-        "published_date": "2026-09-13 23:58:05",
+        "title": "Iberojet inaugurates direct flights between El Salvador, Madrid and Barcelona",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/iberojet-inaugura-vuelos-directos-entre-el-salvador-madrid-y-barcelona/",
+        "published_date": "2026-09-14 16:11:19",
         "category": "Local Events"
     },
     {
-        "title": "Australia and the United States win the titles of the Surf City El Salvador ISA World Junior Surfing Championship 2026",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/australia-y-estados-unidos-conquistan-los-titulos-del-surf-city-el-salvador-isa-world-junior-surfing-championship-2026/?utm_source=rss&utm_medium=rss&utm_campaign=australia-y-estados-unidos-conquistan-los-titulos-del-surf-city-el-salvador-isa-world-junior-surfing-championship-2026",
-        "published_date": "2026-09-13 23:49:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three people are rescued after finding themselves in danger on San Blas beach",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/tres-personas-son-rescatadas-tras-encontrarse-en-peligro-en-playa-san-blas/?utm_source=rss&utm_medium=rss&utm_campaign=tres-personas-son-rescatadas-tras-encontrarse-en-peligro-en-playa-san-blas",
-        "published_date": "2026-09-13 22:15:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santa Rosa de Lima registers the highest temperature on Sunday with 42.4 \u00b0C",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/santa-rosa-de-lima-registra-la-temperatura-mas-alta-del-domingo-con-42-4-c/?utm_source=rss&utm_medium=rss&utm_campaign=santa-rosa-de-lima-registra-la-temperatura-mas-alta-del-domingo-con-42-4-c",
-        "published_date": "2026-09-13 22:08:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santa Rosa de Lima reaches 42.4 \u00b0C, the highest temperature on Sunday",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/santa-rosa-de-lima-alcanza-los-42-4-c-la-temperatura-mas-alta-del-domingo/",
-        "published_date": "2026-09-13 22:08:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Los Toles opens a renovated road and school a year after the parade that went viral",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/los-toles-estrena-carretera-y-escuela-renovada-a-un-ano-del-desfile-que-se-volvio-viral/?utm_source=rss&utm_medium=rss&utm_campaign=los-toles-estrena-carretera-y-escuela-renovada-a-un-ano-del-desfile-que-se-volvio-viral",
-        "published_date": "2026-09-13 19:15:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "An image that went viral gave way to a transformation in Los Toles",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/una-imagen-que-se-volvio-viral-dio-paso-a-una-transformacion-en-los-toles/",
-        "published_date": "2026-09-13 18:59:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Students from Los Toles celebrate the Independence Parade on a new fully paved road in Ahuachap\u00e1n Centro",
+        "title": "Ministry of Public Works announces details and official route for the ninth edition of the \u201cPedaleada SV\u201d",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/estudiantes-de-los-toles-celebran-el-desfile-de-independencia-sobre-una-nueva-carretera-totalmente-pavimentada-en-ahuachapan-centro/",
-        "published_date": "2026-09-13 17:05:31",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/ministerio-de-obras-publicas-anuncia-detalles-y-ruta-oficial-para-la-novena-edicion-de-la-pedaleada-sv/",
+        "published_date": "2026-09-14 16:05:40",
         "category": "Local Events"
     },
     {
-        "title": "Salvadoran community in Milan commemorates Independence with culture and traditions",
+        "title": "Iberojet brings the Salvadoran diaspora closer to their country, highlights Patricia Godinez",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/comunidad-salvadorena-en-milan-conmemora-la-independencia-con-cultura-y-tradiciones/?utm_source=rss&utm_medium=rss&utm_campaign=comunidad-salvadorena-en-milan-conmemora-la-independencia-con-cultura-y-tradiciones",
-        "published_date": "2026-09-13 16:34:04",
+        "url": "https://lapagina.com.sv/nacionales/iberojet-acerca-a-la-diaspora-salvadorena-con-su-pais-destaca-patricia-godinez/?utm_source=rss&utm_medium=rss&utm_campaign=iberojet-acerca-a-la-diaspora-salvadorena-con-su-pais-destaca-patricia-godinez",
+        "published_date": "2026-09-14 15:53:32",
         "category": "Local Events"
     },
     {
-        "title": "A fulfilled promise transforms the civic parade of Los Toles students",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/una-promesa-cumplida-transforma-el-desfile-civico-de-estudiantes-de-los-toles/?utm_source=rss&utm_medium=rss&utm_campaign=una-promesa-cumplida-transforma-el-desfile-civico-de-estudiantes-de-los-toles",
-        "published_date": "2026-09-13 15:09:53",
+        "title": "THE LAST RAY OF HOPE FOR SALVADORANS WITH TEMPORARY TPS WORK PERMITS",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-ultimo-rayito-de-esperanza-para-los-salvadorenos-con-permisos-temporales-de-trabajo-tps/",
+        "published_date": "2026-09-14 15:33:07",
         "category": "Local Events"
     },
     {
-        "title": "The promise came true: students from Los Toles parade on a new road",
+        "title": "Salvadoran stands out as a scientist from the Austrian Institute of Science and Technology",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/la-promesa-se-hizo-realidad-estudiantes-de-los-toles-desfilan-sobre-una-nueva-carretera/",
-        "published_date": "2026-09-13 15:09:20",
+        "url": "https://diariolahuella.com/salvadoreno-destaca-como-cientifico-por-el-instituto-de-ciencia-y-tecnologia-de-austria/",
+        "published_date": "2026-09-14 15:18:51",
         "category": "Local Events"
     },
     {
-        "title": "\u201cRice Grains\u2026\u201d from Chinchilla will be presented in Honduras",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/granos-de-arroz-de-chinchilla-sera-presentado-en-honduras/",
-        "published_date": "2026-09-13 13:04:26",
+        "title": "Salvadoran stands out as a scientist with a doctorate from the Austrian Institute of Science and Technology",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/opinion/salvadoreno-destaca-como-cientifico-doctorado-por-el-instituto-de-ciencia-y-tecnologia-de-austria/?utm_source=rss&utm_medium=rss&utm_campaign=salvadoreno-destaca-como-cientifico-doctorado-por-el-instituto-de-ciencia-y-tecnologia-de-austria",
+        "published_date": "2026-09-14 15:12:55",
         "category": "Local Events"
     },
     {
-        "title": "The agreement with Oman does not mean the reopening of the Strait of Hormuz: Araqchi",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-acuerdo-con-oman-no-significa-la-reapertura-del-estrecho-de-ormuz-araqchi/",
-        "published_date": "2026-09-13 12:36:43",
+        "title": "\u201cPublic service is worth it\u201d: Rolando Castro highlights opportunities generated by labor migration",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/la-funcion-publica-vale-la-pena-rolando-castro-resalta-oportunidades-generadas-por-migracion-laboral/",
+        "published_date": "2026-09-14 15:03:58",
         "category": "Local Events"
     },
     {
-        "title": "Tini's concert in Santa Tecla is canceled and rescheduled for this Sunday",
+        "title": "Heat, rain and storms for this Monday in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/calor-lluvias-y-tormentas-para-este-lunes-en-el-salvador/",
+        "published_date": "2026-09-14 15:03:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities inaugurate new air route that connects El Salvador and Europe",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/cancelan-concierto-de-tini-en-santa-tecla-y-lo-reprograman-para-este-domingo/",
-        "published_date": "2026-09-13 07:11:13",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/autoridades-inauguran-nueva-ruta-aerea-que-conecta-el-salvador-y-europa/",
+        "published_date": "2026-09-14 14:54:28",
         "category": "Local Events"
     },
     {
-        "title": "Motorcyclist dies after colliding with a cargo vehicle",
+        "title": "Sweden: the polls stop the advance of the extreme right",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/suecia-las-urnas-frenan-el-avance-de-la-ultraderecha/",
+        "published_date": "2026-09-14 14:48:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iberojet inaugurates operations in El Salvador with the arrival of the first flight from Madrid",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/motociclista-pierde-la-vida-tras-colisionar-contra-un-vehiculo-de-carga/?utm_source=rss&utm_medium=rss&utm_campaign=motociclista-pierde-la-vida-tras-colisionar-contra-un-vehiculo-de-carga",
-        "published_date": "2026-09-13 03:50:19",
+        "url": "https://lapagina.com.sv/nacionales/iberojet-inaugura-operaciones-en-el-salvador-con-llegada-de-primer-vuelo-desde-madrid/?utm_source=rss&utm_medium=rss&utm_campaign=iberojet-inaugura-operaciones-en-el-salvador-con-llegada-de-primer-vuelo-desde-madrid",
+        "published_date": "2026-09-14 14:36:04",
         "category": "Local Events"
     },
     {
-        "title": "Seven people are rescued after a tree falls on four vehicles in San Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/siete-personas-son-rescatadas-tras-caida-de-arbol-sobre-cuatro-vehiculos-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=siete-personas-son-rescatadas-tras-caida-de-arbol-sobre-cuatro-vehiculos-en-san-salvador",
-        "published_date": "2026-09-13 03:31:03",
+        "title": "Metap\u00e1n regains the lead: This is how Matchday 10 of the First Division went",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/metapan-recupera-el-liderato-asi-transcurrio-la-jornada-10-de-la-primera-division/",
+        "published_date": "2026-09-14 14:22:59",
         "category": "Local Events"
     },
     {
-        "title": "Large tree falls on four vehicles in the Atlacatl neighborhood, San Salvador",
+        "title": "Iberojet inaugurates operations in El Salvador with first flight from Madrid",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/arbol-de-gran-magnitud-cae-sobre-cuatro-vehiculos-en-colonia-atlacatl-san-salvador/",
-        "published_date": "2026-09-13 03:29:39",
+        "url": "https://diariolahuella.com/iberojet-inaugura-operaciones-en-el-salvador-con-primer-vuelo-desde-madrid/",
+        "published_date": "2026-09-14 14:13:30",
         "category": "Local Events"
     },
     {
-        "title": "Game between FAS and Alianza suspended due to strong electrical storm in Santa Ana",
+        "title": "Rain and storms are forecast for this beginning of the week",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/suspenden-juego-entre-fas-y-alianza-por-fuerte-tormenta-electrica-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=suspenden-juego-entre-fas-y-alianza-por-fuerte-tormenta-electrica-en-santa-ana",
-        "published_date": "2026-09-13 02:10:19",
+        "url": "https://lapagina.com.sv/nacionales/pronostican-lluvias-y-tormentas-para-este-inicio-de-semana/?utm_source=rss&utm_medium=rss&utm_campaign=pronostican-lluvias-y-tormentas-para-este-inicio-de-semana",
+        "published_date": "2026-09-14 14:10:57",
         "category": "Local Events"
     },
     {
-        "title": "Man is convicted of defrauding with the alleged installation of air conditioners",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/hombre-es-condenado-por-estafar-con-la-supuesta-instalacion-de-aires-acondicionados/?utm_source=rss&utm_medium=rss&utm_campaign=hombre-es-condenado-por-estafar-con-la-supuesta-instalacion-de-aires-acondicionados",
-        "published_date": "2026-09-13 01:48:11",
+        "title": "Heat, rain and storms for this start of the week",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/calor-lluvias-y-tormentas-para-este-inicio-de-semana-2/",
+        "published_date": "2026-09-14 14:07:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cayetano Cruz questions the Government's response to the TPS situation",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cayetano-cruz-cuestiona-bukele-situacion-tps/",
+        "published_date": "2026-09-14 11:04:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "PRO-VIDA develops health and resilience actions in vulnerable communities",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/pro-vida-desarrolla-acciones-de-salud-y-resiliencia-en-comunidades-vulnerables/",
+        "published_date": "2026-09-14 11:03:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man sentenced to life imprisonment for murder",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/condenan-a-prision-perpetua-revisable-a-hombre-por-homicidio/",
+        "published_date": "2026-09-14 11:01:45",
         "category": "Local Events"
     }
 ]
