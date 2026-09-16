@@ -1,5 +1,19 @@
 [
     {
+        "title": "Cuba is a people of peace, reiterates its ambassador to the Holy See",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cuba-es-un-pueblo-de-paz-reitera-su-embajador-ante-la-santa-sede/",
+        "published_date": "2026-09-16 10:30:22",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "They warn about the risk of a large-scale war",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/alertan-sobre-riesgo-de-una-guerra-a-gran-escala/",
+        "published_date": "2026-09-16 10:15:56",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Independence Month Speech by Vice President F\u00e9lix Ulloa",
         "source": "Cronio",
         "url": "https://croniosv.com/politica/discurso-del-mes-de-la-independencia-del-vicepresidente-felix-ulloa/",
@@ -119,11 +133,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuba expects majority support in UN vote against blockade",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cuba-espera-apoyo-mayoritario-en-votacion-de-onu-contra-el-bloqueo/",
-        "published_date": "2026-09-08 10:45:30",
-        "category": "Diplomacy"
+        "title": "They capture in Suchitoto alias \"Spy\", a dangerous homeboy of the 18-R gang claimed for homicide and extortion",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/capturan-en-suchitoto-a-alias-spy-peligroso-homeboy-de-la-pandilla-18-r-reclamado-por-homicidio-y-extorsion/",
+        "published_date": "2026-09-16 15:09:26",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador closed on September 15 with zero homicides",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-cerro-el-15-de-septiembre-con-cero-homicidios/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-cerro-el-15-de-septiembre-con-cero-homicidios",
+        "published_date": "2026-09-16 14:59:39",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador commemorates its independence without registering homicides on September 15",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-conmemora-su-independencia-sin-registrar-homicidios-el-15-de-septiembre/",
+        "published_date": "2026-09-16 14:59:34",
+        "category": "Military"
     },
     {
         "title": "Military members share moments with attendees of the independence parade",
@@ -242,27 +270,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/09/ubican-a-menor-de-16-anos-vinculado-a-la-pandilla-18-surenos-en-san-antonio-pajonal-santa-ana-oeste/",
         "published_date": "2026-09-14 13:56:32",
-        "category": "Military"
-    },
-    {
-        "title": "Two MS-13 gang members are arrested in the Primavera canton, Quezaltepeque",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/detienen-a-dos-pandilleros-de-la-ms-13-en-el-canton-primavera-quezaltepeque/",
-        "published_date": "2026-09-14 13:49:05",
-        "category": "Military"
-    },
-    {
-        "title": "Three people are found dead in different parts of El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/tres-personas-localizadas-sin-vida-distintos-puntos-el-salvador/",
-        "published_date": "2026-09-14 11:02:02",
-        "category": "Military"
-    },
-    {
-        "title": "Armed Forces locate minor accused of promoting the incorporation of young people into gangs",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/fuerza-armada-ubica-a-menor-senalado-de-promover-la-incorporacion-de-jovenes-a-pandilla/?utm_source=rss&utm_medium=rss&utm_campaign=fuerza-armada-ubica-a-menor-senalado-de-promover-la-incorporacion-de-jovenes-a-pandilla",
-        "published_date": "2026-09-14 03:04:12",
         "category": "Military"
     },
     {
@@ -420,171 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "171 public schools in El Salvador achieve results comparable to Germany and Sweden",
+        "title": "Heat and storms are expected this Wednesday in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/calor-y-tormentas-se-esperan-para-este-miercoles-en-el-salvador/",
+        "published_date": "2026-09-16 15:20:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Argentina calls Messi to dance his 'last tango' with the national team in October",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/argentina-llama-a-messi-para-bailar-su-ultimo-tango-con-la-seleccion-en-octubre/",
+        "published_date": "2026-09-16 15:17:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ninth #PedaleadaSV will be held on September 20 with routes of 5 and 10 kilometers",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/novena-pedaleadasv-se-realizara-el-20-de-septiembre-con-recorridos-de-5-y-10-kilometros/?utm_source=rss&utm_medium=rss&utm_campaign=novena-pedaleadasv-se-realizara-el-20-de-septiembre-con-recorridos-de-5-y-10-kilometros",
+        "published_date": "2026-09-16 15:13:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman dies after being run over by a coaster on Route 140 in Ilopango",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/mujer-muere-tras-ser-atropellada-por-una-coaster-de-la-ruta-140-en-ilopango/?utm_source=rss&utm_medium=rss&utm_campaign=mujer-muere-tras-ser-atropellada-por-una-coaster-de-la-ruta-140-en-ilopango",
+        "published_date": "2026-09-16 15:08:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Los Toles opens a 15.14 kilometer highway and a new educational center after a promise from President Bukele",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/los-toles-estrena-carretera-de-15-14-kilometros-y-nuevo-centro-educativo-tras-promesa-de-presidente-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=los-toles-estrena-carretera-de-15-14-kilometros-y-nuevo-centro-educativo-tras-promesa-de-presidente-bukele",
+        "published_date": "2026-09-16 14:50:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Presidential Family inaugurates modern school facilities in Los Toles, Ahuachap\u00e1n",
         "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/171-escuelas-publicas-de-el-salvador-alcanzan-resultados-comparables-a-alemania-y-suecia/",
-        "published_date": "2026-09-08 12:57:59",
-        "category": "Economy"
+        "url": "https://ultimahora.sv/familia-presidencial-inaugura-modernas-instalaciones-de-escuela-en-los-toles-ahuachapan/",
+        "published_date": "2026-09-16 14:40:12",
+        "category": "Local Events"
     },
     {
-        "title": "They agree to allocate $97 million to various institutions for \u201cpriority and unavoidable obligations\u201d",
+        "title": "MILPA demands to stop megaproject in the Grande de San Miguel river basin due to \u201cecocide\u201d",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/acuerdan-asignar-97-millones-a-diversas-instituciones-para-obligaciones-prioritarias-e-ineludibles/",
-        "published_date": "2026-09-08 11:02:08",
-        "category": "Economy"
+        "url": "https://www.diariocolatino.com/milpa-exige-frenar-proyecto-cuenca-rio-san-miguel-ecocidio/",
+        "published_date": "2026-09-16 11:03:19",
+        "category": "Local Events"
     },
     {
-        "title": "Five years after the Bitcoin Law",
+        "title": "Those affected by COSAVI file a lawsuit before the IACHR against the State",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/a-cinco-anos-de-la-ley-bitcoin/",
-        "published_date": "2026-09-08 04:00:32",
-        "category": "Economy"
-    },
-    {
-        "title": "All schools in the country will participate in the PISA program in 2028",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/todas-las-escuelas-del-pais-participaran-en-programa-pisa-en-2028/",
-        "published_date": "2026-09-08 03:17:23",
-        "category": "Economy"
-    },
-    {
-        "title": "El Salvador celebrates 205 years of independence!",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/el-salvador-cumple-205-anos-de-independencia/",
-        "published_date": "2026-09-16 00:38:13",
+        "url": "https://www.diariocolatino.com/afectados-cosavi-presentan-ante-cidh-contra-estado/",
+        "published_date": "2026-09-16 11:02:54",
         "category": "Local Events"
     },
     {
-        "title": "Bullying, between recognition and the banality of indifference",
-        "source": "Cronio",
-        "url": "https://croniosv.com/opinet/bullying-entre-el-reconocimiento-y-la-banalidad-de-la-indiferencia/",
-        "published_date": "2026-09-16 00:13:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the children of Bloom Hospital celebrated the 205 years of Independence",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/asi-celebraron-los-ninos-del-hospital-bloom-los-205-anos-de-independencia/",
-        "published_date": "2026-09-16 00:05:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadorans march on Independence Day to demand democracy",
+        "title": "18th Circle of Grandmothers and Grandfathers of the Planet meet in El Salvador for Mother Earth",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/salvadorenos-marchan-en-el-dia-de-independencia-para-exigir-democracia/",
-        "published_date": "2026-09-15 22:53:53",
+        "url": "https://www.diariocolatino.com/18avo-circulo-de-abuelas-y-abuelos-sabios-del-planeta-se-reunen-en-el-salvador-por-la-madre-tierra/",
+        "published_date": "2026-09-16 11:01:23",
         "category": "Local Events"
     },
     {
-        "title": "Motorcyclist and his companion die in a traffic accident in Congo",
+        "title": "March of 15s denounces democratic, economic and social deterioration in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/marcha-del-15s-denuncia-deterioro-democratico-economico-y-social-en-el-salvador/",
+        "published_date": "2026-09-16 11:00:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "WHAT CONSIDERATIONS SHOULD WE ESTIMATE FROM THE RESULTS OF THE PISA TEST",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/que-consideraciones-debemos-estimar-de-los-resultados-de-la-prueba-pisa/",
+        "published_date": "2026-09-16 10:45:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele inaugurates a school center in the Los Toles canton, Ahuachap\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/presidente-bukele-inaugura-centro-escolar-en-el-canton-los-toles-ahuachapan/",
+        "published_date": "2026-09-16 04:20:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "First Lady Gabriela de Bukele highlights the new Cant\u00f3n Los Toles School Center",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/motociclista-y-su-acompanante-mueren-en-un-accidente-de-transito-en-el-congo/?utm_source=rss&utm_medium=rss&utm_campaign=motociclista-y-su-acompanante-mueren-en-un-accidente-de-transito-en-el-congo",
-        "published_date": "2026-09-15 22:33:35",
+        "url": "https://lapagina.com.sv/nacionales/primera-dama-gabriela-de-bukele-destaca-del-nuevo-centro-escolar-canton-los-toles/?utm_source=rss&utm_medium=rss&utm_campaign=primera-dama-gabriela-de-bukele-destaca-del-nuevo-centro-escolar-canton-los-toles",
+        "published_date": "2026-09-16 04:08:43",
         "category": "Local Events"
     },
     {
-        "title": "Motorcyclist and his companion die in a traffic accident in Congo",
+        "title": "President Bukele highlights advances in education and new opportunities for Salvadoran children",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/motociclista-y-su-acompanante-mueren-en-un-accidente-de-transito-en-el-congo/",
-        "published_date": "2026-09-15 22:29:00",
+        "url": "https://diariolahuella.com/presidente-bukele-destaca-avances-en-educacion-y-nuevas-oportunidades-para-la-ninez-salvadorena/",
+        "published_date": "2026-09-16 03:00:58",
         "category": "Local Events"
     },
     {
-        "title": "Two people killed in a tragic motorcycle accident on the Pan-American Highway",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/dos-personas-fallecidas-deja-tragico-accidente-de-motocicleta-en-la-carretera-panamericana/",
-        "published_date": "2026-09-15 21:50:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Real Madrid survives against Elche: they win 3-2 with suffering and leave a worrying image before the derby",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/real-madrid-sobrevive-ante-el-elche-gana-3-2-con-sufrimiento-y-deja-una-preocupante-imagen-antes-del-derbi/",
-        "published_date": "2026-09-15 21:48:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Uni\u00f3n, La Libertad and San Miguel would register the highest heat peaks",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/la-union-la-libertad-y-san-miguel-registrarian-los-mayores-picos-de-calor/",
-        "published_date": "2026-09-15 20:36:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "PHOTOS \u2013 VIDEOS |El Salvador celebrates 205 years of independence with patriotic parades",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/fotos-videos-el-salvador-celebra-204-anos-de-independencia-con-desfiles-patrios/",
-        "published_date": "2026-09-15 20:23:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Storms are forecast for the afternoon and evening of this Tuesday",
+        "title": "President Bukele motivates students to take advantage of educational opportunities",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/pronostican-tormentas-para-la-tarde-y-noche-de-este-martes/?utm_source=rss&utm_medium=rss&utm_campaign=pronostican-tormentas-para-la-tarde-y-noche-de-este-martes",
-        "published_date": "2026-09-15 20:15:19",
+        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-motiva-a-estudiantes-a-aprovechar-las-oportunidades-educativas/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-motiva-a-estudiantes-a-aprovechar-las-oportunidades-educativas",
+        "published_date": "2026-09-16 03:00:46",
         "category": "Local Events"
     },
     {
-        "title": "Rains and storms for the afternoon and night of this September 15",
+        "title": "President Bukele confirms that all students will have access to scholarships for higher education",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/lluvias-y-tormentas-para-la-tarde-y-noche-de-este-15-de-septiembre/",
-        "published_date": "2026-09-15 20:12:00",
+        "url": "https://diariolahuella.com/presidente-bukele-confirma-que-todos-los-estudiantes-tendran-acceso-a-becas-para-estudios-superiores/",
+        "published_date": "2026-09-16 02:44:30",
         "category": "Local Events"
     },
     {
-        "title": "92.1% of those sued for alimony quotas are men",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/el-92-1-de-los-demandados-por-cuotas-alimenticias-son-hombres/",
-        "published_date": "2026-09-15 20:06:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele announces national channel",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/presidente-bukele-anuncia-cadena-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-anuncia-cadena-nacional",
-        "published_date": "2026-09-15 19:58:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Millions affected by floods in eastern India",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/millones-de-personas-afectadas-por-las-inundaciones-en-el-este-de-india/",
-        "published_date": "2026-09-15 19:29:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Diesel in the US reaches a new record of $6.27 per gallon",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/el-diesel-en-ee-uu-alcanza-un-nuevo-record-de-627-dolares-por-galon/",
-        "published_date": "2026-09-15 19:23:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Microsoft publishes code of conduct for AI",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/tecnologia/microsoft-publica-un-codigo-de-conducta-para-la-ia/",
-        "published_date": "2026-09-15 18:38:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "The sound of September returns to the streets of San Salvador for the 205 years of Independence",
+        "title": "President Bukele announces tutor program with artificial intelligence for new school in Los Toles",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-sonido-de-septiembre-vuelve-a-las-calles-de-san-salvador-por-los-205-anos-de-independencia/",
-        "published_date": "2026-09-15 17:24:49",
+        "url": "https://diariolahuella.com/presidente-bukele-anuncia-programa-de-tutores-con-inteligencia-artificial-para-nueva-escuela-de-los-toles/",
+        "published_date": "2026-09-16 02:32:59",
         "category": "Local Events"
     },
     {
-        "title": "Marco Rubio congratulates El Salvador for its independence",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/marco-rubio-felicita-a-el-salvador-por-su-independencia/",
-        "published_date": "2026-09-15 16:58:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Students from CENAR and the national Music and Dance schools participate in the parade",
+        "title": "President Bukele reiterates that all students will have access to scholarships for higher education",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/estudiantes-del-cenar-y-de-las-escuelas-nacionales-de-musica-y-danza-participan-en-el-desfile/?utm_source=rss&utm_medium=rss&utm_campaign=estudiantes-del-cenar-y-de-las-escuelas-nacionales-de-musica-y-danza-participan-en-el-desfile",
-        "published_date": "2026-09-15 16:44:12",
+        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-reitera-que-todos-los-estudiantes-tendran-acceso-a-becas-para-estudios-superiores/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-reitera-que-todos-los-estudiantes-tendran-acceso-a-becas-para-estudios-superiores",
+        "published_date": "2026-09-16 02:24:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nayib Bukele announces tutors with artificial intelligence for new school in Los Toles",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/nayib-bukele-anuncia-tutores-con-inteligencia-artificial-para-nueva-escuela-de-los-toles/?utm_source=rss&utm_medium=rss&utm_campaign=nayib-bukele-anuncia-tutores-con-inteligencia-artificial-para-nueva-escuela-de-los-toles",
+        "published_date": "2026-09-16 02:15:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Students remember the conditions in which the Cant\u00f3n Los Toles School Center was located",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/estudiantes-recuerdan-las-condiciones-en-las-que-se-encontraba-el-centro-escolar-canton-los-toles/",
+        "published_date": "2026-09-16 02:11:42",
         "category": "Local Events"
     }
 ]
