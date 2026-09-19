@@ -98,13 +98,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "El Salvador brings together firms from 12 countries at INPACT regional conference to promote international business",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-reune-a-firmas-de-12-paises-en-conferencia-regional-de-inpact-para-impulsar-negocios-internacionales/",
-        "published_date": "2026-09-11 02:28:50",
-        "category": "Diplomacy"
-    },
-    {
         "title": "They capture in Mexico alias \"El Muerto\", a dangerous gunman of the 18 Revolucionarios and profiled among the 100 most wanted",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/09/capturan-en-mexico-a-alias-el-muerto-peligroso-gatillero-de-la-18-revolucionarios-y-perfilado-entre-los-100-mas-buscados/",
@@ -116,6 +109,13 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/capturan-al-muerto-uno-de-los-100-mas-buscados-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-al-muerto-uno-de-los-100-mas-buscados-de-el-salvador",
         "published_date": "2026-09-18 21:08:38",
+        "category": "Military"
+    },
+    {
+        "title": "She was Mar\u00eda Hern\u00e1ndez, the young woman who was murdered by her partner in San Miguel",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/ella-era-maria-hernandez-la-joven-que-fue-asesinada-por-su-pareja-en-san-miguel/",
+        "published_date": "2026-09-18 19:12:08",
         "category": "Military"
     },
     {
@@ -238,11 +238,18 @@
         "category": "Military"
     },
     {
-        "title": "They capture a subject who punched his drinking buddy in Santa Ana",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-sujeto-que-agarro-a-punetazos-a-su-companero-de-copas-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-sujeto-que-agarro-a-punetazos-a-su-companero-de-copas-en-santa-ana",
-        "published_date": "2026-09-17 14:52:16",
-        "category": "Military"
+        "title": "Increase in fuel and food hits the pockets of Salvadorans",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/alza-de-combustibles-y-alimentos-golpea-el-bolsillo-de-los-salvadorenos/",
+        "published_date": "2026-09-19 11:00:35",
+        "category": "Energy"
+    },
+    {
+        "title": "Greeicy lights up El Salvador with its \"Candela World Tour\" on an unforgettable night",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/greeicy-enciende-el-salvador-con-su-candela-world-tour-en-una-noche-inolvidable/",
+        "published_date": "2026-09-19 08:42:29",
+        "category": "Energy"
     },
     {
         "title": "Fuel increases generate protests and pressure on the cost of living worldwide",
@@ -320,6 +327,13 @@
         "url": "https://lapagina.com.sv/nacionales/tini-enciende-al-publico-salvadoreno-con-un-emotivo-ydeslumbrante-concierto-en-el-estadio-las-delicias/?utm_source=rss&utm_medium=rss&utm_campaign=tini-enciende-al-publico-salvadoreno-con-un-emotivo-ydeslumbrante-concierto-en-el-estadio-las-delicias",
         "published_date": "2026-09-14 03:09:00",
         "category": "Energy"
+    },
+    {
+        "title": "Labor sector presents proposals to modernize work schedules",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/sector-laboral-presenta-propuestas-para-modernizar-los-horarios-de-trabajo/?utm_source=rss&utm_medium=rss&utm_campaign=sector-laboral-presenta-propuestas-para-modernizar-los-horarios-de-trabajo",
+        "published_date": "2026-09-18 22:22:32",
+        "category": "Economy"
     },
     {
         "title": "They propose a 10-hour workday from Monday to Thursday and four hours on Fridays",
@@ -413,6 +427,97 @@
         "category": "Economy"
     },
     {
+        "title": "Ten photographs of Salvadoran reality",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diez-fotografias-de-la-realidad-salvadorena/",
+        "published_date": "2026-09-19 13:59:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Asunci\u00f3n Mita in Guatemala, commemorates four years of the popular consultation against mining",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/asuncion-mita-guatemala-conmemora-cuatro-anos-consulta-popular-contra-mineria/",
+        "published_date": "2026-09-19 13:55:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "T.P.MECH\u00cdN AND OUR BAOBAB",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/t-p-mechin-y-nuestro-baobab/",
+        "published_date": "2026-09-19 13:30:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "They present habeas corpus for Jos\u00e9 Santos Melara, detained more than 2 years ago",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/presentan-habeas-corpus-para-jose-santos-melara-detenido-hace-mas-de-2-anos/",
+        "published_date": "2026-09-19 11:04:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "MILPA requests intervention from FGR and PDDH to stop housing work",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/milpa-solicita-intervencion-fgr-pddh-dener-obra-habitacional/",
+        "published_date": "2026-09-19 11:03:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ernesto Castro celebrates \u201cindefinite extension\u201d of TPS while opposition asks for certainty for Tepesians",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ernesto-castro-celebra-prorroga-indefinida-del-tps-mientras-oposicion-pide-certidumbre-para-tepesianos/",
+        "published_date": "2026-09-19 11:02:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "ANEP proposes adapting work schedules according to activity and needs",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/anep-propone-adaptar-horarios-laboralees-segun-actividad-necesidades/",
+        "published_date": "2026-09-19 11:01:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "OFFER TESTIMONIALS OF HUMANITY;IT NOURISHES US WITH ILLUSIONS AND SYMPATHY",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ofrecer-testimonios-de-humanidad-nos-nutre-de-ilusiones-y-de-simpatia/",
+        "published_date": "2026-09-19 10:59:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alianza and Firpo will face Marath\u00f3n and Saprissa in the playoff of the Central American Cup",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/alianza-y-firpo-enfrentaran-a-marathon-y-saprissa-en-el-repechaje-de-la-copa-centroamericana/",
+        "published_date": "2026-09-19 10:45:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "They develop the \u201cSalaz\u00f2n Hot Dog Festival 2026\u201d in the Historic Center",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/desarrollan-el-salazon-hot-dog-festival-2026-en-el-centro-historico/?utm_source=rss&utm_medium=rss&utm_campaign=desarrollan-el-salazon-hot-dog-festival-2026-en-el-centro-historico",
+        "published_date": "2026-09-19 02:56:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt is not easy, but Bukele has shown it to the world\u201d: Dani Alves",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/no-es-facil-pero-bukele-lo-ha-mostrado-al-mundo-dani-alves/",
+        "published_date": "2026-09-19 01:58:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "CND presents management advances and strategic projects for national development",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/cnd-presenta-avances-de-gestion-y-proyectos-estrategicos-para-el-desarrollo-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=cnd-presenta-avances-de-gestion-y-proyectos-estrategicos-para-el-desarrollo-nacional",
+        "published_date": "2026-09-19 01:15:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice President Ulloa presides over the 1st Regular Meeting of the CND in 2026 and reviews progress on strategic projects",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/vicepresidente-ulloa-preside-i-reunion-ordinaria-del-cnd-de-2026-y-revisa-avances-de-proyectos-estrategicos/",
+        "published_date": "2026-09-19 01:03:16",
+        "category": "Local Events"
+    },
+    {
         "title": "President Bukele highlights the incorporation of the Los Toles School Center to the AI \u200b\u200btutor program",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/presidente-bukele-destaca-incorporacion-de-centro-escolar-los-toles-al-programa-de-tutores-con-ia/",
@@ -459,97 +564,6 @@
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/la-copatrona-de-la-ciudad-de-las-colinas/",
         "published_date": "2026-09-18 22:49:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "English in Central America XXV",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ingleses-en-centroamerica-xxv/",
-        "published_date": "2026-09-18 22:40:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Ex Cuartel Market commemorates 67 years of history",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/el-mercado-ex-cuartel-conmemora-67-anos-de-historia/",
-        "published_date": "2026-09-18 22:06:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 33,000 ranchers receive support due to weather conditions",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mas-de-33000-ganaderos-reciben-apoyo-por-condiciones-climatologicas/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-33000-ganaderos-reciben-apoyo-por-condiciones-climatologicas",
-        "published_date": "2026-09-18 21:51:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Defense of Jos\u00e9 Santos Melara asks the Constitutional Chamber to intervene due to medical situation",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/defensa-de-jose-santos-melara-pide-a-sala-de-lo-constitucional-intervenir-por-situacion-medica/",
-        "published_date": "2026-09-18 21:32:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "They identify a young man who died in a traffic accident with a harrow in Chalatenango",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/identifican-a-joven-que-fallecio-en-accidente-de-transito-con-una-rastra-en-chalatenango/",
-        "published_date": "2026-09-18 21:14:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former footballer Dani Alves announced as a participant in La Pedaleada",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/anuncian-a-ex-futbolista-dani-alves-como-participante-de-la-pedaleada/?utm_source=rss&utm_medium=rss&utm_campaign=anuncian-a-ex-futbolista-dani-alves-como-participante-de-la-pedaleada",
-        "published_date": "2026-09-18 19:48:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man accused of extortion in Santa Ana sent to trial",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/envian-a-juicio-a-procesado-por-extorsion-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=envian-a-juicio-a-procesado-por-extorsion-en-santa-ana",
-        "published_date": "2026-09-18 19:40:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "They murder a young man who was on his way to work in Honduras",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/asesinan-a-joven-que-se-dirigia-a-su-trabajo-en-honduras/",
-        "published_date": "2026-09-18 18:44:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motoplaza begins operations in El Salvador with Suzuki, Genesis and Hero",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/motoplaza-inicia-operaciones-en-el-salvador-con-suzuki-genesis-y-hero/",
-        "published_date": "2026-09-18 18:44:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pick up stolen with a dog inside in Guatemala",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/roban-pick-up-con-una-perrita-en-su-interior-en-guatemala/",
-        "published_date": "2026-09-18 18:35:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shakira starts a series of 12 concerts in Madrid to close her world tour",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/jetset/shakira-arranca-una-serie-de-12-conciertos-en-madrid-para-cerrar-su-gira-mundial/",
-        "published_date": "2026-09-18 18:14:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Los Toles students already work with AI-powered tutors",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/estudiantes-de-los-toles-ya-trabajan-con-tutores-impulsados-con-ia/?utm_source=rss&utm_medium=rss&utm_campaign=estudiantes-de-los-toles-ya-trabajan-con-tutores-impulsados-con-ia",
-        "published_date": "2026-09-18 18:05:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 33,000 ranchers benefit from days of care and support for this sector",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mas-de-33000-ganaderos-son-beneficiados-con-jornadas-de-atencion-y-apoyo-a-este-sector/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-33000-ganaderos-son-beneficiados-con-jornadas-de-atencion-y-apoyo-a-este-sector",
-        "published_date": "2026-09-18 17:39:03",
         "category": "Local Events"
     }
 ]
