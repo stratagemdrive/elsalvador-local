@@ -105,11 +105,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Rescue Commands report a deceased person after being run over in the vicinity of the Olocuilta Bridge",
+        "title": "They capture in Mexico alias \"El Muerto\", a dangerous gunman of the 18 Revolucionarios and profiled among the 100 most wanted",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/comandos-de-salvamento-reporta-a-una-persona-fallecida-tras-ser-atropellada-en-las-inmediaciones-del-puente-de-olocuilta/",
-        "published_date": "2026-09-11 00:20:35",
-        "category": "Diplomacy"
+        "url": "https://www.elmetropolitanodigital.com/2026/09/capturan-en-mexico-a-alias-el-muerto-peligroso-gatillero-de-la-18-revolucionarios-y-perfilado-entre-los-100-mas-buscados/",
+        "published_date": "2026-09-19 00:31:43",
+        "category": "Military"
+    },
+    {
+        "title": "They capture the \u201cDead Man\u201d one of the 100 most wanted in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-al-muerto-uno-de-los-100-mas-buscados-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-al-muerto-uno-de-los-100-mas-buscados-de-el-salvador",
+        "published_date": "2026-09-18 21:08:38",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a subject accused of taking the life of his partner in San Miguel",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-sujeto-senalado-de-quitarle-la-vida-a-su-pareja-en-san-miguel/",
+        "published_date": "2026-09-18 16:09:44",
+        "category": "Military"
+    },
+    {
+        "title": "They capture the subject responsible for the murder of his partner in Ciudad Barrios",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-sujeto-responsable-del-homicidio-de-su-pareja-en-ciudad-barrios/",
+        "published_date": "2026-09-18 15:05:38",
+        "category": "Military"
     },
     {
         "title": "September accumulates another day without fatalities at the national level",
@@ -224,32 +245,18 @@
         "category": "Military"
     },
     {
-        "title": "They find a lifeless man in Olocuilta",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/encuentran-a-hombre-sin-vida-en-olocuilta/",
-        "published_date": "2026-09-17 11:02:29",
-        "category": "Military"
+        "title": "Fuel increases generate protests and pressure on the cost of living worldwide",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/alza-de-combustibles-genera-protestas-y-presion-sobre-el-costo-de-vida-a-nivel-mundial/",
+        "published_date": "2026-09-18 16:46:22",
+        "category": "Energy"
     },
     {
-        "title": "They capture the \u201cColmena\u201d in Ayutuxtepeque",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/capturan-al-colmena-en-ayutuxtepeque/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-al-colmena-en-ayutuxtepeque",
-        "published_date": "2026-09-17 04:14:45",
-        "category": "Military"
-    },
-    {
-        "title": "They investigate the death of a soccer player found dead on the San Pablo Tacachico highway",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/investigan-muerte-de-futbolista-hallado-sin-vida-en-carretera-de-san-pablo-tacachico/?utm_source=rss&utm_medium=rss&utm_campaign=investigan-muerte-de-futbolista-hallado-sin-vida-en-carretera-de-san-pablo-tacachico",
-        "published_date": "2026-09-17 00:59:59",
-        "category": "Military"
-    },
-    {
-        "title": "Authorities capture a 18R gang member in Cuscatl\u00e1n Norte",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/autoridades-capturan-a-pandillero-de-la-18r-en-cuscatlan-norte/",
-        "published_date": "2026-09-16 22:29:04",
-        "category": "Military"
+        "title": "Panama registers increase in prices of fuel and some foods",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/panama-registra-aumento-en-precios-de-combustibles-y-algunos-alimentos/",
+        "published_date": "2026-09-18 15:47:20",
+        "category": "Energy"
     },
     {
         "title": "While participating in a Volkswagen, Salvadorans are also saving with Puma PRIS",
@@ -313,6 +320,13 @@
         "url": "https://lapagina.com.sv/nacionales/tini-enciende-al-publico-salvadoreno-con-un-emotivo-ydeslumbrante-concierto-en-el-estadio-las-delicias/?utm_source=rss&utm_medium=rss&utm_campaign=tini-enciende-al-publico-salvadoreno-con-un-emotivo-ydeslumbrante-concierto-en-el-estadio-las-delicias",
         "published_date": "2026-09-14 03:09:00",
         "category": "Energy"
+    },
+    {
+        "title": "They propose a 10-hour workday from Monday to Thursday and four hours on Fridays",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/proponen-jornada-laboral-de-10-horas-de-lunes-a-jueves-y-cuatro-horas-los-viernes/",
+        "published_date": "2026-09-18 22:12:03",
+        "category": "Economy"
     },
     {
         "title": "Historic Center of San Salvador recovers historical buildings and transforms Delgado Street into an urban gallery",
@@ -399,157 +413,143 @@
         "category": "Economy"
     },
     {
-        "title": "Santander projects improvement of El Salvador's credit rating towards investment grade",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/santander-proyecta-mejora-de-la-calificacion-crediticia-de-el-salvador-hacia-el-grado-de-inversion/",
-        "published_date": "2026-09-10 18:56:23",
-        "category": "Economy"
-    },
-    {
-        "title": "Tax collection grows in El Salvador and reaches $5,772.4 million as of July 2026",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/recaudacion-tributaria-crece-en-el-salvador-y-alcanza-5772-4-millones-a-julio-de-2026/",
-        "published_date": "2026-09-10 16:16:42",
-        "category": "Economy"
-    },
-    {
-        "title": "Vehicle restriction and controlled circulation announced in Soyapango due to urban reorganization work",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/anuncian-restriccion-vehicular-y-circulacion-controlada-en-soyapango-por-trabajos-de-reordenamiento-urbano/",
-        "published_date": "2026-09-18 14:46:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Legislative Assembly swears in CNJ councilors for the period 2026-2031",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/asamblea-legislativa-juramenta-a-consejales-del-cnj-para-el-periodo-2026-2031/",
-        "published_date": "2026-09-18 14:40:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man dies after being run over by a harrow on the highway between San Pablo Tacachico and Nueva Concepci\u00f3n",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/hombre-muere-atropellado-por-una-rastra-en-la-carretera-entre-san-pablo-tacachico-y-nueva-concepcion/?utm_source=rss&utm_medium=rss&utm_campaign=hombre-muere-atropellado-por-una-rastra-en-la-carretera-entre-san-pablo-tacachico-y-nueva-concepcion",
-        "published_date": "2026-09-18 14:39:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man loses his life after being left under the tires of a heavy vehicle on the road to Nueva Concepci\u00f3n",
+        "title": "President Bukele highlights the incorporation of the Los Toles School Center to the AI \u200b\u200btutor program",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/hombre-pierde-la-vida-tras-quedar-bajo-las-llantas-de-un-vehiculo-pesado-en-carretera-hacia-nueva-concepcion/",
-        "published_date": "2026-09-18 14:39:08",
+        "url": "https://diariolahuella.com/presidente-bukele-destaca-incorporacion-de-centro-escolar-los-toles-al-programa-de-tutores-con-ia/",
+        "published_date": "2026-09-19 00:37:53",
         "category": "Local Events"
     },
     {
-        "title": "Legislative Assembly swears in CNJ councilors for the period 2026-2031",
+        "title": "Los Toles School Center is the 1,001st school of the AI \u200b\u200btutor program, highlights President Bukele",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/centro-escolar-los-toles-es-la-escuela-1001-del-programa-de-tutores-con-ia-destaca-el-presidente-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=centro-escolar-los-toles-es-la-escuela-1001-del-programa-de-tutores-con-ia-destaca-el-presidente-bukele",
+        "published_date": "2026-09-19 00:28:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Housing tests new model of ecological houses with solar panels and recycled materials",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/vivienda-prueba-nuevo-modelo-de-casas-ecologicas-con-paneles-solares-y-materiales-reciclados/?utm_source=rss&utm_medium=rss&utm_campaign=vivienda-prueba-nuevo-modelo-de-casas-ecologicas-con-paneles-solares-y-materiales-reciclados",
+        "published_date": "2026-09-19 00:02:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dani Alves will participate in the great Sunday pedal ride in the Historic Center of San Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/dani-alves-participara-en-la-gran-pedaleada-dominical-en-el-centro-historico-de-san-salvador/",
+        "published_date": "2026-09-18 23:46:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "They verify progress of ecological homes with solar panels",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/verifican-avances-de-viviendas-ecologicas-con-paneles-solares/",
+        "published_date": "2026-09-18 23:38:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former Minister of Public Works of ARENA, David Guti\u00e9rrez, will go to trial for embezzlement",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/exministro-de-obras-publicas-de-arena-david-gutierrez-ira-a-juicio-por-peculado/?utm_source=rss&utm_medium=rss&utm_campaign=exministro-de-obras-publicas-de-arena-david-gutierrez-ira-a-juicio-por-peculado",
+        "published_date": "2026-09-18 23:18:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Co-patroness of the City of Las Colinas",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-copatrona-de-la-ciudad-de-las-colinas/",
+        "published_date": "2026-09-18 22:49:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "English in Central America XXV",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ingleses-en-centroamerica-xxv/",
+        "published_date": "2026-09-18 22:40:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Ex Cuartel Market commemorates 67 years of history",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/el-mercado-ex-cuartel-conmemora-67-anos-de-historia/",
+        "published_date": "2026-09-18 22:06:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 33,000 ranchers receive support due to weather conditions",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/mas-de-33000-ganaderos-reciben-apoyo-por-condiciones-climatologicas/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-33000-ganaderos-reciben-apoyo-por-condiciones-climatologicas",
+        "published_date": "2026-09-18 21:51:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Defense of Jos\u00e9 Santos Melara asks the Constitutional Chamber to intervene due to medical situation",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/defensa-de-jose-santos-melara-pide-a-sala-de-lo-constitucional-intervenir-por-situacion-medica/",
+        "published_date": "2026-09-18 21:32:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "They identify a young man who died in a traffic accident with a harrow in Chalatenango",
         "source": "Cronio",
-        "url": "https://croniosv.com/politica/asamblea-legislativa-juramenta-a-consejales-del-cnj-para-el-periodo-2026-2031/",
-        "published_date": "2026-09-18 14:32:01",
+        "url": "https://croniosv.com/nacionales/identifican-a-joven-que-fallecio-en-accidente-de-transito-con-una-rastra-en-chalatenango/",
+        "published_date": "2026-09-18 21:14:33",
         "category": "Local Events"
     },
     {
-        "title": "Rains and electrical activity are expected in different areas of El Salvador",
+        "title": "Former footballer Dani Alves announced as a participant in La Pedaleada",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/anuncian-a-ex-futbolista-dani-alves-como-participante-de-la-pedaleada/?utm_source=rss&utm_medium=rss&utm_campaign=anuncian-a-ex-futbolista-dani-alves-como-participante-de-la-pedaleada",
+        "published_date": "2026-09-18 19:48:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man accused of extortion in Santa Ana sent to trial",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/envian-a-juicio-a-procesado-por-extorsion-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=envian-a-juicio-a-procesado-por-extorsion-en-santa-ana",
+        "published_date": "2026-09-18 19:40:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "They murder a young man who was on his way to work in Honduras",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/preven-lluvias-y-actividad-electrica-en-distintas-zonas-de-el-salvador/",
-        "published_date": "2026-09-18 14:21:37",
+        "url": "https://croniosv.com/internacionales/asesinan-a-joven-que-se-dirigia-a-su-trabajo-en-honduras/",
+        "published_date": "2026-09-18 18:44:20",
         "category": "Local Events"
     },
     {
-        "title": "BRP warns of crisis in the agricultural sector and displacement of rural population",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/bpr-advierte-crisis-sector-agricola-desplazamiento-poblacion-rural/",
-        "published_date": "2026-09-18 11:03:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "PRO-LIFE invites teenagers to a drawing contest",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/pro-vida-convoca-a-adolescentes-concurso-dibujo/",
-        "published_date": "2026-09-18 11:01:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "COSAVI victims sue the Salvadoran State before the IACHR for denial of justice",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/victimas-de-cosavi-demandan-al-estado-salvadoreno-ante-la-cidh-por-denegacion-de-justicia/",
-        "published_date": "2026-09-18 11:00:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "The strange silence of the UES",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-extrano-silencio-de-la-ues/",
-        "published_date": "2026-09-18 10:50:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alianza has its last letter to reach Concachampions via repechage",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/alianza-tiene-su-ultima-carta-para-llegar-a-concachampions-via-repechaje/",
-        "published_date": "2026-09-18 10:45:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bolivia extends state of emergency due to fear of a resurgence of social conflict",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/bolivia-prolonga-estado-de-excepcion-ante-temor-de-un-rebrote-de-conflictividad-social/",
-        "published_date": "2026-09-18 10:30:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Firpo says goodbye to the Central American Cup after losing to Olimpia and will seek the playoff against Saprissa",
+        "title": "Motoplaza begins operations in El Salvador with Suzuki, Genesis and Hero",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/firpo-se-despide-de-la-copa-centroamericana-tras-caer-goleado-ante-el-olimpia-y-buscara-el-repechaje-frente-a-saprissa/",
-        "published_date": "2026-09-18 07:18:22",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/motoplaza-inicia-operaciones-en-el-salvador-con-suzuki-genesis-y-hero/",
+        "published_date": "2026-09-18 18:44:05",
         "category": "Local Events"
     },
     {
-        "title": "The blue and white of El Salvador illuminated emblematic places in the world for the 205 years of Independence",
+        "title": "Pick up stolen with a dog inside in Guatemala",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/roban-pick-up-con-una-perrita-en-su-interior-en-guatemala/",
+        "published_date": "2026-09-18 18:35:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shakira starts a series of 12 concerts in Madrid to close her world tour",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/jetset/shakira-arranca-una-serie-de-12-conciertos-en-madrid-para-cerrar-su-gira-mundial/",
+        "published_date": "2026-09-18 18:14:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Los Toles students already work with AI-powered tutors",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-azul-y-blanco-de-el-salvador-ilumino-emblematicos-lugares-del-mundo-por-los-205-anos-de-independencia/?utm_source=rss&utm_medium=rss&utm_campaign=el-azul-y-blanco-de-el-salvador-ilumino-emblematicos-lugares-del-mundo-por-los-205-anos-de-independencia",
-        "published_date": "2026-09-18 04:13:42",
+        "url": "https://lapagina.com.sv/nacionales/estudiantes-de-los-toles-ya-trabajan-con-tutores-impulsados-con-ia/?utm_source=rss&utm_medium=rss&utm_campaign=estudiantes-de-los-toles-ya-trabajan-con-tutores-impulsados-con-ia",
+        "published_date": "2026-09-18 18:05:40",
         "category": "Local Events"
     },
     {
-        "title": "Legislative Assembly makes official the new integration of the National Council of the Judiciary",
+        "title": "More than 33,000 ranchers benefit from days of care and support for this sector",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/asamblea-legislativa-oficializa-la-nueva-integracion-del-consejo-nacional-de-la-judicatura/?utm_source=rss&utm_medium=rss&utm_campaign=asamblea-legislativa-oficializa-la-nueva-integracion-del-consejo-nacional-de-la-judicatura",
-        "published_date": "2026-09-18 02:50:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fiber optic cable causes minibus to overturn and leaves two injured",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cable-de-fibra-optica-provoca-vuelco-de-microbus-y-deja-dos-lesionados/?utm_source=rss&utm_medium=rss&utm_campaign=cable-de-fibra-optica-provoca-vuelco-de-microbus-y-deja-dos-lesionados",
-        "published_date": "2026-09-18 02:33:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador will bring together more than 100 chefs in an international haute cuisine meeting",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-reunira-a-mas-de-100-chefs-en-un-encuentro-internacional-de-alta-gastronomia/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-reunira-a-mas-de-100-chefs-en-un-encuentro-internacional-de-alta-gastronomia",
-        "published_date": "2026-09-18 02:29:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Natalia Lafourcade is just days away from meeting El Salvador!",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/natalia-lafourcade-esta-a-solo-dias-de-encontrarse-con-el-salvador/",
-        "published_date": "2026-09-18 01:10:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran community in Japan fervently commemorates the 205th anniversary of Independence",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/comunidad-salvadorena-en-japon-conmemora-con-fervor-el-205-aniversario-de-independencia/",
-        "published_date": "2026-09-18 00:19:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bittersweet debut for the Beach Soccer Team in the Brazil 2026 Nations Cup",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/debut-agridulce-para-la-selecta-de-futbol-playa-en-la-copa-naciones-brasil-2026/",
-        "published_date": "2026-09-17 23:49:01",
+        "url": "https://lapagina.com.sv/nacionales/mas-de-33000-ganaderos-son-beneficiados-con-jornadas-de-atencion-y-apoyo-a-este-sector/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-33000-ganaderos-son-beneficiados-con-jornadas-de-atencion-y-apoyo-a-este-sector",
+        "published_date": "2026-09-18 17:39:03",
         "category": "Local Events"
     }
 ]
