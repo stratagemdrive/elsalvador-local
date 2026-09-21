@@ -84,6 +84,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Crash on the Panamericana, San Vicente: one dead, several injured and one driver detained",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/choque-en-la-panamericana-san-vicente-un-fallecido-varios-heridos-y-un-conductor-detenido/",
+        "published_date": "2026-09-20 22:47:36",
+        "category": "Military"
+    },
+    {
+        "title": "Armed Forces capture alleged MS-13 gunman in Apopa with arrest warrant for firearm",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/fuerza-armada-captura-en-apopa-a-presunto-gatillero-de-la-ms-13-con-orden-de-apremio-por-arma-de-fuego/",
+        "published_date": "2026-09-20 18:21:54",
+        "category": "Military"
+    },
+    {
+        "title": "PNC captures two men for drug trafficking in Comecayo, Santa Ana, with the support of K9 pairs",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/pnc-captura-a-dos-hombres-por-trafico-de-drogas-en-comecayo-santa-ana-con-apoyo-de-binomios-k9/",
+        "published_date": "2026-09-20 17:12:31",
+        "category": "Military"
+    },
+    {
         "title": "Man attacks his partner with a blunt object and dies after ingesting poison in Teotepeque",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/general/hombre-ataca-a-su-pareja-con-un-objeto-contundente-y-muere-tras-ingerir-veneno-en-teotepeque/?utm_source=rss&utm_medium=rss&utm_campaign=hombre-ataca-a-su-pareja-con-un-objeto-contundente-y-muere-tras-ingerir-veneno-en-teotepeque",
@@ -203,27 +224,6 @@
         "category": "Military"
     },
     {
-        "title": "He gets angry because he is asked to leave a business and attacks the manager with a rod",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/se-enoja-porque-le-piden-abandonar-un-negocio-y-agrede-con-una-varilla-al-encargado/",
-        "published_date": "2026-09-17 20:25:51",
-        "category": "Military"
-    },
-    {
-        "title": "Young man is captured with drugs and cash inside a bag in San Miguel",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/joven-es-capturado-con-droga-y-dinero-en-efectivo-dentro-de-un-bolso-en-san-miguel/",
-        "published_date": "2026-09-17 19:30:37",
-        "category": "Military"
-    },
-    {
-        "title": "They capture an 18-year-old boy with marijuana and cocaine in San Miguel",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-joven-de-18-anos-con-marihuana-y-cocaina-en-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-joven-de-18-anos-con-marihuana-y-cocaina-en-san-miguel",
-        "published_date": "2026-09-17 19:28:35",
-        "category": "Military"
-    },
-    {
         "title": "Increase in fuel and food hits the pockets of Salvadorans",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/alza-de-combustibles-y-alimentos-golpea-el-bolsillo-de-los-salvadorenos/",
@@ -315,6 +315,13 @@
         "category": "Energy"
     },
     {
+        "title": "Economy and AI: Bukele's double disconnection",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/economia-e-ia-la-doble-desconexion-de-bukele/",
+        "published_date": "2026-09-21 00:19:22",
+        "category": "Economy"
+    },
+    {
         "title": "Labor sector presents proposals to modernize work schedules",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/sector-laboral-presenta-propuestas-para-modernizar-los-horarios-de-trabajo/?utm_source=rss&utm_medium=rss&utm_campaign=sector-laboral-presenta-propuestas-para-modernizar-los-horarios-de-trabajo",
@@ -343,157 +350,143 @@
         "category": "Economy"
     },
     {
-        "title": "Elon Musk celebrates El Salvador's announcement to invest 8% of GDP in education",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/elon-musk-celebra-anuncio-de-el-salvador-de-invertir-el-8-del-pib-en-educacion/?utm_source=rss&utm_medium=rss&utm_campaign=elon-musk-celebra-anuncio-de-el-salvador-de-invertir-el-8-del-pib-en-educacion",
-        "published_date": "2026-09-12 21:25:45",
-        "category": "Economy"
-    },
-    {
-        "title": "Elon Musk reacts to President Bukele's announcement about greater investment in education",
+        "title": "President Nayib Bukele: \u201cIn El Salvador, our educational reform is a party\u201d",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/elon-musk-reacciona-al-anuncio-del-presidente-bukele-sobre-mayor-inversion-en-educacion/",
-        "published_date": "2026-09-12 21:19:01",
-        "category": "Economy"
-    },
-    {
-        "title": "El Salvador in the mirror of SICA, an analysis of economic stagnation, dependence on remittances and fiscal fragility",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-salvador-ante-el-espejo-del-sica-un-analisis-del-estancamiento-economico-la-dependencia-de-remesas-y-la-fragilidad-fiscal/",
-        "published_date": "2026-09-19 23:54:14",
+        "url": "https://diariolahuella.com/presidente-nayib-bukele-en-el-salvador-nuestra-reforma-educativa-es-una-fiesta/",
+        "published_date": "2026-09-21 00:09:03",
         "category": "Local Events"
     },
     {
-        "title": "Dani Alves and Mr. Drip share with families from Soyapango prior to the PedaleadaSV",
+        "title": "Dani Alves pedaled alongside thousands in the Historic Center",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/dani-alves-y-mr-drip-comparten-con-familias-de-soyapango-previo-a-la-pedaleadasv/",
-        "published_date": "2026-09-19 23:41:55",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/dani-alves-pedaleo-junto-a-miles-en-el-centro-historico/",
+        "published_date": "2026-09-20 23:45:52",
         "category": "Local Events"
     },
     {
-        "title": "Storms will move towards San Salvador, La Libertad and other areas during the night",
+        "title": "Tragedy before the wedding: couple suffers accident in Masagua, Guatemala",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/tragedia-antes-de-la-boda-pareja-sufre-accidente-en-masagua-guatemala/",
+        "published_date": "2026-09-20 23:38:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele highlights the changes in the Salvadoran educational system",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/tormentas-se-desplazaran-hacia-san-salvador-la-libertad-y-otras-zonas-durante-la-noche/?utm_source=rss&utm_medium=rss&utm_campaign=tormentas-se-desplazaran-hacia-san-salvador-la-libertad-y-otras-zonas-durante-la-noche",
-        "published_date": "2026-09-19 23:26:07",
+        "url": "https://lapagina.com.sv/general/presidente-bukele-destaca-los-cambios-en-el-sistema-educativo-salvadoreno/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-destaca-los-cambios-en-el-sistema-educativo-salvadoreno",
+        "published_date": "2026-09-20 23:18:00",
         "category": "Local Events"
     },
     {
-        "title": "Young Salvadorans develop their own companies with the support of mentors",
+        "title": "Man falls five meters into a sewer in Altavista and is rescued",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/hombre-cae-cinco-metros-en-una-alcantarilla-de-altavista-y-es-rescatado/",
+        "published_date": "2026-09-20 23:16:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lightning strikes on a soccer field in Izalco: between four and six injuries are reported, two of them minors",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/rayo-cae-sobre-cancha-de-futbol-en-izalco-reportan-entre-cuatro-y-seis-lesionados-dos-de-ellos-menores/",
+        "published_date": "2026-09-20 22:37:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "FMLN presidential formula criticizes measures in health and education",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/formula-presidencial-del-fmln-critica-medidas-en-salud-y-educacion/?utm_source=rss&utm_medium=rss&utm_campaign=formula-presidencial-del-fmln-critica-medidas-en-salud-y-educacion",
+        "published_date": "2026-09-20 22:27:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Soyapango advances in the reorganization of its streets",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/jovenes-salvadorenos-desarrollan-sus-propias-empresas-con-acompanamiento-de-mentores/",
-        "published_date": "2026-09-19 23:19:44",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/soyapango-avanza-en-el-reordenamiento-de-sus-calles/",
+        "published_date": "2026-09-20 22:03:00",
         "category": "Local Events"
     },
     {
-        "title": "Informal merchants begin to remove their stalls around Plaza Mundo Soyapango",
+        "title": "Moscow voting system suffers massive cyberattacks, official reports",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/sistema-de-votacion-de-moscu-sufre-ciberataques-masivos-informa-funcionario/",
+        "published_date": "2026-09-20 21:32:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atl\u00e9tico wins the Madrid derby",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/comerciantes-informales-comienzan-a-retirar-sus-puestos-en-los-alrededores-de-plaza-mundo-soyapango/",
-        "published_date": "2026-09-19 22:57:48",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/el-atletico-se-queda-con-el-derbi-de-madrid/",
+        "published_date": "2026-09-20 21:32:00",
         "category": "Local Events"
     },
     {
-        "title": "Former Minister David Guti\u00e9rrez Miranda is sent to trial for embezzlement on Diego de Holgu\u00edn Boulevard;there is an arrest warrant",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/envian-a-juicio-al-exministro-david-gutierrez-miranda-por-peculado-en-el-bulevar-diego-de-holguin-hay-orden-de-captura/",
-        "published_date": "2026-09-19 22:28:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Raphinha unleashed!Perfect hat trick against Sevilla and a Barcelona that puts pressure on Madrid",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/raphinha-desatado-hat-trick-perfecto-ante-sevilla-y-un-barcelona-que-mete-presion-al-madrid/",
-        "published_date": "2026-09-19 22:10:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sebiel joins Colombian artist Antonio David and presents \u201cIt's not friendship\u201d",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/sebiel-se-une-al-artista-colombiano-antonio-david-y-presentan-no-es-amistad/",
-        "published_date": "2026-09-19 21:23:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran cinema seeks to make its way to the Oscar and Goya Awards",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cine-salvadoreno-busca-abrirse-paso-hacia-los-premios-oscar-y-goya/",
-        "published_date": "2026-09-19 21:11:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young people create their own companies together with business leaders",
-        "source": "Cronio",
-        "url": "https://croniosv.com/redes/jovenes-crean-sus-propias-empresas-junto-a-lideres-empresariales/",
-        "published_date": "2026-09-19 20:09:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President Ulloa meets with CEO of Dapper to promote artificial intelligence in public administration and higher education",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/vicepresidente-ulloa-se-reune-con-ceo-de-dapper-para-impulsar-inteligencia-artificial-en-la-administracion-publica-y-la-educacion-superior/",
-        "published_date": "2026-09-19 19:57:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Summary of the main news of the third week of September 2026",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/resumen-de-las-principales-noticias-de-la-tercera-semana-del-mes-de-septiembre-2026/",
-        "published_date": "2026-09-19 19:08:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "They bury Junior Serrano, the Quezaltepeque soccer player abandoned in a ditch after a motorcycle accident",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sepultan-a-junior-serrano-el-futbolista-de-quezaltepeque-abandonado-en-una-cuneta-tras-un-accidente-de-moto/",
-        "published_date": "2026-09-19 18:51:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Soyapango: vendors leave the streets before September 20;phase 1 of the reorganization begins",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/soyapango-vendedores-dejan-las-calles-antes-del-20-de-septiembre-arranca-la-fase-1-del-reordenamiento/",
-        "published_date": "2026-09-19 18:37:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador strengthens technological innovation applied to public administration and higher education",
+        "title": "Dani Alves: \u201cIt is possible to live in peace, it is possible to live in unity\u201d during the PedaleadaSV",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/el-salvador-fortalece-la-innovacion-tecnologica-aplicada-a-la-administracion-publica-y-la-educacion-superior/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-fortalece-la-innovacion-tecnologica-aplicada-a-la-administracion-publica-y-la-educacion-superior",
-        "published_date": "2026-09-19 18:25:04",
+        "url": "https://lapagina.com.sv/general/dani-alves-es-posible-vivir-en-paz-es-posible-vivir-en-unidad-durante-la-pedaleadasv/?utm_source=rss&utm_medium=rss&utm_campaign=dani-alves-es-posible-vivir-en-paz-es-posible-vivir-en-unidad-durante-la-pedaleadasv",
+        "published_date": "2026-09-20 20:17:26",
         "category": "Local Events"
     },
     {
-        "title": "Greeicy set El Salvador on fire with its \u201cCandela World Tour\u201d: a flame that learned to breathe",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/greeicy-prendio-a-el-salvador-con-su-candela-world-tour-una-llama-que-aprendio-a-respirar/",
-        "published_date": "2026-09-19 18:24:43",
+        "title": "Dani Alves highlights the transformation of El Salvador during his visit to the Historic Center",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/dani-alves-destaca-la-transformacion-de-el-salvador-durante-su-visita-al-centro-historico/",
+        "published_date": "2026-09-20 20:08:37",
         "category": "Local Events"
     },
     {
-        "title": "Sentenced to 10 years for aggravated fraud in San Miguel: he charged $3,000 for two Toyotas from the United States and disappeared",
+        "title": "Couple on a motorcycle is injured after colliding with a vehicle on the Troncal del Norte, Aguilares",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/condenan-a-10-anos-por-estafa-agravada-en-san-miguel-cobro-3000-por-dos-toyotas-de-ee-uu-y-desaparecio/",
-        "published_date": "2026-09-19 18:01:52",
+        "url": "https://croniosv.com/principal/pareja-en-motocicleta-resulta-lesionada-tras-chocar-con-un-vehiculo-en-la-troncal-del-norte-aguilares/",
+        "published_date": "2026-09-20 18:27:49",
         "category": "Local Events"
     },
     {
-        "title": "Diesel in Germany: there are pumps for $12 a gallon;The national average is already over $10.",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/diesel-en-alemania-hay-surtidores-a-12-el-galon-el-promedio-nacional-ya-supera-los-10/",
-        "published_date": "2026-09-19 17:48:19",
+        "title": "Almacenes Shopping Center promotes the talent of the national team of amputees",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/almacenes-shopping-center-impulsa-el-talento-de-la-seleccion-nacional-de-amputados/",
+        "published_date": "2026-09-20 17:37:36",
         "category": "Local Events"
     },
     {
-        "title": "Video in San Marcos: apparently drunk motorcyclist uses cell phone, provokes a driver and backs away from her",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/video-en-san-marcos-motociclista-en-aparente-ebriedad-usa-el-celular-provoca-a-una-conductora-y-retrocede-hacia-ella/",
-        "published_date": "2026-09-19 17:41:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "MARN predicts rain and storms for this Saturday in several areas of El Salvador",
+        "title": "Third Tour of La Uni\u00f3n seeks to highlight the tourist attractions of the department",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/marn-pronostica-lluvias-y-tormentas-para-este-sabado-en-varias-zonas-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=marn-pronostica-lluvias-y-tormentas-para-este-sabado-en-varias-zonas-de-el-salvador",
-        "published_date": "2026-09-19 15:57:14",
+        "url": "https://lapagina.com.sv/general/tercer-tour-de-la-union-busca-destacar-los-atractivos-turisticos-del-departamento/?utm_source=rss&utm_medium=rss&utm_campaign=tercer-tour-de-la-union-busca-destacar-los-atractivos-turisticos-del-departamento",
+        "published_date": "2026-09-20 17:12:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "4.0 magnitude earthquake off Guatemala was felt in Ahuachap\u00e1n;MARN rules out tsunami",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sismo-de-magnitud-4-0-frente-a-guatemala-se-sintio-en-ahuachapan-marn-descarta-tsunami/",
+        "published_date": "2026-09-20 17:09:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Heavy rains in El Salvador this Sunday: MARN details areas and times",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/lluvias-fuertes-en-el-salvador-este-domingo-marn-detalla-zonas-y-horarios/",
+        "published_date": "2026-09-20 17:05:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atl\u00e9tico beats Real Madrid 2-1: blow in the derby and fall in LaLiga",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/atletico-vence-2-1-al-real-madrid-golpe-en-el-derbi-y-caida-en-laliga/",
+        "published_date": "2026-09-20 17:00:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Romeo Herrera: \u201cMore and more people are joining\u201d cycling activities",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/romeo-herrera-cada-vez-son-mas-personas-las-que-se-suman-a-las-actividades-ciclistas/?utm_source=rss&utm_medium=rss&utm_campaign=romeo-herrera-cada-vez-son-mas-personas-las-que-se-suman-a-las-actividades-ciclistas",
+        "published_date": "2026-09-20 16:09:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ukraine launches massive drone attack against Moscow during Russian election day",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ucrania-lanza-masivo-ataque-con-drones-contra-moscu-durante-jornada-electoral-rusa/",
+        "published_date": "2026-09-20 15:15:06",
         "category": "Local Events"
     }
 ]
