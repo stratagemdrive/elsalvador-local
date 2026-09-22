@@ -105,6 +105,48 @@
         "category": "Diplomacy"
     },
     {
+        "title": "They capture subjects for public disorder, reports the Police",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-sujetos-por-desordenes-publicos-informa-la-policia/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-sujetos-por-desordenes-publicos-informa-la-policia",
+        "published_date": "2026-09-21 22:39:08",
+        "category": "Military"
+    },
+    {
+        "title": "They capture subjects who were beaten in the middle of a public street",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-sujetos-que-se-agarraron-a-golpes-en-plena-via-publica/",
+        "published_date": "2026-09-21 22:35:21",
+        "category": "Military"
+    },
+    {
+        "title": "They capture three people for public disorder in Soyapango",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-tres-personas-por-desordenes-publicos-en-soyapango/",
+        "published_date": "2026-09-21 22:01:16",
+        "category": "Military"
+    },
+    {
+        "title": "Two people are arrested after physically attacking each other in the Concepci\u00f3n neighborhood, San Miguel",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/detienen-a-dos-personas-tras-agredirse-fisicamente-en-barrio-concepcion-san-miguel/",
+        "published_date": "2026-09-21 21:59:58",
+        "category": "Military"
+    },
+    {
+        "title": "They locate a gang member in Apopa",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/ubican-a-pandillero-en-apopa/",
+        "published_date": "2026-09-21 21:49:17",
+        "category": "Military"
+    },
+    {
+        "title": "They capture those responsible for a street fight in Soyapango",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-responsables-de-pelea-callejera-en-soyapango/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-responsables-de-pelea-callejera-en-soyapango",
+        "published_date": "2026-09-21 17:27:39",
+        "category": "Military"
+    },
+    {
         "title": "Three people are arrested after getting into a fight on the public road in Soyapango",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/09/detienen-a-tres-personas-tras-protagonizar-una-pelea-en-la-via-publica-de-soyapango/",
@@ -203,46 +245,18 @@
         "category": "Military"
     },
     {
-        "title": "They capture in Mexico alias \"El Muerto\", a dangerous gunman of the 18 Revolucionarios and profiled among the 100 most wanted",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/capturan-en-mexico-a-alias-el-muerto-peligroso-gatillero-de-la-18-revolucionarios-y-perfilado-entre-los-100-mas-buscados/",
-        "published_date": "2026-09-19 00:31:43",
-        "category": "Military"
+        "title": "Guatemala faces rise in the price of electricity due to lower hydroelectric generation",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/guatemala-enfrenta-alza-en-el-precio-de-la-electricidad-por-menor-generacion-hidroelectrica/",
+        "published_date": "2026-09-21 17:49:26",
+        "category": "Energy"
     },
     {
-        "title": "They capture the \u201cDead Man\u201d one of the 100 most wanted in El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-al-muerto-uno-de-los-100-mas-buscados-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-al-muerto-uno-de-los-100-mas-buscados-de-el-salvador",
-        "published_date": "2026-09-18 21:08:38",
-        "category": "Military"
-    },
-    {
-        "title": "She was Mar\u00eda Hern\u00e1ndez, the young woman who was murdered by her partner in San Miguel",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/ella-era-maria-hernandez-la-joven-que-fue-asesinada-por-su-pareja-en-san-miguel/",
-        "published_date": "2026-09-18 19:12:08",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a subject accused of taking the life of his partner in San Miguel",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-sujeto-senalado-de-quitarle-la-vida-a-su-pareja-en-san-miguel/",
-        "published_date": "2026-09-18 16:09:44",
-        "category": "Military"
-    },
-    {
-        "title": "They capture the subject responsible for the murder of his partner in Ciudad Barrios",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-sujeto-responsable-del-homicidio-de-su-pareja-en-ciudad-barrios/",
-        "published_date": "2026-09-18 15:05:38",
-        "category": "Military"
-    },
-    {
-        "title": "September accumulates another day without fatalities at the national level",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/septiembre-acumula-otra-jornada-sin-letalidades-a-nivel-nacional/",
-        "published_date": "2026-09-18 14:47:35",
-        "category": "Military"
+        "title": "France registers fuel shortages in 11% of its stations",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/francia-registra-desabastecimiento-de-combustible-en-el-11-de-sus-estaciones-%e2%9b%bd%f0%9f%87%ab%f0%9f%87%b7/",
+        "published_date": "2026-09-21 17:24:30",
+        "category": "Energy"
     },
     {
         "title": "Increase in fuel and food hits the pockets of Salvadorans",
@@ -336,6 +350,13 @@
         "category": "Energy"
     },
     {
+        "title": "Agreement with IMF worsens the economy and the lives of the people",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/acuerdo-con-fmi-empeora-la-economia-y-la-vida-del-pueblo/",
+        "published_date": "2026-09-21 18:52:17",
+        "category": "Economy"
+    },
+    {
         "title": "El Salvador and France strengthen their ties of friendship, cooperation and investment",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/el-salvador-y-francia-fortalecen-sus-vinculos-de-amistad-cooperacion-e-inversion/",
@@ -392,143 +413,143 @@
         "category": "Economy"
     },
     {
-        "title": "17-year-old motorcyclist is injured after an accident in La Puerta de Apopa",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/motociclista-de-17-anos-resulta-lesionado-tras-accidentarse-en-la-puerta-de-apopa/",
-        "published_date": "2026-09-21 16:49:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Driver gets stuck on dividers after losing control in the Juan Pablo II avenue",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/conductor-queda-atascado-sobre-separadores-tras-perder-el-control-en-la-alameda-juan-pablo-ii/",
-        "published_date": "2026-09-21 16:39:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "The National Charity Lottery selects Sharp Vision to strengthen the supervision and integrity of the online gaming market in El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/la-loteria-nacional-de-beneficencia-elige-a-sharp-vision-para-fortalecer-la-supervision-y-la-integridad-del-mercado-de-juegos-en-linea-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=la-loteria-nacional-de-beneficencia-elige-a-sharp-vision-para-fortalecer-la-supervision-y-la-integridad-del-mercado-de-juegos-en-linea-en-el-salvador",
-        "published_date": "2026-09-21 16:35:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "FAS, Inter Tecla and Metap\u00e1n firmly lead the First Division",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/fas-inter-tecla-y-metapan-lideran-con-paso-firme-la-primera-division/",
-        "published_date": "2026-09-21 16:31:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Strong traffic accident leaves at least two people injured on Venezuela Boulevard",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/fuerte-accidente-de-transito-deja-al-menos-dos-personas-lesionadas-en-bulevar-venezuela/",
-        "published_date": "2026-09-21 16:28:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Yellow Flowers gain presence in El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/flores-amarillas-ganan-presencia-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=flores-amarillas-ganan-presencia-en-el-salvador",
-        "published_date": "2026-09-21 16:23:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador presents its premium coffee at a specialized fair in Buenos Aires, Argentina",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-presenta-su-cafe-premium-en-feria-especializada-de-buenos-aires-argentina/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-presenta-su-cafe-premium-en-feria-especializada-de-buenos-aires-argentina",
-        "published_date": "2026-09-21 16:21:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Audio leak reveals VAMOS internal strategy against Claudia Ortiz",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/filtracion-de-audios-revela-estrategia-interna-de-vamos-contra-claudia-ortiz/?utm_source=rss&utm_medium=rss&utm_campaign=filtracion-de-audios-revela-estrategia-interna-de-vamos-contra-claudia-ortiz",
-        "published_date": "2026-09-21 16:07:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Internal crisis in VAMOS deepens after audios about possible expulsion of Claudia Ortiz",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/crisis-interna-en-vamos-se-profundiza-tras-audios-sobre-posible-expulsion-de-claudia-ortiz/",
-        "published_date": "2026-09-21 16:06:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Honduras declares gangs \u201cterrorists\u201d",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/honduras-declara-a-pandillas-como-terroristas/",
-        "published_date": "2026-09-21 16:03:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "They cancel flights and ask to evacuate before the arrival of Typhoon Dujuan in Japan",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/cancelan-vuelos-y-piden-evacuar-ante-la-llegada-del-tifon-dujuan-a-japon/",
-        "published_date": "2026-09-21 15:50:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Luis de la Fuente renews his contract with the Spanish national team until 2032",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/luis-de-la-fuente-renueva-su-contrato-con-la-seleccion-de-espana-hasta-2032/?utm_source=rss&utm_medium=rss&utm_campaign=luis-de-la-fuente-renueva-su-contrato-con-la-seleccion-de-espana-hasta-2032",
-        "published_date": "2026-09-21 15:42:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fundaci\u00f3n Ay\u00fadame a Vivir announces \u201cBingo Night 2026\u201d",
+        "title": "Five reflections to remember on the International Day of Peace*",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fundacion-ayudame-a-vivir-anuncia-el-bingo-night-2026/",
-        "published_date": "2026-09-21 15:39:36",
+        "url": "https://www.diariocolatino.com/cinco-reflexiones-para-recordar-en-el-dia-internacional-de-la-paz/",
+        "published_date": "2026-09-22 00:47:09",
         "category": "Local Events"
     },
     {
-        "title": "Luis de la Fuente renews with Spain until 2032 and will lead a historic cycle",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/luis-de-la-fuente-renueva-con-espana-hasta-2032-y-liderara-un-ciclo-historico/",
-        "published_date": "2026-09-21 15:35:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scattered rain and storms during different periods throughout the day",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/lluvias-y-tormentas-dispersas-durante-diferentes-periodos-a-lo-largo-dia/",
-        "published_date": "2026-09-21 15:34:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scattered showers and storms for this weekend",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/lluvias-y-tormentas-dispersas-para-este-fin-de-semana/",
-        "published_date": "2026-09-21 15:33:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dani Alves and Mr. Drip get to know tourist destinations in El Salvador during their visit",
+        "title": "El Salvador consolidates its international leadership in the regulation of digital assets",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/dani-alves-y-mr-drip-conocen-destinos-turisticos-de-el-salvador-durante-su-visita/?utm_source=rss&utm_medium=rss&utm_campaign=dani-alves-y-mr-drip-conocen-destinos-turisticos-de-el-salvador-durante-su-visita",
-        "published_date": "2026-09-21 15:06:38",
+        "url": "https://lapagina.com.sv/empresarial/el-salvador-consolida-su-liderazgo-internacional-en-la-regulacion-de-activos-digitales/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-consolida-su-liderazgo-internacional-en-la-regulacion-de-activos-digitales",
+        "published_date": "2026-09-21 23:55:12",
         "category": "Local Events"
     },
     {
-        "title": "Several injured after traffic accidents recorded in different parts of the national territory",
+        "title": "El Salvador highlights advances in regulation of digital assets",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/varios-lesionados-tras-accidentes-de-transito-registrados-en-distintos-puntos-del-territorio-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=varios-lesionados-tras-accidentes-de-transito-registrados-en-distintos-puntos-del-territorio-nacional",
-        "published_date": "2026-09-21 14:37:35",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-destaca-avances-en-regulacion-de-activos-digitales/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-destaca-avances-en-regulacion-de-activos-digitales",
+        "published_date": "2026-09-21 23:55:03",
         "category": "Local Events"
     },
     {
-        "title": "Shakira, Maluma, Feid, Pedro Cap\u00f3, Gian Marco and Elvis Crespo, among the Latin premieres",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/shakira-maluma-feid-pedro-capo-gian-marco-y-elvis-crespo-entre-los-estrenos-latinos/",
-        "published_date": "2026-09-21 13:46:28",
+        "title": "Mother who failed to meet child support payments agrees to pay debt",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/madre-que-incumplio-cuotas-alimenticias-de-sus-hijos-acuerda-pago-de-deuda/?utm_source=rss&utm_medium=rss&utm_campaign=madre-que-incumplio-cuotas-alimenticias-de-sus-hijos-acuerda-pago-de-deuda",
+        "published_date": "2026-09-21 23:18:29",
         "category": "Local Events"
     },
     {
-        "title": "FMLN makes Rafael Aguirre and Mada\u00ed Santos official for the 2027 elections",
+        "title": "Soyapango threatens free sales in public spaces",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fmln-oficializa-a-rafael-aguirre-y-madai-santos-para-las-elecciones-de-2027/",
-        "published_date": "2026-09-21 11:05:50",
+        "url": "https://www.diariocolatino.com/soyapango-amenace-libre-de-ventas-en-los-espacios-publicos/",
+        "published_date": "2026-09-21 22:36:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "MARN warns that the rains will continue this week",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/marn-advierte-que-las-lluvias-continuaran-esta-semana/",
+        "published_date": "2026-09-21 22:32:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Up to 45 years for gang members from 18 who operated in Sonsonate",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/hasta-45-anos-para-pandilleros-de-la-18-que-operaban-en-sonsonate/",
+        "published_date": "2026-09-21 21:38:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Up to 45 years in prison for 18 gang members for various crimes",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/hasta-45-anos-de-prision-para-pandilleros-de-la-18-por-diversos-delitos/?utm_source=rss&utm_medium=rss&utm_campaign=hasta-45-anos-de-prision-para-pandilleros-de-la-18-por-diversos-delitos",
+        "published_date": "2026-09-21 21:31:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "How to choose an international freight forwarder in El Salvador: guide and checklist for importers",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/como-elegir-un-agente-de-carga-internacional-en-el-salvador-guia-y-checklist-para-importadores/",
+        "published_date": "2026-09-21 21:25:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "16-year-old motorcyclist is injured after collision with a vehicle in San Luis Talpa",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/motociclista-de-16-anos-de-edad-resulta-lesionado-tras-colision-con-un-vehiculo-en-san-luis-talpa/",
+        "published_date": "2026-09-21 20:30:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Night of Salvadoran gastronomy in Moscow",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/noche-de-gastronomia-salvadorena-en-moscu/",
+        "published_date": "2026-09-21 19:55:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Night of Salvadoran gastronomy in Moscow",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/523371/?utm_source=rss&utm_medium=rss&utm_campaign=523371",
+        "published_date": "2026-09-21 19:51:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Civil Protection prepares operation against rains: MOP enables 68 schools and maintains permanent monitoring",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/proteccion-civil-prepara-operativo-ante-lluvias-mop-habilita-68-planteles-y-mantienen-monitoreo-permanente/",
+        "published_date": "2026-09-21 19:29:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "National Civil Protection System is activated due to the influence of rains nationwide",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/sistema-nacional-de-proteccion-civil-se-activa-por-influencia-de-lluvias-a-nivel-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=sistema-nacional-de-proteccion-civil-se-activa-por-influencia-de-lluvias-a-nivel-nacional",
+        "published_date": "2026-09-21 19:12:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "National Civil Protection system is activated due to the influence of rain",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/se-activa-sistema-nacional-de-proteccion-civil-por-influencia-de-lluvias/",
+        "published_date": "2026-09-21 19:12:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "GERMANY IS POLARIZED: THE LEFT CONQUERS BERLIN",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/alemania-se-polariza-la-izquierda-conquista-berlin/",
+        "published_date": "2026-09-21 18:43:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Large tree falls on parked vehicles in Sonsonate",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/arbol-de-gran-tamano-cae-sobre-vehiculos-estacionados-en-sonsonate/",
+        "published_date": "2026-09-21 18:31:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Night inspections identify various labor irregularities",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/inspecciones-nocturnas-identifican-diversas-irregularidades-laborales/",
+        "published_date": "2026-09-21 18:06:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "VIDEO |Improper crossing causes crash in Manuel Enrique Araujo avenue",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/video-cruce-indebido-provoca-choque-en-alameda-manuel-enrique-araujo/",
+        "published_date": "2026-09-21 17:55:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Claudia Ortiz denounces exclusion from VAMOS decision-making bodies",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/claudia-ortiz-denuncia-exclusion-de-las-instancias-de-decision-de-vamos/?utm_source=rss&utm_medium=rss&utm_campaign=claudia-ortiz-denuncia-exclusion-de-las-instancias-de-decision-de-vamos",
+        "published_date": "2026-09-21 17:40:39",
         "category": "Local Events"
     }
 ]
