@@ -1,5 +1,19 @@
 [
     {
+        "title": "El Salvador and the Dominican Republic strengthen diplomatic ties",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/el-salvador-y-republica-dominicana-fortalecen-lazos-diplomaticos/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-republica-dominicana-fortalecen-lazos-diplomaticos",
+        "published_date": "2026-09-25 15:25:15",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Remains of Francisco Moraz\u00e1n transferred to mausoleum in the National Palace",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/restos-de-francisco-morazan-trasladados-a-mausoleo-en-palacio-nacional/",
+        "published_date": "2026-09-25 03:00:30",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Dominican president demands more action at the UN in response to Haiti crisis",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/presidente-dominicano-reclama-en-onu-mas-accion-ante-crisis-de-haiti/",
@@ -112,11 +126,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "UN chief calls for 'global coordination' on AI risks",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/jefe-de-la-onu-pide-una-coordinacion-global-sobre-los-riesgos-de-la-ia/",
-        "published_date": "2026-09-17 13:35:18",
-        "category": "Diplomacy"
+        "title": "Community of Los Naranjos denounces constant police presence in the midst of conflict over the air",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comunidad-de-los-naranjos-denuncia-constante-presencia-policial-en-medio-de-conflicto-por-antena/",
+        "published_date": "2026-09-25 11:01:08",
+        "category": "Military"
+    },
+    {
+        "title": "Ecuador dismantles drug trafficking network linked to the Jalisco New Generation Cartel",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ecuador-desarticula-red-de-narcotrafico-vinculada-al-cartel-jalisco-nueva-generacion/",
+        "published_date": "2026-09-25 10:30:40",
+        "category": "Military"
+    },
+    {
+        "title": "Operation in Nejapa leaves four minors located and seven portions of marijuana seized",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/operativo-en-nejapa-deja-cuatro-menores-ubicados-y-siete-porciones-de-marihuana-incautadas/?utm_source=rss&utm_medium=rss&utm_campaign=operativo-en-nejapa-deja-cuatro-menores-ubicados-y-siete-porciones-de-marihuana-incautadas",
+        "published_date": "2026-09-25 01:59:45",
+        "category": "Military"
     },
     {
         "title": "Two adults and four minors arrested for drug dealing in Nejapa",
@@ -235,27 +263,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/ee-uu-construira-dos-nuevas-bases-militares-en-el-sur-y-el-este-de-groenlandia/",
         "published_date": "2026-09-23 13:30:44",
-        "category": "Military"
-    },
-    {
-        "title": "Guatemalan authorities seize 93,000 crack stones and more than 40,000 doses of cocaine",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/autoridades-guatemaltecas-decomisan-93000-piedras-de-crack-y-mas-de-40000-dosis-de-cocaina/",
-        "published_date": "2026-09-23 13:15:53",
-        "category": "Military"
-    },
-    {
-        "title": "They arrest a gunman from the San Coco Locos Salvatruchos clique, in Sonsonate Centro",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/detienen-a-gatillero-de-la-clica-san-coco-locos-salvatruchos-en-sonsonate-centro/",
-        "published_date": "2026-09-23 13:13:34",
-        "category": "Military"
-    },
-    {
-        "title": "Truck driver invades lane due to distraction and causes the death of a married couple in El Refugio, Ahuachap\u00e1n",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/conductor-de-camion-invade-carril-por-distraccion-y-provoca-muerte-de-pareja-de-esposos-en-el-refugio-ahuachapan/",
-        "published_date": "2026-09-23 12:37:08",
         "category": "Military"
     },
     {
@@ -420,143 +427,143 @@
         "category": "Economy"
     },
     {
+        "title": "Government rebuilds a new school center in La Uni\u00f3n Sur",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/gobierno-reconstruye-un-nuevo-centro-escolar-en-la-union-sur/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-reconstruye-un-nuevo-centro-escolar-en-la-union-sur",
+        "published_date": "2026-09-25 15:32:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government works on the reconstruction of a new school center in La Uni\u00f3n Sur",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-trabaja-en-la-reconstruccion-de-un-nuevo-centro-escolar-en-la-union-sur/",
+        "published_date": "2026-09-25 15:25:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ties of friendship and cooperation between El Salvador and the Dominican Republic are strengthened",
+        "source": "Cronio",
+        "url": "https://croniosv.com/politica/estrechan-lazos-de-amistad-y-cooperacion-entre-el-salvador-y-republica-dominicana/",
+        "published_date": "2026-09-25 15:24:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Environment warns of intermittent rains and possible storms during the weekend",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/medio-ambiente-advierte-lluvias-intermitentes-y-posibles-tormentas-durante-el-fin-de-semana/?utm_source=rss&utm_medium=rss&utm_campaign=medio-ambiente-advierte-lluvias-intermitentes-y-posibles-tormentas-durante-el-fin-de-semana",
+        "published_date": "2026-09-25 15:18:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nor'easter strengthens off the US coast and threatens flooding and strong winds this weekend",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/noreaster-se-fortalece-frente-a-la-costa-de-ee-uu-y-amenaza-con-inundaciones-y-fuertes-vientos-este-fin-de-semana/",
+        "published_date": "2026-09-25 15:13:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Casona Tunan opens its doors and strengthens Playa Mizata as a destination",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/casona-tunan-abre-sus-puertas-y-fortalece-a-playa-mizata-como-destino/?utm_source=rss&utm_medium=rss&utm_campaign=casona-tunan-abre-sus-puertas-y-fortalece-a-playa-mizata-como-destino",
+        "published_date": "2026-09-25 14:01:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "New mausoleum of Francisco Moraz\u00e1n opens its doors to the public in San Salvador",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/nuevo-mausoleo-de-francisco-morazan-abre-sus-puertas-al-publico-en-san-salvador/",
+        "published_date": "2026-09-25 13:20:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador strengthens its diplomatic ties with the Dominican Republic",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/el-salvador-fortalece-sus-vinculos-diplomaticos-con-republica-dominicana/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-fortalece-sus-vinculos-diplomaticos-con-republica-dominicana",
+        "published_date": "2026-09-25 13:14:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "CESTA brings together candidates from political parties to start a 'pact for life'",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cesta-reune-candidatos-partidos-politicos-iniciar-pacto-vida/",
+        "published_date": "2026-09-25 11:04:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "VAMOS formalizes the integration of the CEP before TSE and accuses Ortiz of trying to usurp powers",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/vamos-formaliza-tse-integracion-dep-acusa-ortiz-usurpar-atribuciones/",
+        "published_date": "2026-09-25 11:03:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Claudia Ortiz removes Cesia Rivas from the VAMOS legislative team, but remains as substitute deputy",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/claudia-ortiz-remueve-a-cesia-rivas-del-equipo-legislativo-de-vamos-pero-sigue-como-diputada-suplente/",
+        "published_date": "2026-09-25 11:02:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "MDCT leaders reject four-day workday due to its possible negative effects on workers",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/dirigentes-del-mdct-rechazan-jornada-laboral-de-cuatro-dias-por-sus-posibles-efectos-negativos-en-los-trabajadores/",
+        "published_date": "2026-09-25 11:00:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "The gringo empire and evangelical Christianity",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-imperio-gringo-y-el-cristianismo-evangelico/",
+        "published_date": "2026-09-25 10:55:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Bolillo' G\u00f3mez asks for patience and tolerance for the Selecta's debut against Martinique",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/bolillo-gomez-pide-paciencia-tolerancia-debut-selecta-martinica/",
+        "published_date": "2026-09-25 10:40:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele highlights the Central American legacy of Francisco Moraz\u00e1n during the transfer of his remains",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-destaca-el-legado-centroamericano-de-francisco-morazan-durante-traslado-de-sus-restos/",
+        "published_date": "2026-09-25 03:00:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele places a commemorative saber in the new mausoleum of Francisco Moraz\u00e1n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/presidente-bukele-deposita-sable-conmemorativo-en-el-nuevo-mausoleo-de-francisco-morazan/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-deposita-sable-conmemorativo-en-el-nuevo-mausoleo-de-francisco-morazan",
+        "published_date": "2026-09-25 02:50:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Remains of Francisco Moraz\u00e1n already rest in his new mausoleum that will open this Thursday",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/restos-de-francisco-morazan-ya-reposan-en-su-nuevo-mausoleo-que-abrira-este-jueves/?utm_source=rss&utm_medium=rss&utm_campaign=restos-de-francisco-morazan-ya-reposan-en-su-nuevo-mausoleo-que-abrira-este-jueves",
+        "published_date": "2026-09-25 02:13:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "VMT sanctions bus driver on Route 5 with $150 after complaint on social networks",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/vmt-sanciona-con-150-a-conductor-de-buseta-de-la-ruta-5-tras-denuncia-en-redes-sociales/?utm_source=rss&utm_medium=rss&utm_campaign=vmt-sanciona-con-150-a-conductor-de-buseta-de-la-ruta-5-tras-denuncia-en-redes-sociales",
+        "published_date": "2026-09-25 01:50:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "They identify a man who died after falling into the Acelhuate River in Santa Luc\u00eda 2, Apopa",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/identifican-a-hombre-que-murio-tras-caer-al-rio-acelhuate-en-santa-lucia-2-apopa/?utm_source=rss&utm_medium=rss&utm_campaign=identifican-a-hombre-que-murio-tras-caer-al-rio-acelhuate-en-santa-lucia-2-apopa",
+        "published_date": "2026-09-25 01:48:51",
+        "category": "Local Events"
+    },
+    {
         "title": "Ricardo Montaner in El Salvador: They announce the last days of pre-sale with a discount for his concert",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/09/ricardo-montaner-en-el-salvador-anuncian-los-ultimos-dias-de-preventa-con-descuento-para-su-concierto/",
         "published_date": "2026-09-24 23:50:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele pays tribute to Francisco Moraz\u00e1n in his new mausoleum in San Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/presidente-bukele-rinde-homenaje-a-francisco-morazan-en-su-nuevo-mausoleo-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-rinde-homenaje-a-francisco-morazan-en-su-nuevo-mausoleo-en-san-salvador",
-        "published_date": "2026-09-24 23:11:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman is arrested after attacking her life partner with a knife in Santa Ana",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/mujer-es-detenida-tras-atacar-con-un-cuchillo-a-su-companero-de-vida-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=mujer-es-detenida-tras-atacar-con-un-cuchillo-a-su-companero-de-vida-en-santa-ana",
-        "published_date": "2026-09-24 23:03:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Although China and the US compete in AI, they have even more reasons to cooperate, says Xi",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/aunque-china-y-eeuu-compitan-en-ia-tienen-aun-mas-razones-para-cooperar-dice-xi/",
-        "published_date": "2026-09-24 22:38:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "65 members of the MS receive sentences of up to 45 years in prison in Santa Ana",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/65-integrantes-de-la-ms-reciben-condenas-de-hasta-45-anos-de-prision-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=65-integrantes-de-la-ms-reciben-condenas-de-hasta-45-anos-de-prision-en-santa-ana",
-        "published_date": "2026-09-24 21:41:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Take note: VMT announces controlled circulation at KM 5 of the Pan-American Highway",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/tome-nota-vmt-anuncia-circulacion-controlada-en-km-5-de-la-carretera-panamericana/",
-        "published_date": "2026-09-24 21:13:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "San Vicente Sur prepares for the seventh Jocote Corona Festival",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/san-vicente-sur-se-prepara-para-el-septimo-festival-del-jocote-corona/",
-        "published_date": "2026-09-24 20:30:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Central Market is consolidated as a key supply point",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/el-mercado-central-se-consolida-como-un-punto-clave-de-abastecimiento/",
-        "published_date": "2026-09-24 19:29:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Claudia Ortiz removes Cesia Rivas in part of VAMOS due to \"loss of trust\"",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/claudia-ortiz-remueve-a-cesia-rivas-en-fraccion-de-vamos-por-perdida-de-confianza/",
-        "published_date": "2026-09-24 18:38:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "FOVIAL maintains 100% of road connectivity despite the rains",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/fovial-mantiene-el-100-de-la-conectividad-vial-pese-a-las-lluvias/",
-        "published_date": "2026-09-24 18:07:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "FOVIAL reports enabled roads without vehicle restrictions nationwide",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/fovial-reporta-vias-habilitadas-y-sin-restricciones-vehiculares-a-escala-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=fovial-reporta-vias-habilitadas-y-sin-restricciones-vehiculares-a-escala-nacional",
-        "published_date": "2026-09-24 18:06:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele pays tribute to the mortal remains of the liberator Francisco Moraz\u00e1n",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-rinde-homenaje-a-restos-mortales-del-libertador-francisco-morazan/",
-        "published_date": "2026-09-24 17:15:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele pays tribute to hero Francisco Moraz\u00e1n",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/presidente-bukele-rinde-homenaje-a-procer-francisco-morazan/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-rinde-homenaje-a-procer-francisco-morazan",
-        "published_date": "2026-09-24 17:01:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 500 offenders fined in 2026 for performing physiological needs on public roads",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/mas-de-500-infractores-multados-en-2026-por-realizar-necesidades-fisiologicas-en-la-via-publica/",
-        "published_date": "2026-09-24 16:52:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crecer and Telet\u00f3n 2026 will contribute to rehabilitate and include more families",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/crecer-y-teleton-2026-contribuiran-a-rehabilitar-e-incluir-mas-familias/",
-        "published_date": "2026-09-24 16:47:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Strengthening business ties with the Dominican Republic",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/fortaleciendo-vinculos-empresariales-con-republica-dominicana/",
-        "published_date": "2026-09-24 16:46:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele orders medical attention for Honduran girl with leukemia",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/presidente-bukele-ordena-atencion-medica-para-nina-hondurena-con-leucemia/",
-        "published_date": "2026-09-24 16:18:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "San Jos\u00e9 Guayabal is getting ready to celebrate the edition of the Guava Festival this October 17 and 18",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/san-jose-guayabal-se-alista-para-celebrar-la-edicion-del-festival-de-la-guayaba-este-17-y-18-de-octubre/",
-        "published_date": "2026-09-24 16:17:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump and president of China meet at the White House",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/trump-y-presidente-de-china-se-reunen-en-la-casa-blanca/",
-        "published_date": "2026-09-24 16:09:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alianza F\u00fatbol Club: History, Titles and Great Players",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/alianza-futbol-club-historia-titulos-y-grandes-jugadores/",
-        "published_date": "2026-09-24 16:07:40",
         "category": "Local Events"
     }
 ]
