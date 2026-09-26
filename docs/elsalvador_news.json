@@ -1,5 +1,12 @@
 [
     {
+        "title": "Iran refutes Colombia's unfounded accusations",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/iran-refuta-las-acusaciones-infundadas-de-colombia/",
+        "published_date": "2026-09-26 10:31:15",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Vice Minister Patricia God\u00ednez inaugurates exhibition that commemorates 165 years of relations between El Salvador and Italy",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/viceministra-patricia-godinez-inaugura-exposicion-que-conmemora-165-anos-de-relaciones-de-el-salvador-con-italia/?utm_source=rss&utm_medium=rss&utm_campaign=viceministra-patricia-godinez-inaugura-exposicion-que-conmemora-165-anos-de-relaciones-de-el-salvador-con-italia",
@@ -130,13 +137,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/china-confirma-la-visita-del-presidente-xi-a-estados-unidos-esta-semana/",
         "published_date": "2026-09-21 16:10:12",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Delcy Rodr\u00edguez arrives in the United States to participate in the UN General Assembly",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/delcy-rodriguez-llega-a-estados-unidos-para-participar-en-la-asamblea-general-de-la-onu/",
-        "published_date": "2026-09-21 13:34:05",
         "category": "Diplomacy"
     },
     {
@@ -441,6 +441,76 @@
         "category": "Economy"
     },
     {
+        "title": "Moraz\u00e1n in the political debate between memory and electoral strategy",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/morazan-debate-politico-memoria-estrategia-electoral/",
+        "published_date": "2026-09-26 11:05:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marcela Villatoro hopes that Budget 2027 will be presented complete",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/marcela-villatoro-espera-que-presupuesto-2027-se-presente-completo/",
+        "published_date": "2026-09-26 11:04:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "They denounce surveillance and checkpoints during the march on September 15",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/denuncia-vigilancia-retenes-marcha-15-septiembre/",
+        "published_date": "2026-09-26 11:03:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Assembly approves income exemption for Salvadoran artists",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/asamblea-aprueba-exoneracion-de-renta-a-artistas-salvadorenos/",
+        "published_date": "2026-09-26 11:02:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Asunci\u00f3n Mita commemorates four years against metal mining",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/asuncion-mita-conmemora-cuatro-anos-contra-la-mineria-metalica/",
+        "published_date": "2026-09-26 11:01:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Families still have no answers about 30 Salvadorans sent to CECOT along with deported Venezuelans",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/familias-siguen-sin-respuestas-sobre-30-salvadorenos-enviados-al-cecot-junto-a-venezolanos-deportados/",
+        "published_date": "2026-09-26 11:00:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Selecta starts with a 3-1 victory against Martinique in its debut in the Concacaf Nations League",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/09/la-selecta-arranca-con-victoria-3-1-ante-martinica-en-su-debut-en-la-liga-de-naciones-de-concacaf/",
+        "published_date": "2026-09-26 05:43:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Selecta starts off on the right foot in the Nations League",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/la-selecta-arranca-con-el-pie-derecho-en-la-liga-de-naciones/?utm_source=rss&utm_medium=rss&utm_campaign=la-selecta-arranca-con-el-pie-derecho-en-la-liga-de-naciones",
+        "published_date": "2026-09-26 05:29:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador beats Martinique 3-1 and debuts with victory in the CONCACAF Nations League",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-salvador-vence-3-1-a-martinica-y-debuta-con-triunfo-en-la-liga-de-naciones-de-concacaf/",
+        "published_date": "2026-09-26 05:22:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Claudia Ortiz presents her version of the internal crisis that VAMOS is going through",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/claudia-ortiz-expone-su-version-sobre-la-crisis-interna-que-atraviesa-vamos/?utm_source=rss&utm_medium=rss&utm_campaign=claudia-ortiz-expone-su-version-sobre-la-crisis-interna-que-atraviesa-vamos",
+        "published_date": "2026-09-26 03:06:52",
+        "category": "Local Events"
+    },
+    {
         "title": "The ideology of the myth about Modernity",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/la-ideologia-del-mito-sobre-la-modernidad/",
@@ -508,76 +578,6 @@
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/china-y-eeuu-acuerdan-construir-una-relacion-constructiva-de-estabilidad-estrategica-basada-en-respeto-equidad-y-reciprocidad/",
         "published_date": "2026-09-25 22:21:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two saleswomen fight for the love of a truck driver in the middle of a public road",
-        "source": "Cronio",
-        "url": "https://croniosv.com/redes/virales/dos-vendedoras-se-van-a-los-golpes-por-el-amor-de-un-trailero-en-plena-via-publica/",
-        "published_date": "2026-09-25 21:36:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "How much of a Morazanista is Bukele?",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/que-tan-morazanista-es-bukele/",
-        "published_date": "2026-09-25 21:04:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Moraz\u00e1n paradox and the instrumentalization of the new illiberal myth in El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-paradoja-de-morazan-y-la-instrumentalizacion-del-nuevo-mito-iliberal-en-el-salvador/",
-        "published_date": "2026-09-25 20:51:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Caring for the migrant\": the counter-current gesture that Leo XIV will star in Paris",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/cuidar-del-migrante-el-gesto-a-contracorriente-que-protagonizara-leon-xiv-en-paris/",
-        "published_date": "2026-09-25 20:50:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Manchester City found guilty of more than 100 financial irregularities",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/el-manchester-city-encontrado-culpable-de-mas-de-100-irregularidades-financieras/",
-        "published_date": "2026-09-25 20:08:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cCome fill out the form\u201d: Liliana Andrade reveals how she received the proposal to be an FMLN candidate",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/venga-a-rellenar-planilla-liliana-andrade-revela-como-recibio-la-propuesta-para-ser-candidata-del-fmln/?utm_source=rss&utm_medium=rss&utm_campaign=venga-a-rellenar-planilla-liliana-andrade-revela-como-recibio-la-propuesta-para-ser-candidata-del-fmln",
-        "published_date": "2026-09-25 19:12:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cPetated skies\u201d draw attention in Soyapango this Friday",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/cielos-petateados-llaman-la-atencion-en-soyapango-este-viernes/",
-        "published_date": "2026-09-25 18:11:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Manchester City found guilty of 114 financial breaches",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/manchester-city-es-considerado-culpable-de-114-infracciones-financieras/",
-        "published_date": "2026-09-25 18:05:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mabe celebrates its 80th anniversary with a brand renewal and a strategic vision for the future",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/mabe-celebra-su-80-o-aniversario-con-una-renovacion-de-marca-y-una-vision-estrategica-a-futuro/",
-        "published_date": "2026-09-25 18:01:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ecuador disrupts arm of Mexican cartel",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/ecuador-desbarata-brazo-de-cartel-mexicano/",
-        "published_date": "2026-09-25 17:56:18",
         "category": "Local Events"
     }
 ]
