@@ -1,5 +1,12 @@
 [
     {
+        "title": "El Salvador registers greater tourism growth among destinations highlighted by UN Tourism",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/el-salvador-registra-mayor-crecimiento-turistico-entre-destinos-destacados-por-onu-turismo/",
+        "published_date": "2026-09-27 13:40:45",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Alexandra Hill and Kuwaiti Foreign Minister discuss new investment and innovation opportunities",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/general/alexandra-hill-y-canciller-de-kuwait-analizan-nuevas-oportunidades-de-inversion-e-innovacion/?utm_source=rss&utm_medium=rss&utm_campaign=alexandra-hill-y-canciller-de-kuwait-analizan-nuevas-oportunidades-de-inversion-e-innovacion",
@@ -130,13 +137,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/09/el-embajador-de-china-y-el-tenista-marcelo-arevalo-realizan-recorrido-de-inspeccion-por-el-nuevo-estadio-nacional/",
         "published_date": "2026-09-22 22:45:17",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Lula demands UN action against conflicts and inequalities",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/lula-reclama-accion-de-la-onu-ante-conflictos-y-desigualdades/",
-        "published_date": "2026-09-22 21:45:40",
         "category": "Diplomacy"
     },
     {
@@ -350,20 +350,6 @@
         "category": "Energy"
     },
     {
-        "title": "Increase in fuel and food hits the pockets of Salvadorans",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/alza-de-combustibles-y-alimentos-golpea-el-bolsillo-de-los-salvadorenos/",
-        "published_date": "2026-09-19 11:00:35",
-        "category": "Energy"
-    },
-    {
-        "title": "Greeicy lights up El Salvador with its \"Candela World Tour\" on an unforgettable night",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/greeicy-enciende-el-salvador-con-su-candela-world-tour-en-una-noche-inolvidable/",
-        "published_date": "2026-09-19 08:42:29",
-        "category": "Energy"
-    },
-    {
         "title": "Remittances totaled $6,788.3 million as of August, with an increase of 3.8%",
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/economia/las-remesas-sumaron-6788-3-millones-a-agosto-con-un-alza-de-3-8/",
@@ -425,6 +411,13 @@
         "url": "https://www.diariocolatino.com/economia-e-ia-la-doble-desconexion-de-bukele/",
         "published_date": "2026-09-21 00:19:22",
         "category": "Economy"
+    },
+    {
+        "title": "Rains and storms are reported for this Sunday",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/reportan-lluvias-y-tormentas-para-este-domingo/?utm_source=rss&utm_medium=rss&utm_campaign=reportan-lluvias-y-tormentas-para-este-domingo",
+        "published_date": "2026-09-27 14:35:31",
+        "category": "Local Events"
     },
     {
         "title": "More than 12,000 Salvadorans enjoy a Cultural Experience for Salvadoran Flourishing",
@@ -546,24 +539,17 @@
         "category": "Local Events"
     },
     {
+        "title": "The concept of (-)Kujkul (Gespenst) I",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-concepto-de-kujkul-gespenst-i/",
+        "published_date": "2026-09-26 12:54:10",
+        "category": "Local Events"
+    },
+    {
         "title": "Moraz\u00e1n in the political debate between memory and electoral strategy",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/morazan-debate-politico-memoria-estrategia-electoral/",
         "published_date": "2026-09-26 11:05:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marcela Villatoro hopes that Budget 2027 will be presented complete",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/marcela-villatoro-espera-que-presupuesto-2027-se-presente-completo/",
-        "published_date": "2026-09-26 11:04:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "They denounce surveillance and checkpoints during the march on September 15",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/denuncia-vigilancia-retenes-marcha-15-septiembre/",
-        "published_date": "2026-09-26 11:03:29",
         "category": "Local Events"
     }
 ]
