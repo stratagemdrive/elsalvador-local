@@ -1,5 +1,26 @@
 [
     {
+        "title": "ALWAYS THE FABLE AMONG US",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/siempre-la-fabula-entre-nosotros/",
+        "published_date": "2026-10-03 00:05:55",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "A pictorial exhibition by the Salvadoran artist Annette Handal is on display",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/exhiben-muestra-pictorica-de-la-artista-salvadorena-annette-handal/?utm_source=rss&utm_medium=rss&utm_campaign=exhiben-muestra-pictorica-de-la-artista-salvadorena-annette-handal",
+        "published_date": "2026-10-02 20:39:55",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Foreign Ministry exhibits pictorial exhibition by Salvadoran artist Annette Handal",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/cancilleria-exhibe-muestra-pictorica-de-la-artista-salvadorena-annette-handal/",
+        "published_date": "2026-10-02 20:30:21",
+        "category": "Diplomacy"
+    },
+    {
         "title": "El Salvador promotes tourism offers in Belgium",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/el-salvador-promueve-oferta-turistica-en-belgica/",
@@ -119,25 +140,67 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Keiko Fujimori will visit El Salvador at the end of October to meet with President Nayib Bukele",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/keiko-fujimori-visitara-el-salvador-a-fines-de-octubre-para-reunirse-con-el-presidente-nayib-bukele/",
-        "published_date": "2026-09-28 16:56:31",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Alexandra Hill reaffirms before the UN that the sovereignty of El Salvador \u201cis not negotiated\u201d",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/alexandra-hill-reafirma-ante-la-onu-que-la-soberania-de-el-salvador-no-se-negocia/",
-        "published_date": "2026-09-28 16:42:53",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Alexandra Hill reaffirms before the UN that the sovereignty of El Salvador \u201cis not negotiated\u201d",
+        "title": "The number of deaths after an accident in Los Chorros increases to five",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/alexandra-hill-reafirma-ante-la-onu-que-la-soberania-de-el-salvador-no-se-negocia/?utm_source=rss&utm_medium=rss&utm_campaign=alexandra-hill-reafirma-ante-la-onu-que-la-soberania-de-el-salvador-no-se-negocia",
-        "published_date": "2026-09-28 16:40:33",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/aumenta-a-cinco-el-numero-de-fallecidos-tras-accidente-en-los-chorros/?utm_source=rss&utm_medium=rss&utm_campaign=aumenta-a-cinco-el-numero-de-fallecidos-tras-accidente-en-los-chorros",
+        "published_date": "2026-10-03 01:16:56",
+        "category": "Military"
+    },
+    {
+        "title": "The number of deaths after an accident in Los Chorros increases to five",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/aumenta-a-cinco-el-numero-de-fallecidos-tras-accidente-en-los-chorros/",
+        "published_date": "2026-10-02 23:59:39",
+        "category": "Military"
+    },
+    {
+        "title": "Drunk driver causes multiple accidents and leaves four dead and several injured on Los Chorros highway",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/conductor-ebrio-provoca-multiple-accidente-y-deja-cuatro-fallecidos-y-varios-lesionados-en-carretera-los-chorros/",
+        "published_date": "2026-10-02 21:02:47",
+        "category": "Military"
+    },
+    {
+        "title": "Police arrest driver accused of causing accident in Los Chorros",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/policia-detiene-a-conductor-senalado-de-provocar-accidente-en-los-chorros/?utm_source=rss&utm_medium=rss&utm_campaign=policia-detiene-a-conductor-senalado-de-provocar-accidente-en-los-chorros",
+        "published_date": "2026-10-02 20:12:45",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a driver without a license who caused a tragic accident with four deaths in Los Chorros",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/capturan-a-conductor-sin-licencia-que-provoco-tragico-accidente-con-cuatro-fallecidos-en-los-chorros/",
+        "published_date": "2026-10-02 20:12:39",
+        "category": "Military"
+    },
+    {
+        "title": "Sand truck driver responsible for accident in Los Chorros captured;did not have a license",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-conductor-de-camion-arenero-responsable-de-accidente-en-los-chorros-no-contaba-con-licencia/",
+        "published_date": "2026-10-02 20:12:08",
+        "category": "Military"
+    },
+    {
+        "title": "Strong multiple accident leaves several injured in the Los Chorros sector",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/fuerte-accidente-multiple-deja-varios-lesionados-en-el-sector-de-los-chorros/?utm_source=rss&utm_medium=rss&utm_campaign=fuerte-accidente-multiple-deja-varios-lesionados-en-el-sector-de-los-chorros",
+        "published_date": "2026-10-02 19:50:38",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a drug distributor from San Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-distribuidor-de-droga-de-san-salvador/",
+        "published_date": "2026-10-02 18:16:12",
+        "category": "Military"
+    },
+    {
+        "title": "Authorities report 1,220 days with zero homicides during the emergency regime",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/autoridades-reportan-1220-dias-con-cero-homicidios-durante-el-regimen-de-excepcion/",
+        "published_date": "2026-10-02 17:23:13",
+        "category": "Military"
     },
     {
         "title": "They arrest a young man with several portions of marijuana, money and cell phones in San Salvador",
@@ -214,69 +277,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/autoridades-capturan-a-mujer-que-lesiono-con-un-envase-de-vidrio-a-dos-hombres/",
         "published_date": "2026-10-01 20:55:19",
-        "category": "Military"
-    },
-    {
-        "title": "Eight captured in Santa Ana and Sonsonate for cigarette smuggling in Santa Ana",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/ocho-capturados-en-santa-ana-y-sonsonate-por-contrabando-de-cigarrillos-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=ocho-capturados-en-santa-ana-y-sonsonate-por-contrabando-de-cigarrillos-en-santa-ana",
-        "published_date": "2026-10-01 15:59:47",
-        "category": "Military"
-    },
-    {
-        "title": "Eight arrested for cigarette smuggling in Santa Ana and Sonsonate",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-ocho-por-contrabando-de-cigarrillos-en-santa-ana-y-sonsonate/",
-        "published_date": "2026-10-01 15:55:42",
-        "category": "Military"
-    },
-    {
-        "title": "September ends with 24 days without homicides in El Salvador: this is how the last day of the month closed",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/septiembre-termina-con-24-dias-sin-homicidios-en-el-salvador-asi-cerro-el-ultimo-dia-del-mes/?utm_source=rss&utm_medium=rss&utm_campaign=septiembre-termina-con-24-dias-sin-homicidios-en-el-salvador-asi-cerro-el-ultimo-dia-del-mes",
-        "published_date": "2026-10-01 15:50:13",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador closes September without homicides;The last day of the month ended with zero violent deaths",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-cierra-septiembre-sin-homicidios-el-ultimo-dia-del-mes-termino-con-cero-muertes-violentas/",
-        "published_date": "2026-10-01 15:46:41",
-        "category": "Military"
-    },
-    {
-        "title": "Authorities dismantle criminal structure dedicated to cigarette smuggling in Santa Ana and Sonsonate",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/autoridades-desarticulan-estructura-criminal-dedicada-al-contrabando-de-cigarrillos-en-santa-ana-y-sonsonate/",
-        "published_date": "2026-10-01 15:03:39",
-        "category": "Military"
-    },
-    {
-        "title": "MS-13 gunman arrested in Palacios canton, Caba\u00f1as Oeste",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/detienen-a-gatillero-de-la-ms-13-en-el-canton-palacios-cabanas-oeste/",
-        "published_date": "2026-10-01 14:18:43",
-        "category": "Military"
-    },
-    {
-        "title": "They capture the legal representative of the company that owns the dump truck that crashed in Integraci\u00f3n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-al-representante-legal-de-la-empresa-duena-de-la-volqueta-del-choque-en-integracion/",
-        "published_date": "2026-10-01 00:17:51",
-        "category": "Military"
-    },
-    {
-        "title": "David Cerritos, the pianist identified as the second victim of the crash in Integraci\u00f3n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/david-cerritos-el-pianista-senalado-como-segunda-victima-del-choque-en-integracion/",
-        "published_date": "2026-09-30 23:59:36",
-        "category": "Military"
-    },
-    {
-        "title": "The legal representative of GRUPO GEA is captured after a spectacular accident with a dump truck in the Integration ring",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/capturan-al-representante-legal-de-grupo-gea-tras-aparatoso-accidente-con-volqueta-en-el-redondel-integracion/",
-        "published_date": "2026-09-30 22:21:40",
         "category": "Military"
     },
     {
@@ -490,150 +490,143 @@
         "category": "Economy"
     },
     {
-        "title": "More investment and trade: El Salvador strengthens ties with businessmen",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/mas-inversion-y-comercio-el-salvador-estrecha-vinculos-con-empresarios/?utm_source=rss&utm_medium=rss&utm_campaign=mas-inversion-y-comercio-el-salvador-estrecha-vinculos-con-empresarios",
-        "published_date": "2026-09-24 17:29:31",
-        "category": "Economy"
-    },
-    {
-        "title": "Romeo Rodr\u00edguez affirms that more than 1,600 cargo units have been inspected",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/romeo-rodriguez-afirma-que-mas-de-1600-unidades-de-carga-han-sido-inspeccionadas/",
-        "published_date": "2026-10-02 16:21:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador seeks to close 2026 with 4.2 million international visitors",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/el-salvador-busca-cerrar-2026-con-4-2-millones-de-visitantes-internacionales/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-busca-cerrar-2026-con-4-2-millones-de-visitantes-internacionales",
-        "published_date": "2026-10-02 16:11:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "ISTU registers more than 3.5 million visitors in its recreational parks at the end of September",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/istu-registra-mas-de-3-5-millones-de-visitantes-en-sus-parques-recreativos-al-cierre-de-septiembre/",
-        "published_date": "2026-10-02 16:07:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inspections in cargo transportation continue",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/inspeccionan-al-transporte-de-ar/?utm_source=rss&utm_medium=rss&utm_campaign=inspeccionan-al-transporte-de-ar",
-        "published_date": "2026-10-02 16:00:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture a young man with marijuana and other evidence related to drug dealing in San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-joven-con-marihuana-y-otros-indicios-relacionados-al-narcomenudeo-en-san-salvador/",
-        "published_date": "2026-10-02 15:51:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Messi arrives in Argentina to farewell the national team",
+        "title": "The tecle\u00f1os winds of October",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/messi-llega-a-argentina-para-despedida-de-la-seleccion/",
-        "published_date": "2026-10-02 15:50:29",
+        "url": "https://www.diariocolatino.com/los-teclenos-vientos-de-octubre/",
+        "published_date": "2026-10-03 00:04:52",
         "category": "Local Events"
     },
     {
-        "title": "Foreign investment in El Salvador continues to fall",
+        "title": "V\u00e9rtices: candidates for the Oscar \u201cbest international film\u201d",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/sigue-cayendo-la-inversion-extranjera-en-el-salvador/",
-        "published_date": "2026-10-02 15:45:09",
+        "url": "https://www.diariocolatino.com/vertices-candidatos-a-premio-oscar-mejor-pelicula-internacional/",
+        "published_date": "2026-10-03 00:02:10",
         "category": "Local Events"
     },
     {
-        "title": "Cargo transportation inspections continue",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/siguen-en-las-inspecciones-en-transporte-de-carga/",
-        "published_date": "2026-10-02 15:34:03",
+        "title": "The concept of (-)Kujkul (Gespenst) II",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-concepto-de-kujkul-gespenst-ii/",
+        "published_date": "2026-10-03 00:00:06",
         "category": "Local Events"
     },
     {
-        "title": "Rain is forecast in different parts of the country this Friday",
+        "title": "US Coast Guard intercepts oil tanker destined for Cuba",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/guardia-costera-de-eeuu-intercepta-petrolero-cuyo-destino-seria-cuba/",
+        "published_date": "2026-10-02 23:56:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "They enable passage on the Pan-American highway after an accident that left four dead",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/pronostican-lluvias-en-distintos-puntos-del-pais-durante-este-viernes/?utm_source=rss&utm_medium=rss&utm_campaign=pronostican-lluvias-en-distintos-puntos-del-pais-durante-este-viernes",
-        "published_date": "2026-10-02 15:00:03",
+        "url": "https://lapagina.com.sv/nacionales/habilitan-el-paso-en-carretera-panamericana-tras-accidente-que-dejo-cuatro-fallecidos/?utm_source=rss&utm_medium=rss&utm_campaign=habilitan-el-paso-en-carretera-panamericana-tras-accidente-que-dejo-cuatro-fallecidos",
+        "published_date": "2026-10-02 23:00:10",
         "category": "Local Events"
     },
     {
-        "title": "45 years in prison for a palabrero from 18 in Santa Ana",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/45-anos-de-prision-para-palabrero-de-la-18-en-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=45-anos-de-prision-para-palabrero-de-la-18-en-santa-ana",
-        "published_date": "2026-10-02 14:58:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rains and storms will increase during the afternoon in different areas of El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/lluvias-y-tormentas-aumentaran-durante-la-tarde-en-diferentes-zonas-de-el-salvador/",
-        "published_date": "2026-10-02 14:58:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A career at the service of Law and institutions",
+        "title": "Dump truck that caused an accident on Constituci\u00f3n Boulevard was modified without authorization",
         "source": "Cronio",
-        "url": "https://croniosv.com/politica/una-trayectoria-al-servicio-del-derecho-y-la-institucionalidad/",
-        "published_date": "2026-10-02 14:53:54",
+        "url": "https://croniosv.com/nacionales/volqueta-que-causo-accidente-en-bulevar-constitucion-fue-modificada-sin-autorizacion/",
+        "published_date": "2026-10-02 22:52:38",
         "category": "Local Events"
     },
     {
-        "title": "Palabrero from 18 is sentenced to 45 years in prison in Santa Ana",
+        "title": "They help a person run over in San Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/auxilian-a-persona-atropellada-en-san-salvador/",
+        "published_date": "2026-10-02 22:46:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Traffic is restored on the Pan-American highway after an accident that left four dead",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/palabrero-de-la-18-es-condenado-a-45-anos-de-prision-en-santa-ana/",
-        "published_date": "2026-10-02 14:46:29",
+        "url": "https://diariolahuella.com/restablecen-el-paso-en-carretera-panamericana-tras-accidente-que-dejo-cuatro-fallecidos/",
+        "published_date": "2026-10-02 22:38:42",
         "category": "Local Events"
     },
     {
-        "title": "\u201cThe magical world of Cri-Cri: A story to imagine together\u201d premieres at the National Theater",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/estrenan-el-mundo-magico-de-cri-cri-una-historia-para-imaginar-juntos-en-el-teatro-nacional/",
-        "published_date": "2026-10-02 13:54:59",
+        "title": "Large tree falls and blocks vehicular passage on the Pan-American Highway",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/arbol-de-gran-tamano-cae-y-bloquea-el-paso-vehicular-en-la-carretera-panamericana/",
+        "published_date": "2026-10-02 22:37:22",
         "category": "Local Events"
     },
     {
-        "title": "Vice President Felix Ulloa receives \u201cLegal Master 2026\u201d recognition for his career in Law",
+        "title": "Analyzing the contrast between Hispanicity and liberal modernity",
+        "source": "Cronio",
+        "url": "https://croniosv.com/opinet/analizando-el-contraste-entre-la-hispanidad-y-la-modernidad-liberal/",
+        "published_date": "2026-10-02 22:23:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cocoa, a heritage that flourishes again in El Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/cacao-herencia-que-vuelve-a-florecer-en-el-salvador/",
+        "published_date": "2026-10-02 22:03:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Show your face!La Selecta risks its life against Jamaica in Cuscatl\u00e1n for the Nations League",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/a-dar-la-cara-o-se-apaga-el-sueno-la-selecta-se-juega-la-vida-ante-jamaica-en-el-cuscatlan-por-la-nations-league/",
+        "published_date": "2026-10-02 21:40:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "TResearch confirms that President Bukele's popularity reaches 90%",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-recibe-reconocimiento-legal-master-2026-por-su-trayectoria-en-el-derecho/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-recibe-reconocimiento-legal-master-2026-por-su-trayectoria-en-el-derecho",
-        "published_date": "2026-10-02 13:40:28",
+        "url": "https://lapagina.com.sv/politica/tresearch-confirma-que-popularidad-del-presidente-bukele-alcanza-el-90/?utm_source=rss&utm_medium=rss&utm_campaign=tresearch-confirma-que-popularidad-del-presidente-bukele-alcanza-el-90",
+        "published_date": "2026-10-02 20:44:07",
         "category": "Local Events"
     },
     {
-        "title": "Hailstorm surprises residents of San Marcos, Guatemala",
+        "title": "President Bukele's approval reaches 90% according to TResearch",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/aprobacion-del-presidente-bukele-alcanza-el-90-segun-tresearch/",
+        "published_date": "2026-10-02 20:38:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Law and Business Awards 2026: these are the 29 leaders and firms recognized at the 17th gala",
         "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/granizada-sorprende-a-habitantes-de-san-marcos-guatemala/",
-        "published_date": "2026-10-02 13:30:29",
+        "url": "https://croniosv.com/nacionales/premios-derecho-y-negocios-2026-estos-son-los-29-lideres-y-firmas-reconocidos-en-la-gala-17/",
+        "published_date": "2026-10-02 20:11:31",
         "category": "Local Events"
     },
     {
-        "title": "Government contributions stand out during Law and Business awards ceremony",
+        "title": "Strong accident on the road to Los Chorros leaves several dead and injured",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/fuerte-accidente-en-carretera-a-los-chorros-deja-varios-fallecidos-y-lesionados/?utm_source=rss&utm_medium=rss&utm_campaign=fuerte-accidente-en-carretera-a-los-chorros-deja-varios-fallecidos-y-lesionados",
+        "published_date": "2026-10-02 20:01:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Strong accident between bus, truck and private vehicles causes closure in Los Chorros",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/fuerte-accidente-entre-bus-camion-y-vehiculos-particulares-provoca-cierre-en-los-chorros/",
+        "published_date": "2026-10-02 19:50:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government of President Nayib Bukele intensifies surveillance in the heavy transportation sector",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/gobierno-del-presidente-nayib-bukele-intensifica-la-vigilancia-en-el-sector-del-transporte-pesado/",
+        "published_date": "2026-10-02 19:16:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities carry out between 65 and 70 cargo transportation operations",
         "source": "Cronio",
-        "url": "https://croniosv.com/politica/destacan-aportes-del-gobierno-durante-entrega-de-premios-derecho-y-negocios/",
-        "published_date": "2026-10-02 13:00:46",
+        "url": "https://croniosv.com/nacionales/autoridades-realizan-entre-65-y-70-operativos-de-transporte-de-carga/",
+        "published_date": "2026-10-02 18:36:13",
         "category": "Local Events"
     },
     {
-        "title": "Assembly extends the transportation subsidy for one more year",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/asamblea-prorroga-por-un-ano-mas-el-subsidio-al-transporte/",
-        "published_date": "2026-10-02 11:03:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "PROVIDA strengthens community water management and organization on its 42nd anniversary",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/provida-fortalece-gestion-comunitaria-agua-organizacion-42-anos/",
-        "published_date": "2026-10-02 11:01:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ronal Uma\u00f1a: we live between social reality and official discourse",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ronal-umana-vivimos-entre-la-realidad-social-y-el-discurso-oficial/",
-        "published_date": "2026-10-02 11:00:25",
+        "title": "Tropical Wave will generate rain this weekend",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/onda-tropical-generara-lluvias-este-fin-de-semana/",
+        "published_date": "2026-10-02 18:23:05",
         "category": "Local Events"
     }
 ]
