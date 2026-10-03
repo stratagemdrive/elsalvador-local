@@ -1,5 +1,19 @@
 [
     {
+        "title": "El Salvador and Korea strengthen a relationship based on friendship, cooperation and development",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/el-salvador-y-corea-fortalecen-una-relacion-basada-en-amistad-cooperacion-y-desarrollo/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-corea-fortalecen-una-relacion-basada-en-amistad-cooperacion-y-desarrollo",
+        "published_date": "2026-10-03 13:46:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "A legacy that keeps the ideal of a united Central America in force",
+        "source": "Cronio",
+        "url": "https://croniosv.com/politica/un-legado-que-mantiene-vigente-el-ideal-de-una-centroamerica-unida/",
+        "published_date": "2026-10-03 03:39:36",
+        "category": "Diplomacy"
+    },
+    {
         "title": "ALWAYS THE FABLE AMONG US",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/siempre-la-fabula-entre-nosotros/",
@@ -123,20 +137,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/general/keiko-fujimori-viajara-a-el-salvador-para-reunirse-con-nayib-bukele-y-abordar-temas-de-seguridad/?utm_source=rss&utm_medium=rss&utm_campaign=keiko-fujimori-viajara-a-el-salvador-para-reunirse-con-nayib-bukele-y-abordar-temas-de-seguridad",
         "published_date": "2026-09-28 21:39:55",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Foreign Minister Alexandra Hill Tinoco defends national sovereignty and leaves a message of transformation before the 81st UN General Assembly",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/canciller-alexandra-hill-tinoco-defiende-la-soberania-nacional-y-deja-un-mensaje-de-transformacion-ante-la-81-a-asamblea-general-de-la-onu/",
-        "published_date": "2026-09-28 19:42:24",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "El Salvador stands out among the tourist destinations with the greatest international growth",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-salvador-destaca-entre-los-destinos-turisticos-con-mayor-crecimiento-internacional/",
-        "published_date": "2026-09-28 17:08:05",
         "category": "Diplomacy"
     },
     {
@@ -490,6 +490,97 @@
         "category": "Economy"
     },
     {
+        "title": "El Salvador is humiliated by Jamaica in League A Concacaf",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/el-salvador-es-humillado-por-jamaica-en-la-liga-a-concacaf/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-es-humillado-por-jamaica-en-la-liga-a-concacaf",
+        "published_date": "2026-10-03 13:45:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Francisco Moraz\u00e1n's legacy keeps the ideal of a united Central America in force",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/el-legado-de-francisco-morazan-mantiene-vigente-el-ideal-de-una-centroamerica-unida/?utm_source=rss&utm_medium=rss&utm_campaign=el-legado-de-francisco-morazan-mantiene-vigente-el-ideal-de-una-centroamerica-unida",
+        "published_date": "2026-10-03 13:43:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Selecta falls 0-2 against Jamaica in Cuscatl\u00e1n and is on the brink of relegation to League B",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-selecta-cae-0-2-ante-jamaica-en-el-cuscatlan-y-queda-al-borde-del-descenso-a-la-liga-b/",
+        "published_date": "2026-10-03 13:00:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jamaica hits Selecta in Cuscatl\u00e1n",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/jamaica-golpea-a-la-selecta-en-el-cuscatlan/",
+        "published_date": "2026-10-03 11:20:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bishops Abelina and Medardo G\u00f3mez Community House inaugurates solidarity dining room for homeless elderly",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/casa-comunitaria-obispos-abelina-medardo-gomez-comedor-comunitario/",
+        "published_date": "2026-10-03 11:05:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "IMF enables disbursement of $138 million for El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fmi-habilita-desembolso-de-138-millones-para-el-salvador/",
+        "published_date": "2026-10-03 11:03:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Poverty persists as debt increases and foreign investment decreases",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/pobreza-persiste-deuda-incrementa-inversion-extranjera-disminuye/",
+        "published_date": "2026-10-03 11:02:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "UNIDEHC denounces criminalization of community leaders from La Floresta and demands their freedom",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/unidehc-denuncia-criminalizacion-lideres/",
+        "published_date": "2026-10-03 11:01:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "UNT receives response from the ILO regarding the eleven-hour work day",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/unt-recibe-respuesta-de-la-oit-sobre-la-jornada-laboral-de-once-horas/",
+        "published_date": "2026-10-03 11:00:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lula calls to avoid second round during mobilization in Rio",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/lula-llama-a-evitar-segunda-vuelta-durante-movilizacion-en-rio/",
+        "published_date": "2026-10-03 10:30:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador 0-2 Jamaica: Selecta clings to League A, but football does not appear and \u201cBolillo\u201d is on the ropes",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/el-salvador-0-2-jamaica-la-selecta-se-aferra-a-la-liga-a-pero-el-futbol-no-aparece-y-el-bolillo-queda-contra-las-cuerdas/",
+        "published_date": "2026-10-03 05:22:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Another road accident caused by a truck leaves five dead and 27 injured",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/otro-siniestro-vial-causado-por-camion-deja-cinco-fallecidos-y-27-lesionados/",
+        "published_date": "2026-10-03 02:41:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vehicle technical inspection will be mandatory for all vehicles",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/revision-tecnica-vehicular-sera-obligatoria-para-todos-los-vehiculos/",
+        "published_date": "2026-10-03 02:20:08",
+        "category": "Local Events"
+    },
+    {
         "title": "The tecle\u00f1os winds of October",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/los-teclenos-vientos-de-octubre/",
@@ -536,97 +627,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/auxilian-a-persona-atropellada-en-san-salvador/",
         "published_date": "2026-10-02 22:46:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Traffic is restored on the Pan-American highway after an accident that left four dead",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/restablecen-el-paso-en-carretera-panamericana-tras-accidente-que-dejo-cuatro-fallecidos/",
-        "published_date": "2026-10-02 22:38:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Large tree falls and blocks vehicular passage on the Pan-American Highway",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/arbol-de-gran-tamano-cae-y-bloquea-el-paso-vehicular-en-la-carretera-panamericana/",
-        "published_date": "2026-10-02 22:37:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Analyzing the contrast between Hispanicity and liberal modernity",
-        "source": "Cronio",
-        "url": "https://croniosv.com/opinet/analizando-el-contraste-entre-la-hispanidad-y-la-modernidad-liberal/",
-        "published_date": "2026-10-02 22:23:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cocoa, a heritage that flourishes again in El Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/cacao-herencia-que-vuelve-a-florecer-en-el-salvador/",
-        "published_date": "2026-10-02 22:03:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Show your face!La Selecta risks its life against Jamaica in Cuscatl\u00e1n for the Nations League",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/a-dar-la-cara-o-se-apaga-el-sueno-la-selecta-se-juega-la-vida-ante-jamaica-en-el-cuscatlan-por-la-nations-league/",
-        "published_date": "2026-10-02 21:40:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "TResearch confirms that President Bukele's popularity reaches 90%",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/tresearch-confirma-que-popularidad-del-presidente-bukele-alcanza-el-90/?utm_source=rss&utm_medium=rss&utm_campaign=tresearch-confirma-que-popularidad-del-presidente-bukele-alcanza-el-90",
-        "published_date": "2026-10-02 20:44:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele's approval reaches 90% according to TResearch",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/aprobacion-del-presidente-bukele-alcanza-el-90-segun-tresearch/",
-        "published_date": "2026-10-02 20:38:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Law and Business Awards 2026: these are the 29 leaders and firms recognized at the 17th gala",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/premios-derecho-y-negocios-2026-estos-son-los-29-lideres-y-firmas-reconocidos-en-la-gala-17/",
-        "published_date": "2026-10-02 20:11:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Strong accident on the road to Los Chorros leaves several dead and injured",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/fuerte-accidente-en-carretera-a-los-chorros-deja-varios-fallecidos-y-lesionados/?utm_source=rss&utm_medium=rss&utm_campaign=fuerte-accidente-en-carretera-a-los-chorros-deja-varios-fallecidos-y-lesionados",
-        "published_date": "2026-10-02 20:01:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Strong accident between bus, truck and private vehicles causes closure in Los Chorros",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/fuerte-accidente-entre-bus-camion-y-vehiculos-particulares-provoca-cierre-en-los-chorros/",
-        "published_date": "2026-10-02 19:50:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government of President Nayib Bukele intensifies surveillance in the heavy transportation sector",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-del-presidente-nayib-bukele-intensifica-la-vigilancia-en-el-sector-del-transporte-pesado/",
-        "published_date": "2026-10-02 19:16:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities carry out between 65 and 70 cargo transportation operations",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/autoridades-realizan-entre-65-y-70-operativos-de-transporte-de-carga/",
-        "published_date": "2026-10-02 18:36:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tropical Wave will generate rain this weekend",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/onda-tropical-generara-lluvias-este-fin-de-semana/",
-        "published_date": "2026-10-02 18:23:05",
         "category": "Local Events"
     }
 ]
