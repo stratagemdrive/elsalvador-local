@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "They capture a subject who attacked two people in San Miguel",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-sujeto-que-agredio-a-dos-personas-en-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-sujeto-que-agredio-a-dos-personas-en-san-miguel",
+        "published_date": "2026-10-04 14:57:39",
+        "category": "Military"
+    },
+    {
         "title": "Drunk driver hits pedestrian and steals his life in Santa Tecla",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/conductor-ebrio-atropella-a-peaton-y-le-roba-la-vida-en-santa-tecla/",
@@ -270,13 +277,6 @@
         "source": "Ultima Hora SV",
         "url": "https://ultimahora.sv/fmi-economia-salvadorena-continua-mostrando-un-solido-desempeno/",
         "published_date": "2026-10-02 15:37:20",
-        "category": "Military"
-    },
-    {
-        "title": "Authorities carry out more than 1,800 controls on cargo transportation and seize 25 units",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/autoridades-ejecutan-mas-de-1800-controles-al-transporte-de-carga-y-decomisa-25-unidades/",
-        "published_date": "2026-10-02 15:12:31",
         "category": "Military"
     },
     {
@@ -490,6 +490,27 @@
         "category": "Economy"
     },
     {
+        "title": "Lula votes and trusts in favorable results in Brazilian elections",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/lula-vota-y-confia-en-resultados-favorables-en-comicios-brasilenos/",
+        "published_date": "2026-10-04 15:39:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "They lay the first stone of the new sports center in Santa Ana Centro",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/colocan-primera-piedra-de-nuevo-polideportivo-en-santa-ana-centro/",
+        "published_date": "2026-10-04 15:07:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe magical world of Cri-Cri\u201d brings together more than 150 artists at the National Theater",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-mundo-magico-de-cri-cri-reune-a-mas-de-150-artistas-en-el-teatro-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=el-mundo-magico-de-cri-cri-reune-a-mas-de-150-artistas-en-el-teatro-nacional",
+        "published_date": "2026-10-04 02:45:41",
+        "category": "Local Events"
+    },
+    {
         "title": "VMT fines $150 to motorist on route A1 caught chatting behind the wheel",
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/sucesos/vmt-multa-con-150-a-motorista-de-la-ruta-a1-captado-chateando-al-volante/",
@@ -606,27 +627,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/hondurenos-abarrotan-frontera-salvadorena-por-la-semana-morazanica/?utm_source=rss&utm_medium=rss&utm_campaign=hondurenos-abarrotan-frontera-salvadorena-por-la-semana-morazanica",
         "published_date": "2026-10-03 22:08:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Citizens of Santa Ana Centro benefit from the Integra fair",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ciudadanos-de-santa-ana-centro-son-beneficiados-con-feria-integra/?utm_source=rss&utm_medium=rss&utm_campaign=ciudadanos-de-santa-ana-centro-son-beneficiados-con-feria-integra",
-        "published_date": "2026-10-03 21:10:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "They commemorate the 234th anniversary of the birth of Francisco Moraz\u00e1n",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/conmemoran-los-234-anos-del-natalicio-de-francisco-morazan/?utm_source=rss&utm_medium=rss&utm_campaign=conmemoran-los-234-anos-del-natalicio-de-francisco-morazan",
-        "published_date": "2026-10-03 19:28:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "They identify two victims of the accident in Los Chorros;both lived in San Juan Opico",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/identifican-a-dos-victimas-del-accidente-en-los-chorros-ambas-vivian-en-san-juan-opico/",
-        "published_date": "2026-10-03 18:03:46",
         "category": "Local Events"
     }
 ]
