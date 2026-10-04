@@ -1,5 +1,33 @@
 [
     {
+        "title": "Nicaragua informs PARLACEN of its departure from the organization",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/nicaragua-comunica-al-parlacen-su-salida-del-organismo/",
+        "published_date": "2026-10-04 00:36:02",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Nicaragua announces its departure from the Central American Parliament",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/internacionales/nicaragua-anuncia-su-salida-del-parlamento-centroamericano/?utm_source=rss&utm_medium=rss&utm_campaign=nicaragua-anuncia-su-salida-del-parlamento-centroamericano",
+        "published_date": "2026-10-03 22:16:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Vice President Ulloa reaffirms ties with South Korea and highlights cooperation for $30.5 million on National Day.",
+        "source": "Cronio",
+        "url": "https://croniosv.com/politica/vicepresidente-ulloa-reafirma-lazos-con-corea-del-sur-y-destaca-cooperacion-por-305-millones-en-el-dia-nacional/",
+        "published_date": "2026-10-03 19:02:24",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "OAS sets roadmap for Nicaragua and demands free elections, release of prisoners and restitution of rights",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/oea-fija-hoja-de-ruta-para-nicaragua-y-exige-elecciones-libres-liberacion-de-presos-y-restitucion-de-derechos/",
+        "published_date": "2026-10-03 17:15:02",
+        "category": "Diplomacy"
+    },
+    {
         "title": "El Salvador and Korea strengthen a relationship based on friendship, cooperation and development",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/empresarial/el-salvador-y-corea-fortalecen-una-relacion-basada-en-amistad-cooperacion-y-desarrollo/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-corea-fortalecen-una-relacion-basada-en-amistad-cooperacion-y-desarrollo",
@@ -112,32 +140,60 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Netanyahu confirms visit to UAE and meeting with UAE president",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/netanyahu-confirma-visita-a-eau-y-reunion-con-presidente-de-eau/",
-        "published_date": "2026-09-29 00:37:33",
-        "category": "Diplomacy"
+        "title": "Drunk driver hits pedestrian and steals his life in Santa Tecla",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/conductor-ebrio-atropella-a-peaton-y-le-roba-la-vida-en-santa-tecla/",
+        "published_date": "2026-10-03 19:39:07",
+        "category": "Military"
     },
     {
-        "title": "Secretary General of UN Tourism knows Salvadoran culture and traditions",
+        "title": "Armed Forces detain a 17-year-old boy in Soyapango with MS-13 material on his cell phone",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/fuerza-armada-detiene-en-soyapango-a-joven-de-17-anos-con-material-de-la-ms-13-en-el-celular/",
+        "published_date": "2026-10-03 18:53:23",
+        "category": "Military"
+    },
+    {
+        "title": "Drunk driver runs over and kills a woman in Ciudad Merliot",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/conductor-ebrio-atropella-y-mata-a-una-mujer-en-ciudad-merliot/",
+        "published_date": "2026-10-03 18:11:54",
+        "category": "Military"
+    },
+    {
+        "title": "Commemoration of the 234th anniversary of the birth of General Francisco Moraz\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/conmemoracion-del-234-aniversario-del-natalicio-del-general-francisco-morazan/",
+        "published_date": "2026-10-03 17:45:56",
+        "category": "Military"
+    },
+    {
+        "title": "Drunk driver causes death of pedestrian after hitting her in Santa Tecla",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/secretaria-general-de-onu-turismo-conoce-cultura-y-tradiciones-salvadorenas/?utm_source=rss&utm_medium=rss&utm_campaign=secretaria-general-de-onu-turismo-conoce-cultura-y-tradiciones-salvadorenas",
-        "published_date": "2026-09-29 00:33:04",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/conductor-ebrio-provoca-muerte-de-peaton-tras-atropellarla-en-santa-tecla/?utm_source=rss&utm_medium=rss&utm_campaign=conductor-ebrio-provoca-muerte-de-peaton-tras-atropellarla-en-santa-tecla",
+        "published_date": "2026-10-03 17:43:28",
+        "category": "Military"
     },
     {
-        "title": "Alexandra Hill Tinoco gives speech at the UN and defends Bukele's security plan",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/alexandra-hill-tinoco-brinda-discurso-en-la-onu-y-defiende-plan-de-seguridad-de-bukele/",
-        "published_date": "2026-09-28 23:14:22",
-        "category": "Diplomacy"
+        "title": "Legacy of Francisco Moraz\u00e1n calls to strengthen Central American cooperation",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/legado-de-francisco-morazan-llama-a-fortalecer-la-cooperacion-centroamericana/",
+        "published_date": "2026-10-03 17:03:41",
+        "category": "Military"
     },
     {
-        "title": "Keiko Fujimori will travel to El Salvador to meet with Nayib Bukele and address security issues",
+        "title": "October accumulates a new day with zero homicides",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/octubre-acumula-un-nuevo-dia-con-cero-homicidios/",
+        "published_date": "2026-10-03 16:10:54",
+        "category": "Military"
+    },
+    {
+        "title": "October adds a new day without homicides",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/keiko-fujimori-viajara-a-el-salvador-para-reunirse-con-nayib-bukele-y-abordar-temas-de-seguridad/?utm_source=rss&utm_medium=rss&utm_campaign=keiko-fujimori-viajara-a-el-salvador-para-reunirse-con-nayib-bukele-y-abordar-temas-de-seguridad",
-        "published_date": "2026-09-28 21:39:55",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/octubre-suma-un-nuevo-dia-sin-homicidios/?utm_source=rss&utm_medium=rss&utm_campaign=octubre-suma-un-nuevo-dia-sin-homicidios",
+        "published_date": "2026-10-03 15:22:50",
+        "category": "Military"
     },
     {
         "title": "The number of deaths after an accident in Los Chorros increases to five",
@@ -224,60 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "VMT intensifies controls on cargo transportation and reports 25 confiscated units",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/vmt-intensifica-controles-al-transporte-de-carga-y-reporta-25-unidades-decomisadas/?utm_source=rss&utm_medium=rss&utm_campaign=vmt-intensifica-controles-al-transporte-de-carga-y-reporta-25-unidades-decomisadas",
-        "published_date": "2026-10-02 15:12:11",
-        "category": "Military"
-    },
-    {
-        "title": "Five captured after trying to attack police officers during anti-drug operation",
+        "title": "The G7 agrees to release up to 100 million barrels of diesel and oil",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/cinco-capturados-tras-intentar-embestir-a-policias-durante-operativo-antidrogas/",
-        "published_date": "2026-10-02 13:15:40",
-        "category": "Military"
-    },
-    {
-        "title": "Education will have $3.4 billion in 2027 while Security and Defense will have $40 million cut",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/educacion-tendra-3400-millones-en-2027-mientras-que-a-seguridad-y-defensa-se-le-recortan-40-millones/",
-        "published_date": "2026-10-02 11:04:25",
-        "category": "Military"
-    },
-    {
-        "title": "Assembly authorizes FAES to remain in Haiti for security mission",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/asamblea-autoriza-permanencia-de-faes-en-haiti-para-mision-de-seguridad/",
-        "published_date": "2026-10-02 11:02:03",
-        "category": "Military"
-    },
-    {
-        "title": "They capture 5 subjects after trying to run over police officers who were carrying out an anti-drug operation",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/capturan-a-5-sujetos-tras-intentar-atropellar-a-policias-que-ejecutaban-operativo-antidrogas/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-5-sujetos-tras-intentar-atropellar-a-policias-que-ejecutaban-operativo-antidrogas",
-        "published_date": "2026-10-02 02:33:37",
-        "category": "Military"
-    },
-    {
-        "title": "IMF approves new disbursement of $138 million for El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/fmi-aprueba-nuevo-desembolso-de-138-millones-para-el-salvador/",
-        "published_date": "2026-10-02 00:33:11",
-        "category": "Military"
-    },
-    {
-        "title": "Woman arrested accused of injuring two men with whom she had been drinking alcohol with a glass container",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/detienen-a-mujer-acusada-de-lesionar-con-un-envase-de-vidrio-a-dos-hombres-con-quienes-habia-estado-bebiendo-alcohol/",
-        "published_date": "2026-10-01 21:07:18",
-        "category": "Military"
-    },
-    {
-        "title": "Authorities capture a woman who injured two men with a glass container",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/autoridades-capturan-a-mujer-que-lesiono-con-un-envase-de-vidrio-a-dos-hombres/",
-        "published_date": "2026-10-01 20:55:19",
-        "category": "Military"
+        "url": "https://croniosv.com/internacionales/el-g7-acuerda-liberar-hasta-100-millones-de-barriles-de-diesel-y-petroleo/",
+        "published_date": "2026-10-04 02:06:17",
+        "category": "Energy"
     },
     {
         "title": "It is 21 years since the last eruption of the Ilamatepec volcano",
@@ -361,13 +368,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/empresarial/aria-vega-llega-por-primera-vez-a-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=aria-vega-llega-por-primera-vez-a-el-salvador",
         "published_date": "2026-09-26 16:08:54",
-        "category": "Energy"
-    },
-    {
-        "title": "Ari Vega, nominated for the Latin Grammy for Best New Artist, arrives with all the energy of the Caribbean",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/09/ari-vega-nominada-al-latin-grammy-como-mejor-nuevo-artista-llega-con-toda-la-energia-del-caribe/",
-        "published_date": "2026-09-25 23:23:39",
         "category": "Energy"
     },
     {
@@ -490,143 +490,143 @@
         "category": "Economy"
     },
     {
-        "title": "El Salvador is humiliated by Jamaica in League A Concacaf",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/el-salvador-es-humillado-por-jamaica-en-la-liga-a-concacaf/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-es-humillado-por-jamaica-en-la-liga-a-concacaf",
-        "published_date": "2026-10-03 13:45:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Francisco Moraz\u00e1n's legacy keeps the ideal of a united Central America in force",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/el-legado-de-francisco-morazan-mantiene-vigente-el-ideal-de-una-centroamerica-unida/?utm_source=rss&utm_medium=rss&utm_campaign=el-legado-de-francisco-morazan-mantiene-vigente-el-ideal-de-una-centroamerica-unida",
-        "published_date": "2026-10-03 13:43:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Selecta falls 0-2 against Jamaica in Cuscatl\u00e1n and is on the brink of relegation to League B",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-selecta-cae-0-2-ante-jamaica-en-el-cuscatlan-y-queda-al-borde-del-descenso-a-la-liga-b/",
-        "published_date": "2026-10-03 13:00:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jamaica hits Selecta in Cuscatl\u00e1n",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/jamaica-golpea-a-la-selecta-en-el-cuscatlan/",
-        "published_date": "2026-10-03 11:20:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bishops Abelina and Medardo G\u00f3mez Community House inaugurates solidarity dining room for homeless elderly",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/casa-comunitaria-obispos-abelina-medardo-gomez-comedor-comunitario/",
-        "published_date": "2026-10-03 11:05:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "IMF enables disbursement of $138 million for El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fmi-habilita-desembolso-de-138-millones-para-el-salvador/",
-        "published_date": "2026-10-03 11:03:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Poverty persists as debt increases and foreign investment decreases",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/pobreza-persiste-deuda-incrementa-inversion-extranjera-disminuye/",
-        "published_date": "2026-10-03 11:02:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "UNIDEHC denounces criminalization of community leaders from La Floresta and demands their freedom",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/unidehc-denuncia-criminalizacion-lideres/",
-        "published_date": "2026-10-03 11:01:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "UNT receives response from the ILO regarding the eleven-hour work day",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/unt-recibe-respuesta-de-la-oit-sobre-la-jornada-laboral-de-once-horas/",
-        "published_date": "2026-10-03 11:00:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lula calls to avoid second round during mobilization in Rio",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/lula-llama-a-evitar-segunda-vuelta-durante-movilizacion-en-rio/",
-        "published_date": "2026-10-03 10:30:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador 0-2 Jamaica: Selecta clings to League A, but football does not appear and \u201cBolillo\u201d is on the ropes",
+        "title": "VMT fines $150 to motorist on route A1 caught chatting behind the wheel",
         "source": "Cronio",
-        "url": "https://croniosv.com/deportes/el-salvador-0-2-jamaica-la-selecta-se-aferra-a-la-liga-a-pero-el-futbol-no-aparece-y-el-bolillo-queda-contra-las-cuerdas/",
-        "published_date": "2026-10-03 05:22:03",
+        "url": "https://croniosv.com/nacionales/sucesos/vmt-multa-con-150-a-motorista-de-la-ruta-a1-captado-chateando-al-volante/",
+        "published_date": "2026-10-04 02:25:03",
         "category": "Local Events"
     },
     {
-        "title": "Another road accident caused by a truck leaves five dead and 27 injured",
+        "title": "Power line pole falls on a vehicle on the road to Cinquera, in Caba\u00f1as",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/poste-del-tendido-electrico-cae-sobre-un-vehiculo-en-la-carretera-a-cinquera-en-cabanas/",
+        "published_date": "2026-10-04 02:18:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Buying a Starbucks latte can support gardens and businesses",
         "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/otro-siniestro-vial-causado-por-camion-deja-cinco-fallecidos-y-27-lesionados/",
-        "published_date": "2026-10-03 02:41:54",
+        "url": "https://www.periodicoequilibrium.com/comprar-un-latte-de-starbucks-puede-apoyar-huertos-y-emprendimientos/",
+        "published_date": "2026-10-04 01:16:09",
         "category": "Local Events"
     },
     {
-        "title": "Vehicle technical inspection will be mandatory for all vehicles",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/revision-tecnica-vehicular-sera-obligatoria-para-todos-los-vehiculos/",
-        "published_date": "2026-10-03 02:20:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "The tecle\u00f1os winds of October",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/los-teclenos-vientos-de-octubre/",
-        "published_date": "2026-10-03 00:04:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "V\u00e9rtices: candidates for the Oscar \u201cbest international film\u201d",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/vertices-candidatos-a-premio-oscar-mejor-pelicula-internacional/",
-        "published_date": "2026-10-03 00:02:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "The concept of (-)Kujkul (Gespenst) II",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-concepto-de-kujkul-gespenst-ii/",
-        "published_date": "2026-10-03 00:00:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "US Coast Guard intercepts oil tanker destined for Cuba",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/guardia-costera-de-eeuu-intercepta-petrolero-cuyo-destino-seria-cuba/",
-        "published_date": "2026-10-02 23:56:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "They enable passage on the Pan-American highway after an accident that left four dead",
+        "title": "Visitors to the Historic Center enjoy Latin Fest 2026",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/habilitan-el-paso-en-carretera-panamericana-tras-accidente-que-dejo-cuatro-fallecidos/?utm_source=rss&utm_medium=rss&utm_campaign=habilitan-el-paso-en-carretera-panamericana-tras-accidente-que-dejo-cuatro-fallecidos",
-        "published_date": "2026-10-02 23:00:10",
+        "url": "https://lapagina.com.sv/nacionales/visitantes-del-centro-historico-disfrutan-del-latin-fest-2026/?utm_source=rss&utm_medium=rss&utm_campaign=visitantes-del-centro-historico-disfrutan-del-latin-fest-2026",
+        "published_date": "2026-10-04 01:03:58",
         "category": "Local Events"
     },
     {
-        "title": "Dump truck that caused an accident on Constituci\u00f3n Boulevard was modified without authorization",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/volqueta-que-causo-accidente-en-bulevar-constitucion-fue-modificada-sin-autorizacion/",
-        "published_date": "2026-10-02 22:52:38",
+        "title": "Driver of route A1 receives maximum fine for using cell phone while driving",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/conductor-de-la-ruta-a1-recibe-multa-maxima-por-utilizar-el-celular-al-volante/",
+        "published_date": "2026-10-04 01:00:50",
         "category": "Local Events"
     },
     {
-        "title": "They help a person run over in San Salvador",
+        "title": "Music and joy filled the streets of the Historic Center with the Latin Fest 2026",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/musica-y-alegria-llenaron-las-calles-del-centro-historico-con-el-latin-fest-2026/",
+        "published_date": "2026-10-04 00:55:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador receives thousands of Hondurans for Morazan Week",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-recibe-a-miles-de-hondurenos-por-la-semana-morazanica/",
+        "published_date": "2026-10-04 00:29:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cVegeta Nada\u201d is free after verbally attacking police officers",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/vegeta-nada-queda-libre-tras-agredir-verbalmente-a-agentes-policiales/?utm_source=rss&utm_medium=rss&utm_campaign=vegeta-nada-queda-libre-tras-agredir-verbalmente-a-agentes-policiales",
+        "published_date": "2026-10-04 00:08:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "a bad budget",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/un-mal-presupuesto/",
+        "published_date": "2026-10-03 23:59:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Summary of the last week of September 2026",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/resumen-de-la-ultima-semana-del-mes-de-septiembre-de-2026/",
+        "published_date": "2026-10-03 23:55:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "They denounce a motorist on route A1 for chatting while driving the minibus",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/auxilian-a-persona-atropellada-en-san-salvador/",
-        "published_date": "2026-10-02 22:46:25",
+        "url": "https://croniosv.com/nacionales/denuncian-a-motorista-de-la-ruta-a1-por-chatear-mientras-conduce-el-microbus/",
+        "published_date": "2026-10-03 23:30:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rains and storms from this afternoon until early Sunday morning, predicts the MARN",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/lluvias-y-tormentas-desde-esta-tarde-hasta-la-madrugada-del-domingo-preve-el-marn/",
+        "published_date": "2026-10-03 23:24:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman hit and killed in Ciudad Merliot by drunk driver",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/mujer-muere-atropellada-en-ciudad-merliot-por-conductor-ebrio/",
+        "published_date": "2026-10-03 23:06:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cNotes from the community for victory\u201d: President Bukele",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/notas-de-la-comunidad-para-la-victoria-presidente-bukele/",
+        "published_date": "2026-10-03 23:06:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "5 dead and 27 injured leaves traffic accident on Carretera Los Chorros",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/5-fallecidos-y-27-lesionados-deja-accidente-de-transito-en-carretera-los-chorros/",
+        "published_date": "2026-10-03 23:01:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "New mausoleum of Francisco Moraz\u00e1n allows us to learn about his life and legacy",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/nuevo-mausoleo-de-francisco-morazan-permite-conocer-su-vida-y-legado/?utm_source=rss&utm_medium=rss&utm_campaign=nuevo-mausoleo-de-francisco-morazan-permite-conocer-su-vida-y-legado",
+        "published_date": "2026-10-03 22:20:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hondurans crowd the Salvadoran border for Morazan Week",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/hondurenos-abarrotan-frontera-salvadorena-por-la-semana-morazanica/?utm_source=rss&utm_medium=rss&utm_campaign=hondurenos-abarrotan-frontera-salvadorena-por-la-semana-morazanica",
+        "published_date": "2026-10-03 22:08:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Citizens of Santa Ana Centro benefit from the Integra fair",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/ciudadanos-de-santa-ana-centro-son-beneficiados-con-feria-integra/?utm_source=rss&utm_medium=rss&utm_campaign=ciudadanos-de-santa-ana-centro-son-beneficiados-con-feria-integra",
+        "published_date": "2026-10-03 21:10:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "They commemorate the 234th anniversary of the birth of Francisco Moraz\u00e1n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/conmemoran-los-234-anos-del-natalicio-de-francisco-morazan/?utm_source=rss&utm_medium=rss&utm_campaign=conmemoran-los-234-anos-del-natalicio-de-francisco-morazan",
+        "published_date": "2026-10-03 19:28:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "They identify two victims of the accident in Los Chorros;both lived in San Juan Opico",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/identifican-a-dos-victimas-del-accidente-en-los-chorros-ambas-vivian-en-san-juan-opico/",
+        "published_date": "2026-10-03 18:03:46",
         "category": "Local Events"
     }
 ]
