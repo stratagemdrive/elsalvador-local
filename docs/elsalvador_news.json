@@ -1,5 +1,19 @@
 [
     {
+        "title": "The goodbye of a legend: Messi leaves Argentina with a goal and a show of assists",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-adios-de-una-leyenda-messi-se-retira-de-argentina-con-gol-y-show-de-asistencias/",
+        "published_date": "2026-10-07 04:19:04",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "PHOTOS \u2013 VIDEOS |Lionel Messi says goodbye to Argentina with a goal, two assists and a historic night",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/fotos-videos-lionel-messi-se-despide-de-argentina-con-gol-dos-asistencias-y-una-noche-historica/",
+        "published_date": "2026-10-07 03:04:11",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Messi closes an era: goal, two assists and an eternal ovation in his farewell with Argentina",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/messi-cierra-una-era-gol-dos-asistencias-y-una-ovacion-eterna-en-su-adios-con-argentina/?utm_source=rss&utm_medium=rss&utm_campaign=messi-cierra-una-era-gol-dos-asistencias-y-una-ovacion-eterna-en-su-adios-con-argentina",
@@ -126,18 +140,81 @@
         "category": "Diplomacy"
     },
     {
-        "title": "A pictorial exhibition by the Salvadoran artist Annette Handal is on display",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/exhiben-muestra-pictorica-de-la-artista-salvadorena-annette-handal/?utm_source=rss&utm_medium=rss&utm_campaign=exhiben-muestra-pictorica-de-la-artista-salvadorena-annette-handal",
-        "published_date": "2026-10-02 20:39:55",
-        "category": "Diplomacy"
+        "title": "They capture a subject who burned down a house and took the life of his nephew in San Miguel",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-sujeto-que-incendio-vivienda-y-le-quito-la-vida-a-su-sobrino-en-san-miguel/",
+        "published_date": "2026-10-07 16:54:56",
+        "category": "Military"
     },
     {
-        "title": "Foreign Ministry exhibits pictorial exhibition by Salvadoran artist Annette Handal",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/cancilleria-exhibe-muestra-pictorica-de-la-artista-salvadorena-annette-handal/",
-        "published_date": "2026-10-02 20:30:21",
-        "category": "Diplomacy"
+        "title": "Thousands of students protest in France",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/miles-de-estudiantes-protestan-en-francia/",
+        "published_date": "2026-10-07 16:20:14",
+        "category": "Military"
+    },
+    {
+        "title": "Haiti postpones elections indefinitely",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/haiti-posterga-de-manera-indefinida-las-elecciones/",
+        "published_date": "2026-10-07 16:08:03",
+        "category": "Military"
+    },
+    {
+        "title": "Subject murdered his nephew and attacked five other relatives with a knife in Ciudad Barrios",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/sujeto-asesino-a-su-sobrino-y-ataco-con-arma-blanca-otros-cinco-familiares-en-ciudad-barrios/?utm_source=rss&utm_medium=rss&utm_campaign=sujeto-asesino-a-su-sobrino-y-ataco-con-arma-blanca-otros-cinco-familiares-en-ciudad-barrios",
+        "published_date": "2026-10-07 15:56:55",
+        "category": "Military"
+    },
+    {
+        "title": "Man is arrested after attacking his family and starting a fire in Ciudad Barrios;a child under 6 years old died",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/hombre-es-detenido-tras-atacar-a-su-familia-y-provocar-incendio-en-ciudad-barrios-un-menor-de-6-anos-murio/",
+        "published_date": "2026-10-07 15:29:43",
+        "category": "Military"
+    },
+    {
+        "title": "They arrest two people responsible for stealing objects from a construction in San Miguel",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/detienen-a-dos-personas-responsables-de-hurtar-objetos-de-una-construccion-en-san-miguel/",
+        "published_date": "2026-10-07 15:22:17",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador registers zero homicides on Tuesday, October 6",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/el-salvador-registra-cero-homicidios-el-martes-6-de-octubre/",
+        "published_date": "2026-10-07 15:17:58",
+        "category": "Military"
+    },
+    {
+        "title": "PNC seizes largest drug shipment to date in land transport mode",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/pnc-incauta-cargamento-de-droga-mas-grande-a-la-fecha-en-modalidad-transporte-terrestre2/",
+        "published_date": "2026-10-07 15:03:26",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a subject who attacked another after an argument while they were drinking alcohol in Sonsonate",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-sujeto-que-agredio-a-otro-tras-una-discusion-mientras-bebian-alcohol-en-sonsonate/",
+        "published_date": "2026-10-07 15:02:22",
+        "category": "Military"
+    },
+    {
+        "title": "Man is arrested for injuries after an argument in Acajutla",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/hombre-es-detenido-por-lesiones-tras-una-discusion-en-acajutla/?utm_source=rss&utm_medium=rss&utm_campaign=hombre-es-detenido-por-lesiones-tras-una-discusion-en-acajutla",
+        "published_date": "2026-10-07 13:37:33",
+        "category": "Military"
+    },
+    {
+        "title": "Subject is captured after attacking the driver of a vehicle with a corvo in the head",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/sujeto-es-capturado-tras-atacar-con-un-corvo-en-la-cabeza-a-conductor-de-un-vehiculo/",
+        "published_date": "2026-10-06 22:51:51",
+        "category": "Military"
     },
     {
         "title": "Subject who injured a man with a crowbar after he gave him a trip",
@@ -203,81 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Foreign tourists highlight security and leadership of President Bukele during visit to El Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/turistas-extranjeros-destacan-seguridad-y-liderazgo-del-presidente-bukele-durante-visita-a-el-salvador/",
-        "published_date": "2026-10-06 14:55:48",
-        "category": "Military"
-    },
-    {
-        "title": "Cargo truck sent for multiple mechanical deficiencies and driver with expired license",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/remiten-camion-de-carga-por-multiples-deficiencias-mecanicas-y-conductor-con-licencia-vencida/",
-        "published_date": "2026-10-05 23:12:13",
-        "category": "Military"
-    },
-    {
-        "title": "Those responsible for a fight during a dance in Rosario de Mora are arrested",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/detienen-a-los-reponsables-de-una-pelea-durante-un-baile-en-rosario-de-mora/",
-        "published_date": "2026-10-05 22:47:50",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a man after attacking and causing a burn in the eye of another person in Sonsonate",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-hombre-tras-agredir-y-provocar-una-quemadura-en-el-ojo-a-otra-persona-en-sonsonate/",
-        "published_date": "2026-10-05 22:16:54",
-        "category": "Military"
-    },
-    {
-        "title": "Subject caught in flagrante delicto with crack and marijuana during operation in Santa Ana",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-en-flagrancia-a-sujeto-con-crack-y-marihuana-durante-operativo-en-santa-ana/",
-        "published_date": "2026-10-05 20:23:14",
-        "category": "Military"
-    },
-    {
-        "title": "Four arrested for starting a fight during a dance activity in Rosario de Mora, San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/cuatro-detenidos-por-protagonizar-una-pelea-durante-actividad-bailable-en-rosario-de-mora-san-salvador/",
-        "published_date": "2026-10-05 19:35:55",
-        "category": "Military"
-    },
-    {
-        "title": "Four subjects are captured after getting into a fight during a dance in Rosario de Mora, San Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-cuatro-sujetos-tras-protagonizar-una-pelea-durante-un-baile-en-rosario-de-mora-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-cuatro-sujetos-tras-protagonizar-una-pelea-durante-un-baile-en-rosario-de-mora-san-salvador",
-        "published_date": "2026-10-05 19:35:22",
-        "category": "Military"
-    },
-    {
-        "title": "They capture motorcyclists caught driving drunk in Chalatenango",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-motociclistas-sorprendidos-conduciendo-ebrios-en-chalatenango/",
-        "published_date": "2026-10-05 01:02:12",
-        "category": "Military"
-    },
-    {
-        "title": "Subject captured for transporting an illegal weapon",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-sujeto-por-transportar-un-arma-ilegal/",
-        "published_date": "2026-10-04 20:41:31",
-        "category": "Military"
-    },
-    {
-        "title": "They capture in Ciudad Arce a man who injured the neighbor who defended his life partner with a crowbar",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-en-ciudad-arce-a-un-hombre-que-lesiono-con-un-corvo-al-vecino-que-defendio-a-su-companera-de-vida/",
-        "published_date": "2026-10-04 17:44:10",
-        "category": "Military"
-    },
-    {
-        "title": "The National Civil Police captured a Nicaraguan in San Miguel accused of attacking a man and an elderly woman.",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/la-policia-nacional-civil-capturo-en-san-miguel-a-un-nicaraguense-senalado-de-agredir-a-un-hombre-y-a-una-adulta-mayor/",
-        "published_date": "2026-10-04 17:31:02",
-        "category": "Military"
+        "title": "Governing in silent film style: when performance replaces results",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/gobernar-al-estilo-del-cine-mudo-cuando-la-actuacion-sustituye-los-resultados/",
+        "published_date": "2026-10-07 10:55:38",
+        "category": "Energy"
     },
     {
         "title": "Iron Maiden conquers the Salvadoran public with a tour of their classics",
@@ -336,11 +343,18 @@
         "category": "Energy"
     },
     {
-        "title": "\u201cGood management of the national market has allowed fuels to remain stable\u201d: GOES",
+        "title": "World Bank projects growth of 4.5% for El Salvador in 2026",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/banco-mundial-proyecta-crecimiento-de-4-5-para-el-salvador-en-2026/",
+        "published_date": "2026-10-07 17:42:49",
+        "category": "Economy"
+    },
+    {
+        "title": "UES budget assigned by the Treasury \u201cis not enough; however, we function\u201d: Juan Rosa Quintanilla",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/buen-manejo-del-mercado-nacional-ha-permitido-que-combustibles-se-mantengan-estables-goes/",
-        "published_date": "2026-09-29 11:02:37",
-        "category": "Energy"
+        "url": "https://www.diariocolatino.com/presupuesto-ues-asignado-por-hacienda-no-alcanza-sin-embargo-funcionamos-juan-rosa-quintanilla/",
+        "published_date": "2026-10-07 11:03:17",
+        "category": "Economy"
     },
     {
         "title": "El Salvador will grow 4.5% in 2026, according to a new World Bank report",
@@ -469,157 +483,143 @@
         "category": "Economy"
     },
     {
-        "title": "Salvadoran economy grows 5.1% in the second quarter of 2026",
+        "title": "Woman prosecuted for alleged falsification of medical records",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/economia-salvadorena-crece-5-1-en-el-segundo-trimestre-de-2026/?utm_source=rss&utm_medium=rss&utm_campaign=economia-salvadorena-crece-5-1-en-el-segundo-trimestre-de-2026",
-        "published_date": "2026-09-30 20:55:05",
-        "category": "Economy"
-    },
-    {
-        "title": "President Nayib Bukele discusses with CAF new investments for education, health and aeronautical development",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presidente-nayib-bukele-aborda-con-caf-nuevas-inversiones-para-educacion-salud-y-desarrollo-aeronautico/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-nayib-bukele-aborda-con-caf-nuevas-inversiones-para-educacion-salud-y-desarrollo-aeronautico",
-        "published_date": "2026-09-30 01:35:52",
-        "category": "Economy"
-    },
-    {
-        "title": "Mayor's Office of San Salvador Este carries out rearrangement and removal of abandoned vehicles in Soyapango",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/alcaldia-de-san-salvador-este-ejecuta-reordenamiento-y-retiro-de-vehiculos-abandonados-en-soyapango/?utm_source=rss&utm_medium=rss&utm_campaign=alcaldia-de-san-salvador-este-ejecuta-reordenamiento-y-retiro-de-vehiculos-abandonados-en-soyapango",
-        "published_date": "2026-10-07 00:45:34",
+        "url": "https://lapagina.com.sv/nacionales/mujer-procesada-por-presunto-falsificado-de-constancias-medicas/?utm_source=rss&utm_medium=rss&utm_campaign=mujer-procesada-por-presunto-falsificado-de-constancias-medicas",
+        "published_date": "2026-10-07 17:37:21",
         "category": "Local Events"
     },
     {
-        "title": "Mayor's Office of San Salvador Este executes remorse and removal of abandoned vehicles in Soyapango",
+        "title": "Candidate for FMLN vice presidency qualifies new Rosales hospital as \u201cShow, LED lights and marketing\u201d",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/alcaldia-de-san-salvador-este-ejecuta-remordimiento-y-retiro-de-vehiculos-abandonados-en-soyapango/",
-        "published_date": "2026-10-07 00:31:57",
+        "url": "https://diariolahuella.com/candidata-a-la-vicepresidencia-del-fmln-califica-como-show-luces-led-y-marketing-nuevo-hospital-rosales/",
+        "published_date": "2026-10-07 17:23:16",
         "category": "Local Events"
     },
     {
-        "title": "Bolillo G\u00f3mez doesn't want to leave!The coach reveals his position after the relegation of La Selecta",
+        "title": "Woman prosecuted for alleged falsification of medical records",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/mujer-procesada-por-presunto-falsificado-de-constancias-medicas/",
+        "published_date": "2026-10-07 17:17:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "The FEDECR\u00c9DITO SYSTEM equips the 12 clubs of the \u201cFedecredito System Cup\u201d with technology to increase the performance of their players",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/bolillo-gomez-no-quiere-irse-el-tecnico-revela-su-postura-tras-el-descenso-de-la-selecta/",
-        "published_date": "2026-10-06 23:49:58",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/el-sistema-fedecredito-equipa-a-los-12-clubes-de-la-copa-sistema-fedecredito-con-tecnologia-para-elevar-el-rendimiento-de-sus-jugadores/",
+        "published_date": "2026-10-07 17:12:32",
         "category": "Local Events"
     },
     {
-        "title": "Unlicensed driver causes accident after truck overturns due to speeding",
+        "title": "FMLN vice presidential candidate compares her critics to dogs",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/candidata-a-la-vicepresidencia-del-fmln-compara-con-perros-a-sus-criticos/",
+        "published_date": "2026-10-07 16:57:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mada\u00ed Santos points out that they are \"very brave\" for participating in presidential elections",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/madai-santos-senala-que-son-muy-valientes-por-participar-en-elecciones-presidenciales/",
+        "published_date": "2026-10-07 16:42:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mada\u00ed Santos assures that Doctor SV is not for all Salvadorans",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/conductor-sin-licencia-provoca-accidente-tras-volcar-camion-por-exceso-de-velocidad/?utm_source=rss&utm_medium=rss&utm_campaign=conductor-sin-licencia-provoca-accidente-tras-volcar-camion-por-exceso-de-velocidad",
-        "published_date": "2026-10-06 23:37:07",
+        "url": "https://lapagina.com.sv/politica/madai-santos-asegura-que-doctor-sv-no-es-para-todos-los-salvadorenos/?utm_source=rss&utm_medium=rss&utm_campaign=madai-santos-asegura-que-doctor-sv-no-es-para-todos-los-salvadorenos",
+        "published_date": "2026-10-07 16:33:10",
         "category": "Local Events"
     },
     {
-        "title": "France accumulates 215 students injured in high school protests",
+        "title": "Strong storms affect Madrid",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/fuertes-tormentas-afectan-madrid/",
+        "published_date": "2026-10-07 16:29:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe Rosales Hospital disappeared\u201d: Mada\u00ed Santos",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/el-hospital-rosales-desaparecio-madai-santos/?utm_source=rss&utm_medium=rss&utm_campaign=el-hospital-rosales-desaparecio-madai-santos",
+        "published_date": "2026-10-07 16:18:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mada\u00ed Santos compares his critics to dogs",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/madai-santos-compara-con-perros-a-sus-criticos/?utm_source=rss&utm_medium=rss&utm_campaign=madai-santos-compara-con-perros-a-sus-criticos",
+        "published_date": "2026-10-07 16:16:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Madai Santos considers herself \u201cbrave\u201d for participating in the next presidential elections",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/madai-santos-se-considera-valiente-por-participar-el-proximas-elecciones-presidenciales/?utm_source=rss&utm_medium=rss&utm_campaign=madai-santos-se-considera-valiente-por-participar-el-proximas-elecciones-presidenciales",
+        "published_date": "2026-10-07 16:07:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cEl Carbonero\u201d thrills in Italy during the presentation of Opus 503",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-carbonero-emociona-en-italia-durante-presentacion-de-opus-503/",
+        "published_date": "2026-10-07 16:02:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Subject murdered his own six-year-old and attacked other relatives with a knife",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/sujeto-asesino-a-su-propio-de-seis-anos-y-ataco-con-arma-blanca-a-otros-familiares/",
+        "published_date": "2026-10-07 15:49:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mostly cloudy skies, with rain and storms for this Wednesday",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/cielo-mayormente-nublado-con-lluvias-y-tormentas-para-este-miercoles/?utm_source=rss&utm_medium=rss&utm_campaign=cielo-mayormente-nublado-con-lluvias-y-tormentas-para-este-miercoles",
+        "published_date": "2026-10-07 15:24:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rain and storms are forecast for this Wednesday",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/pronostican-lluvias-y-tormentas-para-este-miercoles-4/",
+        "published_date": "2026-10-07 15:06:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "MARN predicts rain and storms for this Wednesday in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/marn-preve-lluvias-y-tormentas-para-este-miercoles-en-el-salvador/",
+        "published_date": "2026-10-07 14:51:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Opus 503 delights Italy with its traditional Salvadoran tunes",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/opus-503-deleita-a-italia-con-sus-tradicionales-tonadas-salvadorenas/?utm_source=rss&utm_medium=rss&utm_campaign=opus-503-deleita-a-italia-con-sus-tradicionales-tonadas-salvadorenas",
+        "published_date": "2026-10-07 14:32:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "ARENA questions reforms to CENTA due to lack of results and risks in purchases",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/francia-acumula-215-estudiantes-lesionados-en-protestas-de-los-liceos/",
-        "published_date": "2026-10-06 23:12:22",
+        "url": "https://www.diariocolatino.com/arena-cuestiona-reformas-al-centa-por-falta-de-resultados-y-riesgos-en-compras/",
+        "published_date": "2026-10-07 11:04:55",
         "category": "Local Events"
     },
     {
-        "title": "Truck overturns due to excess speed and ends up hitting a high voltage pole",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/camion-vuelca-por-exceso-de-velocidad-y-termina-impactando-un-poste-de-alto-voltaje/",
-        "published_date": "2026-10-06 23:06:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "WHO supports Kenya's response to Ebola after first imported case",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/oms-apoya-respuesta-de-kenia-a-ebola-tras-primer-caso-importado/",
-        "published_date": "2026-10-06 22:08:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "International alert: US issues warning after suspected pneumonic plague outbreak and death in Russia's Irkutsk region",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/alerta-internacional-ee-uu-emite-advertencia-tras-brote-sospechoso-de-peste-neumonica-y-muerte-en-la-region-rusa-de-irkutsk/",
-        "published_date": "2026-10-06 21:57:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "VMT maintains controls on cargo transportation",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/vmt-mantiene-controles-al-transporte-de-carga/",
-        "published_date": "2026-10-06 21:30:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Markets at SITRAMSS stations: a concrete response to the right to decent work",
+        "title": "FUNDEMAS focuses its Sustainability Week on resilience and artificial intelligence",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/mercados-en-las-estaciones-del-sitramss-una-respuesta-concreta-al-derecho-al-trabajo-decente/",
-        "published_date": "2026-10-06 21:26:50",
+        "url": "https://www.diariocolatino.com/fundemas-centra-semana-sostenibilidad-resiliencia-inteligencia-artificial/",
+        "published_date": "2026-10-07 11:02:51",
         "category": "Local Events"
     },
     {
-        "title": "Formation of municipal councils period 2027-2030",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/conformacion-de-concejos-municipales-periodo-2027-2030/",
-        "published_date": "2026-10-06 21:11:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe Adventures of Cipit\u00edo\u201d arrives at the London Latino Film Festival",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/las-aventuras-del-cipitio-llega-al-london-latino-film-festival/?utm_source=rss&utm_medium=rss&utm_campaign=las-aventuras-del-cipitio-llega-al-london-latino-film-festival",
-        "published_date": "2026-10-06 20:54:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Cipit\u00edo crosses borders and brings Salvadoran folklore to London",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-cipitio-cruza-fronteras-y-lleva-el-folclore-salvadoreno-a-londres/",
-        "published_date": "2026-10-06 20:49:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Everything ready for the Jocote Corona Fair this October 10 and 11",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/todo-listo-para-la-feria-del-jocote-corona-este-10-y-11-de-octubre/?utm_source=rss&utm_medium=rss&utm_campaign=todo-listo-para-la-feria-del-jocote-corona-este-10-y-11-de-octubre",
-        "published_date": "2026-10-06 20:44:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jocote Corona Fair will be held on October 10 and 11",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/feria-del-jocote-corona-se-realizara-el-10-y-11-de-octubre/",
-        "published_date": "2026-10-06 20:40:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Students thank Nayib Bukele for supporting the construction of 1,000 schools in Honduras",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/estudiantes-agradecen-a-nayib-bukele-por-apoyar-construccion-de-1000-escuelas-en-honduras/",
-        "published_date": "2026-10-06 20:20:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elected mayor of Itaugu\u00e1 fulfills promise and enables free motel for 12 hours",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/alcalde-electo-de-itaugua-cumple-promesa-y-habilita-motel-gratis-por-12-horas/?utm_source=rss&utm_medium=rss&utm_campaign=alcalde-electo-de-itaugua-cumple-promesa-y-habilita-motel-gratis-por-12-horas",
-        "published_date": "2026-10-06 20:17:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor's Office of San Salvador Este intensifies the \u201cV\u00edas Libres\u201d plan with the removal of abandoned vehicles in Soyapango",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/alcaldia-de-san-salvador-este-intensifica-el-plan-vias-libres-con-el-retiro-de-vehiculos-abandonados-en-soyapango/",
-        "published_date": "2026-10-06 20:13:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unlicensed driver loses control of cargo truck and collides with pole on the highway to Comalapa",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/conductor-sin-licencia-pierde-el-control-de-camion-de-carga-y-colisiona-contra-poste-en-la-autopista-a-comalapa/",
-        "published_date": "2026-10-06 20:10:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hyper-realistic panther-shaped suitcase surprises passengers in China",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/maleta-hiperrealista-con-forma-de-pantera-sorprende-a-pasajeros-en-china/",
-        "published_date": "2026-10-06 19:17:44",
+        "title": "Healing, spirituality and brotherhood, a legacy that Grandmother Bast\u00f3n left behind during her time in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/sanacion-espiritualidad-y-hermandad-herencia-que-dejo-la-abuela-baston-a-su-paso-por-el-salvador/",
+        "published_date": "2026-10-07 11:01:52",
         "category": "Local Events"
     }
 ]
