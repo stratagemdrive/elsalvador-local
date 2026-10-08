@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sharing experiences to drive innovation",
+        "source": "Cronio",
+        "url": "https://croniosv.com/politica/compartiendo-experiencias-para-impulsar-la-innovacion/",
+        "published_date": "2026-10-08 17:18:41",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Uruguay shows interest in the Salvadoran experience in innovation and digital assets",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/uruguay-muestra-interes-en-la-experiencia-salvadorena-en-innovacion-y-activos-digitales/?utm_source=rss&utm_medium=rss&utm_campaign=uruguay-muestra-interes-en-la-experiencia-salvadorena-en-innovacion-y-activos-digitales",
+        "published_date": "2026-10-08 17:06:01",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "World Federation of Trade Unions rejects the proposal for 11-hour days in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/federacion-mundial-de-sindicatos-rechaza-la-propuesta-de-jornadas-de-11-horas-en-el-salvador/",
+        "published_date": "2026-10-08 11:00:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The goodbye of a legend: Messi leaves Argentina with a goal and a show of assists",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/el-adios-de-una-leyenda-messi-se-retira-de-argentina-con-gol-y-show-de-asistencias/",
@@ -119,25 +140,67 @@
         "category": "Diplomacy"
     },
     {
-        "title": "El Salvador and Korea strengthen a relationship based on friendship, cooperation and development",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/el-salvador-y-corea-fortalecen-una-relacion-basada-en-amistad-cooperacion-y-desarrollo/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-corea-fortalecen-una-relacion-basada-en-amistad-cooperacion-y-desarrollo",
-        "published_date": "2026-10-03 13:46:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "A legacy that keeps the ideal of a united Central America in force",
+        "title": "PNC captures a gang member who stole a motorcycle in Col\u00f3n",
         "source": "Cronio",
-        "url": "https://croniosv.com/politica/un-legado-que-mantiene-vigente-el-ideal-de-una-centroamerica-unida/",
-        "published_date": "2026-10-03 03:39:36",
-        "category": "Diplomacy"
+        "url": "https://croniosv.com/nacionales/pnc-captura-a-pandillero-que-robo-una-motocicleta-en-colon/",
+        "published_date": "2026-10-08 16:49:02",
+        "category": "Military"
     },
     {
-        "title": "ALWAYS THE FABLE AMONG US",
+        "title": "They capture a subject who hit his life partner with a drill",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/capturan-a-sujeto-que-golpeo-con-un-taladro-a-su-companera-de-vida/",
+        "published_date": "2026-10-08 15:56:37",
+        "category": "Military"
+    },
+    {
+        "title": "Hondurans flock to El Amatillo to vacation in El Salvador",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/hondurenos-se-vuelcan-a-el-amatillo-para-vacacionar-en-el-salvador/",
+        "published_date": "2026-10-08 15:55:40",
+        "category": "Military"
+    },
+    {
+        "title": "They dismantle a network that trafficked drugs through Salvadoran waters",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/desmantelan-red-que-traficaba-drogas-por-aguas-salvadorenas/?utm_source=rss&utm_medium=rss&utm_campaign=desmantelan-red-que-traficaba-drogas-por-aguas-salvadorenas",
+        "published_date": "2026-10-08 14:57:37",
+        "category": "Military"
+    },
+    {
+        "title": "Iran will launch preemptive strikes if necessary to avoid \u201cenemy\u201d aggression",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/siempre-la-fabula-entre-nosotros/",
-        "published_date": "2026-10-03 00:05:55",
-        "category": "Diplomacy"
+        "url": "https://www.diariocolatino.com/iran-lanzara-ataques-preventivos-de-ser-necesario-para-evitar-agresiones-enemigas/",
+        "published_date": "2026-10-08 10:35:34",
+        "category": "Military"
+    },
+    {
+        "title": "They arrest a member of the MS linked to an assault that occurred in Col\u00f3n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/detienen-a-integrante-de-la-ms-vinculado-a-un-asalto-ocurrido-en-colon/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-integrante-de-la-ms-vinculado-a-un-asalto-ocurrido-en-colon",
+        "published_date": "2026-10-08 04:48:50",
+        "category": "Military"
+    },
+    {
+        "title": "Motorcyclist is captured after running over a student in Soyapango",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/motociclista-es-capturado-tras-atropellar-a-estudiante-en-soyapango/",
+        "published_date": "2026-10-08 04:35:30",
+        "category": "Military"
+    },
+    {
+        "title": "National emergency due to meteorological and agricultural drought caused by \u201cSuper El Ni\u00f1o\u201d",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/emergencia-nacional-por-sequia-meteorologica-y-agricola-causada-por-super-el-nino/",
+        "published_date": "2026-10-08 04:34:21",
+        "category": "Military"
+    },
+    {
+        "title": "Family attack leaves one child dead and five injured in Ciudad Barrios",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ataque-familiar-deja-un-nino-muerto-y-cinco-lesionados-en-ciudad-barrios/",
+        "published_date": "2026-10-07 21:48:18",
+        "category": "Military"
     },
     {
         "title": "El Salvador guarantees security to Honduran tourists during Morazan Week",
@@ -217,69 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "PNC seizes largest drug shipment to date in land transport mode",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/pnc-incauta-cargamento-de-droga-mas-grande-a-la-fecha-en-modalidad-transporte-terrestre2/",
-        "published_date": "2026-10-07 15:03:26",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a subject who attacked another after an argument while they were drinking alcohol in Sonsonate",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-sujeto-que-agredio-a-otro-tras-una-discusion-mientras-bebian-alcohol-en-sonsonate/",
-        "published_date": "2026-10-07 15:02:22",
-        "category": "Military"
-    },
-    {
-        "title": "Man is arrested for injuries after an argument in Acajutla",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/hombre-es-detenido-por-lesiones-tras-una-discusion-en-acajutla/?utm_source=rss&utm_medium=rss&utm_campaign=hombre-es-detenido-por-lesiones-tras-una-discusion-en-acajutla",
-        "published_date": "2026-10-07 13:37:33",
-        "category": "Military"
-    },
-    {
-        "title": "Subject is captured after attacking the driver of a vehicle with a corvo in the head",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/sujeto-es-capturado-tras-atacar-con-un-corvo-en-la-cabeza-a-conductor-de-un-vehiculo/",
-        "published_date": "2026-10-06 22:51:51",
-        "category": "Military"
-    },
-    {
-        "title": "Subject who injured a man with a crowbar after he gave him a trip",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/sujeto-que-hirio-con-un-corvo-a-un-hombre-despues-de-que-le-hizo-un-viaje/?utm_source=rss&utm_medium=rss&utm_campaign=sujeto-que-hirio-con-un-corvo-a-un-hombre-despues-de-que-le-hizo-un-viaje",
-        "published_date": "2026-10-06 22:45:40",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a subject who injured a man with a crowbar",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-sujeto-que-hirio-con-un-corvo-a-un-hombre/",
-        "published_date": "2026-10-06 22:32:03",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a man who threatened to kill a family in Sensuntepeque with a crowbar",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-hombre-que-amenazo-de-muerte-con-un-corvo-a-una-familia-en-sensuntepeque/",
-        "published_date": "2026-10-06 21:57:42",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador presents in Uruguay its regional strategy to strengthen water security",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-presenta-en-uruguay-su-estrategia-regional-para-fortalecer-la-seguridad-hidrica/",
-        "published_date": "2026-10-06 21:37:29",
-        "category": "Military"
-    },
-    {
-        "title": "Regional cooperation to strengthen water security",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/cooperacion-regional-para-fortalecer-la-seguridad-hidrica/",
-        "published_date": "2026-10-06 20:32:23",
-        "category": "Military"
-    },
-    {
         "title": "Governing in silent film style: when performance replaces results",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/gobernar-al-estilo-del-cine-mudo-cuando-la-actuacion-sustituye-los-resultados/",
@@ -319,27 +319,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/se-cumplen-21-anos-de-la-ultima-erupcion-del-volcan-de-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=se-cumplen-21-anos-de-la-ultima-erupcion-del-volcan-de-santa-ana",
         "published_date": "2026-10-01 16:18:03",
-        "category": "Energy"
-    },
-    {
-        "title": "Oil and sovereignty: the measure of the agreement between Venezuela and the United States",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/petroleo-y-soberania-la-medida-del-acuerdo-entre-venezuela-y-estados-unidos/",
-        "published_date": "2026-09-30 10:55:53",
-        "category": "Energy"
-    },
-    {
-        "title": "QUE pays an additional 100 billion euros for fossil fuel imports",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ue-paga-100-000-millones-de-euros-adicionales-por-importaciones-de-combustibles-fosiles/",
-        "published_date": "2026-09-30 10:30:55",
-        "category": "Energy"
-    },
-    {
-        "title": "MULTICOM promotes the technological update of the construction sector",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/multicom-impulsa-la-actualizacion-tecnologica-del-sector-construccion/",
-        "published_date": "2026-09-30 02:58:10",
         "category": "Energy"
     },
     {
@@ -483,143 +462,143 @@
         "category": "Economy"
     },
     {
-        "title": "Man is arrested after attacking his life partner with a drill and threatening to kill him",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/hombre-es-detenido-tras-agredir-con-un-taladro-y-amenazar-de-muerte-a-su-companera-de-vida/?utm_source=rss&utm_medium=rss&utm_campaign=hombre-es-detenido-tras-agredir-con-un-taladro-y-amenazar-de-muerte-a-su-companera-de-vida",
-        "published_date": "2026-10-08 01:02:05",
+        "title": "Bolillo G\u00f3mez wants to continue with the Selecta despite the relegation to League B",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/bolillo-gomez-quiere-seguir-con-la-selecta-pese-al-descenso-a-la-liga-b/",
+        "published_date": "2026-10-08 17:47:51",
         "category": "Local Events"
     },
     {
-        "title": "AGEPYM rejects proposal to extend the working day to 11 hours",
+        "title": "\u201cI don't want to leave\u201d: Bolillo G\u00f3mez hopes to define his future with Selecta",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/deportes/yo-no-me-quiero-ir-bolillo-gomez-espera-definir-su-futuro-con-la-selecta/?utm_source=rss&utm_medium=rss&utm_campaign=yo-no-me-quiero-ir-bolillo-gomez-espera-definir-su-futuro-con-la-selecta",
+        "published_date": "2026-10-08 17:47:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Honduran tourists highlight speed at Salvadoran borders",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/turistas-hondurenos-destacan-rapidez-en-fronteras-salvadorenas/?utm_source=rss&utm_medium=rss&utm_campaign=turistas-hondurenos-destacan-rapidez-en-fronteras-salvadorenas",
+        "published_date": "2026-10-08 17:42:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran film \u201cV\u00e9rtices\u201d stands out at international film festival in Maryland",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/pelicula-salvadorena-vertices-destaca-en-festival-internacional-de-cine-en-maryland/?utm_source=rss&utm_medium=rss&utm_campaign=pelicula-salvadorena-vertices-destaca-en-festival-internacional-de-cine-en-maryland",
+        "published_date": "2026-10-08 17:15:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cV\u00e9rtices\u201d, a Salvadoran film nominated for the Oscars, arrives at the film festival in Maryland",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/vertices-pelicula-salvadorena-postulada-a-los-oscar-llega-a-festival-de-cine-en-maryland/",
+        "published_date": "2026-10-08 17:11:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador launches pioneering virtual assistance initiative for agricultural producers",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-lanza-iniciativa-pionera-de-asistencia-virtual-para-productores-agropecuarios/",
+        "published_date": "2026-10-08 16:59:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "They ask for the resignation of the Honduran tourism secretary due to mismanagement",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/internacionales/piden-renuncia-de-secretario-de-turismo-hondureno-por-mala-gestion/?utm_source=rss&utm_medium=rss&utm_campaign=piden-renuncia-de-secretario-de-turismo-hondureno-por-mala-gestion",
+        "published_date": "2026-10-08 16:53:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"We are going to build them a beautiful passage,\" President Bukele responds to the request of children in Usulut\u00e1n",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/vamos-a-construirles-un-paso-bonito-presidente-bukele-responde-a-peticion-de-ninos-en-usulutan/",
+        "published_date": "2026-10-08 16:40:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "TSE verifies the non-party affiliation of members for Temporary Electoral Organizations",
+        "source": "Cronio",
+        "url": "https://croniosv.com/politica/tse-verifica-la-no-afiliacion-partidaria-de-integrantes-para-organismos-electorales-temporales/",
+        "published_date": "2026-10-08 16:28:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "They carry out cattle vaccination in Izalco",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/realizan-vacunacion-de-ganado-en-izalco/",
+        "published_date": "2026-10-08 16:03:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Streak of road accidents leaves at least three injured between Wednesday night and early Thursday morning",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/racha-de-siniestros-viales-deja-al-menos-tres-lesionados-entre-la-noche-del-miercoles-y-la-madrugada-del-jueves/",
+        "published_date": "2026-10-08 15:02:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Construction of the new Santa Tecla market will begin in 2027",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/construccion-del-nuevo-mercado-de-santa-tecla-iniciara-en-2027/",
+        "published_date": "2026-10-08 15:01:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three people are injured in accidents recorded between Wednesday night and Thursday",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/tres-personas-resultan-lesionadas-en-accidentes-registrados-entre-la-noche-del-miercoles-y-este-jueves/?utm_source=rss&utm_medium=rss&utm_campaign=tres-personas-resultan-lesionadas-en-accidentes-registrados-entre-la-noche-del-miercoles-y-este-jueves",
+        "published_date": "2026-10-08 15:01:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "They dismantle a network that moved cocaine through Salvadoran waters",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/desarticulan-red-que-movia-cocaina-por-aguas-salvadorenas/",
+        "published_date": "2026-10-08 14:53:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "MARN predicts rain and storms for this Thursday in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/marn-preve-lluvias-y-tormentas-para-este-jueves-en-el-salvador/",
+        "published_date": "2026-10-08 14:48:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Scattered rain and storms are expected this Thursday in the volcanic chain and the northern strip",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/se-preven-lluvias-y-tormentas-dispersas-este-jueves-en-la-cadena-volcanica-y-la-franja-norte/?utm_source=rss&utm_medium=rss&utm_campaign=se-preven-lluvias-y-tormentas-dispersas-este-jueves-en-la-cadena-volcanica-y-la-franja-norte",
+        "published_date": "2026-10-08 14:47:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Environment warns of rain and electrical activity during the afternoon of this Thursday",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/medio-ambiente-advierte-lluvias-y-actividad-electrica-durante-la-tarde-de-este-jueves/",
+        "published_date": "2026-10-08 14:46:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador continues to weaken international drug trafficking: New coup results in capture and seizure of millions",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/el-salvador-sigue-debilitando-el-narcotrafico-internacional-nuevo-golpe-deja-capturado-e-incautacion-millonaria/",
+        "published_date": "2026-10-08 14:21:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador and Uruguay strengthen their ties of cooperation and dialogue",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/el-salvador-y-uruguay-fortalecen-sus-vinculos-de-cooperacion-y-dialogo/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-uruguay-fortalecen-sus-vinculos-de-cooperacion-y-dialogo",
+        "published_date": "2026-10-08 13:21:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Economic growth contrasts with poverty and pension crisis in El Salvador, say journalists",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/agepym-rechaza-propuesta-de-extender-jornada-laboral-a-11-horas/",
-        "published_date": "2026-10-08 00:44:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vigilante sentenced to 45 years in prison for homicide of an elderly adult",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/condenan-a-45-anos-de-carcel-a-vigilante-por-homicidio-de-un-adulto-mayor/?utm_source=rss&utm_medium=rss&utm_campaign=condenan-a-45-anos-de-carcel-a-vigilante-por-homicidio-de-un-adulto-mayor",
-        "published_date": "2026-10-08 00:39:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vigilante receives 45 years in prison for murdering an older adult in Antiguo Cuscatl\u00e1n",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/vigilante-recibe-45-anos-de-prision-por-asesinar-a-un-adulto-mayor-en-antiguo-cuscatlan/",
-        "published_date": "2026-10-08 00:33:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "They identify the fatal victim of an accident registered on the road to Metap\u00e1n",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/identifican-a-victima-mortal-de-accidente-registrado-en-carretera-a-metapan/?utm_source=rss&utm_medium=rss&utm_campaign=identifican-a-victima-mortal-de-accidente-registrado-en-carretera-a-metapan",
-        "published_date": "2026-10-08 00:25:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lotra Raffle N\u00b0469 dedicated to \u201c6 Years Being Our Voice\u201d El Salvador News",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/economia/sorteo-lotra-n469-dedicado-a-6-anos-siendo-nuestra-voz-noticiero-el-salvador/",
-        "published_date": "2026-10-07 23:47:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Assembly declares \u201cState of Emergency\u201d for 6 months due to meteorological drought",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/asamblea-declara-por-6-meses-estado-de-emergencia-por-sequia-meteorologica/",
-        "published_date": "2026-10-07 22:27:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Legislative Assembly declares national emergency after meteorological and agricultural drought due to El Ni\u00f1o phenomenon",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/asamblea-legislativa-declara-emergencia-nacional-tras-sequia-meteorologica-y-agricola-por-fenomeno-de-el-nino/",
-        "published_date": "2026-10-07 22:16:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "MINSAL carries out a day of combating mosquitoes in Santa Tecla",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/minsal-realiza-jornada-de-combate-al-zancudo-en-santa-tecla/",
-        "published_date": "2026-10-07 21:25:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "A young Salvadoran woman dies after being attacked in front of her three children in Nuevo Le\u00f3n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/joven-salvadorena-muere-tras-ser-atacada-frente-a-sus-tres-hijos-en-nuevo-leon/",
-        "published_date": "2026-10-07 21:10:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The women's Selecta refines details for its two friendlies against Paraguay",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/la-selecta-femenina-afina-detalles-para-sus-dos-amistosos-frente-a-paraguay/",
-        "published_date": "2026-10-07 21:02:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Provides care to a 101-year-old compatriot",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/brinda-atencion-a-connacional-de-101-anos/?utm_source=rss&utm_medium=rss&utm_campaign=brinda-atencion-a-connacional-de-101-anos",
-        "published_date": "2026-10-07 20:58:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Container detaches from trailer and causes diesel spill in Ciudad Delgado",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/contenedor-se-desprende-de-remolque-y-provoca-derrame-de-diesel-en-ciudad-delgado/",
-        "published_date": "2026-10-07 20:52:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "How to choose between Puma sneaker models according to your style",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/como-elegir-segun-tu-estilo-entre-los-modelos-de-zapatillas-puma/",
-        "published_date": "2026-10-07 20:42:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Consulate of El Salvador in Los Angeles provides care to a 101-year-old compatriot",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/consulado-de-el-salvador-en-los-angeles-brinda-atencion-a-connacional-de-101-anos/",
-        "published_date": "2026-10-07 20:34:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cristiano Ronaldo dedicates an emotional message to Messi after his last match with Argentina",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/cristiano-ronaldo-dedica-emotivo-mensaje-a-messi-tras-su-ultimo-partido-con-argentina/",
-        "published_date": "2026-10-07 20:30:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Save and Win reaches almost 6 million opportunities and more than 112 thousand participants in its eighth draw",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/ahorra-y-gana-alcanza-casi-6-millones-de-oportunidades-y-mas-de-112-mil-participantes-en-su-octavo-sorteo/",
-        "published_date": "2026-10-07 20:21:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "They declare a National Emergency due to meteorological drought in the national territory",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/declaran-emergencia-nacional-por-sequia-meteorologica-en-el-territorio-nacional/",
-        "published_date": "2026-10-07 19:52:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Legislative Assembly declares national emergency due to meteorological drought",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/asamblea-legislativa-declara-emergencia-nacional-por-sequia-meteorologica/?utm_source=rss&utm_medium=rss&utm_campaign=asamblea-legislativa-declara-emergencia-nacional-por-sequia-meteorologica",
-        "published_date": "2026-10-07 19:50:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Save and Win reaches almost 6 million opportunities and more than 112 thousand participants in its eighth draw",
-        "source": "Cronio",
-        "url": "https://croniosv.com/negocios/empresarial/ahorra-y-gana-alcanza-casi-6-millones-de-oportunidades-y-mas-de-112-mil-participantes-en-su-octavo-sorteo/",
-        "published_date": "2026-10-07 19:32:00",
+        "url": "https://www.diariocolatino.com/crecimiento-economico-contrasta-con-pobreza-y-crisis-de-pensiones-en-el-salvador-afirman-periodistas/",
+        "published_date": "2026-10-08 11:04:06",
         "category": "Local Events"
     }
 ]
