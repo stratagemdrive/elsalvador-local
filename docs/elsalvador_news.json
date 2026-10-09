@@ -1,5 +1,19 @@
 [
     {
+        "title": "Political exchange to strengthen the bilateral relationship",
+        "source": "Cronio",
+        "url": "https://croniosv.com/politica/intercambio-politico-para-fortalecer-la-relacion-bilateral/",
+        "published_date": "2026-10-09 16:28:24",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "El Salvador shares its experience in security and development with political representatives of Uruguay",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/el-salvador-comparte-su-experiencia-en-seguridad-y-desarrollo-con-representantes-politicos-de-uruguay/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-comparte-su-experiencia-en-seguridad-y-desarrollo-con-representantes-politicos-de-uruguay",
+        "published_date": "2026-10-09 14:08:17",
+        "category": "Diplomacy"
+    },
+    {
         "title": "New CIFCO advances with land cleaning and preparation",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/nuevo-cifco-avanza-con-limpieza-y-preparacion-del-terreno/",
@@ -126,18 +140,60 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Residents of Santiago Nonualco benefit from wheelchairs thanks to Vanessa Rivera",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/habitantes-de-santiago-nonualco-son-beneficiados-con-sillas-de-ruedas-gracias-a-vanessa-rivera/?utm_source=rss&utm_medium=rss&utm_campaign=habitantes-de-santiago-nonualco-son-beneficiados-con-sillas-de-ruedas-gracias-a-vanessa-rivera",
-        "published_date": "2026-10-04 19:04:00",
-        "category": "Diplomacy"
+        "title": "El Salvador registers seven days without homicides so far in October",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-registra-siete-dias-sin-homicidios-en-lo-que-va-de-octubre/",
+        "published_date": "2026-10-09 16:28:41",
+        "category": "Military"
     },
     {
-        "title": "Nicaragua informs PARLACEN of its departure from the organization",
+        "title": "El Salvador adds seven days without violent deaths during October",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-suma-siete-jornadas-sin-muertes-violentas-durante-octubre/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-suma-siete-jornadas-sin-muertes-violentas-durante-octubre",
+        "published_date": "2026-10-09 16:21:54",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador registers seven days in October without homicides, according to the PNC",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/el-salvador-registra-siete-dias-de-octubre-sin-homicidios-segun-la-pnc/",
+        "published_date": "2026-10-09 16:16:40",
+        "category": "Military"
+    },
+    {
+        "title": "A minor linked to MS-13 is detained in Ahuachap\u00e1n after inspection of his cell phone",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/detienen-en-ahuachapan-a-menor-de-edad-vinculado-a-la-ms-13-tras-inspeccion-de-su-telefono-celular/",
+        "published_date": "2026-10-09 15:21:52",
+        "category": "Military"
+    },
+    {
+        "title": "They capture the person responsible for running over a man on the road to the Port of La Libertad",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/capturan-al-responsable-de-atropellar-a-un-hombre-en-la-carretera-al-puerto-de-la-libertad/",
+        "published_date": "2026-10-09 15:14:06",
+        "category": "Military"
+    },
+    {
+        "title": "Vice President Ulloa defends El Salvador and challenges Galeano: \u201cHow many times have you been to the country?\u201d",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/nicaragua-comunica-al-parlacen-su-salida-del-organismo/",
-        "published_date": "2026-10-04 00:36:02",
-        "category": "Diplomacy"
+        "url": "https://diariolahuella.com/vicepresidente-ulloa-defiende-a-el-salvador-y-reta-a-galeano-cuantas-veces-has-ido-al-pais/",
+        "published_date": "2026-10-09 14:40:30",
+        "category": "Military"
+    },
+    {
+        "title": "They capture the driver who ran over a pedestrian on the road to the Port of La Libertad and fled",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-al-conductor-que-atropello-un-peaton-en-carretera-al-puerto-de-la-libertad-y-huyo/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-al-conductor-que-atropello-un-peaton-en-carretera-al-puerto-de-la-libertad-y-huyo",
+        "published_date": "2026-10-09 14:27:33",
+        "category": "Military"
+    },
+    {
+        "title": "They locate the person responsible for running over a pedestrian and fleeing on the road to the Port of La Libertad",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ubican-al-responsable-de-atropellar-a-un-peaton-y-huir-en-carretera-al-puerto-de-la-libertad/",
+        "published_date": "2026-10-09 14:23:55",
+        "category": "Military"
     },
     {
         "title": "Young man is seriously injured after being hit by a Toyota Cross on the road to Puerto de La Libertad",
@@ -224,62 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "National emergency due to meteorological and agricultural drought caused by \u201cSuper El Ni\u00f1o\u201d",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/emergencia-nacional-por-sequia-meteorologica-y-agricola-causada-por-super-el-nino/",
-        "published_date": "2026-10-08 04:34:21",
-        "category": "Military"
-    },
-    {
-        "title": "Family attack leaves one child dead and five injured in Ciudad Barrios",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ataque-familiar-deja-un-nino-muerto-y-cinco-lesionados-en-ciudad-barrios/",
-        "published_date": "2026-10-07 21:48:18",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador guarantees security to Honduran tourists during Morazan Week",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/el-salvador-garantiza-seguridad-a-turistas-hondurenos-durante-la-semana-morazanica/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-garantiza-seguridad-a-turistas-hondurenos-durante-la-semana-morazanica",
-        "published_date": "2026-10-07 21:04:02",
-        "category": "Military"
-    },
-    {
-        "title": "Young man with Down Syndrome disappeared in Honduras and was found in El Salvador",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/joven-con-sindrome-de-down-desaparecio-en-honduras-y-fue-encontrado-en-el-salvador/",
-        "published_date": "2026-10-07 18:50:58",
-        "category": "Military"
-    },
-    {
-        "title": "PNC helps reunite missing Honduran with his family in Cojutepeque",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/pnc-ayuda-a-reunir-a-hondureno-desaparecido-con-su-familia-en-cojutepeque/?utm_source=rss&utm_medium=rss&utm_campaign=pnc-ayuda-a-reunir-a-hondureno-desaparecido-con-su-familia-en-cojutepeque",
-        "published_date": "2026-10-07 18:36:22",
-        "category": "Military"
-    },
-    {
-        "title": "Two captured after trying to sell tools stolen from a construction site in San Miguel",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/dos-capturados-tras-intentar-vender-herramientas-hurtadas-de-una-construccion-en-san-miguel/",
-        "published_date": "2026-10-07 17:46:07",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a subject who burned down a house and took the life of his nephew in San Miguel",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-sujeto-que-incendio-vivienda-y-le-quito-la-vida-a-su-sobrino-en-san-miguel/",
-        "published_date": "2026-10-07 16:54:56",
-        "category": "Military"
-    },
-    {
-        "title": "Thousands of students protest in France",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/miles-de-estudiantes-protestan-en-francia/",
-        "published_date": "2026-10-07 16:20:14",
-        "category": "Military"
-    },
-    {
         "title": "Governing in silent film style: when performance replaces results",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/gobernar-al-estilo-del-cine-mudo-cuando-la-actuacion-sustituye-los-resultados/",
@@ -308,18 +308,25 @@
         "category": "Energy"
     },
     {
-        "title": "It is 21 years since the last eruption of the Ilamatepec volcano",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/se-cumplen-21-anos-de-la-ultima-erupcion-del-volcan-ilamatepec/",
-        "published_date": "2026-10-01 16:29:47",
-        "category": "Energy"
+        "title": "Treasury requests authorization to issue debt for $515 million to finance Budget 2027",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/hacienda-pide-autorizacion-emitir-deuda-515-millones-financiar-presupuesto/",
+        "published_date": "2026-10-09 11:04:36",
+        "category": "Economy"
     },
     {
-        "title": "It is 21 years since the last eruption of the Santa Ana volcano",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/se-cumplen-21-anos-de-la-ultima-erupcion-del-volcan-de-santa-ana/?utm_source=rss&utm_medium=rss&utm_campaign=se-cumplen-21-anos-de-la-ultima-erupcion-del-volcan-de-santa-ana",
-        "published_date": "2026-10-01 16:18:03",
-        "category": "Energy"
+        "title": "Cristosal warns of risks from private donations of bitcoin to the Salvadoran State",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cristosal-advierte-riesgos-por-donaciones-privadas-de-bitcoin-al-estado-salvadoreno/",
+        "published_date": "2026-10-09 11:02:46",
+        "category": "Economy"
+    },
+    {
+        "title": "CENTA will support the agricultural sector after legal reform",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/centa-apoyara-al-sector-agropecuario-tras-reforma-legal/",
+        "published_date": "2026-10-09 04:57:30",
+        "category": "Economy"
     },
     {
         "title": "The Wine Fair opens its doors this October 8 and 9 at Hacienda Los Miranda",
@@ -420,171 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "Micro and small businesses represent 99.7% of entrepreneurs in El Salvador, according to CONAMYPE",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/micro-y-pequenas-empresas-representan-el-99-7-de-los-empresarios-en-el-salvador-segun-conamype/",
-        "published_date": "2026-10-01 17:17:37",
-        "category": "Economy"
+        "title": "Everything ready for We All Run 2026",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/todo-listo-para-el-we-all-run-2026/?utm_source=rss&utm_medium=rss&utm_campaign=todo-listo-para-el-we-all-run-2026",
+        "published_date": "2026-10-09 16:55:45",
+        "category": "Local Events"
     },
     {
-        "title": "Apocalyptica will bring its symphonic power to San Salvador: Exclusive pre-sale begins for its concert in 2027",
+        "title": "Luisito Comunica tastes the flavors of El Salvador in the documentary \u201cAntojo El Salvador\u201d",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/apocalyptica-traera-su-poder-sinfonico-a-san-salvador-inicia-la-preventa-exclusiva-para-su-concierto-en-2027/",
-        "published_date": "2026-10-01 17:09:12",
-        "category": "Economy"
+        "url": "https://www.elmetropolitanodigital.com/2026/10/luisito-comunica-prueba-los-sabores-de-el-salvador-en-el-documental-antojo-el-salvador/",
+        "published_date": "2026-10-09 16:53:31",
+        "category": "Local Events"
     },
     {
-        "title": "Education will receive more than 8.1% of GDP in the Budget of El Salvador for 2027",
+        "title": "Conservation, climate resilience and comprehensive development advance in the Trifinio Biosphere Reserve",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/educacion-recibira-mas-del-8-1-del-pib-en-el-presupuesto-de-el-salvador-para-2027/?utm_source=rss&utm_medium=rss&utm_campaign=educacion-recibira-mas-del-8-1-del-pib-en-el-presupuesto-de-el-salvador-para-2027",
-        "published_date": "2026-10-01 16:34:41",
-        "category": "Economy"
-    },
-    {
-        "title": "Budget 2027 allocates more than $3.4 billion to the educational sector of El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presupuesto-2027-destina-mas-de-3400-millones-al-sector-educativo-de-el-salvador/",
-        "published_date": "2026-10-01 16:29:46",
-        "category": "Economy"
-    },
-    {
-        "title": "Coexport and the Peruvian Chamber open a bridge to bring franchises to Central and South America",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/economia/coexport-y-la-camara-peruana-abren-un-puente-para-llevar-franquicias-a-centroamerica-y-sudamerica/",
-        "published_date": "2026-10-09 02:44:29",
+        "url": "https://lapagina.com.sv/general/conservacion-resiliencia-climatica-y-desarrollo-integral-avanzan-en-la-reserva-de-biosfera-trifinio/?utm_source=rss&utm_medium=rss&utm_campaign=conservacion-resiliencia-climatica-y-desarrollo-integral-avanzan-en-la-reserva-de-biosfera-trifinio",
+        "published_date": "2026-10-09 16:47:37",
         "category": "Local Events"
     },
     {
-        "title": "Gabriela de Bukele's initiative brings the magical world of Cri-Cri to the children of El Mozote",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/iniciativa-de-gabriela-de-bukele-lleva-el-mundo-magico-de-cri-cri-a-ninos-de-el-mozote/?utm_source=rss&utm_medium=rss&utm_campaign=iniciativa-de-gabriela-de-bukele-lleva-el-mundo-magico-de-cri-cri-a-ninos-de-el-mozote",
-        "published_date": "2026-10-09 02:40:58",
+        "title": "The United States allocates $25 million to support El Salvador in the face of El Ni\u00f1o phenomenon",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/estados-unidos-destina-25-millones-para-apoyar-a-el-salvador-ante-fenomeno-de-el-nino/",
+        "published_date": "2026-10-09 16:47:13",
         "category": "Local Events"
     },
     {
-        "title": "Children from El Mozote travel to San Salvador to discover the magic of theater",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ninos-de-el-mozote-viajan-a-san-salvador-para-descubrir-la-magia-del-teatro/",
-        "published_date": "2026-10-09 02:28:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador exceeds the income of Hondurans from the Morazan Week of 2025",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/el-salvador-supera-los-ingresos-de-hondurenos-de-la-semana-morazanica-de-2025/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-supera-los-ingresos-de-hondurenos-de-la-semana-morazanica-de-2025",
-        "published_date": "2026-10-09 02:12:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hondurans enter El Salvador with agile attention during Morazan Week",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/hondurenos-ingresan-a-el-salvador-con-atencion-agil-durante-la-semana-morazanica/?utm_source=rss&utm_medium=rss&utm_campaign=hondurenos-ingresan-a-el-salvador-con-atencion-agil-durante-la-semana-morazanica",
-        "published_date": "2026-10-09 01:57:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rains flood Santa Ana and reactivate the risk due to obsolete drainage",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/lluvias-inundan-santa-ana-y-reactivan-el-riesgo-por-drenajes-obsoletos/",
-        "published_date": "2026-10-09 01:56:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Family searches for driver who hit a young man and fled on the road to La Libertad",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/familia-busca-a-conductor-que-atropello-a-un-joven-y-huyo-en-carretera-hacia-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=familia-busca-a-conductor-que-atropello-a-un-joven-y-huyo-en-carretera-hacia-la-libertad",
-        "published_date": "2026-10-09 01:40:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "CCR enables the management of Electoral Records for the 2027 electoral process",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ccr-habilita-la-gestion-de-constancias-electorales-para-el-proceso-electoral-2027/",
-        "published_date": "2026-10-09 01:17:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mary Kay: women, discover that beauty is more enjoyed when shared",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/mary-kay-mujeres-descubran-que-la-belleza-se-disfruta-mas-cuando-se-comparte/",
-        "published_date": "2026-10-09 01:14:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Environment forecasts rains and storms in several areas of El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/medio-ambiente-pronostica-lluvias-y-tormentas-en-varias-zonas-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=medio-ambiente-pronostica-lluvias-y-tormentas-en-varias-zonas-de-el-salvador",
-        "published_date": "2026-10-09 01:08:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u00abBolillo\u00bb G\u00f3mez will continue with Selecta for the November Play-In",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/bolillo-gomez-seguira-con-la-selecta-para-el-play-in-de-noviembre/?utm_source=rss&utm_medium=rss&utm_campaign=bolillo-gomez-seguira-con-la-selecta-para-el-play-in-de-noviembre",
-        "published_date": "2026-10-09 01:03:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Zacamil Hospital incorporates ROSA to support knee surgeries",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/hospital-zacamil-incorpora-a-rosa-para-apoyar-cirugias-de-rodilla/?utm_source=rss&utm_medium=rss&utm_campaign=hospital-zacamil-incorpora-a-rosa-para-apoyar-cirugias-de-rodilla",
-        "published_date": "2026-10-09 00:55:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "FESFUT ratifies Bolillo G\u00f3mez as Selecta coach for the play-in against Saint Martin",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/nacionales-deportes/fesfut-ratifica-a-bolillo-gomez-como-tecnico-de-la-selecta-para-el-play-in-ante-saint-martin/",
-        "published_date": "2026-10-08 23:06:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The process of requesting Electoral Certificates begins at the CCR",
+        "title": "They give 5 days to the person responsible for abandoning four kittens on public roads in Santa Ana",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/inicia-en-la-ccr-el-proceso-de-solicitud-de-constancias-electorales/",
-        "published_date": "2026-10-08 22:51:11",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/dan-5-dias-de-plazo-a-responsable-de-abandonar-a-cuatro-gatitos-en-la-via-publica-de-santa-ana/",
+        "published_date": "2026-10-09 16:43:58",
         "category": "Local Events"
     },
     {
-        "title": "Vice President Ulloa meets with members of the Salvadoran diaspora and representatives of the diplomatic corps accredited in Uruguay",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/vicepresidente-ulloa-se-reune-con-miembros-de-la-diaspora-salvadorena-y-representantes-del-cuerpo-diplomatico-acreditado-en-uruguay/",
-        "published_date": "2026-10-08 22:38:02",
+        "title": "Construction of the Doctor Arturo Romero nursery school is coming to an end",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/construccion-de-parvularia-doctor-arturo-romero-esta-llegando-a-su-fin/?utm_source=rss&utm_medium=rss&utm_campaign=construccion-de-parvularia-doctor-arturo-romero-esta-llegando-a-su-fin",
+        "published_date": "2026-10-09 16:28:15",
         "category": "Local Events"
     },
     {
-        "title": "PHOTOS |Santa Ana Centro Mayor's Office investigates the abandonment of four kittens in the San Luis neighborhood",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/fotos-alcaldia-de-santa-ana-centro-investiga-el-abandono-de-cuatro-gatitos-en-la-colonia-san-luis/",
-        "published_date": "2026-10-08 22:26:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "FESFUT confirms the continuity of Hern\u00e1n Dar\u00edo G\u00f3mez for the November games",
+        "title": "\u201cAntojo El Salvador\u201d: cinema and gastronomy unite Salvadorans in Washington",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/fesfut-confirma-la-continuidad-de-hernan-dario-gomez-de-cara-a-los-juegos-de-noviembre/",
-        "published_date": "2026-10-08 22:01:47",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/antojo-el-salvador-el-cine-y-la-gastronomia-unen-a-los-salvadorenos-en-washington/",
+        "published_date": "2026-10-09 16:26:44",
         "category": "Local Events"
     },
     {
-        "title": "Methamphetamine and marijuana are seized from two young people in La Libertad Centro",
+        "title": "Delcy Rodr\u00edguez follows in the footsteps of Nicol\u00e1s Maduro and brings forward Christmas in Venezuela",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/internacionales/delcy-rodriguez-sigue-los-pasos-de-nicolas-maduro-y-adelanta-la-navidad-en-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=delcy-rodriguez-sigue-los-pasos-de-nicolas-maduro-y-adelanta-la-navidad-en-venezuela",
+        "published_date": "2026-10-09 16:23:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Delcy Rodr\u00edguez advances Christmas in Venezuela to November 1",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/incautan-metanfetamina-y-marihuana-a-dos-jovenes-en-la-libertad-centro/",
-        "published_date": "2026-10-08 21:51:29",
+        "url": "https://diariolahuella.com/delcy-rodriguez-adelanta-la-navidad-en-venezuela-para-el-1-de-noviembre/",
+        "published_date": "2026-10-09 16:23:38",
         "category": "Local Events"
     },
     {
-        "title": "Trial begins against former mayor of Soyapango for arbitrary acts and disobedience",
+        "title": "Construction of the Doctor Arturo Romero nursery school is coming to an end",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/construccion-de-parvularia-doctor-arturo-romero-esta-llegando-a-su-fin/",
+        "published_date": "2026-10-09 16:23:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Stadium donated by China is 75% complete",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/inicia-juicio-contra-exalcaldesa-de-soyapango-por-actos-arbitrarios-y-desobediencia/",
-        "published_date": "2026-10-08 21:03:39",
+        "url": "https://croniosv.com/nacionales/estadio-donado-por-china-lleva-75-de-construccion/",
+        "published_date": "2026-10-09 16:09:24",
         "category": "Local Events"
     },
     {
-        "title": "CHEVRON El Salvador could boost investments of more than $90 million for the coming years",
+        "title": "El Salvador exceeds 43,000 immigration controls of Hondurans during Morazan Week",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/el-salvador-supera-los-43000-controles-migratorios-de-hondurenos-durante-semana-morazanica/",
+        "published_date": "2026-10-09 15:57:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "FAS beat Alianza 2-1 and is the new leader of the league!",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/chevron-el-salvador-podria-impulsar-inversiones-por-mas-de-90-millones-para-los-proximos-anos/",
-        "published_date": "2026-10-08 20:59:48",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/fas-vencio-2-1-a-alianza-y-es-el-nuevo-lider-de-la-liga/",
+        "published_date": "2026-10-09 15:49:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Studies begin to build pedestrian crossing for students in Usulut\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/inician-estudios-para-construir-paso-peatonal-para-estudiantes-en-usulutan/",
+        "published_date": "2026-10-09 15:46:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Up to 45 years in prison for more than 50 MS gang members who operated in Soyapango",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/hasta-45-anos-de-prision-para-mas-de-50-pandilleros-de-la-ms-que-operaban-en-soyapango/",
+        "published_date": "2026-10-09 15:45:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 50 MS gang members receive up to 45 years in prison for their crimes",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/mas-de-50-pandilleros-de-la-ms-reciben-hasta-45-anos-de-prision-por-sus-delitos/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-50-pandilleros-de-la-ms-reciben-hasta-45-anos-de-prision-por-sus-delitos",
+        "published_date": "2026-10-09 15:30:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador will have rains and storms this Friday",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-tendra-lluvias-y-tormentas-durante-este-viernes/",
+        "published_date": "2026-10-09 14:58:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Environment warns of rains and storms with electrical activity this Friday",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/medio-ambiente-advierte-sobre-lluvias-y-tormentas-con-actividad-electrica-durante-este-viernes/?utm_source=rss&utm_medium=rss&utm_campaign=medio-ambiente-advierte-sobre-lluvias-y-tormentas-con-actividad-electrica-durante-este-viernes",
+        "published_date": "2026-10-09 14:56:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rains and storms will continue this Friday in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/lluvias-y-tormentas-continuaran-este-viernes-en-el-salvador/",
+        "published_date": "2026-10-09 14:53:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice President Ulloa responds to criticism about El Salvador: \u201cLies have short legs and the truth always catches up with them\u201d",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/vicepresidente-ulloa-responde-a-criticas-sobre-el-salvador-la-mentira-tiene-piernas-cortas-y-la-verdad-siempre-la-alcanza/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-ulloa-responde-a-criticas-sobre-el-salvador-la-mentira-tiene-piernas-cortas-y-la-verdad-siempre-la-alcanza",
+        "published_date": "2026-10-09 14:43:10",
         "category": "Local Events"
     }
 ]
