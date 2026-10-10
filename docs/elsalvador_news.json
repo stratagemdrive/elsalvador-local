@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "A better world: more security, more development",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/opinion/un-mundo-mejor-mas-seguridad-mas-desarrollo/?utm_source=rss&utm_medium=rss&utm_campaign=un-mundo-mejor-mas-seguridad-mas-desarrollo",
+        "published_date": "2026-10-10 15:28:28",
+        "category": "Military"
+    },
+    {
+        "title": "A better world: more security, more development",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/un-mundo-mejor-mas-seguridad-mas-desarrollo/",
+        "published_date": "2026-10-10 15:20:13",
+        "category": "Military"
+    },
+    {
         "title": "MS \u201cSkate\u201d falls in Moraz\u00e1n",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/cae-el-skate-de-ms-en-morazan/?utm_source=rss&utm_medium=rss&utm_campaign=cae-el-skate-de-ms-en-morazan",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Authorities carry out an expert report on confiscated drugs for destruction",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/autoridades-ejecutan-peritaje-en-droga-decomisada-para-su-destruccion/",
-        "published_date": "2026-10-08 21:22:13",
-        "category": "Military"
-    },
-    {
-        "title": "PNC captures a gang member who stole a motorcycle in Col\u00f3n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/pnc-captura-a-pandillero-que-robo-una-motocicleta-en-colon/",
-        "published_date": "2026-10-08 16:49:02",
-        "category": "Military"
-    },
-    {
         "title": "Trump announces agreement to receive Russian diesel to resolve crisis",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/internacionales/trump-anuncia-acuerdo-para-recibir-diesel-ruso-para-subsanar-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=trump-anuncia-acuerdo-para-recibir-diesel-ruso-para-subsanar-crisis",
@@ -320,6 +320,20 @@
         "url": "https://croniosv.com/internacionales/el-g7-acuerda-liberar-hasta-100-millones-de-barriles-de-diesel-y-petroleo/",
         "published_date": "2026-10-04 02:06:17",
         "category": "Energy"
+    },
+    {
+        "title": "Cristosal demands transparency about bitcoin donations",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cristosal-exige-transparencia-sobre-donaciones-de-bitcoin/",
+        "published_date": "2026-10-10 11:02:02",
+        "category": "Economy"
+    },
+    {
+        "title": "Panamanian government reports more than 47 aftershocks of the earthquake this day",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/internacionales/gobierno-panameno-reporta-mas-de-47-replicas-del-terremoto-de-este-dia/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-panameno-reporta-mas-de-47-replicas-del-terremoto-de-este-dia",
+        "published_date": "2026-10-10 02:48:10",
+        "category": "Economy"
     },
     {
         "title": "Finance Commission begins the study of the 2027 state budget",
@@ -434,11 +448,88 @@
         "category": "Economy"
     },
     {
-        "title": "FEELING HUMAN TODAY;IT IS A HEROIC ACT",
+        "title": "Links between El Salvador and Uruguay strengthened through cultural heritage",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/fortalecen-vinculos-entre-el-salvador-y-uruguay-a-traves-del-patrimonio-cultural/?utm_source=rss&utm_medium=rss&utm_campaign=fortalecen-vinculos-entre-el-salvador-y-uruguay-a-traves-del-patrimonio-cultural",
+        "published_date": "2026-10-10 15:49:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "From El Salvador to Madrid: OPUS 503 will be performed at Shakira's residence",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/de-el-salvador-a-madrid-opus-503-se-presentara-en-la-residencia-de-shakira/?utm_source=rss&utm_medium=rss&utm_campaign=de-el-salvador-a-madrid-opus-503-se-presentara-en-la-residencia-de-shakira",
+        "published_date": "2026-10-10 15:07:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Team El Salvador becomes champion of the FIRST Global Challenge 2026 together with an international alliance",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/team-el-salvador-se-convierte-en-campeon-del-first-global-challenge-2026-junto-a-una-alianza-internacional/",
+        "published_date": "2026-10-10 14:44:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Faro links Ernesto Castro employees with the anonymous propaganda medium \u201cCaja Negra\u201d",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/sentirse-humanos-hoy-es-un-acto-heroico/",
-        "published_date": "2026-10-02 15:38:21",
-        "category": "Economy"
+        "url": "https://www.diariocolatino.com/el-faro-vincula-a-empleados-de-ernesto-castro-con-el-medio-propagandistico-anonimo-caja-negra-2/",
+        "published_date": "2026-10-10 11:05:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Electoral Surveillance Board asks the TSE to review the hiring of Romeo Auerbach",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/junta-de-vigilancia-electoral-pide-al-tse-revisar-contratacion-de-romeo-auerbach/",
+        "published_date": "2026-10-10 11:04:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "UES student groups demand greater financing and expansion of scholarships",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/colectivos-estudiantiles-de-la-ues-exigen-mayor-financiamiento-y-ampliacion-de-becas/",
+        "published_date": "2026-10-10 11:03:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lenca Community celebrates Saint Francis of Assisi",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comunidad-lenca-celebre-a-san-francisco-de-asis/",
+        "published_date": "2026-10-10 11:01:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cristosal denounces smear campaign against Ruth L\u00f3pez",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cristosal-denuncia-campana-de-desprestigio-contra-ruth-lopez/",
+        "published_date": "2026-10-10 11:00:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Continuity of \u201cBolillo\u201d G\u00f3mez deepens the rupture between the fans and the FESFUT",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/continuidad-de-el-bolillo-gomez-profundiza-la-ruptura-entre-la-aficion-y-la-fesfut/",
+        "published_date": "2026-10-10 10:45:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cI felt like the world was ending\u201d, the fear of Panamanians in the face of a 7.2 magnitude earthquake",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/senti-que-el-mundo-se-acababa-el-temor-de-panamenos-ante-sismo-de-magnitud-72/",
+        "published_date": "2026-10-10 10:34:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "22 nutritional clinics inaugurated to strengthen early childhood care",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/inauguran-22-consultorios-nutricionales-para-fortalecer-atencion-a-la-primera-infancia/?utm_source=rss&utm_medium=rss&utm_campaign=inauguran-22-consultorios-nutricionales-para-fortalecer-atencion-a-la-primera-infancia",
+        "published_date": "2026-10-10 03:54:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "19 establishments temporarily close due to lack of sanitary measures",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/cierran-temporalmente-19-establecimientos-por-falta-de-medidas-sanitarias/",
+        "published_date": "2026-10-10 03:19:11",
+        "category": "Local Events"
     },
     {
         "title": "OTHER STRUGGLES",
@@ -494,90 +585,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/salvador-mejia-impulsa-jornadas-de-limpieza-en-camposantos-de-chalatenango-norte/?utm_source=rss&utm_medium=rss&utm_campaign=salvador-mejia-impulsa-jornadas-de-limpieza-en-camposantos-de-chalatenango-norte",
         "published_date": "2026-10-09 23:20:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "They carry out temporary closure of 19 establishments for failing to comply with health regulations",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ejecutan-cierre-temporal-de-19-establecimientos-por-incumplir-normas-sanitarias/?utm_source=rss&utm_medium=rss&utm_campaign=ejecutan-cierre-temporal-de-19-establecimientos-por-incumplir-normas-sanitarias",
-        "published_date": "2026-10-09 22:55:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Establishments temporarily close for failing to comply with health measures after inspections by the SRS and the Consumer Ombudsman's Office",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/cierran-temporalmente-establecimientos-por-incumplir-medidas-sanitarias-tras-inspecciones-de-la-srs-y-la-defensoria-del-consumidor/",
-        "published_date": "2026-10-09 22:27:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ernesto Castro rejects accusations about alleged links to a digital media",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/ernesto-castro-rechaza-senalamientos-sobre-supuesta-vinculacion-a-un-medio-digital/?utm_source=rss&utm_medium=rss&utm_campaign=ernesto-castro-rechaza-senalamientos-sobre-supuesta-vinculacion-a-un-medio-digital",
-        "published_date": "2026-10-09 22:24:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dialogue with key actors to strengthen the energy agenda",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/dialogo-con-actores-clave-para-robustecer-la-agenda-energetica/",
-        "published_date": "2026-10-09 22:11:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Endesa uncovers alleged electrical fraud in 16 restaurants in Barcelona with the help of AI",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/tecnologia/endesa-destapa-un-presunto-fraude-electrico-en-16-restaurantes-de-barcelona-con-ayuda-de-la-ia/",
-        "published_date": "2026-10-09 22:02:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "NFL legend Mike Ditka dies at 86",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/murio-mike-ditka-leyenda-de-la-nfl-a-los-86-anos/",
-        "published_date": "2026-10-09 21:54:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Karol G defends her music and responds to criticism of cultural appropriation",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/jetset/karol-g-defiende-su-musica-y-responde-a-las-criticas-por-apropiacion-cultural/",
-        "published_date": "2026-10-09 21:48:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prosecutor's Office destroys more than 35 kilos of drugs valued at $52,230",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/fiscalia-destruiiye-de-mas-de-35-kilos-de-droga-valorada-en-52230/",
-        "published_date": "2026-10-09 21:40:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Working without windows affects sleep, mood and performance",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/ciencia/trabajar-sin-ventanas-afecta-el-sueno-el-animo-y-el-rendimiento/",
-        "published_date": "2026-10-09 21:36:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador and Uruguay promote the exchange of knowledge in energy matters",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/el-salvador-y-uruguay-promueven-el-intercambio-de-conocimientos-en-materia-energetica/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-uruguay-promueven-el-intercambio-de-conocimientos-en-materia-energetica",
-        "published_date": "2026-10-09 21:30:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scammer sentenced to five years in prison",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/estafador-es-condenado-a-cinco-anos-de-carcel/",
-        "published_date": "2026-10-09 21:30:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "desperate",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/desesperados/",
-        "published_date": "2026-10-09 21:24:09",
         "category": "Local Events"
     }
 ]
