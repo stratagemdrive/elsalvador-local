@@ -1,5 +1,12 @@
 [
     {
+        "title": "El Salvador and Uruguay strengthen relations through their history and heritage",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/el-salvador-y-uruguay-fortalecen-relaciones-mediante-su-historia-y-patrimonio/",
+        "published_date": "2026-10-10 17:55:57",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Political exchange to strengthen the bilateral relationship",
         "source": "Cronio",
         "url": "https://croniosv.com/politica/intercambio-politico-para-fortalecer-la-relacion-bilateral/",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Vanessa Rivera benefits two residents of Santiago Nonualco with wheelchairs",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/vanessa-rivera-beneficia-con-sillas-de-ruedas-a-dos-habitantes-de-santiago-nonualco/",
-        "published_date": "2026-10-04 19:11:17",
-        "category": "Diplomacy"
+        "title": "They capture an older adult who posed as a bricklayer to steal construction tools",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-adulto-mayor-que-se-hacia-pasar-por-albanil-para-hurtar-herramientas-de-construccion/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-adulto-mayor-que-se-hacia-pasar-por-albanil-para-hurtar-herramientas-de-construccion",
+        "published_date": "2026-10-11 03:32:11",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a 78-year-old man who pretended to be a bricklayer to steal construction tools",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/capturan-a-hombre-de-78-anos-que-fingia-ser-albanil-para-robar-herramientas-en-construcciones/",
+        "published_date": "2026-10-11 02:18:34",
+        "category": "Military"
     },
     {
         "title": "Keiko Fujimori will travel to El Salvador to learn about the security strategies of President Bukele's Government",
@@ -266,18 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Vice President Ulloa defends El Salvador and challenges Galeano: \u201cHow many times have you been to the country?\u201d",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/vicepresidente-ulloa-defiende-a-el-salvador-y-reta-a-galeano-cuantas-veces-has-ido-al-pais/",
-        "published_date": "2026-10-09 14:40:30",
-        "category": "Military"
-    },
-    {
-        "title": "They capture the driver who ran over a pedestrian on the road to the Port of La Libertad and fled",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-al-conductor-que-atropello-un-peaton-en-carretera-al-puerto-de-la-libertad-y-huyo/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-al-conductor-que-atropello-un-peaton-en-carretera-al-puerto-de-la-libertad-y-huyo",
-        "published_date": "2026-10-09 14:27:33",
-        "category": "Military"
+        "title": "Blessd makes the Salvadoran public vibrate in their first concert in the country",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/blessd-hace-vibrar-al-publico-salvadoreno-en-su-primer-concierto-en-el-pais/",
+        "published_date": "2026-10-11 08:43:33",
+        "category": "Energy"
     },
     {
         "title": "Trump announces agreement to receive Russian diesel to resolve crisis",
@@ -448,6 +455,69 @@
         "category": "Economy"
     },
     {
+        "title": "27-year-old Salvadoran woman is murdered in front of her three children in Mexico;They are looking for his ex-partner for the crime",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/salvadorena-de-27-anos-es-asesinada-frente-a-sus-tres-hijos-en-mexico-buscan-a-su-expareja-por-el-crimen/",
+        "published_date": "2026-10-11 16:18:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hotel Entre Pinos brought together coffee lovers in a celebration of talent and innovation",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/hotel-entre-pinos-reunio-a-los-amantes-del-cafe-en-una-celebracion-de-talento-e-innovacion/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-entre-pinos-reunio-a-los-amantes-del-cafe-en-una-celebracion-de-talento-e-innovacion",
+        "published_date": "2026-10-11 15:41:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Leo XIV confirms that he will undergo surgery in the coming days",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/internacionales/leon-xiv-confirma-que-se-sometera-a-una-cirugia-en-los-proximos-dias/?utm_source=rss&utm_medium=rss&utm_campaign=leon-xiv-confirma-que-se-sometera-a-una-cirugia-en-los-proximos-dias",
+        "published_date": "2026-10-11 14:33:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pope Leo XIV announces that he will undergo surgery to remove a nodule in a lung",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/papa-leon-xiv-anuncia-que-sera-operado-para-extirpar-un-nodulo-en-un-pulmon/",
+        "published_date": "2026-10-11 14:28:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran resident in Georgia promotes the economic development of Santa Ana with a new venture",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/salvadorena-residente-en-georgia-impulsa-el-desarrollo-economico-de-santa-ana-con-nuevo-emprendimiento/?utm_source=rss&utm_medium=rss&utm_campaign=salvadorena-residente-en-georgia-impulsa-el-desarrollo-economico-de-santa-ana-con-nuevo-emprendimiento",
+        "published_date": "2026-10-11 03:19:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "The port of Acajutla receives the Nieuw Amsterdam cruise ship with almost 2,000 visitors",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-puerto-de-acajutla-recibe-al-crucero-nieuw-amsterdam-con-casi-2000-visitantes/?utm_source=rss&utm_medium=rss&utm_campaign=el-puerto-de-acajutla-recibe-al-crucero-nieuw-amsterdam-con-casi-2000-visitantes",
+        "published_date": "2026-10-11 03:04:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele announces that he will respond to the request of the Caba\u00f1as community to repair the school road",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-anuncia-que-atendera-peticion-de-comunidad-de-cabanas-para-reparar-camino-escolar/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-anuncia-que-atendera-peticion-de-comunidad-de-cabanas-para-reparar-camino-escolar",
+        "published_date": "2026-10-11 02:55:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man dies electrocuted while trying to move cables to allow a crane to pass in San Miguel",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/hombre-muere-electrocutado-al-intentar-mover-cables-para-permitir-el-paso-de-una-grua-en-san-miguel/",
+        "published_date": "2026-10-11 02:01:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kairo's, a well-known nightclub on Los H\u00e9roes Boulevard in San Salvador, is temporarily closed",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/cierran-temporalmente-kairos-conocido-club-nocturno-del-bulevar-de-los-heroes-en-san-salvador/",
+        "published_date": "2026-10-11 01:54:43",
+        "category": "Local Events"
+    },
+    {
         "title": "MS homeboy captured with three court orders in Moraz\u00e1n",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/capturan-a-homeboy-de-la-ms-con-tres-ordenes-judiciales-en-morazan/",
@@ -522,69 +592,6 @@
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/resumen-de-la-primera-semana-del-mes-de-octubre-de-2026/",
         "published_date": "2026-10-10 21:00:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President F\u00e9lix Ulloa congratulates young Salvadorans for conquering the FIRST Global Challenge 2026",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/vicepresidente-felix-ulloa-felicita-a-jovenes-salvadorenos-por-conquistar-el-first-global-challenge-2026/",
-        "published_date": "2026-10-10 19:04:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cMission accomplished\u201d: F\u00e9lix Ulloa celebrates the triumph of Salvadorans in the Robotics World Cup",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mision-cumplida-felix-ulloa-celebra-triunfo-de-salvadorenos-en-el-mundial-de-robotica/?utm_source=rss&utm_medium=rss&utm_campaign=mision-cumplida-felix-ulloa-celebra-triunfo-de-salvadorenos-en-el-mundial-de-robotica",
-        "published_date": "2026-10-10 19:03:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "UNSTOPPABLE BAR\u00c7A!Barcelona thrashes Getafe 3-0, has eight consecutive victories and remains perfect in LaLiga",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/barca-imparable-barcelona-golea-3-0-al-getafe-suma-ocho-victorias-consecutivas-y-sigue-perfecto-en-laliga/",
-        "published_date": "2026-10-10 18:41:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "MS-13 gang members captured during the emergency regime in El Salvador are sentenced to life imprisonment",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/condenan-a-cadena-perpetua-a-pandilleros-de-la-ms-13-capturados-durante-el-regimen-de-excepcion-en-el-salvador/",
-        "published_date": "2026-10-10 18:26:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alianza FC announces the departure of Tito Pompei and his entire coaching staff",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/nacionales-deportes/alianza-fc-anuncia-la-salida-de-tito-pompei-y-todo-su-cuerpo-tecnico/",
-        "published_date": "2026-10-10 18:10:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Firefighters rescue a boa lodged in the engine of a vehicle in Antiguo Cuscatl\u00e1n",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/bomberos-rescatan-a-una-boa-alojada-en-el-motor-de-un-vehiculo-en-antiguo-cuscatlan/",
-        "published_date": "2026-10-10 18:09:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motorcyclist is injured after falling into a ditch in San Rafael Obrajuelo, La Paz",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/motociclista-resulta-lesionado-tras-caer-a-una-cuneta-en-san-rafael-obrajuelo-la-paz/",
-        "published_date": "2026-10-10 17:49:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "A streak of road accidents leaves five people injured during the early hours of the morning",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/racha-de-siniestros-viales-deja-cinco-personas-lesionadas-durante-la-madrugada/",
-        "published_date": "2026-10-10 17:21:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four traffic accidents leave five people injured during the early hours of the morning",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cuatro-accidentes-de-transito-dejan-cinco-personas-lesionadas-durante-la-madrugada/?utm_source=rss&utm_medium=rss&utm_campaign=cuatro-accidentes-de-transito-dejan-cinco-personas-lesionadas-durante-la-madrugada",
-        "published_date": "2026-10-10 17:20:40",
         "category": "Local Events"
     }
 ]
