@@ -1,5 +1,40 @@
 [
     {
+        "title": "A new pedestrian bridge puts an end to the risk of crossing the Apanta River in Santiago Nonualco",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/un-nuevo-puente-peatonal-pone-fin-a-riesgo-de-cruzar-el-rio-apanta-en-santiago-nonualco/?utm_source=rss&utm_medium=rss&utm_campaign=un-nuevo-puente-peatonal-pone-fin-a-riesgo-de-cruzar-el-rio-apanta-en-santiago-nonualco",
+        "published_date": "2026-10-12 20:10:31",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "President Bukele affirms that El Salvador can \u201creinvent\u201d itself and aspire to more",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-afirma-que-el-salvador-puede-reinventarse-y-aspirar-a-mas/",
+        "published_date": "2026-10-12 19:59:02",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "President Nayib Bukele remembers speech on the transformation of El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/presidente-nayib-bukele-recuerda-discurso-sobre-la-transformacion-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-nayib-bukele-recuerda-discurso-sobre-la-transformacion-de-el-salvador",
+        "published_date": "2026-10-12 19:50:04",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Pedestrian bridge in Santiago Nonualco puts an end to the danger of crossing the Apanta River for students and locals",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/puente-peatonal-en-santigo-nonualco-pone-fin-a-peligro-de-cruzar-rio-apanta-a-estudiantes-y-lugarenos/",
+        "published_date": "2026-10-12 19:46:27",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Documentary on Salvadoran culinary customs promoted in Washington D.C",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/promueven-documental-de-costumbres-culinarias-salvadorenas-en-washington-d-c/?utm_source=rss&utm_medium=rss&utm_campaign=promueven-documental-de-costumbres-culinarias-salvadorenas-en-washington-d-c",
+        "published_date": "2026-10-12 16:56:16",
+        "category": "Diplomacy"
+    },
+    {
         "title": "El Salvador and Uruguay strengthen relations through their history and heritage",
         "source": "Periodico Equilibrium",
         "url": "https://www.periodicoequilibrium.com/el-salvador-y-uruguay-fortalecen-relaciones-mediante-su-historia-y-patrimonio/",
@@ -105,39 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Sheinbaum asks the US ambassador to comply with Mexican laws",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/sheinbaum-pide-a-embajador-de-eeuu-cumplir-leyes-mexicanas/",
-        "published_date": "2026-10-06 23:05:37",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Lionel Messi says goodbye to the Argentina team this Tuesday against Benin",
+        "title": "VIDEO |They capture young people driving a \"Killer Soul\" and using their cell phones",
         "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/lionel-messi-se-despide-de-la-seleccion-de-argentina-este-martes-ante-benin/",
-        "published_date": "2026-10-06 19:00:54",
-        "category": "Diplomacy"
+        "url": "https://croniosv.com/nacionales/sucesos/video-captan-a-jovenes-manejando-una-killer-soul-y-usando-el-celular/",
+        "published_date": "2026-10-12 19:53:34",
+        "category": "Military"
     },
     {
-        "title": "After 21 years, Lionel Messi says goodbye to the Argentine National Team",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/deportes/tras-21-anos-leonel-messi-se-despide-de-la-seleccion-argentina/?utm_source=rss&utm_medium=rss&utm_campaign=tras-21-anos-leonel-messi-se-despide-de-la-seleccion-argentina",
-        "published_date": "2026-10-06 16:24:46",
-        "category": "Diplomacy"
+        "title": "VMT begins mandatory technical reviews for dump trucks;units with faults will not be able to circulate",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/vmt-inicia-revisiones-tecnicas-obligatorias-para-camiones-de-volteo-unidades-con-fallas-no-podran-circular/",
+        "published_date": "2026-10-12 17:47:41",
+        "category": "Military"
     },
     {
-        "title": "Messi says goodbye to the Argentine National Team after 21 years",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/messi-se-despide-de-la-seleccion-argentina-despues-de-21-anos/",
-        "published_date": "2026-10-06 16:16:59",
-        "category": "Diplomacy"
+        "title": "El Salvador accumulates 10 days without homicides in October, according to the PNC",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/el-salvador-acumula-10-dias-sin-homicidios-en-octubre-segun-la-pnc/",
+        "published_date": "2026-10-12 17:02:04",
+        "category": "Military"
     },
     {
-        "title": "Indigenous communities warn about threats to the Apaneca-Ilamatepec Biosphere Reserve",
+        "title": "Police Workers Movement denounces alleged animal abuse at PNC headquarters",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/comunidades-indigenas-alertan-sobre-amenazas-reserva-biosfera-apaneca-ilamatepec/",
-        "published_date": "2026-10-06 11:03:24",
-        "category": "Diplomacy"
+        "url": "https://www.diariocolatino.com/movimiento-de-trabajadores-de-la-policia-denuncia-presunto-maltrato-animal-en-cuartel-central-de-la-pnc/",
+        "published_date": "2026-10-12 02:17:20",
+        "category": "Military"
     },
     {
         "title": "Under the influence of alcohol, three men get into a fight at a dance in Soyapango",
@@ -252,32 +280,18 @@
         "category": "Military"
     },
     {
-        "title": "Armed Forces strengthen their operational capabilities with the delivery of 54 vehicles and the remodeling of the parachuting tower",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/fuerza-armada-fortalece-sus-capacidades-operativas-con-la-entrega-de-54-vehiculos-y-la-remodelacion-de-la-torre-de-paracaidismo/",
-        "published_date": "2026-10-09 21:38:10",
-        "category": "Military"
-    },
-    {
-        "title": "Authorities add six new puppies to the Canine Unit to detect drugs and money",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/autoridades-incorporan-seis-nuevos-cachorros-a-la-unidad-canina-para-detectar-drogas-y-dinero/",
-        "published_date": "2026-10-09 20:58:22",
-        "category": "Military"
-    },
-    {
-        "title": "Security and economic growth are the focus of dialogue between Ulloa and Uruguayan political leaders",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/seguridad-y-crecimiento-economico-centran-dialogo-entre-ulloa-y-referentes-politicos-uruguayos/?utm_source=rss&utm_medium=rss&utm_campaign=seguridad-y-crecimiento-economico-centran-dialogo-entre-ulloa-y-referentes-politicos-uruguayos",
-        "published_date": "2026-10-09 20:25:49",
-        "category": "Military"
-    },
-    {
-        "title": "Guatemala signs agreement to reduce homicide rate by half in ten years",
+        "title": "Brent oil exceeds $107 due to geopolitical tensions",
         "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/guatemala-firma-convenio-para-reducir-a-la-mitad-tasa-de-homicidios-en-diez-anos/",
-        "published_date": "2026-10-09 17:56:22",
-        "category": "Military"
+        "url": "https://ultimahora.sv/petroleo-brent-supera-los-107-por-tensiones-geopoliticas/",
+        "published_date": "2026-10-12 17:22:08",
+        "category": "Energy"
+    },
+    {
+        "title": "Fuel prices will remain unchanged in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/economia/precios-de-los-combustibles-se-mantendran-sin-cambios-en-el-salvador/",
+        "published_date": "2026-10-12 16:50:13",
+        "category": "Energy"
     },
     {
         "title": "Yemen's Houthis claim missile and drone attacks on Saudi airports and energy facilities",
@@ -334,6 +348,20 @@
         "url": "https://lapagina.com.sv/jet-set/seguidores-de-iron-maiden-se-toman-las-afueras-del-magico-gonzalez/?utm_source=rss&utm_medium=rss&utm_campaign=seguidores-de-iron-maiden-se-toman-las-afueras-del-magico-gonzalez",
         "published_date": "2026-10-05 21:13:11",
         "category": "Energy"
+    },
+    {
+        "title": "Teaching Bases: \u201cTechnology, by itself, is not solving educational problems\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/bases-magisteriales-la-tecnologia-por-si-sola-no-esta-resolviendo-los-problemas-educativos/",
+        "published_date": "2026-10-12 11:05:49",
+        "category": "Economy"
+    },
+    {
+        "title": "FUNDEMAS brings together businessmen to promote sustainable businesses with the European Union",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fundemas-reune-a-empresarios-para-impulsar-negocios-sostenibles-con-la-union-europea/",
+        "published_date": "2026-10-12 11:02:34",
+        "category": "Economy"
     },
     {
         "title": "Cristosal demands transparency about bitcoin donations",
@@ -455,150 +483,143 @@
         "category": "Economy"
     },
     {
-        "title": "Hail the size of a tennis ball damages cars, roofs and electrical service in Asunci\u00f3n",
+        "title": "VIDEO |Considerable size crocodile surprises tourists and residents on San Marcelino beach",
         "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/granizo-del-tamano-de-una-pelota-de-tenis-dana-autos-techos-y-el-servicio-electrico-en-asuncion/",
-        "published_date": "2026-10-04 17:47:37",
-        "category": "Economy"
-    },
-    {
-        "title": "Pope Leo XIV announces operation to remove lung nodule",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/papa-leon-xiv-anuncia-operacion-para-extirpar-nodulo-pulmonar/",
-        "published_date": "2026-10-12 00:50:37",
+        "url": "https://croniosv.com/nacionales/sucesos/video-cocodrilo-de-considerable-tamano-sorprende-a-turistas-y-habitantes-en-playa-san-marcelino/",
+        "published_date": "2026-10-12 20:11:34",
         "category": "Local Events"
     },
     {
-        "title": "Cerro Verde celebrated Salvadoran traditions with the Jocote Corona Fair 2026",
+        "title": "Prosecutor's Office requests maximum sentence against former mayor of Soyapango for dismissals and judicial disobedience",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cerro-verde-celebro-las-tradiciones-salvadorenas-con-la-feria-del-jocote-corona-2026/?utm_source=rss&utm_medium=rss&utm_campaign=cerro-verde-celebro-las-tradiciones-salvadorenas-con-la-feria-del-jocote-corona-2026",
-        "published_date": "2026-10-12 00:27:02",
+        "url": "https://lapagina.com.sv/nacionales/fiscalia-pide-pena-maxima-contra-exalcaldesa-de-soyapango-por-despidos-y-desobediencia-judicial/?utm_source=rss&utm_medium=rss&utm_campaign=fiscalia-pide-pena-maxima-contra-exalcaldesa-de-soyapango-por-despidos-y-desobediencia-judicial",
+        "published_date": "2026-10-12 19:42:48",
         "category": "Local Events"
     },
     {
-        "title": "Jocote Corona conquered palates at a successful fair in Cerro Verde",
+        "title": "They request maximum punishment against former mayor of Soyapango Nercy Montano",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-jocote-corona-conquisto-paladares-en-una-exitosa-feria-en-el-cerro-verde/",
-        "published_date": "2026-10-12 00:26:15",
+        "url": "https://diariolahuella.com/solicitan-pena-maxima-contra-exalcaldesa-de-soyapango-nercy-montano/",
+        "published_date": "2026-10-12 19:40:19",
         "category": "Local Events"
     },
     {
-        "title": "The We All Run ended with more than 15,000 participants",
+        "title": "Pope Leo XIV will be hospitalized tomorrow to undergo surgery: he confirmed his intention to travel to Argentina",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/el-we-all-run-finalizo-con-mas-de-15000-participantes/",
-        "published_date": "2026-10-11 23:00:39",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/el-papa-leon-xiv-sera-internado-manana-para-ser-operado-confirmo-su-intencion-de-viajar-a-la-argentina/",
+        "published_date": "2026-10-12 19:38:00",
         "category": "Local Events"
     },
     {
-        "title": "Accident on the road to Ilobasco: a vehicle falls into a ravine and another hits a champa in Andromeda",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/accidente-en-la-carretera-a-ilobasco-un-vehiculo-cae-a-un-barranco-y-otro-impacta-contra-una-champa-en-andromeda/",
-        "published_date": "2026-10-11 22:56:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scandal in San Salvador!They denounce the board for allegedly taking over a public street",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/escandalo-en-san-salvador-denuncian-a-directiva-por-supuestamente-aduenarse-de-una-calle-publica/",
-        "published_date": "2026-10-11 22:40:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Humiliation on the table!Betis beats 5-2 and sends Mourinho's Real Madrid to fourth place in LaLiga",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/humillacion-en-la-tabla-betis-golea-5-2-y-manda-al-real-madrid-de-mourinho-al-cuarto-lugar-de-laliga/",
-        "published_date": "2026-10-11 22:11:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Environment warns of rain and possible landslides in various sectors of the country",
+        "title": "Observatory updates magnitude of the earthquake felt in Lake Ilopango",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/medio-ambiente-advierte-sobre-lluvias-y-posibles-deslizamientos-en-varios-sectores-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=medio-ambiente-advierte-sobre-lluvias-y-posibles-deslizamientos-en-varios-sectores-del-pais",
-        "published_date": "2026-10-11 20:34:51",
+        "url": "https://lapagina.com.sv/general/observatorio-actualiza-magnitud-del-sismo-sentido-en-el-lago-de-ilopango/?utm_source=rss&utm_medium=rss&utm_campaign=observatorio-actualiza-magnitud-del-sismo-sentido-en-el-lago-de-ilopango",
+        "published_date": "2026-10-12 19:23:12",
         "category": "Local Events"
     },
     {
-        "title": "Rains and thunderstorms affect different areas of El Salvador this Sunday",
+        "title": "3.2 magnitude earthquake shakes Ilopango Lake area",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/lluvias-y-tormentas-electricas-afectan-diferentes-zonas-de-el-salvador-este-domingo/",
-        "published_date": "2026-10-11 20:34:48",
+        "url": "https://diariolahuella.com/sismo-de-magnitud-3-2-sacude-zona-del-lago-de-ilopango/",
+        "published_date": "2026-10-12 19:16:10",
         "category": "Local Events"
     },
     {
-        "title": "\u201cThe best medicine is physical activity\u201d: President Bukele highlights massive participation in \u201cWe All Run\u201d",
+        "title": "Mario Dur\u00e1n entertained children in Cuscatl\u00e1n park",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/la-mejor-medicina-es-la-actividad-fisica-presidente-bukele-destaca-masiva-participacion-en-we-all-run/?utm_source=rss&utm_medium=rss&utm_campaign=la-mejor-medicina-es-la-actividad-fisica-presidente-bukele-destaca-masiva-participacion-en-we-all-run",
-        "published_date": "2026-10-11 20:23:18",
+        "url": "https://lapagina.com.sv/nacionales/mario-duran-agasajo-a-ninos-en-el-parque-cuscatlan/?utm_source=rss&utm_medium=rss&utm_campaign=mario-duran-agasajo-a-ninos-en-el-parque-cuscatlan",
+        "published_date": "2026-10-12 19:10:19",
         "category": "Local Events"
     },
     {
-        "title": "Breaking news: Route 111 bus catches fire due to mechanical damage on the road to Ilobasco",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/ultima-hora-bus-de-la-ruta-111-se-incendia-por-desperfectos-mecanicos-en-carretera-a-ilobasco/",
-        "published_date": "2026-10-11 19:39:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gabriela de Bukele highlights the value of Salvadoran girls on their international day",
+        "title": "They capture a crocodile on San Marcelino beach and the video circulates on the networks",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gabriela-de-bukele-destaca-el-valor-de-las-ninas-salvadorenas-en-su-dia-internacional/?utm_source=rss&utm_medium=rss&utm_campaign=gabriela-de-bukele-destaca-el-valor-de-las-ninas-salvadorenas-en-su-dia-internacional",
-        "published_date": "2026-10-11 18:27:49",
+        "url": "https://lapagina.com.sv/general/captan-cocodrilo-en-playa-san-marcelino-y-el-video-circula-en-redes/?utm_source=rss&utm_medium=rss&utm_campaign=captan-cocodrilo-en-playa-san-marcelino-y-el-video-circula-en-redes",
+        "published_date": "2026-10-12 19:00:50",
         "category": "Local Events"
     },
     {
-        "title": "42-year-old woman is injured after being run over on the road to San Luis La Herradura;motorcyclist flees",
+        "title": "Video|Crocodile surprises tourists and residents on San Marcelino beach",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/video-cocodrilo-sorprende-a-turistas-y-habitantes-en-playa-san-marcelino/",
+        "published_date": "2026-10-12 18:56:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor's Office intervenes at a point where neighbors left garbage on public roads",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/alcaldia-interviene-punto-donde-vecinos-dejaban-basura-en-la-via-publica/?utm_source=rss&utm_medium=rss&utm_campaign=alcaldia-interviene-punto-donde-vecinos-dejaban-basura-en-la-via-publica",
+        "published_date": "2026-10-12 18:51:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alex Oviedo, lead singer of Test de Sonido, is stable after suffering a stroke",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/mujer-de-42-anos-resulta-lesionada-tras-ser-atropellada-en-carretera-a-san-luis-la-herradura-motociclista-se-da-a-la-fuga/",
-        "published_date": "2026-10-11 18:25:35",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/alex-oviedo-vocalista-de-prueba-de-sonido-se-encuentra-estable-tras-sufrir-un-derrame-cerebral/",
+        "published_date": "2026-10-12 18:25:43",
         "category": "Local Events"
     },
     {
-        "title": "61-year-old man suffers burns from a gas leak in Quezaltepeque, La Libertad",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/hombre-de-61-anos-sufre-quemaduras-por-fuga-de-gas-en-quezaltepeque-la-libertad/",
-        "published_date": "2026-10-11 18:19:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran talent shone in Madrid with the presentation of OPUS 503",
+        "title": "Mayor Mario Dur\u00e1n entertained children in Cuscatl\u00e1n park",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-talento-salvadoreno-brillo-en-madrid-con-la-presentacion-de-opus-503/",
-        "published_date": "2026-10-11 18:00:31",
+        "url": "https://diariolahuella.com/alcalde-mario-duran-agasajo-a-ninos-en-el-parque-cuscatlan/",
+        "published_date": "2026-10-12 17:47:41",
         "category": "Local Events"
     },
     {
-        "title": "OPUS 503 brought Salvadoran talent and culture to Shakira's residence in Madrid",
+        "title": "Motorcycle companion died after road accident in Mejicanos",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/acompanante-de-motociclista-fallecio-tras-percance-vial-en-mejicanos/",
+        "published_date": "2026-10-12 17:46:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Thick clouds draw attention in El Salvador and spark comments about possible earthquakes",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/nubes-petateadas-llaman-la-atencion-en-el-salvador-y-despiertan-comentarios-sobre-posibles-sismos/",
+        "published_date": "2026-10-12 17:22:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador TradeExpo 2026 opens opportunities for Salvadoran companies in international markets",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/opus-503-llevo-el-talento-y-la-cultura-salvadorena-a-la-residencia-de-shakira-en-madrid/?utm_source=rss&utm_medium=rss&utm_campaign=opus-503-llevo-el-talento-y-la-cultura-salvadorena-a-la-residencia-de-shakira-en-madrid",
-        "published_date": "2026-10-11 17:58:21",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-tradeexpo-2026-abre-oportunidades-para-empresas-salvadorenas-en-mercados-internacionales/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-tradeexpo-2026-abre-oportunidades-para-empresas-salvadorenas-en-mercados-internacionales",
+        "published_date": "2026-10-12 17:03:04",
         "category": "Local Events"
     },
     {
-        "title": "The \u201cWe All Run\u201d race brought together runners from 25 countries in El Salvador",
+        "title": "\u201cEl Salvador TradeExpo 2026\u201d meeting opens",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/la-carrera-we-all-run-reunio-a-corredores-de-25-paises-en-el-salvador/",
-        "published_date": "2026-10-11 17:50:47",
+        "url": "https://diariolahuella.com/inauguran-encuentro-el-salvador-tradeexpo-2026/",
+        "published_date": "2026-10-12 17:01:51",
         "category": "Local Events"
     },
     {
-        "title": "Iran explodes against Trump!Accuses him of sowing fear after controversial statements about Los Angeles and San Diego",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/iran-estalla-contra-trump-lo-acusa-de-sembrar-miedo-tras-polemicas-declaraciones-sobre-los-angeles-y-san-diego/",
-        "published_date": "2026-10-11 17:15:54",
+        "title": "From Tejutepeque to Toronto: the Salvadoran dream that overcame visas, obstacles and lack of sponsorship",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/de-tejutepeque-a-toronto-el-sueno-salvadoreno-que-vencio-visas-obstaculos-y-la-falta-de-patrocinio/",
+        "published_date": "2026-10-12 16:45:46",
         "category": "Local Events"
     },
     {
-        "title": "Messi is unstoppable!Score a double and lead Inter Miami's 4-0 win over DC United",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/messi-esta-imparable-marca-doblete-y-lidera-goleada-4-0-del-inter-miami-sobre-dc-united/",
-        "published_date": "2026-10-11 17:02:40",
+        "title": "Video|Mario Dur\u00e1n warns of fines for throwing garbage in recovered places in the capital",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/video-mario-duran-advierte-multas-por-arrojar-basura-en-lugares-recuperados-de-la-capital/",
+        "published_date": "2026-10-12 16:35:29",
         "category": "Local Events"
     },
     {
-        "title": "Concern in the Vatican: Pope Leo XIV announces that he will undergo lung surgery",
+        "title": "OPUS 503 brings Salvadoran music to Shakira's residence in Madrid",
         "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/preocupacion-en-el-vaticano-papa-leon-xiv-anuncia-que-sera-operado-de-un-pulmon/",
-        "published_date": "2026-10-11 16:57:19",
+        "url": "https://croniosv.com/tendencias/jetset/opus-503-lleva-la-musica-salvadorena-a-la-residencia-de-shakira-en-madrid/",
+        "published_date": "2026-10-12 16:32:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "ARENA deputy questions actions to strengthen national agricultural production",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/diputado-de-arena-cuestiona-las-acciones-para-fortalecer-la-produccion-agricola-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=diputado-de-arena-cuestiona-las-acciones-para-fortalecer-la-produccion-agricola-nacional",
+        "published_date": "2026-10-12 16:32:17",
         "category": "Local Events"
     }
 ]
