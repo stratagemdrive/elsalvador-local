@@ -1,5 +1,26 @@
 [
     {
+        "title": "Government of President Nayib Bukele promotes TradeExpo 2026 in support of Salvadoran companies",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/gobierno-del-presidente-nayib-bukele-impulsa-la-tradeexpo-2026-en-apoyo-a-las-empresas-salvadorenas/",
+        "published_date": "2026-10-13 15:28:15",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Santiago Caprio highlights El Salvador's participation in the UN smart cities initiative",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/santiago-caprio-destaca-participacion-de-el-salvador-en-iniciativa-de-ciudades-inteligentes-de-la-onu/?utm_source=rss&utm_medium=rss&utm_campaign=santiago-caprio-destaca-participacion-de-el-salvador-en-iniciativa-de-ciudades-inteligentes-de-la-onu",
+        "published_date": "2026-10-13 14:43:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Santiago Caprio highlights the role of El Salvador in the creation of guidelines for smart cities",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/santiago-caprio-resalta-el-papel-de-el-salvador-en-la-creacion-de-lineamientos-para-ciudades-inteligentes/",
+        "published_date": "2026-10-13 14:33:23",
+        "category": "Diplomacy"
+    },
+    {
         "title": "TradeExpo 2026 promotes international interest in El Salvador",
         "source": "Periodico Equilibrium",
         "url": "https://www.periodicoequilibrium.com/tradeexpo-2026-promueve-interes-internacional-en-el-salvador/",
@@ -119,25 +140,88 @@
         "category": "Diplomacy"
     },
     {
-        "title": "World Federation of Trade Unions rejects the proposal for 11-hour days in El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/federacion-mundial-de-sindicatos-rechaza-la-propuesta-de-jornadas-de-11-horas-en-el-salvador/",
-        "published_date": "2026-10-08 11:00:49",
-        "category": "Diplomacy"
+        "title": "Secretary Rubio and President Bukele reaffirm alliance between the United States and El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/secretario-rubio-y-presidente-bukele-reafirman-alianza-entre-estados-unidos-y-el-salvador/",
+        "published_date": "2026-10-13 18:00:38",
+        "category": "Military"
     },
     {
-        "title": "The goodbye of a legend: Messi leaves Argentina with a goal and a show of assists",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-adios-de-una-leyenda-messi-se-retira-de-argentina-con-gol-y-show-de-asistencias/",
-        "published_date": "2026-10-07 04:19:04",
-        "category": "Diplomacy"
+        "title": "Guatemala captures a Salvadoran linked to MS-13 with a stolen gun",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/guatemala-captura-a-salvadoreno-vinculado-a-la-ms-13-con-una-pistola-robada/",
+        "published_date": "2026-10-13 17:13:58",
+        "category": "Military"
     },
     {
-        "title": "PHOTOS \u2013 VIDEOS |Lionel Messi says goodbye to Argentina with a goal, two assists and a historic night",
+        "title": "Marco Rubio talks with President Nayib Bukele about security and international cooperation",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/marco-rubio-conversa-con-presidente-nayib-bukele-sobre-seguridad-y-cooperacion-internacional/",
+        "published_date": "2026-10-13 16:44:01",
+        "category": "Military"
+    },
+    {
+        "title": "MS gang member who was planning an armed attack captured in Guatemala",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-en-guatemala-a-pandillero-de-la-ms-que-planificaba-un-atentado-armado/",
+        "published_date": "2026-10-13 16:37:55",
+        "category": "Military"
+    },
+    {
+        "title": "They find a deceased woman on the banks of the El Molino River, in Santa Ana",
         "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/fotos-videos-lionel-messi-se-despide-de-argentina-con-gol-dos-asistencias-y-una-noche-historica/",
-        "published_date": "2026-10-07 03:04:11",
-        "category": "Diplomacy"
+        "url": "https://croniosv.com/nacionales/encuentran-a-una-mujer-fallecida-en-las-riberas-del-rio-el-molino-en-santa-ana/",
+        "published_date": "2026-10-13 16:32:16",
+        "category": "Military"
+    },
+    {
+        "title": "They capture an MS gang member who was planning an armed attack in Guatemala",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/internacionales/capturan-a-pandillero-de-ms-que-planificaba-ataque-armado-en-guatemala/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-pandillero-de-ms-que-planificaba-ataque-armado-en-guatemala",
+        "published_date": "2026-10-13 16:30:48",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a motorist on route 40-A for breaking the mirrors of a minibus on route 29-E in San Salvador",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/capturan-a-motorista-de-la-ruta-40-a-por-quebrar-los-espejos-de-un-microbus-de-la-ruta-29-e-en-san-salvador/",
+        "published_date": "2026-10-13 16:18:32",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a subject who broke mirrors of a bus on Route 29 in San Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-sujeto-que-quebro-espejos-de-una-buseta-de-la-ruta-29-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-sujeto-que-quebro-espejos-de-una-buseta-de-la-ruta-29-en-san-salvador",
+        "published_date": "2026-10-13 16:16:11",
+        "category": "Military"
+    },
+    {
+        "title": "VIDEO |PNC captures a motorist for breaking mirrors of a minibus in San Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/pnc-captura-a-motorista-por-quebrar-espejos-de-un-microbus-en-san-salvador/",
+        "published_date": "2026-10-13 16:15:39",
+        "category": "Military"
+    },
+    {
+        "title": "Mayor's Office of San Salvador Este will verify the construction of Yanira Berr\u00edos in Soyapango",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/alcaldia-de-san-salvador-este-verificara-construccion-de-yanira-berrios-en-soyapango/",
+        "published_date": "2026-10-13 15:19:07",
+        "category": "Military"
+    },
+    {
+        "title": "Man arrived drunk at his ex-partner's house and ended up arrested for disobeying protection measures",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/hombre-llego-ebrio-a-la-casa-de-su-expareja-y-termino-detenido-por-desobedecer-medidas-de-proteccion/?utm_source=rss&utm_medium=rss&utm_campaign=hombre-llego-ebrio-a-la-casa-de-su-expareja-y-termino-detenido-por-desobedecer-medidas-de-proteccion",
+        "published_date": "2026-10-13 14:31:25",
+        "category": "Military"
+    },
+    {
+        "title": "Rob Schneider highlights changes in El Salvador's security",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/internacionales/rob-schneider-destaca-cambios-en-la-seguridad-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=rob-schneider-destaca-cambios-en-la-seguridad-de-el-salvador",
+        "published_date": "2026-10-13 13:37:10",
+        "category": "Military"
     },
     {
         "title": "Iran announces attack on third supertanker in Hormuz in two days",
@@ -193,90 +277,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/10/vmt-inicia-revisiones-tecnicas-obligatorias-para-camiones-de-volteo-unidades-con-fallas-no-podran-circular/",
         "published_date": "2026-10-12 17:47:41",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador accumulates 10 days without homicides in October, according to the PNC",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/el-salvador-acumula-10-dias-sin-homicidios-en-octubre-segun-la-pnc/",
-        "published_date": "2026-10-12 17:02:04",
-        "category": "Military"
-    },
-    {
-        "title": "Police Workers Movement denounces alleged animal abuse at PNC headquarters",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/movimiento-de-trabajadores-de-la-policia-denuncia-presunto-maltrato-animal-en-cuartel-central-de-la-pnc/",
-        "published_date": "2026-10-12 02:17:20",
-        "category": "Military"
-    },
-    {
-        "title": "Under the influence of alcohol, three men get into a fight at a dance in Soyapango",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/bajo-los-efectos-del-alcohol-tres-hombres-protagonizan-una-pelea-en-un-baile-en-soyapango/?utm_source=rss&utm_medium=rss&utm_campaign=bajo-los-efectos-del-alcohol-tres-hombres-protagonizan-una-pelea-en-un-baile-en-soyapango",
-        "published_date": "2026-10-12 00:09:35",
-        "category": "Military"
-    },
-    {
-        "title": "They capture three men after getting into a fight during a dance in Soyapango",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-tres-hombres-tras-protagonizar-una-pelea-durante-un-baile-en-soyapango/",
-        "published_date": "2026-10-12 00:09:21",
-        "category": "Military"
-    },
-    {
-        "title": "SRS intensifies surveillance and warns businesses that fail to comply with health regulations with closures, fines and confiscations",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/srs-intensifica-vigilancia-y-advierte-con-cierres-multas-y-decomisos-a-comercios-que-incumplan-la-normativa-sanitaria/",
-        "published_date": "2026-10-11 22:10:04",
-        "category": "Military"
-    },
-    {
-        "title": "They capture 3 people who were involved in a fight at a dance at the Espa\u00f1a Sports Center, in Soyapango",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/capturan-a-4-personas-que-protagonizaron-una-pelea-en-un-baile-en-el-polideportivo-espana-en-soyapango/",
-        "published_date": "2026-10-11 21:17:45",
-        "category": "Military"
-    },
-    {
-        "title": "Ulloa's five worst lies in Uruguay",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/las-cinco-peores-mentiras-de-ulloa-en-uruguay/",
-        "published_date": "2026-10-11 20:31:31",
-        "category": "Military"
-    },
-    {
-        "title": "They capture an older adult who posed as a bricklayer to steal construction tools",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-adulto-mayor-que-se-hacia-pasar-por-albanil-para-hurtar-herramientas-de-construccion/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-adulto-mayor-que-se-hacia-pasar-por-albanil-para-hurtar-herramientas-de-construccion",
-        "published_date": "2026-10-11 03:32:11",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a 78-year-old man who pretended to be a bricklayer to steal construction tools",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/capturan-a-hombre-de-78-anos-que-fingia-ser-albanil-para-robar-herramientas-en-construcciones/",
-        "published_date": "2026-10-11 02:18:34",
-        "category": "Military"
-    },
-    {
-        "title": "Keiko Fujimori will travel to El Salvador to learn about the security strategies of President Bukele's Government",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/keiko-fujimori-viajara-a-el-salvador-para-conocer-las-estrategias-de-seguridad-del-gobierno-del-presidente-bukele/",
-        "published_date": "2026-10-11 00:10:46",
-        "category": "Military"
-    },
-    {
-        "title": "Keiko Fujimori will visit El Salvador to meet with President Nayib Bukele and address security issues",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/keiko-fujimori-visitara-el-salvador-para-reunirse-con-el-presidente-nayib-bukele-y-abordar-temas-de-seguridad/?utm_source=rss&utm_medium=rss&utm_campaign=keiko-fujimori-visitara-el-salvador-para-reunirse-con-el-presidente-nayib-bukele-y-abordar-temas-de-seguridad",
-        "published_date": "2026-10-11 00:09:49",
-        "category": "Military"
-    },
-    {
-        "title": "Alias \u200b\u200b\u201cCampuesto\u201d, gang member with court orders for several crimes in Moraz\u00e1n, falls",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cae-alias-campuso-pandillero-con-ordenes-judiciales-por-varios-delitos-en-morazan/?utm_source=rss&utm_medium=rss&utm_campaign=cae-alias-campuso-pandillero-con-ordenes-judiciales-por-varios-delitos-en-morazan",
-        "published_date": "2026-10-10 23:35:14",
         "category": "Military"
     },
     {
@@ -355,6 +355,34 @@
         "url": "https://lapagina.com.sv/jet-set/seguidores-de-iron-maiden-se-toman-las-afueras-del-magico-gonzalez/?utm_source=rss&utm_medium=rss&utm_campaign=seguidores-de-iron-maiden-se-toman-las-afueras-del-magico-gonzalez",
         "published_date": "2026-10-05 21:13:11",
         "category": "Energy"
+    },
+    {
+        "title": "World Bank highlights educational modernization in El Salvador with artificial intelligence tools",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/banco-mundial-destaca-modernizacion-educativa-en-el-salvador-con-herramientas-de-inteligencia-artificial/",
+        "published_date": "2026-10-13 17:15:06",
+        "category": "Economy"
+    },
+    {
+        "title": "Rafael Aguirre proposes recovering public funds and prioritizing the economy",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/rafael-aguirre-plantea-recuperar-fondos-publicos-priorizar-economia/",
+        "published_date": "2026-10-13 11:04:19",
+        "category": "Economy"
+    },
+    {
+        "title": "Finance Commission schedules officials to explain 2027 budgets",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/comision-hacienda-agenda-funcionarios-explicar-presupuestos-2027/",
+        "published_date": "2026-10-13 11:02:54",
+        "category": "Economy"
+    },
+    {
+        "title": "SSF authorizes Monetae to acquire the SPDE Transferencias of El Salvador",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/ssf-autoriza-a-monetae-para-adquirir-la-spde-transferencias-de-el-salvador/",
+        "published_date": "2026-10-13 04:21:38",
+        "category": "Economy"
     },
     {
         "title": "Teaching Bases: \u201cTechnology, by itself, is not solving educational problems\u201d",
@@ -469,164 +497,143 @@
         "category": "Economy"
     },
     {
-        "title": "El Salvador and Uruguay explore cooperation in artificial intelligence and digital transformation",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/el-salvador-y-uruguay-exploran-cooperacion-en-inteligencia-artificial-y-transformacion-digital/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-uruguay-exploran-cooperacion-en-inteligencia-artificial-y-transformacion-digital",
-        "published_date": "2026-10-06 00:26:00",
-        "category": "Economy"
-    },
-    {
-        "title": "El Salvador and the construction sector seek to expand the supply of social housing",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-salvador-y-sector-construccion-buscan-ampliar-oferta-de-vivienda-de-interes-social/",
-        "published_date": "2026-10-05 17:53:19",
-        "category": "Economy"
-    },
-    {
-        "title": "FPS presidential candidate, Orlando del Cid, bets on bringing investment of $100 billion",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/candidato-presidencial-del-fps-orlando-del-cid-apuesta-por-traer-inversion-de-100-mil-millones/",
-        "published_date": "2026-10-05 11:03:43",
-        "category": "Economy"
-    },
-    {
-        "title": "Miracle on the high seas!Salvadoran survives 20 hours adrift after falling from a cruise ship in Greece",
+        "title": "Construction of the viaduct and expansion of the Los Chorros highway, La Libertad, advances",
         "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/milagro-en-alta-mar-salvadorena-sobrevive-20-horas-a-la-deriva-tras-caer-de-un-crucero-en-grecia/",
-        "published_date": "2026-10-13 02:26:32",
+        "url": "https://croniosv.com/nacionales/avanza-construccion-del-viaducto-y-ampliacion-de-la-carretera-los-chorros-la-libertad/",
+        "published_date": "2026-10-13 18:01:33",
         "category": "Local Events"
     },
     {
-        "title": "Life sentence for two MS-13 leaders in San Salvador: Court sentences 97 gang members from 10 cliques",
+        "title": "They rescue a puppy that was trapped in a well for three days in Nejapa",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/cadena-perpetua-para-dos-lideres-de-la-ms-13-en-san-salvador-tribunal-condena-a-97-pandilleros-de-10-clicas/",
-        "published_date": "2026-10-13 01:56:58",
+        "url": "https://croniosv.com/nacionales/rescatan-a-perrito-que-permanecio-tres-dias-atrapado-en-un-pozo-en-nejapa/",
+        "published_date": "2026-10-13 17:54:22",
         "category": "Local Events"
     },
     {
-        "title": "Nicaragua advances in popular consultations on reforms",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/nicaragua-avanza-en-consultas-populares-sobre-reformas/",
-        "published_date": "2026-10-13 01:36:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Official Union Unit defends respect for Salvadorans after statements by Roberto Valencia",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/unidad-sindical-oficial-defiende-el-respeto-a-los-salvadorenos-tras-declaraciones-de-roberto-valencia/?utm_source=rss&utm_medium=rss&utm_campaign=unidad-sindical-oficial-defiende-el-respeto-a-los-salvadorenos-tras-declaraciones-de-roberto-valencia",
-        "published_date": "2026-10-13 01:36:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Official Union Unit rejects insults by Roberto Valencia against the Salvadoran population",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/unidad-sindical-oficial-rechaza-insultos-de-roberto-valencia-contra-la-poblacion-salvadorena/",
-        "published_date": "2026-10-13 01:26:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Traffic accidents leave at least three injured in different parts of El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/accidentes-de-transito-dejan-al-menos-tres-lesionados-en-distintos-puntos-de-el-salvador/",
-        "published_date": "2026-10-13 00:45:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Asesuisa leads Merco 2026 corporate reputation and ESG responsibility sector rankings",
+        "title": "THE FEDECR\u00c9DITO SYSTEM WILL GET TOGETHER EXPERTS IN FINANCE AND LEADERSHIP AT THE 2026 WORLD SAVINGS DAY CONGRESS",
         "source": "Cronio",
-        "url": "https://croniosv.com/negocios/asesuisa-lidera-los-rankings-sectoriales-de-reputacion-corporativa-y-responsabilidad-esg-de-merco-2026/",
-        "published_date": "2026-10-13 00:22:36",
+        "url": "https://croniosv.com/principal/principal1/el-sistema-fedecredito-reunira-a-expertos-en-finanzas-y-liderazgo-en-el-congreso-del-dia-mundial-del-ahorro-2026/",
+        "published_date": "2026-10-13 17:52:48",
         "category": "Local Events"
     },
     {
-        "title": "Cesia Rivas criticizes the costumes of the MINEDUCYT Early Childhood activities",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/cesia-rivas-critica-los-disfraces-de-las-actividades-de-primera-infancia-del-mineducyt/?utm_source=rss&utm_medium=rss&utm_campaign=cesia-rivas-critica-los-disfraces-de-las-actividades-de-primera-infancia-del-mineducyt",
-        "published_date": "2026-10-13 00:20:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cesia Rivas criticizes children dressed as astronauts",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/cesia-rivas-critica-a-disfrazados-de-astronautas/",
-        "published_date": "2026-10-13 00:06:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mourning in Hollywood!RJ Mitte, the remembered son of Walter White in \"Breaking Bad,\" dies at 34",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/jetset/luto-en-hollywood-muere-a-los-34-anos-rj-mitte-el-recordado-hijo-de-walter-white-en-breaking-bad/",
-        "published_date": "2026-10-13 00:03:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "From walking through mud to receiving a response from Bukele!MOP begins works on the street where children struggle to get to school",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/entrega-especial/de-caminar-entre-lodo-a-recibir-una-respuesta-de-bukele-mop-inicia-obras-en-calle-donde-ninos-sufren-para-llegar-a-la-escuela/",
-        "published_date": "2026-10-12 23:54:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran survives 20 hours at sea after falling from a cruise ship in Greece",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/salvadorena-sobrevive-20-horas-en-el-mar-tras-caer-de-un-crucero-en-grecia/",
-        "published_date": "2026-10-12 23:46:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Merchant ship rescues Salvadoran woman after 20 hours in the Ionian Sea",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/buque-mercante-rescata-a-salvadorena-tras-20-horas-en-el-mar-jonico/?utm_source=rss&utm_medium=rss&utm_campaign=buque-mercante-rescata-a-salvadorena-tras-20-horas-en-el-mar-jonico",
-        "published_date": "2026-10-12 23:46:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "From social discontent to the monopoly of narrative",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/del-descontento-social-al-monopolio-de-la-narrativa/",
-        "published_date": "2026-10-12 23:41:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fashion and creativity drive new opportunities in the Historic Center of San Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/moda-y-creatividad-impulsan-nuevas-oportunidades-en-el-centro-historico-de-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=moda-y-creatividad-impulsan-nuevas-oportunidades-en-el-centro-historico-de-san-salvador",
-        "published_date": "2026-10-12 23:38:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fashion for a Cause 2026 will support the Foundation for the Development of San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/moda-por-una-causa-2026-apoyara-a-la-fundacion-para-el-desarrollo-de-san-salvador/",
-        "published_date": "2026-10-12 23:34:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Guardians of the Planet promotes environmental care among children in El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/guardianes-del-planeta-promueve-el-cuidado-ambiental-entre-ninos-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=guardianes-del-planeta-promueve-el-cuidado-ambiental-entre-ninos-de-el-salvador",
-        "published_date": "2026-10-12 23:27:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Children from El Salvador will create recycled costumes to learn to take care of the planet",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ninos-de-el-salvador-crearan-disfraces-reciclados-para-aprender-a-cuidar-el-planeta/",
-        "published_date": "2026-10-12 23:17:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Between Colors and Shadows: eight years opening scenarios for inclusion in El Salvador",
+        "title": "The Fedecr\u00e9dito System will bring together experts in finance and leadership at the World Savings Day 2026 Congress",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/entre-colores-y-sombras-ocho-anos-abriendo-escenarios-para-la-inclusion-en-el-salvador/",
-        "published_date": "2026-10-12 23:05:31",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/el-sistema-fedecredito-reunira-a-expertos-en-finanzas-y-liderazgo-en-el-congreso-del-dia-mundial-del-ahorro-2026/",
+        "published_date": "2026-10-13 17:47:27",
         "category": "Local Events"
     },
     {
-        "title": "CHP El Salvador reveals ticket prices for Daniel Due\u00f1as' conference",
+        "title": "Telephone conversation between the Secretary of State, Marco Rubio, and the President of El Salvador, Nayib Bukele",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/chp-el-salvador-revela-los-precios-de-los-boletos-para-la-conferencia-de-daniel-duenas/",
-        "published_date": "2026-10-12 22:40:43",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/conversacion-telefonica-entre-el-secretario-de-estado-marco-rubio-y-el-presidente-de-el-salvador-nayib-bukele/",
+        "published_date": "2026-10-13 17:35:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "PHOTOS |Bus at excessive speed falls from overpass in Guatemala",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/fotos-bus-a-excesiva-velocidad-cae-desde-paso-a-desnivel-en-guatemala/",
+        "published_date": "2026-10-13 16:44:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The construction of the Pacific airport in La Uni\u00f3n advances",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/avanza-la-construccion-del-aeropuerto-del-pacifico-en-la-union/?utm_source=rss&utm_medium=rss&utm_campaign=avanza-la-construccion-del-aeropuerto-del-pacifico-en-la-union",
+        "published_date": "2026-10-13 16:39:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "The construction of the Pacific airport in La Uni\u00f3n advances",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/avanza-la-construccion-del-aeropuerto-del-pacifico-en-la-union/",
+        "published_date": "2026-10-13 16:35:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "AKRIILA, \u200b\u200bamong the new voices that are redefining Latin American music, receives nomination for the ROLLING STONE Awards in Spanish 2026",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/akriila-entre-las-nuevas-voces-que-estan-redefiniendo-la-musica-latinoamericana-recibe-nominacion-a-los-premios-rolling-stone-en-espanol-2026/",
+        "published_date": "2026-10-13 16:03:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Heavy rains and storms are expected in El Salvador this Tuesday",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/preven-lluvias-y-tormentas-fuertes-en-el-salvador-este-martes/",
+        "published_date": "2026-10-13 15:30:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Seller falls into a ravine after an accident on the Troncal del Norte highway",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/vendedor-cae-a-una-quebrada-tras-accidente-en-la-carretera-troncal-del-norte/?utm_source=rss&utm_medium=rss&utm_campaign=vendedor-cae-a-una-quebrada-tras-accidente-en-la-carretera-troncal-del-norte",
+        "published_date": "2026-10-13 14:34:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Seller falls into a ravine after a serious road accident on the Troncal del Norte highway",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/vendedor-cae-a-una-quebrada-tras-fuerte-percance-vial-en-la-carretera-troncal-del-norte/",
+        "published_date": "2026-10-13 14:28:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rain and storms are forecast for the afternoon and evening of this Tuesday",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/pronostican-lluvias-y-tormentas-para-la-tarde-y-la-noche-de-este-martes/?utm_source=rss&utm_medium=rss&utm_campaign=pronostican-lluvias-y-tormentas-para-la-tarde-y-la-noche-de-este-martes",
+        "published_date": "2026-10-13 14:11:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rain and storms for the afternoon and night of this Tuesday",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/lluvias-y-tormentas-para-la-tarde-y-la-noche-de-este-martes/",
+        "published_date": "2026-10-13 14:07:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Peru proposes disciplinary measures in schools, similar to those in Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/peru-propone-medidas-disciplinarias-en-escuelas-similares-a-las-salvadorenas/",
+        "published_date": "2026-10-13 13:50:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Peru promotes school discipline measures similar to those implemented in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/internacionales/peru-impulsa-medidas-de-disciplina-escolar-similares-a-las-implementadas-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=peru-impulsa-medidas-de-disciplina-escolar-similares-a-las-implementadas-en-el-salvador",
+        "published_date": "2026-10-13 13:47:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "On the 502nd anniversary of the European invasion, MILPA warns about territorial dispossession",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/al-cumplirse-502-anos-de-la-invasion-europea-milpa-alerta-sobre-despojo-territorial/",
+        "published_date": "2026-10-13 11:05:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deputies authorize DOM to transfer 50 vehicles to Constructora El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diputados-autorizan-a-dom-transferir-50-vehiculos-a-constructora-el-salvador/",
+        "published_date": "2026-10-13 11:01:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Azulita U-16 goes for the UNCAF title in Las Delicias",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-azulita-sub-16-va-por-el-titulo-del-uncaf-en-las-delicias/",
+        "published_date": "2026-10-13 10:41:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inter Tecla leads and FAS lurks after matchday 15 of the Apertura",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/inter-tecla-lidera-y-fas-acecha-tras-la-jornada-15-del-apertura/",
+        "published_date": "2026-10-13 10:37:11",
         "category": "Local Events"
     }
 ]
