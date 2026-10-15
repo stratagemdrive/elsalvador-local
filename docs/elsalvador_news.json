@@ -1,5 +1,19 @@
 [
     {
+        "title": "El Salvador and Chile agree to strengthen cooperation in economy and security",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-y-chile-acuerdan-fortalecer-cooperacion-en-economia-y-seguridad/",
+        "published_date": "2026-10-15 01:07:21",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "El Salvador strengthens trade facilitation and regional integration",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/el-salvador-fortalece-la-facilitacion-del-comercio-y-la-integracion-regional/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-fortalece-la-facilitacion-del-comercio-y-la-integracion-regional",
+        "published_date": "2026-10-14 23:51:33",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Erick Acu\u00f1a after controversy over his statements: \u201cIt was the fever of the competition\u201d",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/10/erick-acuna-tras-polemica-por-sus-declaraciones-fue-la-calentura-propia-de-la-competencia/",
@@ -126,18 +140,67 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Chinese Ambassador highlights development vision of President Nayib Bukele's Government",
+        "title": "Video|Laura Fern\u00e1ndez thanks President Bukele for security support",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/embajador-de-china-destaca-vision-de-desarrollo-del-gobierno-del-presidente-nayib-bukele/",
-        "published_date": "2026-10-08 19:47:35",
-        "category": "Diplomacy"
+        "url": "https://diariolahuella.com/video-laura-fernandez-agradece-al-presidente-bukele-por-apoyo-en-seguridad/",
+        "published_date": "2026-10-15 00:14:16",
+        "category": "Military"
     },
     {
-        "title": "Sharing experiences to drive innovation",
+        "title": "Laura Fern\u00e1ndez thanks President Nayib Bukele for security cooperation",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/laura-fernandez-agradece-al-presidente-nayib-bukele-por-cooperacion-en-seguridad/?utm_source=rss&utm_medium=rss&utm_campaign=laura-fernandez-agradece-al-presidente-nayib-bukele-por-cooperacion-en-seguridad",
+        "published_date": "2026-10-15 00:07:29",
+        "category": "Military"
+    },
+    {
+        "title": "President Bukele criticizes international organizations for their position on security issues in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/el-presidente-bukele-lanza-critica-a-organismos-internacionales-por-su-postura-sobre-temas-de-seguridad-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=el-presidente-bukele-lanza-critica-a-organismos-internacionales-por-su-postura-sobre-temas-de-seguridad-en-el-salvador",
+        "published_date": "2026-10-14 23:13:36",
+        "category": "Military"
+    },
+    {
+        "title": "Young people are denounced for making graffiti alluding to gangs in Ciudad Futura",
         "source": "Cronio",
-        "url": "https://croniosv.com/politica/compartiendo-experiencias-para-impulsar-la-innovacion/",
-        "published_date": "2026-10-08 17:18:41",
-        "category": "Diplomacy"
+        "url": "https://croniosv.com/nacionales/sucesos/denuncian-a-jovenes-por-realizar-grafitis-alusivos-a-pandillas-en-ciudad-futura/",
+        "published_date": "2026-10-14 20:57:11",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador and Luxembourg continue to strengthen their cooperation ties",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-y-luxemburgo-siguen-estrechando-sus-vinculos-de-cooperacion/",
+        "published_date": "2026-10-14 20:39:17",
+        "category": "Military"
+    },
+    {
+        "title": "Controls are maintained on cargo transportation",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/se-mantienen-controles-al-transporte-de-carga/?utm_source=rss&utm_medium=rss&utm_campaign=se-mantienen-controles-al-transporte-de-carga",
+        "published_date": "2026-10-14 20:16:07",
+        "category": "Military"
+    },
+    {
+        "title": "Three drivers will be prosecuted for crimes related to road safety in El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/tres-conductores-seran-procesados-por-delitos-relacionados-con-la-seguridad-vial-en-el-salvador/",
+        "published_date": "2026-10-14 20:11:37",
+        "category": "Military"
+    },
+    {
+        "title": "Authorities record 1,199 heavy-duty vehicle accidents in 2026",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/autoridades-registran-1199-accidentes-de-vehiculos-de-carga-pesada-en-2026/",
+        "published_date": "2026-10-14 19:57:40",
+        "category": "Military"
+    },
+    {
+        "title": "Noboa announces new curfews in Ecuadorian coastal provinces",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/noboa-anuncia-nuevos-toques-de-queda-en-provincias-costeras-ecuatorianas/",
+        "published_date": "2026-10-14 17:56:23",
+        "category": "Military"
     },
     {
         "title": "They arrest a subject who stole a cell phone in a pi\u00f1a store",
@@ -217,67 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Guatemala captures a Salvadoran linked to MS-13 with a stolen gun",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/guatemala-captura-a-salvadoreno-vinculado-a-la-ms-13-con-una-pistola-robada/",
-        "published_date": "2026-10-13 17:13:58",
-        "category": "Military"
-    },
-    {
-        "title": "Marco Rubio talks with President Nayib Bukele about security and international cooperation",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/marco-rubio-conversa-con-presidente-nayib-bukele-sobre-seguridad-y-cooperacion-internacional/",
-        "published_date": "2026-10-13 16:44:01",
-        "category": "Military"
-    },
-    {
-        "title": "MS gang member who was planning an armed attack captured in Guatemala",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-en-guatemala-a-pandillero-de-la-ms-que-planificaba-un-atentado-armado/",
-        "published_date": "2026-10-13 16:37:55",
-        "category": "Military"
-    },
-    {
-        "title": "They find a deceased woman on the banks of the El Molino River, in Santa Ana",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/encuentran-a-una-mujer-fallecida-en-las-riberas-del-rio-el-molino-en-santa-ana/",
-        "published_date": "2026-10-13 16:32:16",
-        "category": "Military"
-    },
-    {
-        "title": "They capture an MS gang member who was planning an armed attack in Guatemala",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/capturan-a-pandillero-de-ms-que-planificaba-ataque-armado-en-guatemala/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-pandillero-de-ms-que-planificaba-ataque-armado-en-guatemala",
-        "published_date": "2026-10-13 16:30:48",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a motorist on route 40-A for breaking the mirrors of a minibus on route 29-E in San Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/capturan-a-motorista-de-la-ruta-40-a-por-quebrar-los-espejos-de-un-microbus-de-la-ruta-29-e-en-san-salvador/",
-        "published_date": "2026-10-13 16:18:32",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a subject who broke mirrors of a bus on Route 29 in San Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-sujeto-que-quebro-espejos-de-una-buseta-de-la-ruta-29-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-sujeto-que-quebro-espejos-de-una-buseta-de-la-ruta-29-en-san-salvador",
-        "published_date": "2026-10-13 16:16:11",
-        "category": "Military"
-    },
-    {
-        "title": "VIDEO |PNC captures a motorist for breaking mirrors of a minibus in San Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/pnc-captura-a-motorista-por-quebrar-espejos-de-un-microbus-en-san-salvador/",
-        "published_date": "2026-10-13 16:15:39",
-        "category": "Military"
-    },
-    {
-        "title": "Mayor's Office of San Salvador Este will verify the construction of Yanira Berr\u00edos in Soyapango",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/alcaldia-de-san-salvador-este-verificara-construccion-de-yanira-berrios-en-soyapango/",
-        "published_date": "2026-10-13 15:19:07",
-        "category": "Military"
+        "title": "The electric vehicle map to travel without looking at the battery",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-mapa-del-vehiculo-electrico-para-viajar-sin-mirar-la-bateria/",
+        "published_date": "2026-10-14 17:04:56",
+        "category": "Energy"
     },
     {
         "title": "Nearly $2 billion will be invested in natural gas and renewable energy production",
@@ -413,11 +420,32 @@
         "category": "Energy"
     },
     {
-        "title": "Thousands of participants filled the \u201cWe All Run\u201d race with energy",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/miles-de-participantes-llenaron-de-energia-la-carrera-we-all-run/?utm_source=rss&utm_medium=rss&utm_campaign=miles-de-participantes-llenaron-de-energia-la-carrera-we-all-run",
-        "published_date": "2026-10-11 17:49:32",
-        "category": "Energy"
+        "title": "Customs advances in the modernization of La Hachadura, El Poy and San Bartolo",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/aduanas-avanza-en-la-modernizacion-de-la-hachadura-el-poy-y-san-bartolo/",
+        "published_date": "2026-10-14 23:47:30",
+        "category": "Economy"
+    },
+    {
+        "title": "BCR will use digital technology in Economic Cartography 2026",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/bcr-utilizara-tecnologia-digital-en-la-cartografia-economica-2026/",
+        "published_date": "2026-10-14 23:42:02",
+        "category": "Economy"
+    },
+    {
+        "title": "Historical Bitcoin 2026 will bring together influential voices from the sector in the Historic Center of San Salvador",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/bitcoin-historico-2026-reunira-a-voces-influyentes-del-sector-en-el-centro-historico-de-san-salvador/",
+        "published_date": "2026-10-14 23:31:34",
+        "category": "Economy"
+    },
+    {
+        "title": "Payment methods manager of the state bank CHN dies from bullets in zone 4 of Guatemala City",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/gerente-de-medios-de-pago-del-banco-estatal-chn-muere-por-balas-en-zona-4-de-ciudad-de-guatemala/",
+        "published_date": "2026-10-14 22:27:49",
+        "category": "Economy"
     },
     {
         "title": "Teacher unions confronted by educational investment 2027",
@@ -532,171 +560,143 @@
         "category": "Economy"
     },
     {
-        "title": "The Wine Fair opens its doors this October 8 and 9 at Hacienda Los Miranda",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/la-feria-del-vino-abre-sus-puertas-este-8-y-9-de-octubre-en-hacienda-los-miranda/",
-        "published_date": "2026-10-08 22:31:07",
-        "category": "Economy"
+        "title": "Nuevas Ideas denies creating a commission to review cases of innocent people under emergency regime",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/nuevas-ideas-niega-crear-comision-para-revisar-casos-de-inocentes-en-regimen-de-excepcion/",
+        "published_date": "2026-10-15 01:06:53",
+        "category": "Local Events"
     },
     {
-        "title": "Customs accredits Laboratorios Vijosa as a Trusted Operator and adds 34 certified companies",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/aduanas-acredita-a-laboratorios-vijosa-como-operadorconfiable-y-suma-34-empresas-certificadas/",
-        "published_date": "2026-10-08 20:41:34",
-        "category": "Economy"
+        "title": "\"I want to go meet Nayib Bukele,\" said Don Omar.",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/quiero-ir-a-conocer-a-nayib-bukele-expreso-don-omar/?utm_source=rss&utm_medium=rss&utm_campaign=quiero-ir-a-conocer-a-nayib-bukele-expreso-don-omar",
+        "published_date": "2026-10-14 23:53:54",
+        "category": "Local Events"
     },
     {
-        "title": "United, for the best experience, Banco CUSCATLAN and United AirlinesSM present the United VISA CUSCATLAN Credit Cards",
+        "title": "Don Omar announces that El Salvador is among the destinations of his 2027 Latin American tour",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/don-omar-anuncia-que-el-salvador-esta-entre-los-destinos-de-su-gira-latinoamericana-de-2027/",
+        "published_date": "2026-10-14 23:30:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video|Don Omar wants to meet President Nayib Bukele in El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/video-don-omar-quiere-conocer-al-presidente-nayib-bukele-en-el-salvador/",
+        "published_date": "2026-10-14 23:28:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lotra Raffle N\u00b0470 dedicated to \u201c60 Years at the Service of Workers\u201d AGEPYM",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/sorteo-lotra-n470-dedicado-a-60-anos-al-servicio-de-los-trabajadores-agepym/?utm_source=rss&utm_medium=rss&utm_campaign=sorteo-lotra-n470-dedicado-a-60-anos-al-servicio-de-los-trabajadores-agepym",
+        "published_date": "2026-10-14 23:12:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele explains how to change the destiny of a country",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-explica-como-cambiar-el-destino-de-un-pais/",
+        "published_date": "2026-10-14 23:06:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The shift in the official narrative in the face of economic asphyxiation",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-viraje-de-la-narrativa-oficial-ante-la-asfixia-economica/",
+        "published_date": "2026-10-14 23:00:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "PSG and Barcelona maintain a perfect pace and heat up their duel for the leadership of the Champions League",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-psg-y-barcelona-mantienen-paso-perfecto-y-calientan-su-duelo-por-el-liderato-de-la-champions/",
+        "published_date": "2026-10-14 22:29:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brayan Gil attacks FAS for non-payment of his transfer to FC Baltika and threatens legal action",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/brayan-gil-arremete-contra-fas-por-impago-de-su-traspaso-al-fc-baltika-y-amenaza-con-acciones-legales/",
+        "published_date": "2026-10-14 22:11:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several injured in accident between minibus and truck on Mariona street",
         "source": "Cronio",
-        "url": "https://croniosv.com/negocios/empresarial/unidos-para-la-mejor-experiencia-banco-cuscatlan-y-united-airlinessm-presentan-las-tarjetas-de-credito-united-visa-cuscatlan/",
-        "published_date": "2026-10-07 23:58:40",
-        "category": "Economy"
-    },
-    {
-        "title": "World Bank projects growth of 4.5% for El Salvador in 2026",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/banco-mundial-proyecta-crecimiento-de-4-5-para-el-salvador-en-2026/",
-        "published_date": "2026-10-07 17:42:49",
-        "category": "Economy"
-    },
-    {
-        "title": "President Bukele: \"On the way to becoming the safest country in the world\"",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/presidente-bukele-en-camino-de-convertirnos-en-el-pais-mas-seguro-del-mundo/",
-        "published_date": "2026-10-14 15:32:24",
+        "url": "https://croniosv.com/nacionales/varios-lesionados-en-accidente-entre-microbus-y-camioncito-en-calle-a-mariona/",
+        "published_date": "2026-10-14 22:08:10",
         "category": "Local Events"
     },
     {
-        "title": "MARN predicts rain and storms for this Wednesday in El Salvador",
+        "title": "Fire completely destroys a motorcycle taxi in Cuscatl\u00e1n",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/marn-preve-lluvias-y-tormentas-para-este-miercoles-en-el-salvador-2/",
-        "published_date": "2026-10-14 15:31:09",
+        "url": "https://croniosv.com/nacionales/incendio-destruye-por-completo-un-mototaxi-en-cuscatlan/",
+        "published_date": "2026-10-14 21:54:46",
         "category": "Local Events"
     },
     {
-        "title": "Rain and storms are expected this Wednesday",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/se-esperan-lluvias-y-tormentas-para-este-miercoles/?utm_source=rss&utm_medium=rss&utm_campaign=se-esperan-lluvias-y-tormentas-para-este-miercoles",
-        "published_date": "2026-10-14 15:01:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Leader of gang 18 is arrested after leaving the hospital, where he was suffering from a gunshot wound",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/cabecilla-de-la-pandilla-18-es-detenido-al-salir-del-hospital-donde-estuvo-por-una-herida-de-bala/",
-        "published_date": "2026-10-14 14:57:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wounded by a gunshot and with a red alert from Interpol, leader of the 18 gang is handed over to El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/herido-de-bala-y-con-alerta-roja-de-interpol-cabecilla-de-la-pandilla-18-es-entregado-a-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=herido-de-bala-y-con-alerta-roja-de-interpol-cabecilla-de-la-pandilla-18-es-entregado-a-el-salvador",
-        "published_date": "2026-10-14 14:56:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Homicide rate in El Salvador drops to 0.97 per 100,000 inhabitants in 2026",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/tasa-de-homicidios-en-el-salvador-baja-a-0-97-por-cada-100000-habitantes-en-2026/",
-        "published_date": "2026-10-14 14:55:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele invites to a special broadcast tonight",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-invita-a-una-transmision-especial-esta-noche/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-invita-a-una-transmision-especial-esta-noche",
-        "published_date": "2026-10-14 14:50:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rain and storms are forecast during the afternoon and evening of this Wednesday",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/pronostican-lluvias-y-tormentas-durante-la-tarde-y-noche-de-este-miercoles/",
-        "published_date": "2026-10-14 14:45:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador makes history after agreement for $2.9 billion to promote projects in the energy and water sectors",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-salvador-hace-historia-tras-acuerdo-por-2900-millones-para-impulsar-proyectos-en-sectores-energetico-e-hidrico/",
-        "published_date": "2026-10-14 14:27:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dr. Rafael Aguirre criticizes the budget cut to national hospitals",
+        "title": "La Azulita conquers the UNCAF FIFA Forward U-16 Tournament",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/dr-rafael-aguirre-critica-el-recorte-de-presupuesto-a-los-hospitales-nacionales/",
-        "published_date": "2026-10-14 11:01:58",
+        "url": "https://www.diariocolatino.com/la-azulita-conquista-el-torneo-uncaf-fifa-forward-sub-16/",
+        "published_date": "2026-10-14 21:50:55",
         "category": "Local Events"
     },
     {
-        "title": "WHAT HAPPENS WITH THE POLITICAL LEFT?",
+        "title": "The 2027 Budget in capsules",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/que-sucede-con-la-izquierda-politica/",
-        "published_date": "2026-10-14 10:59:18",
+        "url": "https://www.diariocolatino.com/el-presupuesto-de-2027-en-capsulas/",
+        "published_date": "2026-10-14 21:38:47",
         "category": "Local Events"
     },
     {
-        "title": "\u201cThe pupusa is ready to make the crossover\u201d: T\u00edficos Nokal seeks to take Salvadoran gastronomy beyond the US.",
+        "title": "Yasser Mari and Gianluca Gallo present \u201cPlena Noche\u201d, a Pop Urbano proposal",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/yasser-mari-y-gianluca-gallo-presentan-plena-noche-una-propuesta-de-pop-urbano/",
+        "published_date": "2026-10-14 21:36:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "They eliminate garbage dump in the San Salvador area",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/eliminan-botadero-de-basura-en-zona-de-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=eliminan-botadero-de-basura-en-zona-de-san-salvador",
+        "published_date": "2026-10-14 21:28:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "CAM San Salvador intervenes due to illegal constructions in green areas of the El Refugio neighborhood",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/la-pupusa-esta-lista-para-dar-el-crossover-tipicos-nokal-busca-llevar-la-gastronomia-salvadorena-mas-alla-de-ee-uu/",
-        "published_date": "2026-10-14 07:00:00",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/cam-san-salvador-interviene-por-construcciones-ilegales-en-zonas-verdes-de-la-colonia-el-refugio/",
+        "published_date": "2026-10-14 21:25:23",
         "category": "Local Events"
     },
     {
-        "title": "El Salvador wins the UNCAF U-16 title again after 19 years",
+        "title": "Two statues that could belong to Ramesses II are found in Egypt",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/el-salvador-vuelve-a-conquistar-el-titulo-uncaf-sub-16-despues-de-19-anos/",
-        "published_date": "2026-10-14 05:34:36",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/hallan-en-egipto-dos-estatuas-que-podrian-pertenecer-a-ramses-ii/",
+        "published_date": "2026-10-14 21:08:43",
         "category": "Local Events"
     },
     {
-        "title": "Inhabitants of La Hachadura enthusiastically receive President Bukele at the inauguration of the bridge",
+        "title": "El Salvador and Luxembourg strengthen cooperation ties",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/habitantes-de-la-hachadura-reciben-con-entusiasmo-al-presidente-bukele-en-inauguracion-de-puente/?utm_source=rss&utm_medium=rss&utm_campaign=habitantes-de-la-hachadura-reciben-con-entusiasmo-al-presidente-bukele-en-inauguracion-de-puente",
-        "published_date": "2026-10-14 03:43:17",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-y-luxemburgo-refuerzan-vinculos-de-cooperacion/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-luxemburgo-refuerzan-vinculos-de-cooperacion",
+        "published_date": "2026-10-14 20:51:21",
         "category": "Local Events"
     },
     {
-        "title": "CORRUPTION SCANDAL!They reveal gifts worth $1.5 million, trips on private jets and luxury vehicles in the Corruptela case",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/escandalo-de-corrupcion-revelan-dadivas-por-1-5-millones-viajes-en-jets-privados-y-vehiculos-de-lujo-en-el-caso-corruptela/",
-        "published_date": "2026-10-14 03:23:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nayib Bukele is the Latin American leader best evaluated in Uruguay",
+        "title": "They reinforce controls on cargo transportation and require technical reviews",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/nayib-bukele-es-el-lider-latinoamericano-mejor-evaluado-en-uruguay/",
-        "published_date": "2026-10-14 02:29:33",
+        "url": "https://diariolahuella.com/refuerzan-controles-al-transporte-de-carga-y-exige-revisiones-tecnicas/",
+        "published_date": "2026-10-14 20:30:40",
         "category": "Local Events"
     },
     {
-        "title": "Uruguay considers Nayib Bukele as the president with the best image",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/uruguay-considera-a-nayib-bukele-como-el-mandatario-con-mejor-imagen/?utm_source=rss&utm_medium=rss&utm_campaign=uruguay-considera-a-nayib-bukele-como-el-mandatario-con-mejor-imagen",
-        "published_date": "2026-10-14 01:59:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pope Leo's brother also suffers from cancer",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/hermano-del-papa-leon-tambien-padece-cancer/?utm_source=rss&utm_medium=rss&utm_campaign=hermano-del-papa-leon-tambien-padece-cancer",
-        "published_date": "2026-10-14 00:57:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Pope at the Gemelli: The intervention has concluded successfully",
+        "title": "Bukele confirms that they evaluate the cases \u201cto offer conditional early release to a large number of prisoners\u201d",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-papa-en-el-gemelli-la-intervencion-ha-concluido-con-exito/",
-        "published_date": "2026-10-13 23:35:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 480 thousand people participate in demonstrations in Paris",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/mas-de-480-mil-personas-participan-en-manifestaciones-en-paris/",
-        "published_date": "2026-10-13 23:31:47",
+        "url": "https://www.diariocolatino.com/bukele-confirma-que-evaluan-los-casos-para-ofrecer-una-liberacion-anticipada-condicional-a-una-gran-cantidad-de-reos/",
+        "published_date": "2026-10-14 20:24:02",
         "category": "Local Events"
     }
 ]
