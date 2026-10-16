@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cuban president denounces US pressure prior to UN vote",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/presidente-cubano-denuncia-presiones-de-eeuu-previo-a-voto-en-onu/",
+        "published_date": "2026-10-15 22:19:06",
+        "category": "Diplomacy"
+    },
+    {
         "title": "New General Manuel Jos\u00e9 Arce bridge will benefit thousands of Salvadorans and strengthen regional trade",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/nuevo-puente-general-manuel-jose-arce-beneficiara-a-miles-de-salvadorenos-y-fortalecera-el-comercio-regional/",
@@ -133,11 +140,88 @@
         "category": "Diplomacy"
     },
     {
-        "title": "New CIFCO advances with land cleaning and preparation",
+        "title": "HE THOUGHT HE WOULD GO UNNOTICED!An alleged MS-13 gang member with a history dating back to 2000 is captured in Soyapango",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/creyo-pasar-desapercibido-capturan-en-soyapango-a-presunto-pandillero-de-la-ms-13-con-antecedentes-desde-el-ano-2000/",
+        "published_date": "2026-10-16 00:31:02",
+        "category": "Military"
+    },
+    {
+        "title": "MADURO REJECTS ACCUSATIONS OF TORTURE IN THE US!He and Cilia Flores plead innocent and will face trial in 2027",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/maduro-rechaza-acusaciones-de-tortura-en-ee-uu-el-y-cilia-flores-se-declaran-inocentes-y-enfrentaran-juicio-en-2027/",
+        "published_date": "2026-10-16 00:26:04",
+        "category": "Military"
+    },
+    {
+        "title": "NO MORE PARKING ON THE STREET!CAM and PNC remove obstacles in Mexican colonies",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/se-acabo-apartar-parqueos-en-la-calle-cam-y-pnc-retiran-obstaculos-en-colonias-de-mejicanos/",
+        "published_date": "2026-10-16 00:03:25",
+        "category": "Military"
+    },
+    {
+        "title": "CID Gallup: 92% evaluate President Bukele positively",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/nuevo-cifco-avanza-con-limpieza-y-preparacion-del-terreno/",
-        "published_date": "2026-10-08 20:08:46",
-        "category": "Diplomacy"
+        "url": "https://diariolahuella.com/cid-gallup-92-evalua-positivamente-al-presidente-bukele/",
+        "published_date": "2026-10-15 21:34:20",
+        "category": "Military"
+    },
+    {
+        "title": "They capture an MS gang member who was hiding in the 22 de Abril neighborhood of Soyapango",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-pandillero-de-la-ms-que-se-escondia-en-colonia-22-de-abril-de-soyapango/",
+        "published_date": "2026-10-15 21:10:30",
+        "category": "Military"
+    },
+    {
+        "title": "MS-13 gang member arrested in the 22 de Abril community, Soyapango",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/detienen-a-pandillero-de-la-ms-13-en-la-comunidad-22-de-abril-soyapango/",
+        "published_date": "2026-10-15 21:06:30",
+        "category": "Military"
+    },
+    {
+        "title": "They capture an MS gang member who was hiding in Soyapango",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-pandillero-de-la-ms-que-se-escondia-en-soyapango/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-pandillero-de-la-ms-que-se-escondia-en-soyapango",
+        "published_date": "2026-10-15 20:49:53",
+        "category": "Military"
+    },
+    {
+        "title": "CAM San Salvador and PNC carry out an operation to clear public roads in the district of Mejicanos",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/cam-san-salvador-y-pnc-ejecutan-operativo-para-despejar-vias-publicas-en-el-distrito-de-mejicanos/",
+        "published_date": "2026-10-15 19:45:28",
+        "category": "Military"
+    },
+    {
+        "title": "F\u00e9lix Ulloa meets with Patricia Bullrich in Argentina to address the transformation of El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/felix-ulloa-se-reune-con-patricia-bullrich-en-argentina-para-abordar-la-transformacion-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=felix-ulloa-se-reune-con-patricia-bullrich-en-argentina-para-abordar-la-transformacion-de-el-salvador",
+        "published_date": "2026-10-15 19:35:02",
+        "category": "Military"
+    },
+    {
+        "title": "Vice President Ulloa highlights progress in El Salvador during meeting with Patricia Bullrich in Argentina",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/vicepresidente-ulloa-destaca-avances-de-el-salvador-durante-encuentro-con-patricia-bullrich-en-argentina/",
+        "published_date": "2026-10-15 19:30:12",
+        "category": "Military"
+    },
+    {
+        "title": "PNC captures three people for possession and possession of drugs in Usulut\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/pnc-captura-a-tres-personas-por-posesion-y-tenencia-de-drogas-en-jucuapa/",
+        "published_date": "2026-10-15 19:19:51",
+        "category": "Military"
+    },
+    {
+        "title": "PNC seizes methamphetamine, cocaine and cash during procedure in Col\u00f3n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/pnc-incauta-metanfetamina-cocaina-y-dinero-en-efectivo-durante-procedimiento-en-colon/",
+        "published_date": "2026-10-15 19:09:05",
+        "category": "Military"
     },
     {
         "title": "Security and education stand out among the best evaluated areas of President Nayib Bukele's management, according to CID Gallup",
@@ -196,88 +280,18 @@
         "category": "Military"
     },
     {
-        "title": "El Salvador and Luxembourg continue to strengthen their cooperation ties",
+        "title": "Nayib Bukele highlights historic investment of $2.9 billion to promote the development of El Salvador",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-y-luxemburgo-siguen-estrechando-sus-vinculos-de-cooperacion/",
-        "published_date": "2026-10-14 20:39:17",
-        "category": "Military"
+        "url": "https://diariolahuella.com/nayib-bukele-destaca-inversion-historica-de-2900-millones-para-impulsar-el-desarrollo-de-el-salvador/",
+        "published_date": "2026-10-15 17:53:31",
+        "category": "Energy"
     },
     {
-        "title": "Controls are maintained on cargo transportation",
+        "title": "President Bukele highlights private investment of $2.9 billion for energy and water in El Salvador",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/se-mantienen-controles-al-transporte-de-carga/?utm_source=rss&utm_medium=rss&utm_campaign=se-mantienen-controles-al-transporte-de-carga",
-        "published_date": "2026-10-14 20:16:07",
-        "category": "Military"
-    },
-    {
-        "title": "Three drivers will be prosecuted for crimes related to road safety in El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/tres-conductores-seran-procesados-por-delitos-relacionados-con-la-seguridad-vial-en-el-salvador/",
-        "published_date": "2026-10-14 20:11:37",
-        "category": "Military"
-    },
-    {
-        "title": "Authorities record 1,199 heavy-duty vehicle accidents in 2026",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/autoridades-registran-1199-accidentes-de-vehiculos-de-carga-pesada-en-2026/",
-        "published_date": "2026-10-14 19:57:40",
-        "category": "Military"
-    },
-    {
-        "title": "Noboa announces new curfews in Ecuadorian coastal provinces",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/noboa-anuncia-nuevos-toques-de-queda-en-provincias-costeras-ecuatorianas/",
-        "published_date": "2026-10-14 17:56:23",
-        "category": "Military"
-    },
-    {
-        "title": "They arrest a subject who stole a cell phone in a pi\u00f1a store",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/detienen-a-sujeto-que-hurto-un-celular-en-una-pinateria/",
-        "published_date": "2026-10-14 15:45:27",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a man after stealing a cell phone from a pi\u00f1ateria in San Juan Opico",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/capturan-a-hombre-tras-hurtar-un-celular-de-una-pinateria-en-san-juan-opico/",
-        "published_date": "2026-10-14 15:37:06",
-        "category": "Military"
-    },
-    {
-        "title": "They capture two men accused of running over a woman on the highway to San Luis La Herradura",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/capturan-a-dos-hombres-acusados-de-atropellar-a-una-mujer-en-la-carretera-hacia-san-luis-la-herradura/",
-        "published_date": "2026-10-14 15:21:27",
-        "category": "Military"
-    },
-    {
-        "title": "They arrest the driver of a tractor-trailer with 295\u00b0 of alcohol",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/detienen-a-conductor-de-una-rastra-con-295-de-alcohol/",
-        "published_date": "2026-10-14 15:02:24",
-        "category": "Military"
-    },
-    {
-        "title": "They capture seven drunken subjects after being involved in a street fight in La Paz Este",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/capturan-a-siete-sujetos-ebrios-tras-protagonizar-rina-callejera-en-la-paz-este/",
-        "published_date": "2026-10-14 14:55:51",
-        "category": "Military"
-    },
-    {
-        "title": "ORD asks to guarantee the rights of Roxana Cardona after police intervention",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ord-pide-garantizar-derechos-roxana-cardona-intervencion-policial/",
-        "published_date": "2026-10-14 11:03:50",
-        "category": "Military"
-    },
-    {
-        "title": "They capture seven people after being involved in a street fight in Zacatecoluca",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-siete-personas-tras-protagonizar-rina-callejera-en-zacatecoluca/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-siete-personas-tras-protagonizar-rina-callejera-en-zacatecoluca",
-        "published_date": "2026-10-14 01:30:09",
-        "category": "Military"
+        "url": "https://lapagina.com.sv/politica/presidente-bukele-destaca-inversion-privada-de-2900-millones-para-energia-y-agua-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-destaca-inversion-privada-de-2900-millones-para-energia-y-agua-en-el-salvador",
+        "published_date": "2026-10-15 17:40:29",
+        "category": "Energy"
     },
     {
         "title": "The electric vehicle map to travel without looking at the battery",
@@ -403,20 +417,6 @@
         "source": "Ultima Hora SV",
         "url": "https://ultimahora.sv/petroleo-brent-supera-los-107-por-tensiones-geopoliticas/",
         "published_date": "2026-10-12 17:22:08",
-        "category": "Energy"
-    },
-    {
-        "title": "Fuel prices will remain unchanged in El Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/economia/precios-de-los-combustibles-se-mantendran-sin-cambios-en-el-salvador/",
-        "published_date": "2026-10-12 16:50:13",
-        "category": "Energy"
-    },
-    {
-        "title": "Yemen's Houthis claim missile and drone attacks on Saudi airports and energy facilities",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/huties-de-yemen-reivindican-ataques-con-misiles-y-drones-contra-aeropuertos-e-instalaciones-de-energia-saudies/",
-        "published_date": "2026-10-12 00:47:05",
         "category": "Energy"
     },
     {
@@ -560,143 +560,143 @@
         "category": "Economy"
     },
     {
-        "title": "Rains and storms are predicted for this Thursday in El Salvador",
+        "title": "FROM SUPPOSED MIRACLE TO RESEARCH!Pastor who assured that his daughter was resurrected during the wake is under scrutiny in Guatemala",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/preven-lluvias-y-tormentas-para-este-jueves-en-el-salvador/",
-        "published_date": "2026-10-15 15:30:09",
+        "url": "https://croniosv.com/internacionales/de-supuesto-milagro-a-investigacion-pastor-que-aseguro-que-su-hija-resucito-en-pleno-velorio-esta-bajo-la-lupa-en-guatemala/",
+        "published_date": "2026-10-16 00:38:09",
         "category": "Local Events"
     },
     {
-        "title": "President Nayib Bukele shares nine free tips to improve your daily routine",
+        "title": "They arrest a subject who attacked his life partner with a hammer and left her locked up",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/presidente-nayib-bukele-comparte-nueve-consejos-gratuitos-para-mejorar-la-rutina-diaria/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-nayib-bukele-comparte-nueve-consejos-gratuitos-para-mejorar-la-rutina-diaria",
-        "published_date": "2026-10-15 15:28:16",
+        "url": "https://lapagina.com.sv/nacionales/detienen-a-sujeto-que-agredia-con-un-martillo-a-su-companera-de-vida-y-la-dejaba-encerrada/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-sujeto-que-agredia-con-un-martillo-a-su-companera-de-vida-y-la-dejaba-encerrada",
+        "published_date": "2026-10-16 00:29:31",
         "category": "Local Events"
     },
     {
-        "title": "Man is shot to death after stopping to help a driver who had overturned in Guatemala",
+        "title": "They capture a subject who left his life partner locked up;He attacked her with a hammer",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/capturan-a-sujeto-que-dejaba-encerrada-a-su-companera-de-vida-la-agredia-con-un-martillo/",
+        "published_date": "2026-10-16 00:24:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "HE WAS DRIVING DRUNK AND CAUSED AN ACCIDENT!Driver who registered 179 degrees of alcohol in Santa Ana sent to prison",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/manejaba-ebrio-y-provoco-un-accidente-envian-a-prision-a-conductor-que-registro-179-grados-de-alcohol-en-santa-ana/",
+        "published_date": "2026-10-16 00:10:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "He will remain in custody accused of dangerous driving",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/hombre-muere-a-balazos-tras-detenerse-para-auxiliar-a-conductor-que-habia-volcado-en-guatemala/?utm_source=rss&utm_medium=rss&utm_campaign=hombre-muere-a-balazos-tras-detenerse-para-auxiliar-a-conductor-que-habia-volcado-en-guatemala",
-        "published_date": "2026-10-15 15:23:34",
+        "url": "https://lapagina.com.sv/nacionales/seguira-en-detencion-acusado-de-conduccion-peligrosa/?utm_source=rss&utm_medium=rss&utm_campaign=seguira-en-detencion-acusado-de-conduccion-peligrosa",
+        "published_date": "2026-10-15 23:29:38",
         "category": "Local Events"
     },
     {
-        "title": "Man loses his life at the hands of a person who had a road emergency",
+        "title": "He will remain in custody accused of dangerous driving",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/hombre-pierde-la-vida-a-manos-de-una-persona-que-tenia-una-emergencia-vial/",
-        "published_date": "2026-10-15 15:17:38",
+        "url": "https://diariolahuella.com/continuara-en-detencion-acusado-de-conduccion-peligrosa/",
+        "published_date": "2026-10-15 23:09:19",
         "category": "Local Events"
     },
     {
-        "title": "The nine free habits that President Bukele recommended",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/los-nueve-habitos-gratuitos-que-recomendo-el-presidente-bukele/",
-        "published_date": "2026-10-15 15:14:06",
+        "title": "The FIFA-FESFUT TDS program and the visions, key in the UNCAF U-16 FIFA Forward championship",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/el-programa-tds-fifa-fesfut-y-las-visorias-claves-en-el-campeonato-uncaf-sub-16-fifa-forward/",
+        "published_date": "2026-10-15 22:28:26",
         "category": "Local Events"
     },
     {
-        "title": "Government starts with the reconstruction of the Caser\u00edo Buena Vista School Center, Apastepeque Canton",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-arranca-con-la-reconstruccion-del-centro-escolar-caserio-buena-vista-canton-apastepeque/",
-        "published_date": "2026-10-15 15:10:39",
+        "title": "Three captured in Jucuapa after drug seizure",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/tres-capturados-en-jucuapa-tras-incautacion-de-droga/",
+        "published_date": "2026-10-15 21:03:26",
         "category": "Local Events"
     },
     {
-        "title": "Feminicide is sentenced to 50 years in prison for the death of a woman in San Vicente",
+        "title": "The Spanish Prosecutor's Office supports investigating Julio Iglesias for alleged attacks",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/feminicida-es-condenado-a-50-anos-de-prision-por-la-muerte-de-una-mujer-en-san-vicente/?utm_source=rss&utm_medium=rss&utm_campaign=feminicida-es-condenado-a-50-anos-de-prision-por-la-muerte-de-una-mujer-en-san-vicente",
-        "published_date": "2026-10-15 15:06:40",
+        "url": "https://lapagina.com.sv/internacionales/la-fiscalia-espanola-avala-investigar-a-julio-iglesias-por-presuntas-agresiones/?utm_source=rss&utm_medium=rss&utm_campaign=la-fiscalia-espanola-avala-investigar-a-julio-iglesias-por-presuntas-agresiones",
+        "published_date": "2026-10-15 20:52:37",
         "category": "Local Events"
     },
     {
-        "title": "Rains and storms are forecast for this Thursday in different areas of El Salvador",
+        "title": "Spanish justice could investigate Julio Iglesias due to complaints from two former employees",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/la-justicia-espanola-podria-investigar-a-julio-iglesias-por-denuncias-de-dos-exempleadas/",
+        "published_date": "2026-10-15 20:52:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Up to 21 years in prison for 7 foreigners for illegal firearms trafficking and illicit drug trafficking",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/hasta-21-anos-de-carcel-para-7-extranjeros-por-trafico-ilegal-de-armas-de-fuego-y-trafico-ilicito-de-drogas/",
+        "published_date": "2026-10-15 20:49:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "FIFA will modify article 27 of the disciplinary code after the Balogun case",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/la-fifa-modificara-el-articulo-27-del-codigo-disciplinario-tras-el-caso-balogun/",
+        "published_date": "2026-10-15 20:29:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Los Toles School Center strengthens early childhood education",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/centro-escolar-los-toles-fortalece-la-educacion-de-primera-infancia/",
+        "published_date": "2026-10-15 20:08:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Provisional arrest against accused of aggravated threats in San Juan Opico",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/pronostican-lluvias-y-tormentas-para-este-jueves-en-diferentes-zonas-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=pronostican-lluvias-y-tormentas-para-este-jueves-en-diferentes-zonas-de-el-salvador",
-        "published_date": "2026-10-15 15:06:37",
+        "url": "https://lapagina.com.sv/nacionales/detencion-provisional-contra-acusado-de-amenazas-agravadas-en-san-juan-opico/?utm_source=rss&utm_medium=rss&utm_campaign=detencion-provisional-contra-acusado-de-amenazas-agravadas-en-san-juan-opico",
+        "published_date": "2026-10-15 19:51:05",
         "category": "Local Events"
     },
     {
-        "title": "Rains are expected in the afternoon and night in several sectors of the national territory",
+        "title": "General Manuel Jos\u00e9 Arce Bridge will facilitate border transit with Guatemala",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/preven-lluvias-por-la-tarde-y-la-noche-en-varios-sectores-del-territorio-nacional/",
-        "published_date": "2026-10-15 15:05:50",
+        "url": "https://diariolahuella.com/puente-general-manuel-jose-arce-facilitara-el-transito-fronterizo-con-guatemala/",
+        "published_date": "2026-10-15 19:49:39",
         "category": "Local Events"
     },
     {
-        "title": "Man who poisoned his wife in San Vicente is sentenced to 50 years in prison",
+        "title": "Provisional arrest against accused of aggravated threats in San Juan Opico",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/condenan-a-50-anos-de-carcel-a-hombre-que-intoxico-a-su-esposa-en-san-vicente/",
-        "published_date": "2026-10-15 15:00:20",
+        "url": "https://diariolahuella.com/detencion-provisional-contra-acusado-de-amenazas-agravadas-en-san-juan-opico/",
+        "published_date": "2026-10-15 19:44:02",
         "category": "Local Events"
     },
     {
-        "title": "92% of the population gives a positive evaluation to President Nayib Bukele, according to CID Gallup",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/el-92-de-la-poblacion-otorga-una-evaluacion-positiva-al-presidente-nayib-bukele-segun-cid-gallup/",
-        "published_date": "2026-10-15 14:28:09",
+        "title": "High-level dialogue between El Salvador and Argentina",
+        "source": "Cronio",
+        "url": "https://croniosv.com/politica/dialogo-de-alto-nivel-entre-el-salvador-y-argentina/",
+        "published_date": "2026-10-15 19:43:12",
         "category": "Local Events"
     },
     {
-        "title": "President of Costa Rica inaugurates megaprison based on the Salvadoran model",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/presidenta-costa-rica-inaugura-megacarcel-basada-modelo-salvadoreno/",
-        "published_date": "2026-10-15 11:45:09",
+        "title": "Kierkegaard facing the postmodern void",
+        "source": "Cronio",
+        "url": "https://croniosv.com/opinet/kierkegaard-frente-al-vacio-posmoderno/",
+        "published_date": "2026-10-15 19:29:50",
         "category": "Local Events"
     },
     {
-        "title": "MILPA denounces destruction of hill to remove land for terraces in Biarritz project,",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/milpa-denuncia-destruccion-cerro-para-sacar-tierra-terraceo-proyecto-biarritz/",
-        "published_date": "2026-10-15 11:05:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bukele proposes the release of 50% of those captured under the Exception Regime",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/bukele-plantea-liberacion-del-50-de-los-capturados-bajo-el-regimen-de-excepcion/",
-        "published_date": "2026-10-15 11:04:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "CDHES joins the call to protect the International Criminal Court from US sanctions",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cdhes-se-suma-al-llamado-para-proteger-a-la-corte-penal-internacional-de-sanciones-de-eeuu/",
-        "published_date": "2026-10-15 11:02:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "FMLN veterans denounce the arbitrariness of the emergency regime and demand a hearing for detained leaders",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/veteranos-fmln-denuncian-arbitrariedad-regimen-excepcion-exigen-audiencia-dirigentes-detenidos/",
-        "published_date": "2026-10-15 11:01:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Capital in the 21st century (documentary) and El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/capital-en-el-siglo-xxi-documental-y-el-salvador/",
-        "published_date": "2026-10-15 10:59:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Poll registers technical tie between Lula and Fl\u00e1vio Bolsonaro",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/sondeo-registra-empate-tecnico-entre-lula-y-flavio-bolsonaro/",
-        "published_date": "2026-10-15 10:30:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Nayib Bukele: \u201cEach inaugurated project represents one more step for El Salvador\u201d",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-nayib-bukele-cada-obra-inaugurada-representa-un-paso-mas-para-el-salvador/",
-        "published_date": "2026-10-15 03:19:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Nayib Bukele highlights progress in infrastructure and recognizes that there are still goals to achieve",
+        "title": "Vice President F\u00e9lix Ulloa holds a meeting with Patricia Bullrich to strengthen ties between El Salvador and Argentina",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presidente-nayib-bukele-destaca-avances-en-infraestructura-y-reconoce-que-aun-quedan-metas-por-alcanzar/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-nayib-bukele-destaca-avances-en-infraestructura-y-reconoce-que-aun-quedan-metas-por-alcanzar",
-        "published_date": "2026-10-15 03:19:14",
+        "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-sostiene-encuentro-con-patricia-bullrich-para-fortalecer-los-vinculos-entre-el-salvador-y-argentina/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-sostiene-encuentro-con-patricia-bullrich-para-fortalecer-los-vinculos-entre-el-salvador-y-argentina",
+        "published_date": "2026-10-15 18:32:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Surveillance cameras would have captured theft of objects in an ISSS warehouse",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/camaras-de-vigilancia-habrian-captado-hurto-de-objetos-en-una-bodega-del-isss/?utm_source=rss&utm_medium=rss&utm_campaign=camaras-de-vigilancia-habrian-captado-hurto-de-objetos-en-una-bodega-del-isss",
+        "published_date": "2026-10-15 17:41:33",
         "category": "Local Events"
     }
 ]
