@@ -1,5 +1,19 @@
 [
     {
+        "title": "Cuba will not allow itself to be intimidated, blackmailed or silenced",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cuba-no-se-dejara-intimidar-chantajear-ni-silenciar/",
+        "published_date": "2026-10-16 23:02:19",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "President of Costa Rica, Laura Fern\u00e1ndez, arrives in El Salvador to begin an official visit",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-de-costa-rica-laura-fernandez-llega-a-el-salvador-para-iniciar-visita-oficial/",
+        "published_date": "2026-10-16 17:36:44",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuban president denounces US pressure prior to UN vote",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/presidente-cubano-denuncia-presiones-de-eeuu-previo-a-voto-en-onu/",
@@ -126,18 +140,81 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Political exchange to strengthen the bilateral relationship",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/intercambio-politico-para-fortalecer-la-relacion-bilateral/",
-        "published_date": "2026-10-09 16:28:24",
-        "category": "Diplomacy"
+        "title": "President of Costa Rica tours the CECOT to learn about the Salvadoran prison model",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/presidenta-de-costa-rica-recorre-el-cecot-para-conocer-el-modelo-penitenciario-salvadoreno/",
+        "published_date": "2026-10-16 23:01:10",
+        "category": "Military"
     },
     {
-        "title": "El Salvador shares its experience in security and development with political representatives of Uruguay",
+        "title": "President of Costa Rica visits CECOT and will meet with Bukele in the afternoon",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/presidenta-de-costa-rica-visita-el-cecot-y-se-reunira-con-bukele-por-la-tarde/",
+        "published_date": "2026-10-16 21:19:16",
+        "category": "Military"
+    },
+    {
+        "title": "President of Costa Rica knows first-hand the prison model of President Bukele",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/el-salvador-comparte-su-experiencia-en-seguridad-y-desarrollo-con-representantes-politicos-de-uruguay/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-comparte-su-experiencia-en-seguridad-y-desarrollo-con-representantes-politicos-de-uruguay",
-        "published_date": "2026-10-09 14:08:17",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/presidenta-de-costa-rica-conoce-de-primera-mano-el-modelo-penitenciario-del-presidente-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=presidenta-de-costa-rica-conoce-de-primera-mano-el-modelo-penitenciario-del-presidente-bukele",
+        "published_date": "2026-10-16 20:56:38",
+        "category": "Military"
+    },
+    {
+        "title": "President of Costa Rica visits CECOT to learn about El Salvador's security model",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidenta-de-costa-rica-visita-el-cecot-para-conocer-el-modelo-de-seguridad-de-el-salvador/",
+        "published_date": "2026-10-16 20:55:39",
+        "category": "Military"
+    },
+    {
+        "title": "Laura Fern\u00e1ndez knows the CECOT after inaugurating a megaprison inspired by the Salvadoran model",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/laura-fernandez-conoce-el-cecot-tras-inaugurar-megacarcel-inspirada-en-el-modelo-salvadoreno/?utm_source=rss&utm_medium=rss&utm_campaign=laura-fernandez-conoce-el-cecot-tras-inaugurar-megacarcel-inspirada-en-el-modelo-salvadoreno",
+        "published_date": "2026-10-16 19:21:11",
+        "category": "Military"
+    },
+    {
+        "title": "Laura Fern\u00e1ndez visits CECOT during her official visit to El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/laura-fernandez-visita-el-cecot-durante-su-visita-oficial-a-el-salvador/",
+        "published_date": "2026-10-16 19:15:08",
+        "category": "Military"
+    },
+    {
+        "title": "\u201cNi\u00f1a Cori\u201d, an MS gang member who stole and butchered cattle, falls",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/cae-la-nina-cori-pandillero-de-la-ms-que-hurtaba-y-destazaba-ganado/?utm_source=rss&utm_medium=rss&utm_campaign=cae-la-nina-cori-pandillero-de-la-ms-que-hurtaba-y-destazaba-ganado",
+        "published_date": "2026-10-16 17:01:04",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador adds 14 days without homicides in October",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-suma-14-dias-sin-homicidios-en-octubre/",
+        "published_date": "2026-10-16 16:46:07",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador adds another day with zero homicides nationwide",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-suma-un-dia-mas-con-cero-homicidios-a-nivel-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-suma-un-dia-mas-con-cero-homicidios-a-nivel-nacional",
+        "published_date": "2026-10-16 15:47:04",
+        "category": "Military"
+    },
+    {
+        "title": "F\u00e9lix Ulloa presents his vision of the changes in El Salvador in Argentina",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/felix-ulloa-expone-en-argentina-su-vision-sobre-los-cambios-en-el-salvador/",
+        "published_date": "2026-10-16 15:30:36",
+        "category": "Military"
+    },
+    {
+        "title": "98% of Salvadorans evaluate President Bukele's security management positively, according to CID Gallup",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/98-de-los-salvadorenos-evalua-positivamente-la-gestion-del-presidente-bukele-en-seguridad-segun-cid-gallup/",
+        "published_date": "2026-10-16 15:26:00",
+        "category": "Military"
     },
     {
         "title": "Safety reaches 98% positive evaluation in CID Gallup survey",
@@ -200,83 +277,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/10/detienen-a-pandillero-de-la-ms-13-en-la-comunidad-22-de-abril-soyapango/",
         "published_date": "2026-10-15 21:06:30",
-        "category": "Military"
-    },
-    {
-        "title": "They capture an MS gang member who was hiding in Soyapango",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-pandillero-de-la-ms-que-se-escondia-en-soyapango/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-pandillero-de-la-ms-que-se-escondia-en-soyapango",
-        "published_date": "2026-10-15 20:49:53",
-        "category": "Military"
-    },
-    {
-        "title": "CAM San Salvador and PNC carry out an operation to clear public roads in the district of Mejicanos",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/cam-san-salvador-y-pnc-ejecutan-operativo-para-despejar-vias-publicas-en-el-distrito-de-mejicanos/",
-        "published_date": "2026-10-15 19:45:28",
-        "category": "Military"
-    },
-    {
-        "title": "F\u00e9lix Ulloa meets with Patricia Bullrich in Argentina to address the transformation of El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/felix-ulloa-se-reune-con-patricia-bullrich-en-argentina-para-abordar-la-transformacion-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=felix-ulloa-se-reune-con-patricia-bullrich-en-argentina-para-abordar-la-transformacion-de-el-salvador",
-        "published_date": "2026-10-15 19:35:02",
-        "category": "Military"
-    },
-    {
-        "title": "Vice President Ulloa highlights progress in El Salvador during meeting with Patricia Bullrich in Argentina",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/vicepresidente-ulloa-destaca-avances-de-el-salvador-durante-encuentro-con-patricia-bullrich-en-argentina/",
-        "published_date": "2026-10-15 19:30:12",
-        "category": "Military"
-    },
-    {
-        "title": "PNC captures three people for possession and possession of drugs in Usulut\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/pnc-captura-a-tres-personas-por-posesion-y-tenencia-de-drogas-en-jucuapa/",
-        "published_date": "2026-10-15 19:19:51",
-        "category": "Military"
-    },
-    {
-        "title": "PNC seizes methamphetamine, cocaine and cash during procedure in Col\u00f3n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/pnc-incauta-metanfetamina-cocaina-y-dinero-en-efectivo-durante-procedimiento-en-colon/",
-        "published_date": "2026-10-15 19:09:05",
-        "category": "Military"
-    },
-    {
-        "title": "Security and education stand out among the best evaluated areas of President Nayib Bukele's management, according to CID Gallup",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/seguridad-y-educacion-destacan-entre-areas-mejor-evaluadas-de-la-gestion-del-presidente-nayib-bukele-de-acuerdo-con-cid-gallup/",
-        "published_date": "2026-10-15 15:25:55",
-        "category": "Military"
-    },
-    {
-        "title": "Bukele's candidacy for the Sakharov Prize is questioned for human rights violations",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cuestionan-candidatura-bukele-premio-sajarov-por-violaciones-ddhh/",
-        "published_date": "2026-10-15 11:03:58",
-        "category": "Military"
-    },
-    {
-        "title": "\u201cThere is a collapse of Bukele's story\u201d about gangs: Leonel Herrera",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/derrumbe-relato-bukele-pandillas-leonel-herrera/",
-        "published_date": "2026-10-15 11:00:13",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador consolidates itself as a regional benchmark: Costa Rica inaugurates a high containment center inspired by the CECOT",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/el-salvador-se-consolida-como-referente-regional-costa-rica-inaugura-centro-de-alta-contencion-inspirado-en-el-cecot/",
-        "published_date": "2026-10-15 03:32:50",
-        "category": "Military"
-    },
-    {
-        "title": "Video|Laura Fern\u00e1ndez thanks President Bukele for security support",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/video-laura-fernandez-agradece-al-presidente-bukele-por-apoyo-en-seguridad/",
-        "published_date": "2026-10-15 00:14:16",
         "category": "Military"
     },
     {
@@ -420,6 +420,13 @@
         "category": "Energy"
     },
     {
+        "title": "THE GREAT TAX HUNT: MORE THAN 1,400 AGENTS WILL COURSE EL SALVADOR TO INSPECT EVERY LAST SURVIVAL BUSINESS",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-gran-caceria-fiscal-mas-de-1400-agentes-recorreran-el-salvador-para-fiscalizar-hasta-el-ultimo-negocio-de-sobrevivencia/",
+        "published_date": "2026-10-17 01:05:59",
+        "category": "Economy"
+    },
+    {
         "title": "elEcomista.Es: Bukele's economic plan in El Salvador is a success",
         "source": "Ultima Hora SV",
         "url": "https://ultimahora.sv/elecomista-es-plan-economico-de-bukele-en-el-salvador-es-un-exito/",
@@ -553,150 +560,143 @@
         "category": "Economy"
     },
     {
-        "title": "Panamanian government reports more than 47 aftershocks of the earthquake this day",
+        "title": "Nayib Bukele receives the president of Costa Rica at the Presidential House",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/gobierno-panameno-reporta-mas-de-47-replicas-del-terremoto-de-este-dia/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-panameno-reporta-mas-de-47-replicas-del-terremoto-de-este-dia",
-        "published_date": "2026-10-10 02:48:10",
-        "category": "Economy"
-    },
-    {
-        "title": "CID Gallup: 87% of Salvadorans consider that El Salvador is on the right track",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/cid-gallup-87-de-los-salvadorenos-considera-que-el-salvador-va-por-buen-camino/",
-        "published_date": "2026-10-16 15:15:21",
+        "url": "https://lapagina.com.sv/politica/nayib-bukele-recibe-a-presidenta-de-costa-rica-en-casa-presidencial/?utm_source=rss&utm_medium=rss&utm_campaign=nayib-bukele-recibe-a-presidenta-de-costa-rica-en-casa-presidencial",
+        "published_date": "2026-10-17 00:50:10",
         "category": "Local Events"
     },
     {
-        "title": "Rain and storms for this Friday",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/lluvias-y-tormentas-para-este-viernes-2/?utm_source=rss&utm_medium=rss&utm_campaign=lluvias-y-tormentas-para-este-viernes-2",
-        "published_date": "2026-10-16 15:14:24",
+        "title": "NAU Fest lands in El Salvador: three cities, one message",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/nau-fest-aterriza-en-el-salvador-tres-ciudades-un-solo-mensaje/",
+        "published_date": "2026-10-17 00:31:56",
         "category": "Local Events"
     },
     {
-        "title": "71% perceive a reduction in crime in El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/71-percibe-una-reduccion-de-la-delincuencia-en-el-salvador/",
-        "published_date": "2026-10-16 15:10:23",
+        "title": "The Samson of the City of Hills",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-sanson-de-la-ciudad-de-las-colinas/",
+        "published_date": "2026-10-17 00:05:52",
         "category": "Local Events"
     },
     {
-        "title": "Rain and storms are forecast for this Friday",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/se-pronostican-lluvias-y-tormentas-para-este-viernes/",
-        "published_date": "2026-10-16 15:05:40",
+        "title": "CAVAFIS RETURNS TO ITHACA",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cavafis-vuelve-a-itaca-2/",
+        "published_date": "2026-10-17 00:03:43",
         "category": "Local Events"
     },
     {
-        "title": "87% of Salvadorans consider that the country is on the right path, according to CID Gallup",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-87-de-los-salvadorenos-considera-que-el-pais-va-por-el-camino-correcto-segun-cid-gallup/",
-        "published_date": "2026-10-16 14:59:11",
+        "title": "English in Central America XXVIII",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ingleses-en-centroamerica-xxviii/",
+        "published_date": "2026-10-17 00:01:32",
         "category": "Local Events"
     },
     {
-        "title": "CID Gallup reports 92% favorable evaluation for President Nayib Bukele",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/cid-gallup-reporta-92-de-evaluacion-favorable-para-el-presidente-nayib-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=cid-gallup-reporta-92-de-evaluacion-favorable-para-el-presidente-nayib-bukele",
-        "published_date": "2026-10-16 14:56:34",
+        "title": "The concept of (-)Kujkul (Gespenst) IV",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-concepto-de-kujkul-gespenst-iv/",
+        "published_date": "2026-10-17 00:00:30",
         "category": "Local Events"
     },
     {
-        "title": "THE FUTURE IS ALREADY HERE!Tesla surprises the world with its first car capable of maneuvering in the air",
+        "title": "NAU Fest arrives in El Salvador: Junior Achievement's largest educational experience.",
         "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/el-futuro-ya-esta-aqui-tesla-sorprende-al-mundo-con-su-primer-automovil-capaz-de-realizar-maniobras-en-el-aire/",
-        "published_date": "2026-10-16 14:55:26",
+        "url": "https://croniosv.com/nacionales/nau-fest-llega-a-el-salvador-la-mayor-experiencia-educativa-de-junior-achievement/",
+        "published_date": "2026-10-16 22:14:51",
         "category": "Local Events"
     },
     {
-        "title": "\u201cSuper Ni\u00f1o\u201d strengthens and sets historic levels",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/super-nino-se-fortalece-y-marca-niveles-historicos/?utm_source=rss&utm_medium=rss&utm_campaign=super-nino-se-fortalece-y-marca-niveles-historicos",
-        "published_date": "2026-10-16 14:51:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President F\u00e9lix Ulloa presents his essay on the political transformation of El Salvador in Argentina",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-presenta-en-argentina-su-ensayo-sobre-la-transformacion-politica-de-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-presenta-en-argentina-su-ensayo-sobre-la-transformacion-politica-de-el-salvador",
-        "published_date": "2026-10-16 14:46:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "CID-Gallup: 87% of Salvadorans support continuity of the Exception Regime",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/cid-gallup-87-de-salvadorenos-apoya-continuidad-del-regimen-de-excepcion/",
-        "published_date": "2026-10-16 14:45:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "VEHICLE IS CONSUMED BY FLAMES!Voracious fire alarms residents of the La R\u00e1bida neighborhood in San Salvador",
+        "title": "El Salvador supports the new stage of the OEI in Buenos Aires: F\u00e9lix Ulloa highlights education as a pillar of Ibero-American development",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/vehiculo-es-consumido-por-las-llamas-voraz-incendio-alarma-a-vecinos-de-la-colonia-la-rabida-en-san-salvador/",
-        "published_date": "2026-10-16 14:44:52",
+        "url": "https://croniosv.com/politica/el-salvador-respalda-en-buenos-aires-la-nueva-etapa-de-la-oei-felix-ulloa-destaca-la-educacion-como-pilar-del-desarrollo-iberoamericano/",
+        "published_date": "2026-10-16 22:02:18",
         "category": "Local Events"
     },
     {
-        "title": "FAMILY TRAGEDY ON THE COAST ROAD!Young motorcyclist dies in hospital a day after losing his mother in an accident",
+        "title": "El Salvador supports the strengthening of education and regional cooperation in Latin America",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/el-salvador-respalda-el-fortalecimiento-de-la-educacion-y-la-cooperacion-regional-en-iberoamerica/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-respalda-el-fortalecimiento-de-la-educacion-y-la-cooperacion-regional-en-iberoamerica",
+        "published_date": "2026-10-16 21:54:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Puma Energy carries out the ninth draw of \u201cSave and Win with Puma PRIS\u201d and delivers the prizes for the eighth draw",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/tragedia-familiar-en-la-carretera-del-litoral-joven-motociclista-muere-en-el-hospital-un-dia-despues-de-perder-a-su-madre-en-accidente/",
-        "published_date": "2026-10-16 14:39:42",
+        "url": "https://croniosv.com/negocios/puma-energy-realiza-el-noveno-sorteo-de-ahorra-y-gana-con-puma-pris-y-entrega-los-premios-del-octavo-sorteo/",
+        "published_date": "2026-10-16 19:39:13",
         "category": "Local Events"
     },
     {
-        "title": "Assembly ratifies $75 million loan for \u201cEl Nido\u201d project and redistributes $78 million to public institutions",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/asamblea-ratifica-prestamo-de-75-millones-para-proyecto-el-nido-y-redistribuye-78-millones-en-instituciones-publicas/",
-        "published_date": "2026-10-16 11:05:38",
+        "title": "There are six days left and an Amarok to raffle: this is how the Puma PRIS promotion goes",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/quedan-seis-dias-y-una-amarok-por-rifar-asi-va-la-promocion-de-puma-pris/",
+        "published_date": "2026-10-16 19:39:05",
         "category": "Local Events"
     },
     {
-        "title": "Cooperative women from Latin America and the Caribbean meet in San Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/mujeres-cooperativistas-de-america-latina-y-el-caribe-se-reunen-en-san-salvador/",
-        "published_date": "2026-10-16 11:04:42",
+        "title": "25 YEARS ON A LIFE CHAIN!Salvadoran is convicted in the United States for murdering his ex-mother-in-law during a family celebration",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/25-anos-a-cadena-perpetua-salvadoreno-es-condenado-en-estados-unidos-por-asesinar-a-su-exsuegra-durante-celebracion-familiar/",
+        "published_date": "2026-10-16 18:49:26",
         "category": "Local Events"
     },
     {
-        "title": "MOVIE demands that Bukele release the innocent: \u201cwe do not want conditional freedoms, we want justice\u201d",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/movir-exige-a-bukele-liberar-a-los-inocentes-no-queremos-libertades-condicionadas-queremos-justicia/",
-        "published_date": "2026-10-16 11:03:30",
+        "title": "35 YEARS IN PRISON!Two men are convicted of murdering their drinking buddy after an argument in La Libertad",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/35-anos-de-carcel-dos-hombres-son-condenados-por-asesinar-a-su-companero-de-tragos-tras-una-discusion-en-la-libertad/",
+        "published_date": "2026-10-16 18:38:56",
         "category": "Local Events"
     },
     {
-        "title": "V\u00edctor Barahona: \u201cWe cannot remain silent in the face of injustice\u201d",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/victor-barahona-no-podemos-callar-ante-las-injusticias/",
-        "published_date": "2026-10-16 11:02:53",
+        "title": "HERO WITHOUT CAPE!Orange seller abandons his job and jumps into the sea to save a child in Brazil",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/heroe-sin-capa-vendedor-de-naranjas-abandona-su-trabajo-y-se-lanza-al-mar-para-salvar-a-un-nino-en-brasil/",
+        "published_date": "2026-10-16 18:32:46",
         "category": "Local Events"
     },
     {
-        "title": "Roberto Dub\u00f3n: State must compensate families of deceased after Bukele's announcement about releasing prisoners",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/roberto-dubon-estado-resarcir-familias-fallecidos-anuncio-bukele-liberar-presos/",
-        "published_date": "2026-10-16 11:01:17",
+        "title": "ATTENTION, DRIVERS!CAM NOTIFIES OWNERS OF ABANDONED VEHICLES IN LA RBIDA AND WARNS ABOUT POSSIBLE FINES",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/atencion-conductores-cam-notifica-a-duenos-de-vehiculos-abandonados-en-la-rabida-y-advierte-sobre-posibles-multas/",
+        "published_date": "2026-10-16 18:28:07",
         "category": "Local Events"
     },
     {
-        "title": "Opposition denounces privatization of public assets in favor of Constructora El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/oposicion-denuncia-privatizacion-de-bienes-publicos-en-favor-de-constructora-el-salvador/",
-        "published_date": "2026-10-16 11:00:02",
+        "title": "ASSETS OF FORMER PROSECUTOR LUIS MART\u00cdNEZ COULD GO TO THE STATE!Court admits evidence of alleged illicit origin",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/bienes-del-exfiscal-luis-martinez-podrian-pasar-al-estado-juzgado-admite-pruebas-por-presunto-origen-ilicito/",
+        "published_date": "2026-10-16 18:19:09",
         "category": "Local Events"
     },
     {
-        "title": "1960s in El Salvador: outbreaks of rebellion",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/anos-1960-en-el-salvador-brotes-de-rebeldias/",
-        "published_date": "2026-10-16 10:59:01",
+        "title": "President Bukele shares analysis on the 92% drop in El Salvador's risk premium",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-comparte-analisis-sobre-la-caida-del-92-en-la-prima-de-riesgo-de-el-salvador/",
+        "published_date": "2026-10-16 17:57:30",
         "category": "Local Events"
     },
     {
-        "title": "Ending the resistance is just a silly illusion of power",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/acabar-con-la-resistencia-es-solo-una-ilusion-tonta-del-poder/",
-        "published_date": "2026-10-16 10:55:31",
+        "title": "President of Costa Rica will visit El Salvador to meet with Bukele and learn about CECOT",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/presidenta-de-costa-rica-visitara-el-salvador-para-reunirse-con-bukele-y-conocer-el-cecot/",
+        "published_date": "2026-10-16 17:42:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador and Costa Rica seek to strengthen their cooperation with official visit by Laura Fern\u00e1ndez",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/el-salvador-y-costa-rica-buscan-fortalecer-su-cooperacion-con-visita-oficial-de-laura-fernandez/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-costa-rica-buscan-fortalecer-su-cooperacion-con-visita-oficial-de-laura-fernandez",
+        "published_date": "2026-10-16 17:41:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Carlos Dada affirms that President Bukele invests money to spread his speech in other countries",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/carlos-dada-afirma-que-el-presidente-bukele-invierte-dinero-para-difundir-su-discurso-en-otros-paises/",
+        "published_date": "2026-10-16 17:27:14",
         "category": "Local Events"
     }
 ]
