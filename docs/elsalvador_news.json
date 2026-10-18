@@ -1,5 +1,12 @@
 [
     {
+        "title": "El Salvador and Argentina strengthen bilateral ties and project solid strategic cooperation",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/el-salvador-y-argentina-estrechan-lazos-bilaterales-y-proyectan-una-solida-cooperacion-estrategica/",
+        "published_date": "2026-10-18 01:01:44",
+        "category": "Diplomacy"
+    },
+    {
         "title": "El Salvador and Argentina strengthen diplomatic and economic ties",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/empresarial/el-salvador-y-argentina-estrechan-vinculos-diplomaticos-y-economicos/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-argentina-estrechan-vinculos-diplomaticos-y-economicos",
@@ -130,13 +137,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/politica/gobierno-del-presidente-nayib-bukele-impulsa-la-tradeexpo-2026-en-apoyo-a-las-empresas-salvadorenas/",
         "published_date": "2026-10-12 23:34:45",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Government of President Nayib Bukele promotes TradeExpo 2026 in support of Salvadoran companies",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/gobierno-del-presidente-nayib-bukele-impulsa-la-tradeexpo-2026-en-apoyo-a-las-empresas-salvadorenas/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-del-presidente-nayib-bukele-impulsa-la-tradeexpo-2026-en-apoyo-a-las-empresas-salvadorenas",
-        "published_date": "2026-10-12 23:17:07",
         "category": "Diplomacy"
     },
     {
@@ -560,6 +560,34 @@
         "category": "Economy"
     },
     {
+        "title": "The union movement presents a common front against the 4\u00d73 shift and demands a reduction in working hours in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-movimiento-sindical-presenta-frente-comun-contra-la-jornada-4x3-y-exige-reducir-las-horas-de-trabajo-en-el-salvador/",
+        "published_date": "2026-10-18 05:18:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Roxana Cardona questions that Bukele anticipates sentencing of detainees for collaboration with gangs",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/roxana-cardona-cuestiona-que-bukele-anticipe-condenas-a-detenidos-por-colaboracion-con-pandillas/",
+        "published_date": "2026-10-18 05:12:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "CCR issues 80 electoral certificates and keeps 406 applications under analysis",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/ccr-emite-80-constancias-electorales-y-mantiene-406-solicitudes-en-analisis/",
+        "published_date": "2026-10-18 03:06:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "They locate a lifeless 13-year-old girl who had disappeared in Huiz\u00facar",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/localizan-sin-vida-a-nina-de-13-anos-que-habia-desaparecido-en-huizucar/",
+        "published_date": "2026-10-18 02:04:43",
+        "category": "Local Events"
+    },
+    {
         "title": "Rolando Castro announces criminal actions against company for accident that injured three workers",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/rolando-castro-anuncia-acciones-penales-contra-empresa-por-accidente-que-lesiono-a-tres-trabajadores/",
@@ -669,34 +697,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/ccr-avanza-en-el-proceso-de-emision-de-constancias-electorales/",
         "published_date": "2026-10-17 17:10:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tommy Zambrano seeks to implement CECOT measures in the prisons of Honduras",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/tommy-zambrano-busca-implementar-medidas-del-cecot-en-las-carceles-de-honduras/",
-        "published_date": "2026-10-17 16:48:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ivonne N\u00f3chez wins her fifth world title and puts El Salvador back on top",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/ivonne-nochez-conquista-su-quinto-titulo-mundial-y-vuelve-a-poner-a-el-salvador-en-lo-mas-alto/",
-        "published_date": "2026-10-17 15:33:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "They arrest a teenager for taking the life of Dariana Valencia",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/detienen-a-adolescente-por-arrebatarle-la-vida-a-dariana-valencia/",
-        "published_date": "2026-10-17 15:09:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele clarifies that he will not release prisoners",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/presidente-bukele-aclara-que-no-liberara-a-presos/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-aclara-que-no-liberara-a-presos",
-        "published_date": "2026-10-17 14:40:23",
         "category": "Local Events"
     }
 ]
