@@ -1,5 +1,12 @@
 [
     {
+        "title": "Priest dies in Ecuador after a cross falls on him during a mass",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/sacerdote-muere-en-ecuador-tras-caerle-encima-una-cruz-durante-una-misa/",
+        "published_date": "2026-10-18 17:12:30",
+        "category": "Diplomacy"
+    },
+    {
         "title": "El Salvador and Argentina strengthen bilateral ties and project solid strategic cooperation",
         "source": "Cronio",
         "url": "https://croniosv.com/principal/el-salvador-y-argentina-estrechan-lazos-bilaterales-y-proyectan-una-solida-cooperacion-estrategica/",
@@ -133,11 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Government of President Nayib Bukele promotes TradeExpo 2026 in support of Salvadoran companies",
+        "title": "New altercation between young people mars the night around the nightclub in Sonsonate",
         "source": "Cronio",
-        "url": "https://croniosv.com/politica/gobierno-del-presidente-nayib-bukele-impulsa-la-tradeexpo-2026-en-apoyo-a-las-empresas-salvadorenas/",
-        "published_date": "2026-10-12 23:34:45",
-        "category": "Diplomacy"
+        "url": "https://croniosv.com/principal/principal1/nuevo-altercado-entre-jovenes-empana-la-noche-en-los-alrededores-de-discoteca-en-sonsonate/",
+        "published_date": "2026-10-18 23:21:36",
+        "category": "Military"
+    },
+    {
+        "title": "Macron asks to address social demands and Le Pen accuses the Government of losing control of France",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/macron-pide-atender-las-demandas-sociales-y-le-pen-acusa-al-gobierno-de-perder-el-control-de-francia/?utm_source=rss&utm_medium=rss&utm_campaign=macron-pide-atender-las-demandas-sociales-y-le-pen-acusa-al-gobierno-de-perder-el-control-de-francia",
+        "published_date": "2026-10-18 22:42:01",
+        "category": "Military"
+    },
+    {
+        "title": "Images that link him to the 18 gang are found on the cell phone of a man located in Ilobasco",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/hallan-en-celular-de-hombre-ubicado-en-ilobasco-imagenes-que-lo-vinculan-con-la-pandilla-18/?utm_source=rss&utm_medium=rss&utm_campaign=hallan-en-celular-de-hombre-ubicado-en-ilobasco-imagenes-que-lo-vinculan-con-la-pandilla-18",
+        "published_date": "2026-10-18 22:25:45",
+        "category": "Military"
     },
     {
         "title": "Cost of living protests spark riots in France, Italy and Albania",
@@ -259,25 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "HORROR IN AHUACHAP\u00c1N!He locked his partner without food and beat her with a hammer until he broke her arm.",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/horror-en-ahuachapan-encerraba-a-su-pareja-sin-comida-y-la-golpeaba-con-un-martillo-hasta-fracturarle-un-brazo/",
-        "published_date": "2026-10-16 01:23:39",
-        "category": "Military"
-    },
-    {
-        "title": "HE THOUGHT HE WOULD GO UNNOTICED!An alleged MS-13 gang member with a history dating back to 2000 is captured in Soyapango",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/creyo-pasar-desapercibido-capturan-en-soyapango-a-presunto-pandillero-de-la-ms-13-con-antecedentes-desde-el-ano-2000/",
-        "published_date": "2026-10-16 00:31:02",
-        "category": "Military"
-    },
-    {
-        "title": "MADURO REJECTS ACCUSATIONS OF TORTURE IN THE US!He and Cilia Flores plead innocent and will face trial in 2027",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/maduro-rechaza-acusaciones-de-tortura-en-ee-uu-el-y-cilia-flores-se-declaran-inocentes-y-enfrentaran-juicio-en-2027/",
-        "published_date": "2026-10-16 00:26:04",
-        "category": "Military"
+        "title": "Trump accuses Zelensky of damaging the global diesel market with attacks on Russian refineries",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/trump-acusa-a-zelenski-de-perjudicar-el-mercado-mundial-del-diesel-con-ataques-a-refinerias-rusas/",
+        "published_date": "2026-10-18 23:15:32",
+        "category": "Energy"
     },
     {
         "title": "Who are the yellow vests and why did they emerge in France?",
@@ -410,13 +417,6 @@
         "source": "Ultima Hora SV",
         "url": "https://ultimahora.sv/presidente-bukele-firma-inversion-privada-historica-por-2900-millones/",
         "published_date": "2026-10-13 23:16:19",
-        "category": "Energy"
-    },
-    {
-        "title": "Gasoline in El Salvador will maintain the same fuel prices",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/gasolina-en-el-salvador-mantendran-los-mismos-precios-combustibles/",
-        "published_date": "2026-10-12 21:00:00",
         "category": "Energy"
     },
     {
@@ -560,143 +560,143 @@
         "category": "Economy"
     },
     {
+        "title": "Young woman in Colombia is buried up to her neck after being struck by lightning",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/joven-en-colombia-es-enterrada-hasta-el-cuello-tras-ser-alcanzada-por-un-rayo/",
+        "published_date": "2026-10-19 00:30:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Miraculous rescue: They save a person who fell into a deep well in San Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/milagroso-rescate-salvan-a-persona-que-cayo-a-pozo-profundo-en-san-salvador/",
+        "published_date": "2026-10-19 00:11:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bukele: Self-coup to his main narrative",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/bukele-autogolpe-a-su-principal-narrativa/",
+        "published_date": "2026-10-18 23:48:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Adventure roars!Children can travel to the world of dinosaurs in CIFCO Jurassic",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ruge-la-aventura-los-pueden-viajar-al-mundo-de-los-dinosaurios-en-cifco-jurasico/",
+        "published_date": "2026-10-18 23:47:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Driver is rescued alive after being dragged by the current in Moraz\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/conductor-es-rescatado-con-vida-tras-ser-arrastrado-por-la-corriente-en-morazan/",
+        "published_date": "2026-10-18 23:25:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Driver attacks motorcyclist in Manuel Enrique Araujo Mall",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/conductor-embiste-a-motociclista-en-la-alameda-manuel-enrique-araujo/",
+        "published_date": "2026-10-18 23:15:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragic Accident in Metap\u00e1n: Minor Under 13 Loses His Life After Colliding with a Pick-up",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/tragico-accidente-en-metapan-menor-de-13-anos-pierde-la-vida-tras-colisionar-contra-un-pick-up/",
+        "published_date": "2026-10-18 23:10:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele affirms that France could overcome its problems in a week",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-afirma-que-francia-podria-superar-sus-problemas-en-una-semana/",
+        "published_date": "2026-10-18 22:19:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Macron is committed to dialogue and Le Pen demands more authority after the wave of violence in France",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/macron-apuesta-por-el-dialogo-y-le-pen-exige-mas-autoridad-tras-la-ola-de-violencia-en-francia/",
+        "published_date": "2026-10-18 21:30:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Total scandal in the apostolic world!",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/escandalo-total-en-el-mundo-apostolico/",
+        "published_date": "2026-10-18 21:16:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Other notes on Budget 2027",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/otras-notas-sobre-el-presupuesto-2027/",
+        "published_date": "2026-10-18 20:57:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran is convicted in the US for murder of his ex-mother-in-law",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/salvadoreno-es-condenado-en-ee-uu-por-asesinato-de-su-exsuegra/",
+        "published_date": "2026-10-18 20:45:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Live tragedy: Priest dies crushed by a wooden cross in the middle of the Eucharist",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/tragedia-en-vivo-sacerdote-muere-aplastado-por-una-cruz-de-madera-en-plena-eucaristia/",
+        "published_date": "2026-10-18 19:29:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "vonne N\u00f3chez adds three medals and a world record in Asunci\u00f3n 2026",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/vonne-nochez-suma-tres-medallas-y-un-record-mundial-en-asuncion-2026/?utm_source=rss&utm_medium=rss&utm_campaign=vonne-nochez-suma-tres-medallas-y-un-record-mundial-en-asuncion-2026",
+        "published_date": "2026-10-18 19:20:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister Castro recognizes the work of the Community Social Movement in El Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ministro-castro-reconoce-labor-del-movimiento-social-comunitario-en-el-salvador/",
+        "published_date": "2026-10-18 17:58:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "14 thousand applicants to the UES undergo the admission exam",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/14-mil-aspirantes-a-la-ues-se-someten-al-examen-de-admision/",
+        "published_date": "2026-10-18 17:55:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "He paid dearly!The shocking irony of the fate that ended his life in Usulut\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/lo-pago-caro-la-impactante-ironia-del-destino-que-acabo-con-su-vida-en-usulutan/",
+        "published_date": "2026-10-18 17:52:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Buildings set on fire and more than 1,000 arrested after protests of half a million people in France",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/incendian-edificios-y-detienen-a-mas-de-1-000-personas-tras-protestas-de-medio-millon-de-personas-en-francia/",
+        "published_date": "2026-10-18 15:38:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Nayib Bukele affirms that France could overcome its problems in a week",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/presidente-nayib-bukele-afirma-que-francia-podria-superar-sus-problemas-en-una-semana/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-nayib-bukele-afirma-que-francia-podria-superar-sus-problemas-en-una-semana",
+        "published_date": "2026-10-18 15:03:21",
+        "category": "Local Events"
+    },
+    {
         "title": "The union movement presents a common front against the 4\u00d73 shift and demands a reduction in working hours in El Salvador",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/el-movimiento-sindical-presenta-frente-comun-contra-la-jornada-4x3-y-exige-reducir-las-horas-de-trabajo-en-el-salvador/",
         "published_date": "2026-10-18 05:18:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Roxana Cardona questions that Bukele anticipates sentencing of detainees for collaboration with gangs",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/roxana-cardona-cuestiona-que-bukele-anticipe-condenas-a-detenidos-por-colaboracion-con-pandillas/",
-        "published_date": "2026-10-18 05:12:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "CCR issues 80 electoral certificates and keeps 406 applications under analysis",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/ccr-emite-80-constancias-electorales-y-mantiene-406-solicitudes-en-analisis/",
-        "published_date": "2026-10-18 03:06:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "They locate a lifeless 13-year-old girl who had disappeared in Huiz\u00facar",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/localizan-sin-vida-a-nina-de-13-anos-que-habia-desaparecido-en-huizucar/",
-        "published_date": "2026-10-18 02:04:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rolando Castro announces criminal actions against company for accident that injured three workers",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/rolando-castro-anuncia-acciones-penales-contra-empresa-por-accidente-que-lesiono-a-tres-trabajadores/",
-        "published_date": "2026-10-17 23:48:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Trump affirms that US criminals fear CECOT",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/presidente-trump-afirma-que-criminales-de-eua-temen-al-cecot/",
-        "published_date": "2026-10-17 23:29:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cNo gang member is going to go free. Ever\u201d: President Bukele",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ningun-pandillero-va-a-salir-libre-nunca-presidente-bukele/",
-        "published_date": "2026-10-17 23:26:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador consolidates its leadership as a tourist and sports destination with the first edition of Oceanman 2026",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/el-salvador-consolida-su-liderazgo-como-destino-turistico-y-deportivo-con-la-primera-edicion-del-oceanman-2026/",
-        "published_date": "2026-10-17 23:13:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motorcycle driver is injured after colliding with a bus in Zacatecoluca",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/conductor-de-motocicleta-resulta-herido-tras-colisionar-con-un-autobus-en-zacatecoluca/",
-        "published_date": "2026-10-17 22:49:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Albania faces student unrest with attacks on public buildings and complaints against the Government",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/albania-enfrenta-disturbios-estudiantiles-con-ataques-a-edificios-publicos-y-reclamos-contra-el-gobierno/",
-        "published_date": "2026-10-17 22:47:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Protests in France leave nearly 400 arrested and a historic town hall burned down",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/protestas-en-francia-dejan-cerca-de-400-detenidos-y-el-incendio-de-un-ayuntamiento-historico/",
-        "published_date": "2026-10-17 21:59:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "UES registers more than 14,000 applicants for university admission in 2027",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/ues-registra-mas-de-14000-aspirantes-para-el-ingreso-universitario-de-2027/?utm_source=rss&utm_medium=rss&utm_campaign=ues-registra-mas-de-14000-aspirantes-para-el-ingreso-universitario-de-2027",
-        "published_date": "2026-10-17 21:41:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Thunderstorms and gusts of 40 km/h persist in much of El Salvador this Saturday",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/tormentas-electricas-y-rafagas-de-40-km-h-persisten-en-gran-parte-de-el-salvador-este-sabado/",
-        "published_date": "2026-10-17 21:34:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "UES new entry test 2027 takes place mainly online",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/prueba-de-nuevo-ingreso-2027-de-la-ues-se-desarrolla-principalmente-en-linea/",
-        "published_date": "2026-10-17 21:34:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Summary of the second week of October 2026",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/resumen-de-la-segunda-semana-del-mes-de-octubre-2026/",
-        "published_date": "2026-10-17 18:59:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "He swore his love for her and ended up with her in her own home!",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/le-juro-amor-y-acabo-con-ella-en-su-propia-casa/",
-        "published_date": "2026-10-17 18:12:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "IT IS ALWAYS GOOD TO TAKE NEW AIR;TO TAKE NEW BREATHS",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/siempre-es-bueno-tomar-nuevos-aires-para-retomar-nuevos-respiros/",
-        "published_date": "2026-10-17 17:51:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Venezuela, ready for the second national popular consultation",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/venezuela-lista-para-la-segunda-consulta-popular-nacional/",
-        "published_date": "2026-10-17 17:34:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Historic success in registrations for the 01/2027 cycle",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/exito-historico-en-las-inscripciones-para-el-ciclo-01-2027/",
-        "published_date": "2026-10-17 17:11:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "CCR advances in the process of issuing electoral certificates",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ccr-avanza-en-el-proceso-de-emision-de-constancias-electorales/",
-        "published_date": "2026-10-17 17:10:49",
         "category": "Local Events"
     }
 ]
