@@ -1,5 +1,12 @@
 [
     {
+        "title": "Waltz: the four Salvadoran soldiers missing in Haiti survived the attack",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/waltz-los-cuatro-militares-salvadorenos-desaparecidos-en-haiti-sobrevivieron-al-ataque/",
+        "published_date": "2026-10-20 00:07:25",
+        "category": "Diplomacy"
+    },
+    {
         "title": "El Salvador strengthens bilateral relations with Germany",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/el-salvador-fortalece-las-relaciones-bilaterales-con-alemania/",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Santiago Caprio highlights El Salvador's participation in the UN smart cities initiative",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/santiago-caprio-destaca-participacion-de-el-salvador-en-iniciativa-de-ciudades-inteligentes-de-la-onu/?utm_source=rss&utm_medium=rss&utm_campaign=santiago-caprio-destaca-participacion-de-el-salvador-en-iniciativa-de-ciudades-inteligentes-de-la-onu",
-        "published_date": "2026-10-13 14:43:50",
-        "category": "Diplomacy"
+        "title": "\"Our priority is to recover them alive\": El Salvador asks for international support to locate four soldiers in Haiti",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/nuestra-prioridad-es-recuperarlos-con-vida-el-salvador-pide-apoyo-internacional-para-localizar-a-cuatro-militares-en-haiti/",
+        "published_date": "2026-10-19 20:58:42",
+        "category": "Military"
     },
     {
         "title": "PNC captures truck driver who caused an accident with two deaths on the Ruta de Paz, Moraz\u00e1n",
@@ -270,13 +277,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/presidenta-de-costa-rica-visita-el-cecot-para-conocer-el-modelo-de-seguridad-de-el-salvador/",
         "published_date": "2026-10-16 20:55:39",
-        "category": "Military"
-    },
-    {
-        "title": "PRESIDENT OF COSTA RICA ARRIVES IN EL SALVADOR AND VISITS CECOT TO LEARN ABOUT BUKELE'S SECURITY MODEL!",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/presidenta-de-costa-rica-llega-a-el-salvador-y-visita-el-cecot-para-conocer-el-modelo-de-seguridad-de-bukele/",
-        "published_date": "2026-10-16 20:42:26",
         "category": "Military"
     },
     {
@@ -420,6 +420,41 @@
         "category": "Energy"
     },
     {
+        "title": "Finance Commission issues favorable opinion for new tax amnesty 2027",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/comision-de-hacienda-emite-dictamen-favorable-para-nueva-amnistia-fiscal-2027/",
+        "published_date": "2026-10-19 21:10:11",
+        "category": "Economy"
+    },
+    {
+        "title": "They issue a favorable opinion for a new tax amnesty 2027",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/emiten-dictamen-favorable-para-nueva-amnistia-fiscal-2027/?utm_source=rss&utm_medium=rss&utm_campaign=emiten-dictamen-favorable-para-nueva-amnistia-fiscal-2027",
+        "published_date": "2026-10-19 20:58:33",
+        "category": "Economy"
+    },
+    {
+        "title": "Border modernization and investment attraction will receive $464,470",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/modernizacion-fronteriza-y-atraccion-de-inversiones-recibiran-464470/?utm_source=rss&utm_medium=rss&utm_campaign=modernizacion-fronteriza-y-atraccion-de-inversiones-recibiran-464470",
+        "published_date": "2026-10-19 20:40:25",
+        "category": "Economy"
+    },
+    {
+        "title": "Incorporation of funds to the Treasury seeks to modernize border services and promote investments",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/incorporacion-de-fondos-a-hacienda-busca-modernizar-servicios-fronterizos-y-promover-inversiones/",
+        "published_date": "2026-10-19 20:38:11",
+        "category": "Economy"
+    },
+    {
+        "title": "France imposes partial curfews after riots and looting in several cities",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/francia-impone-toques-de-queda-parciales-tras-disturbios-y-saqueos-en-varias-ciudades/",
+        "published_date": "2026-10-19 19:29:55",
+        "category": "Economy"
+    },
+    {
         "title": "Government proposes new tax amnesty for tax debtors",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/gobierno-propone-nueva-amnistia-fiscal-deudores-tributarios/",
@@ -525,178 +560,143 @@
         "category": "Economy"
     },
     {
-        "title": "Teacher unions confronted by educational investment 2027",
+        "title": "Cuban government condemns new legal maneuver in the US against Ra\u00fal Castro",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/gremiales-magisteriales-enfrentadas-inversion-educativa-2027educativa/",
-        "published_date": "2026-10-14 11:05:02",
-        "category": "Economy"
-    },
-    {
-        "title": "Deputies who violated the Constitution \u201cwill have legal consequences sooner or later\u201d: Milton Milc\u00edades",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/diputados-que-violentaron-la-constitucion-van-a-tener-consecuencias-juridicas-tarde-o-temprano-milton-milciades/",
-        "published_date": "2026-10-14 11:00:37",
-        "category": "Economy"
-    },
-    {
-        "title": "Pacific Airport and Cargo Terminal, among CEPA's bets to strengthen connectivity",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/aeropuerto-del-pacifico-y-terminal-de-carga-entre-las-apuestas-de-cepa-para-fortalecer-la-conectividad/",
-        "published_date": "2026-10-13 21:19:37",
-        "category": "Economy"
-    },
-    {
-        "title": "World Bank highlights educational modernization in El Salvador with artificial intelligence tools",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/banco-mundial-destaca-modernizacion-educativa-en-el-salvador-con-herramientas-de-inteligencia-artificial/",
-        "published_date": "2026-10-13 17:15:06",
-        "category": "Economy"
-    },
-    {
-        "title": "Rafael Aguirre proposes recovering public funds and prioritizing the economy",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/rafael-aguirre-plantea-recuperar-fondos-publicos-priorizar-economia/",
-        "published_date": "2026-10-13 11:04:19",
-        "category": "Economy"
-    },
-    {
-        "title": "Claudia Ortiz promotes \u201cAvancemos\u201d amid internal tensions in VAMOS",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/claudia-ortiz-impulsa-avancemos-en-medio-de-tensiones-internas-en-vamos/",
-        "published_date": "2026-10-19 17:00:22",
+        "url": "https://www.diariocolatino.com/gobierno-cubano-condena-nueva-maniobra-juridica-en-eeuu-contra-raul-castro/",
+        "published_date": "2026-10-20 01:20:39",
         "category": "Local Events"
     },
     {
-        "title": "Claudia Ortiz contemplates an electoral alternative in the face of possible internal obstacles in VAMOS",
+        "title": "They celebrate the 46th anniversary of the union of the 5 guerrilla organizations of the FMLN",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/celebran-el-46-aniversario-de-la-union-de-las-5-organizaciones-guerrilleras-del-fmln/",
+        "published_date": "2026-10-20 01:11:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Person dies after falling from a tree he was pruning in San Miguel",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/claudia-ortiz-contempla-una-alternativa-electoral-ante-posibles-obstaculos-internos-en-vamos/?utm_source=rss&utm_medium=rss&utm_campaign=claudia-ortiz-contempla-una-alternativa-electoral-ante-posibles-obstaculos-internos-en-vamos",
-        "published_date": "2026-10-19 16:59:27",
+        "url": "https://lapagina.com.sv/nacionales/persona-muere-tras-caer-de-un-arbol-que-estaba-podando-en-san-miguel/?utm_source=rss&utm_medium=rss&utm_campaign=persona-muere-tras-caer-de-un-arbol-que-estaba-podando-en-san-miguel",
+        "published_date": "2026-10-20 00:46:02",
         "category": "Local Events"
     },
     {
-        "title": "El Salvador receives 3.5 million international tourists between January and September 2026",
+        "title": "Mayor of La Paz Oeste maintains his promise to continue doing works",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/alcalde-de-la-paz-oeste-mantiene-su-promesa-de-seguir-haciendo-obras/",
+        "published_date": "2026-10-19 23:58:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "OGME brings GAP boxers that combine style and comfort for the modern man",
         "source": "Cronio",
-        "url": "https://croniosv.com/politica/el-salvador-recibe-3-5-millones-de-turistas-internacionales-entre-enero-y-septiembre-de-2026/",
-        "published_date": "2026-10-19 16:38:42",
+        "url": "https://croniosv.com/tendencias/moda/ogme-trae-los-boxer-gap-que-combinan-estilo-y-confort-para-el-hombre-moderno/",
+        "published_date": "2026-10-19 23:18:58",
         "category": "Local Events"
     },
     {
-        "title": "\ud83c\udf80Detecting it in time can change a story",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/detectar-a-tiempo-puede-cambiar-una-historia/",
-        "published_date": "2026-10-19 16:37:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Monday starts with a streak of traffic accidents",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/se-reporta-racha-de-accidentes-de-transito/",
-        "published_date": "2026-10-19 16:26:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "MARN predicts rain and storms in different areas of the country for this Monday, October 19",
+        "title": "OGME El Salvador presents the Columbia socks that accompany you in every step",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/marn-pronostica-lluvias-y-tormentas-en-distintas-zonas-del-pais-para-este-lunes-19-de-octubre/",
-        "published_date": "2026-10-19 16:16:42",
+        "url": "https://croniosv.com/tendencias/moda/ogme-el-salvador-presenta-los-calcetines-columbia-que-te-acompanan-en-cada-paso/",
+        "published_date": "2026-10-19 23:16:25",
         "category": "Local Events"
     },
     {
-        "title": "Port of Acajutla doubles container service in 2026",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/puerto-de-acajutla-duplica-atencion-de-contenedores-en-2026/",
-        "published_date": "2026-10-19 15:49:19",
+        "title": "All-day comfort: the Danskin bloomers that are conquering Salvadoran women",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/moda/comodidad-todo-el-dia-los-bloomer-danskin-que-estan-conquistando-a-las-salvadorenas/",
+        "published_date": "2026-10-19 23:13:34",
         "category": "Local Events"
     },
     {
-        "title": "El Salvador accumulates 247 days without homicides in 2026",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-acumula-247-dias-sin-homicidios-en-2026/",
-        "published_date": "2026-10-19 15:44:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rain and storms are forecast for this Monday",
+        "title": "Fine Dining Week brought together more than 100 international chefs",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/pronostican-lluvias-y-tormentas-para-este-lunes-3/?utm_source=rss&utm_medium=rss&utm_campaign=pronostican-lluvias-y-tormentas-para-este-lunes-3",
-        "published_date": "2026-10-19 15:35:16",
+        "url": "https://lapagina.com.sv/nacionales/fine-dining-week-reunio-a-mas-de-100-chef-internacionales/?utm_source=rss&utm_medium=rss&utm_campaign=fine-dining-week-reunio-a-mas-de-100-chef-internacionales",
+        "published_date": "2026-10-19 23:11:55",
         "category": "Local Events"
     },
     {
-        "title": "Budget 2027 includes $85.5 million to boost tourism in El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presupuesto-2027-contempla-85-5-millones-para-impulsar-el-turismo-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=presupuesto-2027-contempla-85-5-millones-para-impulsar-el-turismo-en-el-salvador",
-        "published_date": "2026-10-19 15:26:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government plans to invest $85.5 million in strengthening tourism by 2027",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-proyecta-invertir-85-5-millones-en-el-fortalecimiento-del-turismo-para-2027/",
-        "published_date": "2026-10-19 15:25:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rain and storms are expected this Monday",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/se-esperan-lluvias-y-tormentas-para-este-lunes/",
-        "published_date": "2026-10-19 15:20:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cBig sign or high fine?\u201dsays Mayor Duran",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/rotulo-grande-o-multa-alta-afirma-el-alcalde-duran/",
-        "published_date": "2026-10-19 15:20:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Manuel Medrano celebrates a decade of musical career with concert in El Salvador",
+        "title": "Hundreds of French take to the streets with brooms and hoses to repair the damage of the riots",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/manuel-medrano-celebra-una-decada-de-carrera-musical-con-concierto-en-el-salvador/",
-        "published_date": "2026-10-19 12:39:00",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/cientos-de-franceses-toman-las-calles-con-escobas-y-mangueras-para-reparar-los-destrozos-de-los-disturbios/",
+        "published_date": "2026-10-19 23:08:59",
         "category": "Local Events"
     },
     {
-        "title": "PRO-VIDA celebrates 42 years of community work in defense of life and human dignity",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/provida-celebra-42-anos-trabajo-comunitario/",
-        "published_date": "2026-10-19 11:05:01",
+        "title": "Reebok is committed to comfort: the microfiber boxers that are a trend in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/tendencias/moda/reebok-apuesta-por-la-comodidad-los-boxer-de-microfibra-que-son-tendencia-en-el-salvador/",
+        "published_date": "2026-10-19 23:08:18",
         "category": "Local Events"
     },
     {
-        "title": "UES develops virtual admission exam for more than 14 thousand applicants for entry in 2027",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ues-desarrolla-examen-de-admision-virtual-a-mas-de-14-mil-aspirantes-para-ingreso-2027/",
-        "published_date": "2026-10-19 11:04:50",
+        "title": "Fine Dining Week:\u00a0\u00a0More than 100 international chefs met in San Salvador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/fine-dining-week-mas-de-100-chefs-internacionales-se-reunieron-en-san-salvador/",
+        "published_date": "2026-10-19 23:06:44",
         "category": "Local Events"
     },
     {
-        "title": "Father Henri Cienfuegos: The true worship of God is to serve one's neighbor",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/padre-henri-cienfuegos-verdadero-culto-a-dios-servir-projimo/",
-        "published_date": "2026-10-19 11:03:17",
+        "title": "Tec Day 2026 brings together ventures that promote new solutions",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/dia-tec-2026-reune-emprendimientos-que-impulsan-nuevas-soluciones/",
+        "published_date": "2026-10-19 23:01:23",
         "category": "Local Events"
     },
     {
-        "title": "Bukele between a rock and a hard place",
+        "title": "How to create a monthly budget before assuming a new installment",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/bukele-entre-la-espada-y-la-pared/",
-        "published_date": "2026-10-19 10:35:58",
+        "url": "https://www.diariocolatino.com/como-armar-un-presupuesto-mensual-antes-de-asumir-una-nueva-cuota/",
+        "published_date": "2026-10-19 22:57:05",
         "category": "Local Events"
     },
     {
-        "title": "This is how the Apertura 2026 tournament is going after the 16th date",
+        "title": "Ortiz questions Bukele's \u201cimprovisation\u201d of the plan to release gang collaborators",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/asi-marcha-el-torneo-apertura-2026-tras-disputarse-la-fecha-16/",
-        "published_date": "2026-10-19 10:15:25",
+        "url": "https://www.diariocolatino.com/ortiz-cuestiona-improvisacion-de-bukele-sobre-plan-de-liberacion-de-colaboradores-de-pandillas/",
+        "published_date": "2026-10-19 22:53:09",
         "category": "Local Events"
     },
     {
-        "title": "Rolando El\u00edas Juli\u00e1n, patriot and revolutionary, has left",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/rolando-elias-julian-patriota-y-revolucionario-ha-partido/",
-        "published_date": "2026-10-19 10:00:00",
+        "title": "When you are full Claro, you receive more benefits for free",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/cuando-sos-full-claro-recibis-gratis-mas-beneficios/",
+        "published_date": "2026-10-19 22:11:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "They will close the passage through Los Chorros this Sunday, October 25 due to the detonation of rocks",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/cerraran-el-paso-por-los-chorros-este-domingo-25-de-octubre-por-detonacion-de-rocas/",
+        "published_date": "2026-10-19 22:10:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rock detonation will force Los Chorros to close all Sunday: this was explained by Minister Romeo Herrera",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/detonacion-de-roca-obligara-a-cerrar-los-chorros-todo-el-domingo-esto-explico-el-ministro-romeo-herrera/",
+        "published_date": "2026-10-19 21:49:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hansi Flick: \u201cWe played against the best team in the world\u201d before the duel against PSG in the Champions League",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/hansi-flick-jugamos-ante-el-mejor-equipo-del-mundo-antes-del-duelo-contra-el-psg-en-champions/",
+        "published_date": "2026-10-19 21:34:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice President Ulloa explores cooperation with CopernicusLAC to strengthen territorial resilience with satellite data",
+        "source": "Cronio",
+        "url": "https://croniosv.com/politica/vicepresidente-ulloa-explora-cooperacion-con-copernicuslac-para-fortalecer-resiliencia-territorial-con-datos-satelitales/",
+        "published_date": "2026-10-19 20:52:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "FESFUT suspends referee Ferm\u00edn Morales for four days for controversial penalty not sanctioned against Alianza",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/fesfut-suspende-cuatro-jornadas-al-arbitro-fermin-morales-por-polemico-penal-no-sancionado-a-alianza/",
+        "published_date": "2026-10-19 20:45:00",
         "category": "Local Events"
     }
 ]
