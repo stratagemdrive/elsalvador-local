@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Paris police to implement partial curfew",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/policia-parisina-pondra-en-practica-toque-de-queda-parcial/",
+        "published_date": "2026-10-20 10:00:59",
+        "category": "Military"
+    },
+    {
         "title": "\"Our priority is to recover them alive\": El Salvador asks for international support to locate four soldiers in Haiti",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/nuestra-prioridad-es-recuperarlos-con-vida-el-salvador-pide-apoyo-internacional-para-localizar-a-cuatro-militares-en-haiti/",
@@ -270,13 +277,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/presidenta-de-costa-rica-conoce-de-primera-mano-el-modelo-penitenciario-del-presidente-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=presidenta-de-costa-rica-conoce-de-primera-mano-el-modelo-penitenciario-del-presidente-bukele",
         "published_date": "2026-10-16 20:56:38",
-        "category": "Military"
-    },
-    {
-        "title": "President of Costa Rica visits CECOT to learn about El Salvador's security model",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidenta-de-costa-rica-visita-el-cecot-para-conocer-el-modelo-de-seguridad-de-el-salvador/",
-        "published_date": "2026-10-16 20:55:39",
         "category": "Military"
     },
     {
@@ -420,6 +420,13 @@
         "category": "Energy"
     },
     {
+        "title": "Finance Commission issues favorable opinion on new tax amnesty valid until December 11, 2026",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/economia/comision-de-hacienda-emite-dictamen-favorable-a-nueva-amnistia-fiscal-vigente-hasta-el-11-de-diciembre-de-2026/",
+        "published_date": "2026-10-20 02:44:42",
+        "category": "Economy"
+    },
+    {
         "title": "Finance Commission issues favorable opinion for new tax amnesty 2027",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/comision-de-hacienda-emite-dictamen-favorable-para-nueva-amnistia-fiscal-2027/",
@@ -553,11 +560,81 @@
         "category": "Economy"
     },
     {
-        "title": "Payment methods manager of the state bank CHN dies from bullets in zone 4 of Guatemala City",
+        "title": "DOM begins reconstruction of an educational center, in the canton of La Cangrejera, La Libertad Costa",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/dom-inicia-reconstruccion-de-centro-educativo-en-canton-la-cangrejera-de-la-libertad-costa/",
+        "published_date": "2026-10-20 15:32:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bethy Arana calls the Salvadoran political opposition corrupt",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/bethy-arana-emplaza-a-la-oposicion-politica-salvadorena-por-corrupta/",
+        "published_date": "2026-10-20 15:14:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ingrid Escobar: \u201cBukele announces the release of gang collaborators, while families continue to demand justice for the innocent\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ingrid-escobar-bukele-anuncia-liberar-colaboradores-pandillas-mientras-familias-siguen-exigiendo-justicia-para-inocentes/",
+        "published_date": "2026-10-20 11:00:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inter Tecla, FAS and Alianza certify their ticket to the next round of the Women's League",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/inter-tecla-fas-y-alianza-certifican-su-boleto-a-la-siguiente-ronda-de-la-liga-femenina/",
+        "published_date": "2026-10-20 10:28:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Tigres del Norte return to El Salvador this December 12!",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/los-tigres-del-norte-regresan-a-el-salvador-este-12-de-diciembre/",
+        "published_date": "2026-10-20 03:47:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Provisional arrest for driver accused of manslaughter in Santa Tecla",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/detencion-provisional-para-conductor-acusado-de-homicidio-culposo-en-santa-tecla/?utm_source=rss&utm_medium=rss&utm_campaign=detencion-provisional-para-conductor-acusado-de-homicidio-culposo-en-santa-tecla",
+        "published_date": "2026-10-20 03:02:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paraclimbing Festival held by Indes in the country",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/festival-de-paraescalada-realizo-el-indes-en-el-pais/",
+        "published_date": "2026-10-20 02:56:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "The driver and owner of a dump truck will be prosecuted for the tragedy in the Integration ring that left two dead",
         "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/gerente-de-medios-de-pago-del-banco-estatal-chn-muere-por-balas-en-zona-4-de-ciudad-de-guatemala/",
-        "published_date": "2026-10-14 22:27:49",
-        "category": "Economy"
+        "url": "https://croniosv.com/nacionales/judicial/procesaran-en-libertad-a-conductor-y-propietario-de-volqueta-por-tragedia-en-el-redondel-integracion-que-dejo-dos-muertos/",
+        "published_date": "2026-10-20 02:36:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lionel Messi reaches 936 goals in his career after scoring a double with Inter Miami",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/lionel-messi-llega-a-936-goles-en-su-carrera-tras-anotar-un-doblete-con-el-inter-miami/",
+        "published_date": "2026-10-20 02:08:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "They prosecute defendants for dump truck accident in Redondel Integraci\u00f3n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/procesan-a-acusados-por-accidente-de-volqueta-en-redondel-integracion/?utm_source=rss&utm_medium=rss&utm_campaign=procesan-a-acusados-por-accidente-de-volqueta-en-redondel-integracion",
+        "published_date": "2026-10-20 01:53:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "They prosecute defendants for dump truck accident in Redondel Integraci\u00f3n",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/procesan-a-acusados-por-accidente-de-volqueta-en-redondel-integracion/",
+        "published_date": "2026-10-20 01:46:48",
+        "category": "Local Events"
     },
     {
         "title": "Cuban government condemns new legal maneuver in the US against Ra\u00fal Castro",
@@ -620,83 +697,6 @@
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/10/cientos-de-franceses-toman-las-calles-con-escobas-y-mangueras-para-reparar-los-destrozos-de-los-disturbios/",
         "published_date": "2026-10-19 23:08:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reebok is committed to comfort: the microfiber boxers that are a trend in El Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/moda/reebok-apuesta-por-la-comodidad-los-boxer-de-microfibra-que-son-tendencia-en-el-salvador/",
-        "published_date": "2026-10-19 23:08:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fine Dining Week:\u00a0\u00a0More than 100 international chefs met in San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/fine-dining-week-mas-de-100-chefs-internacionales-se-reunieron-en-san-salvador/",
-        "published_date": "2026-10-19 23:06:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tec Day 2026 brings together ventures that promote new solutions",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/dia-tec-2026-reune-emprendimientos-que-impulsan-nuevas-soluciones/",
-        "published_date": "2026-10-19 23:01:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "How to create a monthly budget before assuming a new installment",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/como-armar-un-presupuesto-mensual-antes-de-asumir-una-nueva-cuota/",
-        "published_date": "2026-10-19 22:57:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ortiz questions Bukele's \u201cimprovisation\u201d of the plan to release gang collaborators",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/ortiz-cuestiona-improvisacion-de-bukele-sobre-plan-de-liberacion-de-colaboradores-de-pandillas/",
-        "published_date": "2026-10-19 22:53:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "When you are full Claro, you receive more benefits for free",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/cuando-sos-full-claro-recibis-gratis-mas-beneficios/",
-        "published_date": "2026-10-19 22:11:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "They will close the passage through Los Chorros this Sunday, October 25 due to the detonation of rocks",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/cerraran-el-paso-por-los-chorros-este-domingo-25-de-octubre-por-detonacion-de-rocas/",
-        "published_date": "2026-10-19 22:10:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rock detonation will force Los Chorros to close all Sunday: this was explained by Minister Romeo Herrera",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/detonacion-de-roca-obligara-a-cerrar-los-chorros-todo-el-domingo-esto-explico-el-ministro-romeo-herrera/",
-        "published_date": "2026-10-19 21:49:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hansi Flick: \u201cWe played against the best team in the world\u201d before the duel against PSG in the Champions League",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/hansi-flick-jugamos-ante-el-mejor-equipo-del-mundo-antes-del-duelo-contra-el-psg-en-champions/",
-        "published_date": "2026-10-19 21:34:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President Ulloa explores cooperation with CopernicusLAC to strengthen territorial resilience with satellite data",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/vicepresidente-ulloa-explora-cooperacion-con-copernicuslac-para-fortalecer-resiliencia-territorial-con-datos-satelitales/",
-        "published_date": "2026-10-19 20:52:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "FESFUT suspends referee Ferm\u00edn Morales for four days for controversial penalty not sanctioned against Alianza",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/fesfut-suspende-cuatro-jornadas-al-arbitro-fermin-morales-por-polemico-penal-no-sancionado-a-alianza/",
-        "published_date": "2026-10-19 20:45:00",
         "category": "Local Events"
     }
 ]
