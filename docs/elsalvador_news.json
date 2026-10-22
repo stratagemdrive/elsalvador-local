@@ -1,5 +1,40 @@
 [
     {
+        "title": "El Salvador recognizes diplomatic work of the ambassador of the People's Republic of China",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/el-salvador-reconoce-labor-diplomatica-del-embajador-de-republica-popular-china/",
+        "published_date": "2026-10-22 15:26:11",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "El Salvador and Japan promote diplomatic dialogue and regional integration",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/el-salvador-y-japon-impulsan-el-dialogo-diplomatico-y-la-integracion-regional/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-japon-impulsan-el-dialogo-diplomatico-y-la-integracion-regional",
+        "published_date": "2026-10-22 14:41:08",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Representatives of China and the US talk about Taiwan issue",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/representantes-de-china-y-eeuu-dialogan-sobre-cuestion-de-taiwan/",
+        "published_date": "2026-10-22 10:00:58",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Alexandra Hill presents the highest national distinction to Chinese ambassador Zhang Yanhui",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/alexandra-hill-entrega-maxima-distincion-nacional-al-embajador-chino-zhang-yanhui/?utm_source=rss&utm_medium=rss&utm_campaign=alexandra-hill-entrega-maxima-distincion-nacional-al-embajador-chino-zhang-yanhui",
+        "published_date": "2026-10-22 02:06:53",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "El Salvador delivers the Jos\u00e9 Mat\u00edas Delgado National Order to the Chinese ambassador",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-entrega-la-orden-nacional-jose-matias-delgado-al-embajador-de-china/",
+        "published_date": "2026-10-22 02:02:45",
+        "category": "Diplomacy"
+    },
+    {
         "title": "El Salvador deploys military operation in Haiti to rescue four kidnapped compatriots",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/general/el-salvador-despliega-operacion-militar-en-haiti-para-rescatar-a-cuatro-compatriotas-secuestrados/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-despliega-operacion-militar-en-haiti-para-rescatar-a-cuatro-compatriotas-secuestrados",
@@ -105,39 +140,46 @@
         "category": "Diplomacy"
     },
     {
-        "title": "\u201cCECOT represents a monument to justice for the victims who have suffered due to criminal violence,\u201d President of Costa Rica",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/cecot-representa-un-monumento-a-la-justicia-para-las-victimas-que-han-sufrido-a-causa-de-la-violencia-criminal-presidente-de-costa-rica/",
-        "published_date": "2026-10-17 02:34:15",
-        "category": "Diplomacy"
+        "title": "Police report a new day with zero homicides in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/policia-reporta-una-nueva-jornada-con-cero-homicidios-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=policia-reporta-una-nueva-jornada-con-cero-homicidios-en-el-salvador",
+        "published_date": "2026-10-22 14:49:25",
+        "category": "Military"
     },
     {
-        "title": "Cuba will not allow itself to be intimidated, blackmailed or silenced",
+        "title": "Journalists analyze the contradictions of the ruling party regarding the release of detainees under the regime",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/cuba-no-se-dejara-intimidar-chantajear-ni-silenciar/",
-        "published_date": "2026-10-16 23:02:19",
-        "category": "Diplomacy"
+        "url": "https://www.diariocolatino.com/periodistas-analizan-las-contradicciones-del-oficialismo-sobre-la-liberacion-de-detenidos-bajo-el-regimen/",
+        "published_date": "2026-10-22 11:04:23",
+        "category": "Military"
     },
     {
-        "title": "President of Costa Rica, Laura Fern\u00e1ndez, arrives in El Salvador to begin an official visit",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-de-costa-rica-laura-fernandez-llega-a-el-salvador-para-iniciar-visita-oficial/",
-        "published_date": "2026-10-16 17:36:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cuban president denounces US pressure prior to UN vote",
+        "title": "Assembly grants extension 56 of the emergency regime",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/presidente-cubano-denuncia-presiones-de-eeuu-previo-a-voto-en-onu/",
-        "published_date": "2026-10-15 22:19:06",
-        "category": "Diplomacy"
+        "url": "https://www.diariocolatino.com/asamblea-concede-prorroga-56-del-regimen-de-excepcion/",
+        "published_date": "2026-10-22 11:02:40",
+        "category": "Military"
     },
     {
-        "title": "New General Manuel Jos\u00e9 Arce bridge will benefit thousands of Salvadorans and strengthen regional trade",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/nuevo-puente-general-manuel-jose-arce-beneficiara-a-miles-de-salvadorenos-y-fortalecera-el-comercio-regional/",
-        "published_date": "2026-10-15 02:47:05",
-        "category": "Diplomacy"
+        "title": "Bukele issues ultimatum to Haitian gangs after kidnapping four Salvadoran soldiers",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/bukele-lanza-ultimatum-a-las-pandillas-de-haiti-tras-el-secuestro-de-cuatro-soldados-salvadorenos/",
+        "published_date": "2026-10-22 11:00:14",
+        "category": "Military"
+    },
+    {
+        "title": "Salvadoran soldiers ambushed in Haiti are kidnapped by gang members",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/soldados-salvadorenos-emboscados-en-haiti-estan-secuestrados-por-pandilleros/",
+        "published_date": "2026-10-22 02:48:51",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a truck driver who crashed into poles in Los Pr\u00f3ceres and left several injured",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/capturan-a-motorista-de-camion-que-choco-contra-postes-en-los-proceres-y-dejo-varios-heridos/",
+        "published_date": "2026-10-22 02:24:40",
+        "category": "Military"
     },
     {
         "title": "Foreigners sentenced for transporting 150 kilos of cocaine in La Libertad",
@@ -238,48 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "PNC captures man accused of hanging his dog from a balcony in San Salvador",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/pnc-captura-a-hombre-senalado-de-colgar-a-su-perro-desde-un-balcon-en-san-salvador/",
-        "published_date": "2026-10-21 02:34:52",
-        "category": "Military"
-    },
-    {
-        "title": "VMT proposes to retain vehicles with faults and expand technical reviews in freight and collective transportation",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/vmt-propone-retener-vehiculos-con-fallas-y-ampliar-las-revisiones-tecnicas-en-el-transporte-de-carga-y-colectivo/?utm_source=rss&utm_medium=rss&utm_campaign=vmt-propone-retener-vehiculos-con-fallas-y-ampliar-las-revisiones-tecnicas-en-el-transporte-de-carga-y-colectivo",
-        "published_date": "2026-10-21 02:14:54",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a man reported for hanging a dog by its legs from a balcony in San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-hombre-denunciado-por-colgar-a-un-perro-de-las-patas-desde-un-balcon-en-san-salvador/",
-        "published_date": "2026-10-21 01:20:19",
-        "category": "Military"
-    },
-    {
-        "title": "Complaint of animal abuse ends with the capture of a man in San Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/denuncia-por-maltrato-animal-termina-con-la-captura-de-un-hombre-en-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=denuncia-por-maltrato-animal-termina-con-la-captura-de-un-hombre-en-san-salvador",
-        "published_date": "2026-10-21 01:12:32",
-        "category": "Military"
-    },
-    {
-        "title": "PNC captures in San Luis Talpa an alleged member of the MS13 accused of extortion",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/pnc-captura-en-san-luis-talpa-a-presunto-miembro-de-la-ms13-senalado-de-extorsion/",
-        "published_date": "2026-10-20 23:15:48",
-        "category": "Military"
-    },
-    {
-        "title": "Italy approves new sanctions for violence in demonstrations and damage caused by minors",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/italia-aprueba-nuevas-sanciones-por-violencia-en-manifestaciones-y-danos-causados-por-menores/?utm_source=rss&utm_medium=rss&utm_campaign=italia-aprueba-nuevas-sanciones-por-violencia-en-manifestaciones-y-danos-causados-por-menores",
-        "published_date": "2026-10-20 20:36:17",
-        "category": "Military"
-    },
-    {
         "title": "The flavor of Louisiana and the spirit of Mardi Gras come to Los H\u00e9roes with the third location of Popeyes!",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/general/el-sabor-de-louisiana-y-el-espiritu-del-mardi-gras-llegan-a-los-heroes-con-la-tercera-sucursal-de-popeyes/?utm_source=rss&utm_medium=rss&utm_campaign=el-sabor-de-louisiana-y-el-espiritu-del-mardi-gras-llegan-a-los-heroes-con-la-tercera-sucursal-de-popeyes",
@@ -336,46 +336,11 @@
         "category": "Energy"
     },
     {
-        "title": "Nearly $2 billion will be invested in natural gas and renewable energy production",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/cerca-de-2-mil-millones-seran-invertidos-en-produccion-de-gas-natural-y-energia-renovable/",
-        "published_date": "2026-10-14 14:58:29",
-        "category": "Energy"
-    },
-    {
-        "title": "More than $1.8 billion will be invested by Grupo Cox in the production of natural gas and renewable energy",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/mas-de-1800-millones-seran-invertidos-por-grupo-cox-en-produccion-de-gas-natural-y-energia-renovable/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-1800-millones-seran-invertidos-por-grupo-cox-en-produccion-de-gas-natural-y-energia-renovable",
-        "published_date": "2026-10-14 14:17:50",
-        "category": "Energy"
-    },
-    {
-        "title": "The architecture of the Trump\u2013Delcy oil deal",
+        "title": "Assembly approves new Tax Amnesty valid until December 11",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-arquitectura-del-acuerdo-petrolero-trump-delcy/",
-        "published_date": "2026-10-14 10:55:43",
-        "category": "Energy"
-    },
-    {
-        "title": "Cox Group will invest $2.9 billion in energy and water in El Salvador",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/grupo-cox-invertira-2900-millones-en-energia-y-agua-en-el-salvador/",
-        "published_date": "2026-10-14 04:14:10",
-        "category": "Energy"
-    },
-    {
-        "title": "Bukele announces investment of $2.9 billion from Grupo Cox",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/bukele-anuncia-inversion-2900-millones-grupo/",
-        "published_date": "2026-10-14 03:33:38",
-        "category": "Energy"
-    },
-    {
-        "title": "HISTORIC INVESTMENT IN EL SALVADOR!Bukele announces $2.9 billion for energy, natural gas and drinking water",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/inversion-historica-en-el-salvador-bukele-anuncia-2900-millones-para-energia-gas-natural-y-agua-potable/",
-        "published_date": "2026-10-14 02:04:10",
-        "category": "Energy"
+        "url": "https://www.diariocolatino.com/asamblea-aprueba-nueva-amnistia-fiscal-vigente-hasta-el-11-de-diciembre/",
+        "published_date": "2026-10-22 11:01:42",
+        "category": "Economy"
     },
     {
         "title": "Finance Commission rules in favor of tax amnesty so that taxpayers can catch up with the treasury",
@@ -511,11 +476,67 @@
         "category": "Economy"
     },
     {
-        "title": "\u201cNo one can see this bridge and say that it is not a first-class bridge\u201d: President Bukele",
+        "title": "Rain and storms are forecast for this Thursday",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/preven-lluvias-y-tormentas-para-este-jueves/?utm_source=rss&utm_medium=rss&utm_campaign=preven-lluvias-y-tormentas-para-este-jueves",
+        "published_date": "2026-10-22 15:42:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rain and possible storms are forecast for this Thursday",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/nadie-puede-ver-este-puente-y-decir-que-no-es-un-puente-de-primera-presidente-bukele/",
-        "published_date": "2026-10-15 02:48:53",
-        "category": "Economy"
+        "url": "https://diariolahuella.com/pronostican-lluvias-y-posibles-tormentas-para-este-jueves/",
+        "published_date": "2026-10-22 15:33:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "EUROPE ON THE STREETS: THE SOCIAL UNREST THAT SHAKES THE CONTINENT",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/europa-en-las-calles-el-malestar-social-que-sacude-al-continente/",
+        "published_date": "2026-10-22 15:27:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador adds 250 days with zero homicides so far in 2026",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-suma-250-dias-con-cero-homicidios-en-lo-que-va-de-2026/",
+        "published_date": "2026-10-22 14:48:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Organizations demand immediate and unconditional release of innocent prisoners",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/organizaciones-exigen-liberacion-inmediata-e-incondicional-de-los-inocentes-encarcelados/",
+        "published_date": "2026-10-22 11:05:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nuevas Ideas denies support to families in Valle Verde who suffer from water shortages",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/nuevas-ideas-niega-apoyo-a-familias-de-valle-verde-que-sufren-desabastecimiento-de-agua/",
+        "published_date": "2026-10-22 11:03:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Release innocents 2024 and gang collaborators 2026",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/liberar-inocentes-2024-y-colaboradores-de-pandillas-2026/",
+        "published_date": "2026-10-22 10:55:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "US orders non-essential government personnel to leave Saudi Arabia as Houthi attacks intensify",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/eeuu-ordena-salida-de-personal-gubernamental-no-esencial-de-arabia-saudi-ante-intensificacion-de-ataques-huties/",
+        "published_date": "2026-10-22 10:30:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman rescued from flooding of the Metayate River in Nueva Concepci\u00f3n, Chalatenango: she clung to trees while washing clothes",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/mujer-rescatada-de-crecida-del-rio-metayate-en-nueva-concepcion-chalatenango-se-aferraba-a-arboles-mientras-lavaba-ropa/",
+        "published_date": "2026-10-22 03:55:14",
+        "category": "Local Events"
     },
     {
         "title": "Woman who was swept away by a flooding river in Chalatenango is rescued alive",
@@ -592,69 +613,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/autoridades-detienen-al-responsable-de-ocasionar-el-accidente-en-bulevar-los-proceres/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-detienen-al-responsable-de-ocasionar-el-accidente-en-bulevar-los-proceres",
         "published_date": "2026-10-21 22:56:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "They arrest the person responsible for causing the accident on Los Pr\u00f3ceres Boulevard",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/detienen-al-responsable-de-ocasionar-el-accidente-en-bulevar-los-proceres/",
-        "published_date": "2026-10-21 22:50:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elections 2027: TSE draws fifth position for electoral boards;This is how the games turned out",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/elecciones-2027-tse-sortea-quinta-posicion-de-juntas-electorales-asi-quedaron-los-partidos/",
-        "published_date": "2026-10-21 21:59:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The magic of cinema comes to life between voices and melodies in Plaza Kalpataru",
-        "source": "Cronio",
-        "url": "https://croniosv.com/redes/la-magia-del-cine-cobra-vida-entre-voces-y-melodias-en-plaza-kalpataru/",
-        "published_date": "2026-10-21 21:43:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Truck hits power line pole on Los Pr\u00f3ceres Boulevard",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/camion-impacta-contra-poste-del-tendido-electrico-en-bulevar-los-proceres/",
-        "published_date": "2026-10-21 21:35:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Real Madrid scores and Bayern and Arsenal tie in a great game: today's Champions League results",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/real-madrid-golea-y-bayern-y-arsenal-empatan-en-partidazo-los-resultados-de-la-champions-de-hoy/",
-        "published_date": "2026-10-21 21:26:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe decision is in your hands\u201d: President Bukele's strong message to gang leaders in Haiti",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/la-decision-esta-en-sus-manos-el-contundente-mensaje-del-presidente-bukele-a-los-jefes-de-pandillas-en-haiti/?utm_source=rss&utm_medium=rss&utm_campaign=la-decision-esta-en-sus-manos-el-contundente-mensaje-del-presidente-bukele-a-los-jefes-de-pandillas-en-haiti",
-        "published_date": "2026-10-21 20:12:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe decision is in your hands\u201d: President Bukele demands the release of the four Salvadorans in Haiti",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/la-decision-esta-en-sus-manos-presidente-bukele-exige-liberar-a-los-cuatro-salvadorenos-en-haiti/",
-        "published_date": "2026-10-21 19:52:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "They impose 13 years in prison on foreigners for illicit trafficking",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/imponen-13-anos-de-prision-a-extranjeros-por-trafico-ilicito/?utm_source=rss&utm_medium=rss&utm_campaign=imponen-13-anos-de-prision-a-extranjeros-por-trafico-ilicito",
-        "published_date": "2026-10-21 19:43:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Bukele warns Haitian gangs: \u201cWe can end yours too\u201d",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-advierte-a-pandillas-de-haiti-podemos-terminar-con-las-de-ustedes-tambien/",
-        "published_date": "2026-10-21 19:42:09",
         "category": "Local Events"
     }
 ]
