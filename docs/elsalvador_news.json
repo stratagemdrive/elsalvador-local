@@ -1,5 +1,26 @@
 [
     {
+        "title": "El Salvador deploys military operation in Haiti to rescue four kidnapped compatriots",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/el-salvador-despliega-operacion-militar-en-haiti-para-rescatar-a-cuatro-compatriotas-secuestrados/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-despliega-operacion-militar-en-haiti-para-rescatar-a-cuatro-compatriotas-secuestrados",
+        "published_date": "2026-10-21 19:30:58",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "President Bukele demands the release alive of the four Salvadoran soldiers kidnapped in Haiti",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-exige-liberar-con-vida-a-los-cuatro-militares-salvadorenos-secuestrados-en-haiti/",
+        "published_date": "2026-10-21 19:22:11",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuban Foreign Minister highlights broad rejection of the blockade in digital space",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/canciller-cubano-destaca-amplio-rechazo-al-bloqueo-en-espacio-digital/",
+        "published_date": "2026-10-21 10:30:25",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Russia will not make political concessions to the United States, says Lavrov",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/rusia-no-hara-concesiones-politicas-a-estados-unidos-dice-lavrov/",
@@ -119,25 +140,74 @@
         "category": "Diplomacy"
     },
     {
-        "title": "El Salvador and Chile agree to strengthen cooperation in economy and security",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-y-chile-acuerdan-fortalecer-cooperacion-en-economia-y-seguridad/",
-        "published_date": "2026-10-15 01:07:21",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "El Salvador strengthens trade facilitation and regional integration",
+        "title": "Foreigners sentenced for transporting 150 kilos of cocaine in La Libertad",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/el-salvador-fortalece-la-facilitacion-del-comercio-y-la-integracion-regional/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-fortalece-la-facilitacion-del-comercio-y-la-integracion-regional",
-        "published_date": "2026-10-14 23:51:33",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/condenan-a-extranjeros-por-transportar-150-kilos-de-cocaina-en-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=condenan-a-extranjeros-por-transportar-150-kilos-de-cocaina-en-la-libertad",
+        "published_date": "2026-10-22 00:06:32",
+        "category": "Military"
     },
     {
-        "title": "Erick Acu\u00f1a after controversy over his statements: \u201cIt was the fever of the competition\u201d",
+        "title": "Foreigners are convicted of transporting 150 kilos of cocaine in La Libertad",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/extranjeros-son-condenados-por-transportar-150-kilos-de-cocaina-en-la-libertad/",
+        "published_date": "2026-10-21 23:59:13",
+        "category": "Military"
+    },
+    {
+        "title": "Government of President Nayib Bukele continues to transform the El Salvador International Airport with important modernization works",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/migracion/gobierno-del-presidente-nayib-bukele-continua-transformando-el-aeropuerto-internacional-de-el-salvador-con-importantes-obras-de-modernizacion/",
+        "published_date": "2026-10-21 21:51:39",
+        "category": "Military"
+    },
+    {
+        "title": "President Bukele announces military operation to rescue four Salvadorans kidnapped in Haiti",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/presidente-bukele-anuncia-operacion-militar-para-rescatar-a-cuatro-salvadorenos-secuestrados-en-haiti/",
+        "published_date": "2026-10-21 21:07:53",
+        "category": "Military"
+    },
+    {
+        "title": "Exception regime adds a new extension after reporting 1,346 days without homicides",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/regimen-de-excepcion-suma-una-nueva-prorroga-tras-reporte-de-1346-dias-sin-homicidios/",
+        "published_date": "2026-10-21 21:00:23",
+        "category": "Military"
+    },
+    {
+        "title": "Bukele launches operation to rescue four Salvadorans \u201ckidnapped\u201d in Haiti",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/erick-acuna-tras-polemica-por-sus-declaraciones-fue-la-calentura-propia-de-la-competencia/",
-        "published_date": "2026-10-13 20:15:05",
-        "category": "Diplomacy"
+        "url": "https://www.elmetropolitanodigital.com/2026/10/bukele-lanza-operacion-para-rescatar-a-cuatro-salvadorenos-secuestrados-en-haiti/",
+        "published_date": "2026-10-21 20:33:54",
+        "category": "Military"
+    },
+    {
+        "title": "Several gang members killed during search for Salvadoran soldiers in Haiti confirmed",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/internacionales/confirman-varios-pandilleros-abatidos-durante-busqueda-de-soldados-salvadorenos-en-haiti/?utm_source=rss&utm_medium=rss&utm_campaign=confirman-varios-pandilleros-abatidos-durante-busqueda-de-soldados-salvadorenos-en-haiti",
+        "published_date": "2026-10-21 20:23:52",
+        "category": "Military"
+    },
+    {
+        "title": "\u201cGive us back our four compatriots alive\u201d: President Bukele warns gang members in Haiti",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/devuelvannos-a-nuestros-cuatro-compatriotas-vivos-presidente-bukele-advierte-a-pandilleros-en-haiti/",
+        "published_date": "2026-10-21 20:10:43",
+        "category": "Military"
+    },
+    {
+        "title": "\u201cGive us back our four compatriots\u201d: President Bukele's ultimatum in the midst of the operation in Haiti",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/devuelvannos-a-nuestros-cuatro-compatriotas-el-ultimatum-del-presidente-bukele-en-medio-del-operativo-en-haiti/",
+        "published_date": "2026-10-21 20:09:57",
+        "category": "Military"
+    },
+    {
+        "title": "Search continues for Salvadoran soldiers kidnapped by gangs in Haiti",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/internacionales/continua-busqueda-de-soldados-salvadorenos-secuestrados-por-pandillas-en-haiti/?utm_source=rss&utm_medium=rss&utm_campaign=continua-busqueda-de-soldados-salvadorenos-secuestrados-por-pandillas-en-haiti",
+        "published_date": "2026-10-21 19:50:57",
+        "category": "Military"
     },
     {
         "title": "PNC will incorporate artificial intelligence, broadband and 5G technology",
@@ -210,74 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Giorgia Meloni announces the deployment of 500 soldiers in Milan after the riots",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/giorgia-meloni-anuncia-el-despliegue-de-500-militares-en-milan-tras-los-disturbios/",
-        "published_date": "2026-10-20 20:29:39",
-        "category": "Military"
-    },
-    {
-        "title": "Vice President Ulloa maintains that the Salvadoran security model can be replicated if similar institutional conditions exist",
+        "title": "The flavor of Louisiana and the spirit of Mardi Gras come to Los H\u00e9roes with the third location of Popeyes!",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/vicepresidente-ulloa-sostiene-que-el-modelo-de-seguridad-salvadoreno-puede-replicarse-si-existen-condiciones-institucionales-similares/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-ulloa-sostiene-que-el-modelo-de-seguridad-salvadoreno-puede-replicarse-si-existen-condiciones-institucionales-similares",
-        "published_date": "2026-10-20 20:01:23",
-        "category": "Military"
-    },
-    {
-        "title": "Minister of Security requests resources for 53 electric vehicle charging points in the 2027 budget",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/ministro-de-seguridad-solicita-recursos-para-53-puntos-de-carga-de-vehiculos-electricos-en-el-presupuesto-de-2027/",
-        "published_date": "2026-10-20 19:28:50",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a minor under 16 years of age for causing a fatal accident in Acajutla",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/capturan-a-menor-de-16-anos-por-causar-fatal-accidente-en-acajutla/",
-        "published_date": "2026-10-20 19:21:49",
-        "category": "Military"
-    },
-    {
-        "title": "More than 80% of the 1,350 days without homicides occurred during the Exception Regime, says Gustavo Villatoro",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/mas-del-80-de-los-1350-dias-sin-homicidios-ocurrieron-durante-el-regimen-de-excepcion-afirma-gustavo-villatoro/?utm_source=rss&utm_medium=rss&utm_campaign=mas-del-80-de-los-1350-dias-sin-homicidios-ocurrieron-durante-el-regimen-de-excepcion-afirma-gustavo-villatoro",
-        "published_date": "2026-10-20 19:17:33",
-        "category": "Military"
-    },
-    {
-        "title": "El Salvador accumulates 1,350 days without homicides, says Security Minister Gustavo Villatoro",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-acumula-1350-dias-sin-homicidios-afirma-el-ministro-de-seguridad-gustavo-villatoro/",
-        "published_date": "2026-10-20 17:50:35",
-        "category": "Military"
-    },
-    {
-        "title": "Paris police to implement partial curfew",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/policia-parisina-pondra-en-practica-toque-de-queda-parcial/",
-        "published_date": "2026-10-20 10:00:59",
-        "category": "Military"
-    },
-    {
-        "title": "\"Our priority is to recover them alive\": El Salvador asks for international support to locate four soldiers in Haiti",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/nuestra-prioridad-es-recuperarlos-con-vida-el-salvador-pide-apoyo-internacional-para-localizar-a-cuatro-militares-en-haiti/",
-        "published_date": "2026-10-19 20:58:42",
-        "category": "Military"
-    },
-    {
-        "title": "PNC captures truck driver who caused an accident with two deaths on the Ruta de Paz, Moraz\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/pnc-captura-a-conductor-de-camion-que-provoco-accidente-con-dos-muertos-en-la-ruta-de-paz-morazan/",
-        "published_date": "2026-10-19 16:07:41",
-        "category": "Military"
-    },
-    {
-        "title": "Four Salvadoran airmen from the Libertad II Task Force ambushed by gangs in Haiti: FAES intensifies the search",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/cuatro-aerotecnicos-salvadorenos-de-la-fuerza-de-tarea-libertad-ii-emboscados-por-pandillas-en-haiti-faes-intensifica-la-busqueda/",
-        "published_date": "2026-10-19 15:56:02",
-        "category": "Military"
+        "url": "https://lapagina.com.sv/general/el-sabor-de-louisiana-y-el-espiritu-del-mardi-gras-llegan-a-los-heroes-con-la-tercera-sucursal-de-popeyes/?utm_source=rss&utm_medium=rss&utm_campaign=el-sabor-de-louisiana-y-el-espiritu-del-mardi-gras-llegan-a-los-heroes-con-la-tercera-sucursal-de-popeyes",
+        "published_date": "2026-10-21 23:30:18",
+        "category": "Energy"
     },
     {
         "title": "When power loses the narrative: governments trapped on the digital highway",
@@ -368,55 +375,6 @@
         "source": "Cronio",
         "url": "https://croniosv.com/politica/inversion-historica-en-el-salvador-bukele-anuncia-2900-millones-para-energia-gas-natural-y-agua-potable/",
         "published_date": "2026-10-14 02:04:10",
-        "category": "Energy"
-    },
-    {
-        "title": "Investment of $2.9 billion in energy, water and fuel will benefit Salvadoran families",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/inversion-de-2900-millones-en-energia-agua-y-combustibles-beneficiara-a-familias-salvadorenas/?utm_source=rss&utm_medium=rss&utm_campaign=inversion-de-2900-millones-en-energia-agua-y-combustibles-beneficiara-a-familias-salvadorenas",
-        "published_date": "2026-10-13 23:59:47",
-        "category": "Energy"
-    },
-    {
-        "title": "Investment of $2.9 billion in energy, water and fuel will benefit Salvadoran families",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/inversion-de-2900-millones-en-energia-agua-y-combustibles-beneficiara-a-familias-salvadorenas/",
-        "published_date": "2026-10-13 23:49:34",
-        "category": "Energy"
-    },
-    {
-        "title": "President Bukele highlights energy investment that seeks to reduce electricity costs for families",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-destaca-inversion-energetica-que-busca-reducir-costos-de-electricidad-para-las-familias/",
-        "published_date": "2026-10-13 23:44:25",
-        "category": "Energy"
-    },
-    {
-        "title": "COX investment will allow reducing electricity rates in El Salvador, says President Bukele",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/inversion-de-cox-permitira-reducir-las-tarifas-electricas-en-el-salvador-afirma-el-presidente-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=inversion-de-cox-permitira-reducir-las-tarifas-electricas-en-el-salvador-afirma-el-presidente-bukele",
-        "published_date": "2026-10-13 23:42:34",
-        "category": "Energy"
-    },
-    {
-        "title": "President Bukele announces historic investment of $2.9 billion for energy and water projects in El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-anuncia-inversion-historica-de-2900-millones-para-proyectos-de-energia-y-agua-en-el-salvador/",
-        "published_date": "2026-10-13 23:26:21",
-        "category": "Energy"
-    },
-    {
-        "title": "President Bukele signs agreement with Grupo Cox to promote million-dollar investments in energy and water",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presidente-bukele-firma-acuerdo-con-grupo-cox-para-impulsar-inversiones-millonarias-en-energia-y-agua/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-firma-acuerdo-con-grupo-cox-para-impulsar-inversiones-millonarias-en-energia-y-agua",
-        "published_date": "2026-10-13 23:25:30",
-        "category": "Energy"
-    },
-    {
-        "title": "Government of El Salvador signs agreement with Grupo COX for an initial investment of $2.9 billion",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gobierno-de-el-salvador-firma-acuerdo-con-grupo-cox-para-una-inversion-inicial-de-2900-millones/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-de-el-salvador-firma-acuerdo-con-grupo-cox-para-una-inversion-inicial-de-2900-millones",
-        "published_date": "2026-10-13 23:22:57",
         "category": "Energy"
     },
     {
@@ -560,143 +518,143 @@
         "category": "Economy"
     },
     {
-        "title": "The Christmas sales season begins in the Historic Center of San Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/arranca-la-temporada-de-ventas-navidenas-en-el-centro-historico-de-san-salvador/",
-        "published_date": "2026-10-21 15:32:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chino Flores assures that Salvadorans remember FMLN works",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/chino-flores-asegura-que-salvadorenos-recuerdan-obras-del-fmln/",
-        "published_date": "2026-10-21 15:30:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Honduran mother to President Bukele: \"Please help me have a new chance at life\"",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/madre-hondurena-a-presidente-bukele-por-favor-ayudeme-a-tener-una-nueva-oportunidad-de-vida/",
-        "published_date": "2026-10-21 15:28:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201dChino\u201d Flores points out that the population still remembers all the works of the FMLN",
+        "title": "Woman who was swept away by a flooding river in Chalatenango is rescued alive",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/chino-flores-senala-que-poblacion-aun-recuerda-todas-las-obras-del-fmln/?utm_source=rss&utm_medium=rss&utm_campaign=chino-flores-senala-que-poblacion-aun-recuerda-todas-las-obras-del-fmln",
-        "published_date": "2026-10-21 15:09:19",
+        "url": "https://lapagina.com.sv/nacionales/mujer-que-fue-arrastrada-por-una-crecida-de-un-rio-en-chalatenango-es-rescatada-con-vida/?utm_source=rss&utm_medium=rss&utm_campaign=mujer-que-fue-arrastrada-por-una-crecida-de-un-rio-en-chalatenango-es-rescatada-con-vida",
+        "published_date": "2026-10-22 01:03:10",
         "category": "Local Events"
     },
     {
-        "title": "They warn of rain and weak north winds for this Wednesday",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/advierten-sobre-lluvias-y-vientos-nortes-debiles-para-este-miercoles/?utm_source=rss&utm_medium=rss&utm_campaign=advierten-sobre-lluvias-y-vientos-nortes-debiles-para-este-miercoles",
-        "published_date": "2026-10-21 15:02:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador will have rains, storms and weak north winds this Wednesday",
+        "title": "They rescue a woman who was swept away by a flooding river in Chalatenango",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-tendra-lluvias-tormentas-y-vientos-nortes-debiles-este-miercoles/",
-        "published_date": "2026-10-21 14:57:59",
+        "url": "https://diariolahuella.com/rescatan-a-mujer-que-fue-arrastrada-por-una-crecida-de-un-rio-en-chalatenango/",
+        "published_date": "2026-10-22 00:55:09",
         "category": "Local Events"
     },
     {
-        "title": "CREAA promotes connection of mypes with the tourism industry",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/creaa-impulsa-conexion-de-mypes-con-industria-turistica/",
-        "published_date": "2026-10-21 14:46:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two dogs rescued in San Salvador after complaints of abuse on social networks",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/rescatan-a-dos-perros-en-san-salvador-tras-denuncia-de-maltrato-en-redes-sociales/",
-        "published_date": "2026-10-21 13:41:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge orders trucker accused of road tragedy in Los Chorros to remain in provisional prison",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/juez-ordena-que-camionero-acusado-por-tragedia-vial-en-los-chorros-siga-en-prision-provisional/",
-        "published_date": "2026-10-21 11:53:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The release of gang \u201ccollaborators\u201d must be done with technical and legal criteria: Juan Carlos Torres",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-liberacion-de-colaboradores-de-pandillas-debe-hacerse-con-criterios-tecnicos-y-legales-juan-carlos-torres/",
-        "published_date": "2026-10-21 11:03:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Calleja Foundation and allies donate personal care products to girls and adolescents from CONAPINA",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/fundacion-calleja-y-aliados-donan-productos-de-cuidado-personal-a-ninas-y-adolescentes-de-conapina/",
-        "published_date": "2026-10-21 11:01:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "BRP warns that 2027 budget would worsen the economic crisis",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/brp-advierte-que-presupuesto-2027-agravaria-la-crisis-economica/",
-        "published_date": "2026-10-21 11:00:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "THE FUTURE IS A SEA OF DETERIORATIONS;AN INCESSING WAVE OF CATASTROPHES",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-futuro-es-un-mar-de-deterioros-un-oleaje-incesante-de-catastrofes/",
-        "published_date": "2026-10-21 10:50:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Teaching Sector and the CROSS call for a rally within the framework of the Salvadoran Trade Union Day",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/sector-magisterial-y-la-cross-convocan-a-una-concentracion-en-el-marco-del-dia-del-sindicalismo-salvadoreno/",
-        "published_date": "2026-10-21 04:20:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mercedes Uma\u00f1a registers 61 earthquakes in less than six hours: five were felt",
+        "title": "Tax amnesty 2026: relief from surcharges and payments in installments approved until December 11",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/social/mercedes-umana-registra-61-sismos-en-menos-de-seis-horas-cinco-fueron-sentidos/",
-        "published_date": "2026-10-21 02:42:40",
+        "url": "https://croniosv.com/nacionales/economia/amnistia-fiscal-2026-aprueban-alivio-de-recargos-y-pagos-en-cuotas-hasta-el-11-de-diciembre/",
+        "published_date": "2026-10-22 00:30:05",
         "category": "Local Events"
     },
     {
-        "title": "Man in a drunken state attacks his life partner and ends up captured in La Libertad Costa",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/hombre-en-estado-de-ebriedad-agrede-a-su-companera-de-vida-y-termina-capturado-en-la-libertad-costa/",
-        "published_date": "2026-10-21 02:38:38",
+        "title": "Provisional prison for pharmacy employee accused of diverting more than $49,000",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/prision-provisional-para-empleado-de-farmacia-acusado-de-desviar-mas-de-49000/",
+        "published_date": "2026-10-22 00:27:14",
         "category": "Local Events"
     },
     {
-        "title": "Two people are injured after a vehicle falls into a 10-meter ravine in Ilobasco",
+        "title": "Father agrees to pay $1,840 in alimony debt after judicial process in Santa Ana",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/padre-acuerda-pagar-1840-de-deuda-alimenticia-tras-proceso-judicial-en-santa-ana/",
+        "published_date": "2026-10-22 00:22:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "BUKELE THREATENS HAITIAN GANGS.THIS ULTIMATUM HAS RISKS",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/bukele-amenaza-a-pandillas-haitianas-ese-ultimatum-tiene-riesgos/",
+        "published_date": "2026-10-22 00:20:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "MEET THE DRIVER GUILTY OF THE DRAFT ACCIDENT IN LOS P\u00d3CERES: SEE WHAT HE SAID",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/conozca-al-conductor-culpable-del-aparatoso-accidente-en-los-proceres-vea-lo-que-dijo/",
+        "published_date": "2026-10-22 00:09:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "LOTRA Raffle No. 471 dedicated to \u201c6 years: the story continues, we tell it\u201d, from Diario El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sorteo-lotra-n-o-471-dedicado-a-6-anos-la-historia-continua-nosotros-lo-contamos-de-diario-el-salvador/",
+        "published_date": "2026-10-21 23:54:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Valle Verde 1 and 2 ask for legislative support in the face of water shortages;New Ideas denies it",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/valle-verde-1-y-2-piden-acompanamiento-legislativo-ante-desabastecimiento-de-agua-nuevas-ideas-se-lo-niega/",
+        "published_date": "2026-10-21 23:44:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "New Ideas to extend the emergency regime for another month",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/nuevas-ideas-prorroga-regimen-de-excepcion-un-mes-mas/",
+        "published_date": "2026-10-21 23:35:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities arrest the person responsible for causing the accident on Los Pr\u00f3ceres Boulevard",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/dos-personas-resultan-lesionadas-tras-caer-vehiculo-a-una-quebrada-de-10-metros-en-ilobasco/?utm_source=rss&utm_medium=rss&utm_campaign=dos-personas-resultan-lesionadas-tras-caer-vehiculo-a-una-quebrada-de-10-metros-en-ilobasco",
-        "published_date": "2026-10-21 02:31:17",
+        "url": "https://lapagina.com.sv/nacionales/autoridades-detienen-al-responsable-de-ocasionar-el-accidente-en-bulevar-los-proceres/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-detienen-al-responsable-de-ocasionar-el-accidente-en-bulevar-los-proceres",
+        "published_date": "2026-10-21 22:56:35",
         "category": "Local Events"
     },
     {
-        "title": "They rescue and transfer two injured people after an accident on the Los Frailes de Ilobasco bridge",
+        "title": "They arrest the person responsible for causing the accident on Los Pr\u00f3ceres Boulevard",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/rescatan-y-trasladan-a-dos-lesionados-tras-accidente-en-el-puente-los-frailes-de-ilobasco/",
-        "published_date": "2026-10-21 02:24:07",
+        "url": "https://diariolahuella.com/detienen-al-responsable-de-ocasionar-el-accidente-en-bulevar-los-proceres/",
+        "published_date": "2026-10-21 22:50:38",
         "category": "Local Events"
     },
     {
-        "title": "They propose sentences of up to 15 years in prison for bus and cargo vehicle drivers",
+        "title": "Elections 2027: TSE draws fifth position for electoral boards;This is how the games turned out",
+        "source": "Cronio",
+        "url": "https://croniosv.com/politica/elecciones-2027-tse-sortea-quinta-posicion-de-juntas-electorales-asi-quedaron-los-partidos/",
+        "published_date": "2026-10-21 21:59:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The magic of cinema comes to life between voices and melodies in Plaza Kalpataru",
+        "source": "Cronio",
+        "url": "https://croniosv.com/redes/la-magia-del-cine-cobra-vida-entre-voces-y-melodias-en-plaza-kalpataru/",
+        "published_date": "2026-10-21 21:43:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Truck hits power line pole on Los Pr\u00f3ceres Boulevard",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/camion-impacta-contra-poste-del-tendido-electrico-en-bulevar-los-proceres/",
+        "published_date": "2026-10-21 21:35:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Real Madrid scores and Bayern and Arsenal tie in a great game: today's Champions League results",
+        "source": "Cronio",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/real-madrid-golea-y-bayern-y-arsenal-empatan-en-partidazo-los-resultados-de-la-champions-de-hoy/",
+        "published_date": "2026-10-21 21:26:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe decision is in your hands\u201d: President Bukele's strong message to gang leaders in Haiti",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/la-decision-esta-en-sus-manos-el-contundente-mensaje-del-presidente-bukele-a-los-jefes-de-pandillas-en-haiti/?utm_source=rss&utm_medium=rss&utm_campaign=la-decision-esta-en-sus-manos-el-contundente-mensaje-del-presidente-bukele-a-los-jefes-de-pandillas-en-haiti",
+        "published_date": "2026-10-21 20:12:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe decision is in your hands\u201d: President Bukele demands the release of the four Salvadorans in Haiti",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/proponen-penas-de-hasta-15-anos-de-prision-para-conductores-de-buses-y-vehiculos-de-carga/",
-        "published_date": "2026-10-21 02:07:26",
+        "url": "https://diariolahuella.com/la-decision-esta-en-sus-manos-presidente-bukele-exige-liberar-a-los-cuatro-salvadorenos-en-haiti/",
+        "published_date": "2026-10-21 19:52:35",
         "category": "Local Events"
     },
     {
-        "title": "More than 1,000 Salvadorans at the Fedecr\u00e9dito World Savings Day 2026 congress",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/mas-de-1000-salvadorenos-en-congreso-del-dia-mundial-del-ahorro-2026-de-fedecredito/",
-        "published_date": "2026-10-21 00:38:34",
+        "title": "They impose 13 years in prison on foreigners for illicit trafficking",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/imponen-13-anos-de-prision-a-extranjeros-por-trafico-ilicito/?utm_source=rss&utm_medium=rss&utm_campaign=imponen-13-anos-de-prision-a-extranjeros-por-trafico-ilicito",
+        "published_date": "2026-10-21 19:43:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele warns Haitian gangs: \u201cWe can end yours too\u201d",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-advierte-a-pandillas-de-haiti-podemos-terminar-con-las-de-ustedes-tambien/",
+        "published_date": "2026-10-21 19:42:09",
         "category": "Local Events"
     }
 ]
