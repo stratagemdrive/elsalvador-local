@@ -1,5 +1,12 @@
 [
     {
+        "title": "What has militarism been used for in El Salvador?(first part)",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/para-que-ha-servido-el-militarismo-en-el-salvador-primera-parte/",
+        "published_date": "2026-10-23 10:55:55",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Zhang Yanhui affirms that El Salvador will have a better future and highlights the relationship with China",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/zhang-yanhui-afirma-que-el-salvador-tendra-un-futuro-mejor-y-destaca-la-relacion-con-china/",
@@ -133,11 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Milena Mayorga discusses Fulbright scholarships and sports cooperation with a United States official",
+        "title": "Iran says energy markets will not be calm in next 3 years if situation against Iran continues",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/iran-dice-que-mercados-de-energia-no-tendran-calma-en-proximos-3-anos-si-continua-situacion-contra-iran/",
+        "published_date": "2026-10-23 10:00:25",
+        "category": "Military"
+    },
+    {
+        "title": "MS-13 gang member who monitored police and military in Congo sentenced to 20 years",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/condenan-a-20-anos-a-pandillero-de-la-ms-13-que-vigilaba-a-policias-y-militares-en-el-congo/",
+        "published_date": "2026-10-23 03:13:44",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a man accused of injuring a kindergarten guard with a knife in Santa Tecla",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/capturan-a-hombre-acusado-de-herir-con-arma-blanca-a-vigilante-de-un-kinder-en-santa-tecla/",
+        "published_date": "2026-10-23 03:02:53",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a subject who stabbed a security guard in Santa Tecla",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/milena-mayorga-aborda-becas-fulbright-y-cooperacion-deportiva-con-funcionaria-de-estados-unidos/?utm_source=rss&utm_medium=rss&utm_campaign=milena-mayorga-aborda-becas-fulbright-y-cooperacion-deportiva-con-funcionaria-de-estados-unidos",
-        "published_date": "2026-10-17 16:27:23",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-sujeto-que-acuchillo-a-vigilante-en-santa-tecla/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-sujeto-que-acuchillo-a-vigilante-en-santa-tecla",
+        "published_date": "2026-10-23 02:13:19",
+        "category": "Military"
     },
     {
         "title": "Government of Haiti declares \u201cabsolute priority\u201d release of Salvadoran soldiers kidnapped by gang members",
@@ -249,34 +277,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/regimen-de-excepcion-suma-una-nueva-prorroga-tras-reporte-de-1346-dias-sin-homicidios/",
         "published_date": "2026-10-21 21:00:23",
-        "category": "Military"
-    },
-    {
-        "title": "Bukele launches operation to rescue four Salvadorans \u201ckidnapped\u201d in Haiti",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/bukele-lanza-operacion-para-rescatar-a-cuatro-salvadorenos-secuestrados-en-haiti/",
-        "published_date": "2026-10-21 20:33:54",
-        "category": "Military"
-    },
-    {
-        "title": "Several gang members killed during search for Salvadoran soldiers in Haiti confirmed",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/confirman-varios-pandilleros-abatidos-durante-busqueda-de-soldados-salvadorenos-en-haiti/?utm_source=rss&utm_medium=rss&utm_campaign=confirman-varios-pandilleros-abatidos-durante-busqueda-de-soldados-salvadorenos-en-haiti",
-        "published_date": "2026-10-21 20:23:52",
-        "category": "Military"
-    },
-    {
-        "title": "\u201cGive us back our four compatriots alive\u201d: President Bukele warns gang members in Haiti",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/devuelvannos-a-nuestros-cuatro-compatriotas-vivos-presidente-bukele-advierte-a-pandilleros-en-haiti/",
-        "published_date": "2026-10-21 20:10:43",
-        "category": "Military"
-    },
-    {
-        "title": "\u201cGive us back our four compatriots\u201d: President Bukele's ultimatum in the midst of the operation in Haiti",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/devuelvannos-a-nuestros-cuatro-compatriotas-el-ultimatum-del-presidente-bukele-en-medio-del-operativo-en-haiti/",
-        "published_date": "2026-10-21 20:09:57",
         "category": "Military"
     },
     {
@@ -469,11 +469,130 @@
         "category": "Economy"
     },
     {
-        "title": "El Salvador has a new first-class bridge",
+        "title": "Freight transportation inspections continue",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/el-salvador-cuenta-con-un-nuevo-puente-de-primer-nivel/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-cuenta-con-un-nuevo-puente-de-primer-nivel",
-        "published_date": "2026-10-15 03:07:12",
-        "category": "Economy"
+        "url": "https://lapagina.com.sv/nacionales/continuan-inspecciones-al-transporte-de-carga/?utm_source=rss&utm_medium=rss&utm_campaign=continuan-inspecciones-al-transporte-de-carga",
+        "published_date": "2026-10-23 15:24:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador will have rain in several areas and warm temperatures of up to 35 \u00b0C",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-tendra-lluvias-en-varias-zonas-y-temperaturas-calidas-de-hasta-35-c/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-tendra-lluvias-en-varias-zonas-y-temperaturas-calidas-de-hasta-35-c",
+        "published_date": "2026-10-23 15:04:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rain and weak northerly winds will mark the weather this Friday",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/lluvias-y-vientos-nortes-debiles-marcaran-el-clima-de-este-viernes/",
+        "published_date": "2026-10-23 15:03:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lula da Silva and Fl\u00e1vio Bolsonaro face off in a decisive second round in Brazil",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/lula-da-silva-y-flavio-bolsonaro-se-enfrentan-en-una-segunda-vuelta-decisiva-en-brasil/",
+        "published_date": "2026-10-23 15:00:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prosecutor's Office requests life imprisonment for 564 leaders of the Barrio 18 gang",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/fiscalia-solicita-cadena-perpetua-para-564-cabecillas-de-la-pandilla-barrio-18/",
+        "published_date": "2026-10-23 14:31:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Climate Justice Table demands responses to drought emergency",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/mesa-de-justicia-climatica-demanda-respuestas-ante-emergencia-por-sequia/",
+        "published_date": "2026-10-23 11:03:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reform to the Forest Law would allow the development of El Espino: Leonel Herrera",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/reforma-ley-forestal-permitira-urbanizar-el-espino/",
+        "published_date": "2026-10-23 11:02:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe Government continues to deny the existence of innocent people and the legal disorder will explode in its face\u201d: Roxana Cardona",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-gobierno-sigue-negando-la-existencia-de-inocentes-y-el-desorden-juridico-le-estallara-en-la-cara-roxana-cardona/",
+        "published_date": "2026-10-23 11:01:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u2018Andr\u00e9s McKinley\u2019 Collective is born to promote advocacy on the environmental situation in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/nace-colectivo-andres-mckinley-que-impulsa-incidencia-sobre-situacion-ambiental-en-el-salvador/",
+        "published_date": "2026-10-23 11:00:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "GOODNESS AND UNIVERSAL GOODNESS;AS HOPE FOR THE UNION",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-bien-y-la-bondad-universal-como-esperanza-para-la-union/",
+        "published_date": "2026-10-23 10:51:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Azulita U-15 debuts today against DR Congo in the FIFA World Cup and Festival",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-azulita-sub-15-debuta-hoy-ante-rd-del-congo-en-la-copa-del-mundo-y-festival-fifa/",
+        "published_date": "2026-10-23 10:47:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barra de Santiago and Garita Palmera will represent El Salvador in the World Winners Cup 2026",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/barra-de-santiago-y-garita-palmera-representaran-a-el-salvador-en-la-world-winners-cup-2026/",
+        "published_date": "2026-10-23 10:45:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Luisa Gonz\u00e1lez calls for unity after her arrest in Ecuador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/luisa-gonzalez-pide-unidad-tras-su-detencion-en-ecuador/",
+        "published_date": "2026-10-23 10:30:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Preventive detention for Guatemalan accused of driving drunk when entering El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/prision-preventiva-para-guatemalteco-acusado-de-conducir-ebrio-al-ingresar-a-el-salvador/",
+        "published_date": "2026-10-23 03:16:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trial opens against man and his daughter for aggravated rape of an elderly woman in El Porvenir",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/abren-juicio-contra-hombre-y-su-hija-por-violacion-agravada-a-adulta-mayor-en-el-porvenir/",
+        "published_date": "2026-10-23 02:50:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "North winds will continue to influence the country",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/vientos-norte-continuaran-influenciando-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=vientos-norte-continuaran-influenciando-el-pais",
+        "published_date": "2026-10-23 02:37:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "ESIAP receives an expert from NASA to promote STEM education and scientific leadership in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/politica/esiap-recibe-a-experta-de-la-nasa-para-impulsar-educacion-stem-y-liderazgo-cientifico-en-el-salvador/",
+        "published_date": "2026-10-23 02:36:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "France and Peru win El Salvador ISA World Longboard Championship 2026",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/francia-y-peru-ganan-el-salvador-isa-world-longboard-championship-2026/",
+        "published_date": "2026-10-23 01:56:02",
+        "category": "Local Events"
     },
     {
         "title": "El Salvador participates in the WCO regional consultation to define the customs challenges of 2027",
@@ -487,132 +606,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/el-salvador-participa-en-intercambio-regional-sobre-retos-aduaneros-de-cara-al-2027/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-participa-en-intercambio-regional-sobre-retos-aduaneros-de-cara-al-2027",
         "published_date": "2026-10-23 00:27:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "ESIAP promotes scientific and technological training in El Salvador",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/esiap-impulsa-formacion-cientifica-y-tecnologica-en-el-salvador/",
-        "published_date": "2026-10-23 00:00:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "NASA astrophysics experts share experiences at ESIAP",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/expertos-en-astrofisica-de-la-nasa-comparten-experiencias-en-la-esiap/?utm_source=rss&utm_medium=rss&utm_campaign=expertos-en-astrofisica-de-la-nasa-comparten-experiencias-en-la-esiap",
-        "published_date": "2026-10-22 23:53:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "ESIAP promotes STEM education and scientific leadership with NASA expert",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/esiap-promueve-la-educacion-stem-y-el-liderazgo-cientifico-junto-a-experta-de-la-nasa/?utm_source=rss&utm_medium=rss&utm_campaign=esiap-promueve-la-educacion-stem-y-el-liderazgo-cientifico-junto-a-experta-de-la-nasa",
-        "published_date": "2026-10-22 23:35:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nicaragua eliminates the historical figure of vice president and replaces it with presidential appointees",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/nicaragua-elimina-la-figura-historica-de-vicepresidente-y-la-sustituye-por-designados-presidenciales/",
-        "published_date": "2026-10-22 21:57:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nicaragua reforms its Constitution and eliminates the position of vice president",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/nicaragua-reforma-su-constitucion-y-elimina-el-cargo-de-vicepresidente/?utm_source=rss&utm_medium=rss&utm_campaign=nicaragua-reforma-su-constitucion-y-elimina-el-cargo-de-vicepresidente",
-        "published_date": "2026-10-22 21:57:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture a driver accused of causing multiple accidents in Zacatecoluca",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-conductor-senalado-de-provocar-multiple-accidente-en-zacatecoluca/",
-        "published_date": "2026-10-22 21:33:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President Ulloa highlights professionalism and leadership in international seminar for public servants",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/vicepresidente-ulloa-destaca-profesionalizacion-y-liderazgo-en-seminario-internacional-para-servidores-publicos/",
-        "published_date": "2026-10-22 21:28:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "A man accused of sexual harassment against his 72-year-old neighbor in Chalchuapa is sent to trial",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/envian-a-juicio-a-hombre-acusado-de-acoso-sexual-contra-su-vecina-de-72-anos-en-chalchuapa/",
-        "published_date": "2026-10-22 21:20:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "The \u201cAndr\u00e9s McKinley\u201d Environmental Advocacy Collective (CIAAM) is launched",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/lanzan-colectiv-incidencia-ambiental-andres-mckinley/",
-        "published_date": "2026-10-22 21:12:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sa\u00fal Blanch, the voice of Rata Blanca's first album, dies at 75",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/muere-saul-blanch-a-los-75-anos-la-voz-del-primer-disco-de-rata-blanca/",
-        "published_date": "2026-10-22 21:08:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "LOTRA Raffle No. 471 dedicated to \u201c6 years: the story continues, we tell it\u201d, from Diario El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/sorteo-lotra-n-o-471-dedicado-a-6-anos-la-historia-continua-nosotros-lo-contamos-de-diario-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=sorteo-lotra-n-o-471-dedicado-a-6-anos-la-historia-continua-nosotros-lo-contamos-de-diario-el-salvador",
-        "published_date": "2026-10-22 21:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former presidential candidate Luisa Gonz\u00e1lez arrested in Ecuador for alleged money laundering",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/detienen-en-ecuador-a-excandidata-presidencial-luisa-gonzalez-por-presunto-lavado-de-activos/",
-        "published_date": "2026-10-22 21:03:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Magnitude 7 earthquake shakes Tibet: at least 16 dead and 32 injured reported",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/terremoto-de-magnitud-7-sacude-el-tibet-reportan-al-menos-16-muertos-y-32-heridos/",
-        "published_date": "2026-10-22 21:00:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor Mario Dur\u00e1n gave free ophthalmic lenses to more than 150 students",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/alcalde-mario-duran-entrego-lentes-oftalmologicos-gratuitos-a-mas-de-150-estudiantes/?utm_source=rss&utm_medium=rss&utm_campaign=alcalde-mario-duran-entrego-lentes-oftalmologicos-gratuitos-a-mas-de-150-estudiantes",
-        "published_date": "2026-10-22 20:51:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Seismic activity in Usulut\u00e1n reduces its intensity",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/actividad-sismica-en-usulutan-reduce-su-intensidad/",
-        "published_date": "2026-10-22 20:41:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor Mario Dur\u00e1n gives free ophthalmic lenses to more than 150 students",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/alcalde-mario-duran-entrega-lentes-oftalmologicos-gratuitos-a-mas-de-150-estudiantes/",
-        "published_date": "2026-10-22 20:28:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "ESIAP promotes leadership and continuous training of public servants",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/esiap-impulsa-el-liderazgo-y-la-formacion-continua-de-los-servidores-publicos/?utm_source=rss&utm_medium=rss&utm_campaign=esiap-impulsa-el-liderazgo-y-la-formacion-continua-de-los-servidores-publicos",
-        "published_date": "2026-10-22 20:02:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture a man with a stolen motorcycle in the Zacamil neighborhood",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/capturan-a-hombre-con-motocicleta-hurtada-en-la-colonia-zacamil/",
-        "published_date": "2026-10-22 19:52:52",
         "category": "Local Events"
     }
 ]
