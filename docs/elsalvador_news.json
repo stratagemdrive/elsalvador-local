@@ -1,5 +1,12 @@
 [
     {
+        "title": "English in Central America XXVIII",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ingleses-en-centroamerica-xxviii-2/",
+        "published_date": "2026-10-24 00:02:59",
+        "category": "Diplomacy"
+    },
+    {
         "title": "What has militarism been used for in El Salvador?(first part)",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/para-que-ha-servido-el-militarismo-en-el-salvador-primera-parte/",
@@ -133,11 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "THE DICTATORSHIP SHOWS UP AGAIN WITH ANOTHER MONUMENTAL MISTAKE",
+        "title": "Deputies in favor of toughening penalties for dangerous driving",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-dictadura-vuelve-a-lucirse-con-otra-metida-de-pata-monumental/",
-        "published_date": "2026-10-17 17:43:58",
-        "category": "Diplomacy"
+        "url": "https://www.diariocolatino.com/diputados-a-favor-de-endurecer-sanciones-por-conduccion-peligrosa/",
+        "published_date": "2026-10-24 11:04:30",
+        "category": "Military"
+    },
+    {
+        "title": "Marvin Reyes: \u201cThreatening to send troops to Haiti is easy from a desk\u2026 the soldiers lay down the dead\u201d",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/marvin-reyes-amenazar-con-enviar-tropas-a-haiti-es-facil-desde-un-escritorio-los-soldados-ponen-los-muertos/",
+        "published_date": "2026-10-24 11:01:24",
+        "category": "Military"
+    },
+    {
+        "title": "Marvin Aguilar and Mirna Perla analyze the sending of more than 2,000 soldiers to Hiat\u00ed",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/marvin-aguilar-y-mirna-perla-analizan-el-envio-de-mas-de-2000-soldados-a-hiati/",
+        "published_date": "2026-10-24 11:00:05",
+        "category": "Military"
+    },
+    {
+        "title": "He threatened and insulted pupuser\u00eda owners;was captured in Soyapango",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/amenazo-y-ultrajo-a-duenas-de-pupuseria-fue-capturado-en-soyapango/?utm_source=rss&utm_medium=rss&utm_campaign=amenazo-y-ultrajo-a-duenas-de-pupuseria-fue-capturado-en-soyapango",
+        "published_date": "2026-10-23 21:52:14",
+        "category": "Military"
     },
     {
         "title": "Iran says energy markets will not be calm in next 3 years if situation against Iran continues",
@@ -252,34 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Foreigners are convicted of transporting 150 kilos of cocaine in La Libertad",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/extranjeros-son-condenados-por-transportar-150-kilos-de-cocaina-en-la-libertad/",
-        "published_date": "2026-10-21 23:59:13",
-        "category": "Military"
-    },
-    {
-        "title": "Government of President Nayib Bukele continues to transform the El Salvador International Airport with important modernization works",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/migracion/gobierno-del-presidente-nayib-bukele-continua-transformando-el-aeropuerto-internacional-de-el-salvador-con-importantes-obras-de-modernizacion/",
-        "published_date": "2026-10-21 21:51:39",
-        "category": "Military"
-    },
-    {
-        "title": "President Bukele announces military operation to rescue four Salvadorans kidnapped in Haiti",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/presidente-bukele-anuncia-operacion-militar-para-rescatar-a-cuatro-salvadorenos-secuestrados-en-haiti/",
-        "published_date": "2026-10-21 21:07:53",
-        "category": "Military"
-    },
-    {
-        "title": "Exception regime adds a new extension after reporting 1,346 days without homicides",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/regimen-de-excepcion-suma-una-nueva-prorroga-tras-reporte-de-1346-dias-sin-homicidios/",
-        "published_date": "2026-10-21 21:00:23",
-        "category": "Military"
-    },
-    {
         "title": "Brent oil exceeds $113 per barrel and reaches its highest level since May",
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/petroleo-brent-supera-los-113-por-barril-y-alcanza-su-mayor-nivel-desde-mayo/",
@@ -320,6 +320,13 @@
         "url": "https://diariolahuella.com/quienes-son-los-chalecos-amarillos-y-por-que-surgieron-en-francia/",
         "published_date": "2026-10-17 22:15:32",
         "category": "Energy"
+    },
+    {
+        "title": "They control a fire in the warehouse of a business in the Historic Center of San Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/controlan-incendio-en-bodega-de-un-comercio-en-el-centro-historico-de-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=controlan-incendio-en-bodega-de-un-comercio-en-el-centro-historico-de-san-salvador",
+        "published_date": "2026-10-24 01:34:36",
+        "category": "Economy"
     },
     {
         "title": "Assembly approves new Tax Amnesty valid until December 11",
@@ -455,6 +462,41 @@
         "category": "Economy"
     },
     {
+        "title": "The presence of Northern Winds continues in the country",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/sigue-la-presencia-de-vientos-nortes-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=sigue-la-presencia-de-vientos-nortes-en-el-pais",
+        "published_date": "2026-10-24 13:57:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Northerly winds are predicted with occasional rains for the afternoon and evening of this Saturday",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/preven-vientos-nortes-con-lluvias-puntuales-para-la-tarde-y-noche-de-este-sabado/",
+        "published_date": "2026-10-24 13:52:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "DoctorSV doctors report workplace harassment at the San Miguel headquarters",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/medicos-doctorsv-denuncian-acoso-laboral-sede-san-miguel/",
+        "published_date": "2026-10-24 11:03:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel closes Ibrahimi Mosque in Hebron and expels its custodians",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/israel-cierra-mezquita-ibrahimi-en-hebron-y-expulsa-a-sus-custodios/",
+        "published_date": "2026-10-24 10:00:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lula and Fl\u00e1vio Bolsonaro clash over the Argentine economic model in the last presidential debate in Brazil",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/general/lula-y-flavio-bolsonaro-chocan-por-el-modelo-economico-argentino-en-el-ultimo-debate-presidencial-de-brasil/?utm_source=rss&utm_medium=rss&utm_campaign=lula-y-flavio-bolsonaro-chocan-por-el-modelo-economico-argentino-en-el-ultimo-debate-presidencial-de-brasil",
+        "published_date": "2026-10-24 02:16:09",
+        "category": "Local Events"
+    },
+    {
         "title": "Firefighters control fire in the warehouse of a commercial establishment in the Historic Center",
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/bomberos-controlan-incendio-en-bodega-de-un-establecimiento-comercial-en-el-centro-historico/",
@@ -539,6 +581,13 @@
         "category": "Local Events"
     },
     {
+        "title": "FGR presents accusations against 564 leaders of Barrio 18 for 14,497 accusations",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/fgr-presenta-acusacion-contra-564-cabecillas-del-barrio-18-por-14497-imputaciones/",
+        "published_date": "2026-10-23 22:02:22",
+        "category": "Local Events"
+    },
+    {
         "title": "Elotes locos, sweet Guatemalan bread and a lot of conviviality: neighbors come together to share in Manassas",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/10/elotes-locos-pan-dulce-guatemalteco-y-mucha-convivencia-vecinos-se-unen-para-compartir-en-manassas/",
@@ -550,48 +599,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/estafo-a-un-comprador-con-12000-y-termino-condenado-a-ocho-anos-de-carcel/?utm_source=rss&utm_medium=rss&utm_campaign=estafo-a-un-comprador-con-12000-y-termino-condenado-a-ocho-anos-de-carcel",
         "published_date": "2026-10-23 21:33:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "A man who twice sold land in Aguilares is sentenced to eight years in prison",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/condenan-a-ocho-anos-de-prision-a-hombre-que-vendio-dos-veces-un-terreno-en-aguilares/",
-        "published_date": "2026-10-23 21:33:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man sentenced to 45 years in prison for aggravated homicide in the San Luis de San Salvador neighborhood",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/condenan-a-45-anos-de-prision-a-hombre-por-homicidio-agravado-en-colonia-san-luis-de-san-salvador/",
-        "published_date": "2026-10-23 21:25:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "The road to Los Chorros will remain closed this October 25",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/carretera-a-los-chorros-permanecera-cerrada-este-25-de-octubre/?utm_source=rss&utm_medium=rss&utm_campaign=carretera-a-los-chorros-permanecera-cerrada-este-25-de-octubre",
-        "published_date": "2026-10-23 21:24:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barcelona congratulates Messi for the Princess of Asturias 2026 and vindicates its link with the club",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/barcelona-felicita-a-messi-por-el-princesa-de-asturias-2026-y-reivindica-su-vinculo-con-el-club/",
-        "published_date": "2026-10-23 20:42:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Conchag\u00fcita Island dock advances to strengthen fishing and tourism in La Uni\u00f3n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/economia/muelle-de-isla-conchaguita-avanza-para-fortalecer-la-pesca-y-el-turismo-en-la-union/",
-        "published_date": "2026-10-23 20:38:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"La Bicha Terenga\" comes to the NFL: Texans celebrate victory in London with Salvadoran song",
-        "source": "Cronio",
-        "url": "https://croniosv.com/redes/la-bicha-terenga-llega-a-la-nfl-texans-celebran-triunfo-en-londres-con-cancion-salvadorena/",
-        "published_date": "2026-10-23 20:35:13",
         "category": "Local Events"
     }
 ]
