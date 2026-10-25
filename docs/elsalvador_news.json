@@ -140,6 +140,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Drug distributor falls in La Uni\u00f3n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/cae-distribuidor-de-drogas-en-la-union/?utm_source=rss&utm_medium=rss&utm_campaign=cae-distribuidor-de-drogas-en-la-union",
+        "published_date": "2026-10-25 14:13:07",
+        "category": "Military"
+    },
+    {
+        "title": "New York Times reports discovery of bodies and Bukele denies that they are the missing soldiers",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/new-york-times-reporta-hallazgo-de-cuerpos-y-bukele-desmiente-que-sean-los-soldados-desaparecidos/",
+        "published_date": "2026-10-25 03:49:46",
+        "category": "Military"
+    },
+    {
+        "title": "Bukele denies that the charred bodies in Haiti are Salvadoran soldiers",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/bukele-niega-que-los-cuerpos-calcinados-en-haiti-sean-los-soldados-salvadorenos/",
+        "published_date": "2026-10-25 01:39:14",
+        "category": "Military"
+    },
+    {
         "title": "Minor who distributed marijuana in La Libertad Center is arrested",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/menor-de-edad-que-distribuia-marihuana-en-la-libertad-centro-es-detenido/?utm_source=rss&utm_medium=rss&utm_campaign=menor-de-edad-que-distribuia-marihuana-en-la-libertad-centro-es-detenido",
@@ -256,27 +277,6 @@
         "source": "Ultima Hora SV",
         "url": "https://ultimahora.sv/el-salvador-invertira-18-4-millones-para-impulsar-nuevo-modelo-policial-con-inteligencia-artificial/",
         "published_date": "2026-10-22 16:16:07",
-        "category": "Military"
-    },
-    {
-        "title": "Police report a new day with zero homicides in El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/policia-reporta-una-nueva-jornada-con-cero-homicidios-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=policia-reporta-una-nueva-jornada-con-cero-homicidios-en-el-salvador",
-        "published_date": "2026-10-22 14:49:25",
-        "category": "Military"
-    },
-    {
-        "title": "Journalists analyze the contradictions of the ruling party regarding the release of detainees under the regime",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/periodistas-analizan-las-contradicciones-del-oficialismo-sobre-la-liberacion-de-detenidos-bajo-el-regimen/",
-        "published_date": "2026-10-22 11:04:23",
-        "category": "Military"
-    },
-    {
-        "title": "Assembly grants extension 56 of the emergency regime",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/asamblea-concede-prorroga-56-del-regimen-de-excepcion/",
-        "published_date": "2026-10-22 11:02:40",
         "category": "Military"
     },
     {
@@ -455,11 +455,39 @@
         "category": "Economy"
     },
     {
-        "title": "THE GREAT TAX HUNT: MORE THAN 1,400 AGENTS WILL COURSE EL SALVADOR TO INSPECT EVERY LAST SURVIVAL BUSINESS",
+        "title": "Dozens of families are rescued from oblivion with a mega day of extreme cleaning",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/rescatan-del-olvido-a-decenas-de-familias-con-mega-jornada-de-limpieza-extrema/",
+        "published_date": "2026-10-25 04:45:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy in Caba\u00f1as: Brutal crash leaves eight injured, six of them minors!",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/tragedia-en-cabanas-brutal-choque-deja-un-saldo-de-ocho-heridos-seis-de-ellos-menores-de-edad/",
+        "published_date": "2026-10-25 04:42:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy and controversy!Person expires at the doors of Fosalud in Altavista",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/tragedia-y-polemica-persona-expira-a-las-puertas-de-fosalud-en-altavista/",
+        "published_date": "2026-10-25 04:14:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "The most hated and explosive return that makes all of Barcelona tremble!",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/el-regreso-mas-odiado-y-explosivo-que-pone-a-temblar-a-todo-el-barcelona/",
+        "published_date": "2026-10-25 03:51:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Is the emergency regime necessary in a safe country?",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-gran-caceria-fiscal-mas-de-1400-agentes-recorreran-el-salvador-para-fiscalizar-hasta-el-ultimo-negocio-de-sobrevivencia/",
-        "published_date": "2026-10-17 01:05:59",
-        "category": "Economy"
+        "url": "https://www.diariocolatino.com/es-necesario-el-regimen-de-excepcion-en-un-pais-seguro/",
+        "published_date": "2026-10-25 03:23:35",
+        "category": "Local Events"
     },
     {
         "title": "Remains found in Haiti do not belong to Salvadoran airmen, says President Nayib Bukele",
@@ -564,41 +592,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/sigue-la-presencia-de-vientos-nortes-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=sigue-la-presencia-de-vientos-nortes-en-el-pais",
         "published_date": "2026-10-24 13:57:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Northerly winds are predicted with occasional rains for the afternoon and evening of this Saturday",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/preven-vientos-nortes-con-lluvias-puntuales-para-la-tarde-y-noche-de-este-sabado/",
-        "published_date": "2026-10-24 13:52:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mauricio Silva presents El Tat\u00fa, stories that rescue historical memory",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/mauricio-silva-presenta-el-tatu-relatos-que-rescatan-la-memoria-historica/",
-        "published_date": "2026-10-24 11:05:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "DoctorSV doctors report workplace harassment at the San Miguel headquarters",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/medicos-doctorsv-denuncian-acoso-laboral-sede-san-miguel/",
-        "published_date": "2026-10-24 11:03:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mexican athletes will compete in the Cordillera Challenge in El Salvador",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/atletas-mexicanos-competiran-en-la-cordillera-challenge-de-el-salvador/",
-        "published_date": "2026-10-24 10:30:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israel closes Ibrahimi Mosque in Hebron and expels its custodians",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/israel-cierra-mezquita-ibrahimi-en-hebron-y-expulsa-a-sus-custodios/",
-        "published_date": "2026-10-24 10:00:34",
         "category": "Local Events"
     }
 ]
