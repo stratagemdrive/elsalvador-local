@@ -1,5 +1,12 @@
 [
     {
+        "title": "The FDIM denounces the detention of Luisa Gonz\u00e1lez and demands her immediate release",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-fdim-denuncia-la-detencion-de-luisa-gonzalez-y-exige-la-liberacion-inmediata/",
+        "published_date": "2026-10-24 16:13:30",
+        "category": "Diplomacy"
+    },
+    {
         "title": "English in Central America XXVIII",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/ingleses-en-centroamerica-xxviii-2/",
@@ -133,11 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "President of Costa Rica praises prison work implemented by the government of El Salvador",
+        "title": "Minor who distributed marijuana in La Libertad Center is arrested",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/menor-de-edad-que-distribuia-marihuana-en-la-libertad-centro-es-detenido/?utm_source=rss&utm_medium=rss&utm_campaign=menor-de-edad-que-distribuia-marihuana-en-la-libertad-centro-es-detenido",
+        "published_date": "2026-10-24 18:53:22",
+        "category": "Military"
+    },
+    {
+        "title": "They locate a minor who distributed marijuana in La Libertad Center",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ubican-a-menor-de-edad-que-distribuia-marihuana-en-la-libertad-centro-2/",
+        "published_date": "2026-10-24 18:40:40",
+        "category": "Military"
+    },
+    {
+        "title": "They locate a minor who distributed marijuana in La Libertad Center",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/ubican-a-menor-de-edad-que-distribuia-marihuana-en-la-libertad-centro/",
+        "published_date": "2026-10-24 18:37:59",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a worker for alleged theft in construction and the buyer of the objects in San Miguel",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/presidenta-de-costa-rica-elogia-trabajo-carcelario-implementado-por-el-gobierno-de-el-salvador/",
-        "published_date": "2026-10-17 19:17:21",
-        "category": "Diplomacy"
+        "url": "https://croniosv.com/nacionales/judicial/capturan-a-trabajador-por-presunto-hurto-en-construccion-y-a-comprador-de-los-objetos-en-san-miguel/",
+        "published_date": "2026-10-24 16:18:26",
+        "category": "Military"
     },
     {
         "title": "Deputies in favor of toughening penalties for dangerous driving",
@@ -252,34 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Bukele issues ultimatum to Haitian gangs after kidnapping four Salvadoran soldiers",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/bukele-lanza-ultimatum-a-las-pandillas-de-haiti-tras-el-secuestro-de-cuatro-soldados-salvadorenos/",
-        "published_date": "2026-10-22 11:00:14",
-        "category": "Military"
-    },
-    {
-        "title": "Salvadoran soldiers ambushed in Haiti are kidnapped by gang members",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/soldados-salvadorenos-emboscados-en-haiti-estan-secuestrados-por-pandilleros/",
-        "published_date": "2026-10-22 02:48:51",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a truck driver who crashed into poles in Los Pr\u00f3ceres and left several injured",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/capturan-a-motorista-de-camion-que-choco-contra-postes-en-los-proceres-y-dejo-varios-heridos/",
-        "published_date": "2026-10-22 02:24:40",
-        "category": "Military"
-    },
-    {
-        "title": "Foreigners sentenced for transporting 150 kilos of cocaine in La Libertad",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/condenan-a-extranjeros-por-transportar-150-kilos-de-cocaina-en-la-libertad/?utm_source=rss&utm_medium=rss&utm_campaign=condenan-a-extranjeros-por-transportar-150-kilos-de-cocaina-en-la-libertad",
-        "published_date": "2026-10-22 00:06:32",
-        "category": "Military"
-    },
-    {
         "title": "Brent oil exceeds $113 per barrel and reaches its highest level since May",
         "source": "Cronio",
         "url": "https://croniosv.com/internacionales/petroleo-brent-supera-los-113-por-barril-y-alcanza-su-mayor-nivel-desde-mayo/",
@@ -320,6 +320,20 @@
         "url": "https://diariolahuella.com/quienes-son-los-chalecos-amarillos-y-por-que-surgieron-en-francia/",
         "published_date": "2026-10-17 22:15:32",
         "category": "Energy"
+    },
+    {
+        "title": "Bitfinex Securities Launches Capital Raising for Global Tokenized Funds",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/bitfinex-securities-lanza-recaudaciones-de-capital-para-fondos-globales-tokenizados/",
+        "published_date": "2026-10-24 14:52:31",
+        "category": "Economy"
+    },
+    {
+        "title": "Economy, inflation and paralyzed works mark the last debate between Lula and Fl\u00e1vio Bolsonaro",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/economia-inflacion-y-obras-paralizadas-marcan-el-ultimo-debate-entre-lula-y-flavio-bolsonaro/",
+        "published_date": "2026-10-24 02:09:36",
+        "category": "Economy"
     },
     {
         "title": "They control a fire in the warehouse of a business in the Historic Center of San Salvador",
@@ -448,18 +462,102 @@
         "category": "Economy"
     },
     {
-        "title": "Grupo Bimbo donates 44,928 slices of bread to the Food Bank of El Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/grupo-bimbo-dona-44928-rebanadas-de-pan-al-banco-de-alimentos-de-el-salvador/",
-        "published_date": "2026-10-16 21:12:38",
-        "category": "Economy"
+        "title": "Remains found in Haiti do not belong to Salvadoran airmen, says President Nayib Bukele",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/restos-encontrados-en-haiti-no-pertenecen-a-aerotecnicos-salvadorenos-asegura-presidente-nayib-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=restos-encontrados-en-haiti-no-pertenecen-a-aerotecnicos-salvadorenos-asegura-presidente-nayib-bukele",
+        "published_date": "2026-10-25 00:45:13",
+        "category": "Local Events"
     },
     {
-        "title": "elEcomista.Es: Bukele's economic plan in El Salvador is a success",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/elecomista-es-plan-economico-de-bukele-en-el-salvador-es-un-exito/",
-        "published_date": "2026-10-16 15:11:19",
-        "category": "Economy"
+        "title": "President Bukele clarifies that remains found in Haiti do not belong to Salvadoran airmen",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-aclara-que-restos-encontrados-en-haiti-no-pertenecen-a-aerotecnicos-salvadorenos/",
+        "published_date": "2026-10-25 00:40:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "NAU FEST 2026: The regional commitment to connect 2 thousand young Salvadorans with the world of work",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/nau-fest-2026-la-apuesta-regional-para-conectar-a-2-mil-jovenes-salvadorenos-con-el-mundo-laboral/",
+        "published_date": "2026-10-24 21:58:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador experiences North Winds",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-experimenta-vientos-nortes/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-experimenta-vientos-nortes",
+        "published_date": "2026-10-24 21:42:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador experiences North Winds",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-experimenta-vientos-nortes/",
+        "published_date": "2026-10-24 21:34:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Several injured, including six minors, leaves an accident in Caba\u00f1as",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/varios-lesionados-entre-ellos-seis-menores-de-edad-deja-accidente-en-cabanas/?utm_source=rss&utm_medium=rss&utm_campaign=varios-lesionados-entre-ellos-seis-menores-de-edad-deja-accidente-en-cabanas",
+        "published_date": "2026-10-24 20:16:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Six minors and two adults are injured after accidents in Caba\u00f1as",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/seis-menores-de-edad-y-dos-adultos-resultan-lesionados-tras-accidentes-en-cabanas/",
+        "published_date": "2026-10-24 20:04:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Summary of the third week of October 2026",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/resumen-de-la-tercera-semana-de-octubre-2026/",
+        "published_date": "2026-10-24 18:15:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "The basic basket rises again",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/la-canasta-basica-vuelve-a-subir/",
+        "published_date": "2026-10-24 16:40:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "San Francisco Angulo demands to stop landfill megaproject",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/san-francisco-angulo-exige-frenar-megaproyecto-de-relleno-sanitario/",
+        "published_date": "2026-10-24 16:27:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Delivery man on a motorcycle dies in an accident near the La Florida residential complex, in Quezaltepeque",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/repartidor-en-motocicleta-fallece-en-accidente-cerca-de-residencial-la-florida-en-quezaltepeque/",
+        "published_date": "2026-10-24 16:11:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorcyclist reported dead after crash on the road between Guatajiagua and Chapeltique",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/reportan-motociclista-fallecido-tras-choque-en-carretera-entre-guatajiagua-y-chapeltique/",
+        "published_date": "2026-10-24 16:07:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Order Delivery Man Already Dies After Suffering in an Accident in Quezaltepeque",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/repartidor-de-pedidos-ya-muere-tras-sufrir-un-accidente-en-quezaltepeque/",
+        "published_date": "2026-10-24 14:51:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "An Order Now delivery man dies after suffering an accident in Quezaltepeque",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/fallece-un-repartidor-de-pedidos-ya-tras-sufrir-un-accidente-en-quezaltepeque/?utm_source=rss&utm_medium=rss&utm_campaign=fallece-un-repartidor-de-pedidos-ya-tras-sufrir-un-accidente-en-quezaltepeque",
+        "published_date": "2026-10-24 14:47:32",
+        "category": "Local Events"
     },
     {
         "title": "The presence of Northern Winds continues in the country",
@@ -476,6 +574,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Mauricio Silva presents El Tat\u00fa, stories that rescue historical memory",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/mauricio-silva-presenta-el-tatu-relatos-que-rescatan-la-memoria-historica/",
+        "published_date": "2026-10-24 11:05:19",
+        "category": "Local Events"
+    },
+    {
         "title": "DoctorSV doctors report workplace harassment at the San Miguel headquarters",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/medicos-doctorsv-denuncian-acoso-laboral-sede-san-miguel/",
@@ -483,122 +588,17 @@
         "category": "Local Events"
     },
     {
+        "title": "Mexican athletes will compete in the Cordillera Challenge in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/atletas-mexicanos-competiran-en-la-cordillera-challenge-de-el-salvador/",
+        "published_date": "2026-10-24 10:30:07",
+        "category": "Local Events"
+    },
+    {
         "title": "Israel closes Ibrahimi Mosque in Hebron and expels its custodians",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/israel-cierra-mezquita-ibrahimi-en-hebron-y-expulsa-a-sus-custodios/",
         "published_date": "2026-10-24 10:00:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lula and Fl\u00e1vio Bolsonaro clash over the Argentine economic model in the last presidential debate in Brazil",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/lula-y-flavio-bolsonaro-chocan-por-el-modelo-economico-argentino-en-el-ultimo-debate-presidencial-de-brasil/?utm_source=rss&utm_medium=rss&utm_campaign=lula-y-flavio-bolsonaro-chocan-por-el-modelo-economico-argentino-en-el-ultimo-debate-presidencial-de-brasil",
-        "published_date": "2026-10-24 02:16:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Firefighters control fire in the warehouse of a commercial establishment in the Historic Center",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/bomberos-controlan-incendio-en-bodega-de-un-establecimiento-comercial-en-el-centro-historico/",
-        "published_date": "2026-10-24 01:21:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President Ulloa participates in recognition of \u201cDistinguished Miguele\u00f1os 2026\u201d from the Universidad de Oriente",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/vicepresidente-ulloa-participa-en-reconocimiento-a-miguelenos-distinguidos-2026-de-la-universidad-de-oriente/",
-        "published_date": "2026-10-24 01:11:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bukele defends mission in Haiti and trusts in a victory after the disappearance of four Salvadorans",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/bukele-defiende-mision-en-haiti-y-confia-en-una-victoria-tras-desaparicion-de-cuatro-salvadorenos/",
-        "published_date": "2026-10-24 01:10:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President Felix Ulloa participates in tribute to 17 Distinguished Miguele\u00f1os 2026",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-participa-en-homenaje-a-17-miguelenos-distinguidos-2026/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-participa-en-homenaje-a-17-miguelenos-distinguidos-2026",
-        "published_date": "2026-10-24 01:09:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "UNIVO commemorates its 45th anniversary with the presentation of recognitions to Distinguished Miguele\u00f1os",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/univo-conmemora-su-45-o-aniversario-con-la-entrega-de-reconocimientos-a-miguelenos-distinguidos/?utm_source=rss&utm_medium=rss&utm_campaign=univo-conmemora-su-45-o-aniversario-con-la-entrega-de-reconocimientos-a-miguelenos-distinguidos",
-        "published_date": "2026-10-24 00:59:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President Ulloa participates in tribute to 17 Distinguished Miguele\u00f1os 2026",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/vicepresidente-ulloa-participa-en-homenaje-a-17-miguelenos-distinguidos-2026/",
-        "published_date": "2026-10-24 00:48:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "All Saints' Day in Santa Tecla",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/421072-2/",
-        "published_date": "2026-10-24 00:03:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "The concept of (-)Kujkul (Gespenst) V",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-concepto-de-kujkul-gespenst-v/",
-        "published_date": "2026-10-24 00:01:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "INLAND OF \u201cNEGRO RAM\u00cdREZ\u201d",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/tierra-adentro-del-negro-ramirez/",
-        "published_date": "2026-10-24 00:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "One dead and four injured after armed attack in France",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/un-muerto-y-cuatro-heridos-tras-ataque-armado-en-francia/",
-        "published_date": "2026-10-23 23:59:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "They identify a woman found lifeless on the banks of the El Molino River in Santa Ana",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/identifican-a-mujer-encontrada-sin-vida-a-orillas-del-rio-el-molino-en-santa-ana/",
-        "published_date": "2026-10-23 22:18:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "FGR accuses leaders of the two factions of Barrio 18 for crimes committed over a decade",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/fgr-acusa-a-cabecillas-de-las-dos-facciones-del-barrio-18-por-crimenes-cometidos-durante-una-decada/?utm_source=rss&utm_medium=rss&utm_campaign=fgr-acusa-a-cabecillas-de-las-dos-facciones-del-barrio-18-por-crimenes-cometidos-durante-una-decada",
-        "published_date": "2026-10-23 22:02:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "FGR presents accusations against 564 leaders of Barrio 18 for 14,497 accusations",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/fgr-presenta-acusacion-contra-564-cabecillas-del-barrio-18-por-14497-imputaciones/",
-        "published_date": "2026-10-23 22:02:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elotes locos, sweet Guatemalan bread and a lot of conviviality: neighbors come together to share in Manassas",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/elotes-locos-pan-dulce-guatemalteco-y-mucha-convivencia-vecinos-se-unen-para-compartir-en-manassas/",
-        "published_date": "2026-10-23 21:41:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "He defrauded a buyer of $12,000 and ended up sentenced to eight years in prison",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/estafo-a-un-comprador-con-12000-y-termino-condenado-a-ocho-anos-de-carcel/?utm_source=rss&utm_medium=rss&utm_campaign=estafo-a-un-comprador-con-12000-y-termino-condenado-a-ocho-anos-de-carcel",
-        "published_date": "2026-10-23 21:33:29",
         "category": "Local Events"
     }
 ]
