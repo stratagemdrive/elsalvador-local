@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pablo Ernesto Torres Fern\u00e1ndez, the statuette of the Historic Center who was run over in La Paz Este, dies",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/fallece-pablo-ernesto-torres-fernandez-el-estatuista-del-centro-historico-atropellado-en-la-paz-este/",
+        "published_date": "2026-10-26 14:02:59",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The FDIM denounces the detention of Luisa Gonz\u00e1lez and demands her immediate release",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/la-fdim-denuncia-la-detencion-de-luisa-gonzalez-y-exige-la-liberacion-inmediata/",
@@ -119,11 +126,46 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Priest dies in Ecuador after a cross falls on him during a mass",
+        "title": "Security and stability drive exports and business innovation",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/seguridad-y-estabilidad-impulsan-las-exportaciones-y-la-innovacion-empresarial/?utm_source=rss&utm_medium=rss&utm_campaign=seguridad-y-estabilidad-impulsan-las-exportaciones-y-la-innovacion-empresarial",
+        "published_date": "2026-10-26 16:49:03",
+        "category": "Military"
+    },
+    {
+        "title": "Municipality of San Salvador Centro activates comprehensive plan prior to All Souls' Day",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/municipalidad-de-san-salvador-centro-activa-plan-integral-previo-al-dia-de-los-difuntos/?utm_source=rss&utm_medium=rss&utm_campaign=municipalidad-de-san-salvador-centro-activa-plan-integral-previo-al-dia-de-los-difuntos",
+        "published_date": "2026-10-26 16:45:29",
+        "category": "Military"
+    },
+    {
+        "title": "San Salvador Centro activates comprehensive plan within the framework of All Souls' Day",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/sacerdote-muere-en-ecuador-tras-caerle-encima-una-cruz-durante-una-misa/",
-        "published_date": "2026-10-18 17:12:30",
-        "category": "Diplomacy"
+        "url": "https://diariolahuella.com/san-salvador-centro-activa-plan-integral-en-el-marco-del-dia-de-los-difuntos/",
+        "published_date": "2026-10-26 16:36:01",
+        "category": "Military"
+    },
+    {
+        "title": "They capture a man accused of reporting false theft of a rented Hilux after crashing it in Aguilares",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/capturan-a-hombre-acusado-de-denunciar-falso-hurto-de-un-hilux-alquilado-tras-chocarlo-en-aguilares/",
+        "published_date": "2026-10-26 13:54:44",
+        "category": "Military"
+    },
+    {
+        "title": "PNC captures two men accused of fighting on public roads in Ahuachap\u00e1n",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/pnc-captura-a-dos-hombres-senalados-de-pelear-en-la-via-publica-en-ahuachapan/",
+        "published_date": "2026-10-26 13:40:40",
+        "category": "Military"
+    },
+    {
+        "title": "Haiti: four Salvadoran airmen still missing after a week of searching",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/haiti-cuatro-aerotecnicos-salvadorenos-siguen-desaparecidos-tras-una-semana-de-busqueda/",
+        "published_date": "2026-10-26 02:54:33",
+        "category": "Military"
     },
     {
         "title": "Mar\u00eda Corina Machado returns to Venezuela through the front door and leaves the regime in shock",
@@ -224,46 +266,32 @@
         "category": "Military"
     },
     {
-        "title": "Iran says energy markets will not be calm in next 3 years if situation against Iran continues",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/iran-dice-que-mercados-de-energia-no-tendran-calma-en-proximos-3-anos-si-continua-situacion-contra-iran/",
-        "published_date": "2026-10-23 10:00:25",
-        "category": "Military"
+        "title": "No fuel price changes during this fortnight",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/sin-variaciones-precios-de-combustibles-durante-esta-quincena/?utm_source=rss&utm_medium=rss&utm_campaign=sin-variaciones-precios-de-combustibles-durante-esta-quincena",
+        "published_date": "2026-10-26 15:56:01",
+        "category": "Energy"
     },
     {
-        "title": "MS-13 gang member who monitored police and military in Congo sentenced to 20 years",
+        "title": "Fuel prices remain unchanged during this fortnight",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/precios-de-los-combustibles-se-mantienen-sin-variacion-durante-esta-quincena/",
+        "published_date": "2026-10-26 15:34:48",
+        "category": "Energy"
+    },
+    {
+        "title": "Fuel prices remain unchanged from October 27 to November 9 in El Salvador",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/condenan-a-20-anos-a-pandillero-de-la-ms-13-que-vigilaba-a-policias-y-militares-en-el-congo/",
-        "published_date": "2026-10-23 03:13:44",
-        "category": "Military"
+        "url": "https://croniosv.com/nacionales/combustibles-mantienen-precios-sin-variacion-del-27-de-octubre-al-9-de-noviembre-en-el-salvador/",
+        "published_date": "2026-10-26 14:21:24",
+        "category": "Energy"
     },
     {
-        "title": "They capture a man accused of injuring a kindergarten guard with a knife in Santa Tecla",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/capturan-a-hombre-acusado-de-herir-con-arma-blanca-a-vigilante-de-un-kinder-en-santa-tecla/",
-        "published_date": "2026-10-23 03:02:53",
-        "category": "Military"
-    },
-    {
-        "title": "They capture a subject who stabbed a security guard in Santa Tecla",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-sujeto-que-acuchillo-a-vigilante-en-santa-tecla/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-sujeto-que-acuchillo-a-vigilante-en-santa-tecla",
-        "published_date": "2026-10-23 02:13:19",
-        "category": "Military"
-    },
-    {
-        "title": "Government of Haiti declares \u201cabsolute priority\u201d release of Salvadoran soldiers kidnapped by gang members",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/internacionales/gobierno-de-haiti-declara-prioridad-absoluta-lliberacion-de-los-soldados-salvadorenos-secuestrados-por-pandilleros/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-de-haiti-declara-prioridad-absoluta-lliberacion-de-los-soldados-salvadorenos-secuestrados-por-pandilleros",
-        "published_date": "2026-10-22 23:25:24",
-        "category": "Military"
-    },
-    {
-        "title": "Inappropriate speed would have caused an accident that left several injured in La Paz Este",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/velocidad-inadecuada-habria-causado-accidente-que-dejo-varios-lesionados-en-la-paz-este/?utm_source=rss&utm_medium=rss&utm_campaign=velocidad-inadecuada-habria-causado-accidente-que-dejo-varios-lesionados-en-la-paz-este",
-        "published_date": "2026-10-22 21:33:45",
-        "category": "Military"
+        "title": "Joint work between the Government and oil companies maintains stable prices",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/trabajo-conjunto-entre-gobierno-y-empresas-petroleras-mantiene-precios-estables/",
+        "published_date": "2026-10-26 13:25:27",
+        "category": "Energy"
     },
     {
         "title": "Brent oil exceeds $113 per barrel and reaches its highest level since May",
@@ -299,6 +327,20 @@
         "url": "https://diariolahuella.com/trump-acusa-a-zelenski-de-perjudicar-el-mercado-mundial-del-diesel-con-ataques-a-refinerias-rusas/",
         "published_date": "2026-10-18 23:15:32",
         "category": "Energy"
+    },
+    {
+        "title": "El Salvador strengthens its exports, registers economic growth and announces support for MYPES",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-fortalece-sus-exportaciones-registra-crecimiento-economico-y-anuncia-apoyo-para-las-mypes/",
+        "published_date": "2026-10-26 16:50:33",
+        "category": "Economy"
+    },
+    {
+        "title": "Woman sentenced to six years in prison for tax evasion in San Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/condenan-a-seis-anos-de-prision-a-mujer-por-evasion-de-impuestos-en-san-salvador/",
+        "published_date": "2026-10-26 16:49:39",
+        "category": "Economy"
     },
     {
         "title": "Bitfinex Securities Launches Capital Raising for Global Tokenized Funds",
@@ -427,150 +469,143 @@
         "category": "Economy"
     },
     {
-        "title": "CABEI adopts English as a second official language in search of greater projection",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/bcie-adopta-el-ingles-como-segundo-idioma-oficial-en-busca-de-mas-proyeccion/",
-        "published_date": "2026-10-19 01:22:06",
-        "category": "Economy"
+        "title": "Criticism of Lula's victory in Brazil is mistakenly attributed to Trump: what is known",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/atribuyen-por-error-a-trump-criticas-contra-victoria-de-lula-en-brasil-que-se-sabe/",
+        "published_date": "2026-10-26 17:14:02",
+        "category": "Local Events"
     },
     {
-        "title": "Real Madrid wins El Cl\u00e1sico and ends Barcelona undefeated with a double from Mbapp\u00e9",
+        "title": "Preacher murdered in Cofrad\u00eda, Cort\u00e9s: Marvin Antonio Flores was shot dead upon returning from churchCort\u00e9s, Honduras",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/asesinan-a-predicador-en-cofradia-cortes-marvin-antonio-flores-fue-acribillado-al-regresar-de-la-iglesiacortes-honduras/",
+        "published_date": "2026-10-26 17:07:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran streamer Komanche dies at 30 in Mexico",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/real-madrid-gana-el-clasico-y-acaba-con-invicto-del-barcelona-con-doblete-de-mbappe/",
-        "published_date": "2026-10-26 00:58:27",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/muere-a-los-30-anos-el-streamer-salvadoreno-komanche-en-mexico/",
+        "published_date": "2026-10-26 16:54:49",
         "category": "Local Events"
     },
     {
-        "title": "Mbapp\u00e9 signs the coup for Madrid in the Spanish football Classic",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/mbappe-firma-el-golpe-del-madrid-en-el-clasico-del-futbol-espanol/",
-        "published_date": "2026-10-26 00:38:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Historic turn in Brazil!Lula comes back in his last breath and crushes the Bolsonaro clan to govern for the fourth time",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/giro-historico-en-brasil-lula-remonta-en-el-ultimo-suspiro-y-aplasta-al-clan-bolsonaro-para-gobernar-por-cuarta-vez/",
-        "published_date": "2026-10-26 00:35:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Real Madrid defeats Barcelona 2-1 with a decisive goal from Mbapp\u00e9 in the 87th minute",
+        "title": "Government works on the reconstruction of the Caser\u00edo Las Nubes School Center",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/real-madrid-derrota-2-1-al-barcelona-con-un-gol-decisivo-de-mbappe-al-minuto-87/?utm_source=rss&utm_medium=rss&utm_campaign=real-madrid-derrota-2-1-al-barcelona-con-un-gol-decisivo-de-mbappe-al-minuto-87",
-        "published_date": "2026-10-25 22:54:28",
+        "url": "https://lapagina.com.sv/nacionales/gobierno-trabaja-en-la-reconstruccion-del-centro-escolar-caserio-las-nubes/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-trabaja-en-la-reconstruccion-del-centro-escolar-caserio-las-nubes",
+        "published_date": "2026-10-26 16:50:09",
         "category": "Local Events"
     },
     {
-        "title": "Mbapp\u00e9 signs a double and gives Real Madrid a 2-1 victory against Barcelona",
+        "title": "Ministry of Health and Operation Walk Utah hold orthopedic surgery day",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/ministerio-de-salud-y-operation-walk-utah-realizan-jornada-de-cirugias-ortopedicas/",
+        "published_date": "2026-10-26 16:40:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three dead and four injured after an accident between a motorcycle and a pick-up in Santa Catarina Masahuat, Sonsonate",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/tres-fallecidos-y-cuatro-lesionados-tras-accidente-entre-motocicleta-y-pick-up-en-santa-catarina-masahuat-sonsonate/",
+        "published_date": "2026-10-26 16:25:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government works on the reconstruction of the Caser\u00edo Las Nubes School Center",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/mbappe-firma-un-doblete-y-le-da-al-real-madrid-el-triunfo-2-1-ante-el-barcelona/",
-        "published_date": "2026-10-25 22:32:42",
+        "url": "https://diariolahuella.com/gobierno-trabaja-en-la-reconstruccion-del-centro-escolar-caserio-las-nubes/",
+        "published_date": "2026-10-26 16:23:32",
         "category": "Local Events"
     },
     {
-        "title": "Pablo Torres, renowned living statuette, dies",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/fallece-pablo-torres-reconocido-estatuista-viviente/",
-        "published_date": "2026-10-25 22:04:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazilian election result announcement estimated around 8:30 p.m.",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/estiman-anuncio-de-resultado-electoral-brasileno-sobre-2030-horas/",
-        "published_date": "2026-10-25 21:10:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unusual!Judge determines that the emotion over a goal is an unstoppable \u201cforce of nature\u201d and releases chaotic fan",
-        "source": "Cronio",
-        "url": "https://croniosv.com/deportes/internacionales-deportes/insolito-juez-determina-que-la-emocion-por-un-gol-es-una-fuerza-de-la-naturaleza-imparable-y-libera-a-hincha-caotico/",
-        "published_date": "2026-10-25 20:04:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI don't know anything about it\u201d: President Trump on the arrival of Mar\u00eda Corona Machado to Venezuela",
+        "title": "ARENA now includes the diaspora in its payrolls after questions for denying them representation",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/no-se-nada-al-respecto-presidente-trump-sobre-llegada-de-maria-corona-machado-a-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=no-se-nada-al-respecto-presidente-trump-sobre-llegada-de-maria-corona-machado-a-venezuela",
-        "published_date": "2026-10-25 18:25:00",
+        "url": "https://lapagina.com.sv/politica/arena-ahora-si-incluye-a-la-diaspora-en-sus-planillas-tras-cuestionamientos-por-negarle-representacion/?utm_source=rss&utm_medium=rss&utm_campaign=arena-ahora-si-incluye-a-la-diaspora-en-sus-planillas-tras-cuestionamientos-por-negarle-representacion",
+        "published_date": "2026-10-26 16:22:52",
         "category": "Local Events"
     },
     {
-        "title": "Everything you need to know about the regulation of online gambling in Latam",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/todo-lo-que-debes-saber-sobre-la-regulacion-del-juego-en-linea-en-latam/",
-        "published_date": "2026-10-25 18:20:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "From rod reel to \u201cCrash\u201d mechanics: The evolution of fishing games on digital platforms",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/del-carrete-de-cana-a-la-mecanica-crash-la-evolucion-de-los-juegos-de-pesca-en-plataformas-digitales/",
-        "published_date": "2026-10-25 18:11:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vehicular passage is enabled on the Los Chorros section of the Pan-American Highway",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/habilitan-el-paso-vehicular-en-el-tramo-los-chorros-de-la-carretera-panamericana/",
-        "published_date": "2026-10-25 17:34:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Monstrous growth!The painful ordeal of the young woman with attributes weighing 25 kilos who steals glances",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/monstruoso-crecimiento-el-doloroso-calvario-de-la-joven-con-atributos-de-25-kilos-que-roba-miradas/",
-        "published_date": "2026-10-25 16:42:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "The work in Los Chorros ends ahead of schedule and will enable vehicular passage",
+        "title": "ARENA changes its position and includes the Salvadoran diaspora in its electoral lists",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/terminan-antes-de-los-previsto-los-trabajos-en-los-chorros-y-habilitaran-el-paso-vehicular/",
-        "published_date": "2026-10-25 15:34:24",
+        "url": "https://diariolahuella.com/arena-cambia-de-postura-e-incluye-a-la-diaspora-salvadorena-en-sus-planillas-electorales/",
+        "published_date": "2026-10-26 16:22:11",
         "category": "Local Events"
     },
     {
-        "title": "The work in Los Chorros is completed ahead of schedule and vehicular passage will be enabled",
+        "title": "How to import from China to El Salvador?Practical guide to prevent errors and unexpected costs",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/como-importar-desde-china-a-el-salvador-guia-practica-para-prevenir-errores-y-costos-inesperados/",
+        "published_date": "2026-10-26 16:10:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marcela Villatoro questions the flag vote and questions the popularity of Nuevas Ideas",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/finalizan-antes-de-los-previsto-los-trabajos-en-los-chorros-y-habilitaran-el-paso-vehicular/?utm_source=rss&utm_medium=rss&utm_campaign=finalizan-antes-de-los-previsto-los-trabajos-en-los-chorros-y-habilitaran-el-paso-vehicular",
-        "published_date": "2026-10-25 15:31:29",
+        "url": "https://lapagina.com.sv/politica/marcela-villatoro-cuestiona-el-voto-por-bandera-y-cuestiona-la-popularidad-de-nuevas-ideas/?utm_source=rss&utm_medium=rss&utm_campaign=marcela-villatoro-cuestiona-el-voto-por-bandera-y-cuestiona-la-popularidad-de-nuevas-ideas",
+        "published_date": "2026-10-26 16:03:14",
         "category": "Local Events"
     },
     {
-        "title": "Presence of North Winds in the country",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/presencia-de-vientos-nortes-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=presencia-de-vientos-nortes-en-el-pais",
-        "published_date": "2026-10-25 15:16:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Salvador continues to experience North Winds",
+        "title": "Marcela Villatoro questions the popular support for Nuevas Ideas",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/el-salvador-sigue-experimentado-vientos-nortes/",
-        "published_date": "2026-10-25 15:13:30",
+        "url": "https://diariolahuella.com/marcela-villatoro-cuestiona-el-respaldo-popular-a-nuevas-ideas/",
+        "published_date": "2026-10-26 16:02:32",
         "category": "Local Events"
     },
     {
-        "title": "Dozens of families are rescued from oblivion with a mega day of extreme cleaning",
+        "title": "ARENA includes the diaspora in its payroll after opposing its direct representation in the Assembly",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/rescatan-del-olvido-a-decenas-de-familias-con-mega-jornada-de-limpieza-extrema/",
-        "published_date": "2026-10-25 04:45:55",
+        "url": "https://croniosv.com/politica/arena-incluye-a-la-diaspora-en-sus-planillas-tras-oponerse-a-su-representacion-directa-en-la-asamblea/",
+        "published_date": "2026-10-26 15:44:19",
         "category": "Local Events"
     },
     {
-        "title": "Tragedy in Caba\u00f1as: Brutal crash leaves eight injured, six of them minors!",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/tragedia-en-cabanas-brutal-choque-deja-un-saldo-de-ocho-heridos-seis-de-ellos-menores-de-edad/",
-        "published_date": "2026-10-25 04:42:25",
+        "title": "The North Winds and decreased temperatures will continue this Monday",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/seguiran-los-vientos-nortes-y-temperaturas-disminuidas-este-lunes/?utm_source=rss&utm_medium=rss&utm_campaign=seguiran-los-vientos-nortes-y-temperaturas-disminuidas-este-lunes",
+        "published_date": "2026-10-26 15:23:39",
         "category": "Local Events"
     },
     {
-        "title": "Tragedy and controversy!Person expires at the doors of Fosalud in Altavista",
+        "title": "The North Winds and decreased temperatures will continue this Monday",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/seguiran-los-vientos-nortes-y-temperaturas-disminuidas-este-lunes/",
+        "published_date": "2026-10-26 15:03:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "DOM delivers 8.4 kilometers of renovated track in Apastepeque, San Vicente Norte",
+        "source": "Ultima Hora SV",
+        "url": "https://ultimahora.sv/dom-entrega-8-4-kilometros-de-via-renovada-en-apastepeque-san-vicente-norte/",
+        "published_date": "2026-10-26 14:32:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two injured in road accident on Mariona street",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/dos-lesionados-en-accidente-vial-sobre-calle-a-mariona/?utm_source=rss&utm_medium=rss&utm_campaign=dos-lesionados-en-accidente-vial-sobre-calle-a-mariona",
+        "published_date": "2026-10-26 14:19:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Komanche, 30-year-old Salvadoran streamer and organizer of the Squid Craft Games, dies",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/principal1/tragedia-y-polemica-persona-expira-a-las-puertas-de-fosalud-en-altavista/",
-        "published_date": "2026-10-25 04:14:23",
+        "url": "https://croniosv.com/tendencias/jetset/muere-komanche-streamer-salvadoreno-de-30-anos-y-organizador-de-los-squid-craft-games/",
+        "published_date": "2026-10-26 13:46:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mar\u00eda Corina Machado returns to Venezuela after more than 10 months in exile",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/maria-corina-machado-vuelve-a-venezuela-despues-de-mas-10-meses-en-el-exilio/",
+        "published_date": "2026-10-26 13:02:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Economist warns about sustainability of DoctorSV and possible co-payments",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/economista-alerta-sostenibilidad-doctorsv-posibles-copagos/",
+        "published_date": "2026-10-26 11:04:59",
         "category": "Local Events"
     }
 ]
