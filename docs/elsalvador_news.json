@@ -1,5 +1,19 @@
 [
     {
+        "title": "Two Colombians drowned in Costa del Sol and they are looking for a third person",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/dos-colombianos-mueren-ahogados-en-costa-del-sol-y-buscan-a-una-tercera-persona/",
+        "published_date": "2026-10-26 21:50:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Pablo Torres, renowned statuary artist in the Historic Center of San Salvador, dies",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/fallece-pablo-torres-reconocido-artista-del-estatuismo-en-el-centro-historico-de-san-salvador/",
+        "published_date": "2026-10-26 18:50:33",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Pablo Ernesto Torres Fern\u00e1ndez, the statuette of the Historic Center who was run over in La Paz Este, dies",
         "source": "Cronio",
         "url": "https://croniosv.com/nacionales/sucesos/fallece-pablo-ernesto-torres-fernandez-el-estatuista-del-centro-historico-atropellado-en-la-paz-este/",
@@ -124,6 +138,20 @@
         "url": "https://www.elmetropolitanodigital.com/2026/10/francia-limitara-el-derecho-de-reunion-para-detener-la-violencia-de-las-protestas-ultras/",
         "published_date": "2026-10-19 15:09:16",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Inspections of cargo transportation continue nationwide",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/continuan-inspecciones-al-transporte-de-carga-a-nivel-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=continuan-inspecciones-al-transporte-de-carga-a-nivel-nacional",
+        "published_date": "2026-10-27 00:12:41",
+        "category": "Military"
+    },
+    {
+        "title": "US preparing new attacks on Iran after midterm elections, report says",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/eeuu-prepara-nuevos-ataques-contra-iran-despues-de-elecciones-intermedias-senala-informe/",
+        "published_date": "2026-10-26 19:05:59",
+        "category": "Military"
     },
     {
         "title": "Security and stability drive exports and business innovation",
@@ -252,18 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Marvin Aguilar and Mirna Perla analyze the sending of more than 2,000 soldiers to Hiat\u00ed",
+        "title": "Fuels will continue with the same value for another fortnight",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/marvin-aguilar-y-mirna-perla-analizan-el-envio-de-mas-de-2000-soldados-a-hiati/",
-        "published_date": "2026-10-24 11:00:05",
-        "category": "Military"
-    },
-    {
-        "title": "He threatened and insulted pupuser\u00eda owners;was captured in Soyapango",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/amenazo-y-ultrajo-a-duenas-de-pupuseria-fue-capturado-en-soyapango/?utm_source=rss&utm_medium=rss&utm_campaign=amenazo-y-ultrajo-a-duenas-de-pupuseria-fue-capturado-en-soyapango",
-        "published_date": "2026-10-23 21:52:14",
-        "category": "Military"
+        "url": "https://www.diariocolatino.com/combustibles-seguiran-mismo-valor-una-quincena-mas/",
+        "published_date": "2026-10-26 17:16:54",
+        "category": "Energy"
     },
     {
         "title": "No fuel price changes during this fortnight",
@@ -322,11 +343,32 @@
         "category": "Energy"
     },
     {
-        "title": "Trump accuses Zelensky of damaging the global diesel market with attacks on Russian refineries",
+        "title": "Vice President Ulloa highlights economic and technological advances during El Salvador Arbitration Week 2026",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/vicepresidente-ulloa-destaca-avances-economicos-y-tecnologicos-durante-el-salvador-arbitration-week-2026/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-ulloa-destaca-avances-economicos-y-tecnologicos-durante-el-salvador-arbitration-week-2026",
+        "published_date": "2026-10-27 01:17:26",
+        "category": "Economy"
+    },
+    {
+        "title": "Vice President Ulloa highlights progress made by El Salvador to attract investment",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/trump-acusa-a-zelenski-de-perjudicar-el-mercado-mundial-del-diesel-con-ataques-a-refinerias-rusas/",
-        "published_date": "2026-10-18 23:15:32",
-        "category": "Energy"
+        "url": "https://diariolahuella.com/vicepresidente-ulloa-destaca-avances-de-el-salvador-para-atraer-inversion/",
+        "published_date": "2026-10-27 00:43:29",
+        "category": "Economy"
+    },
+    {
+        "title": "Remittances to El Salvador reach $7,619.9 million until September 2026",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/economia/remesas-a-el-salvador-alcanzan-7619-9-millones-hasta-septiembre-de-2026/",
+        "published_date": "2026-10-26 23:44:07",
+        "category": "Economy"
+    },
+    {
+        "title": "Vice President Ulloa highlights technological innovation and the modernization of arbitration",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/vicepresidente-ulloa-destaca-la-innovacion-tecnologica-y-la-modernizacion-del-arbitraje/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-ulloa-destaca-la-innovacion-tecnologica-y-la-modernizacion-del-arbitraje",
+        "published_date": "2026-10-26 23:33:13",
+        "category": "Economy"
     },
     {
         "title": "El Salvador strengthens its exports, registers economic growth and announces support for MYPES",
@@ -441,171 +483,143 @@
         "category": "Economy"
     },
     {
-        "title": "France imposes partial curfews after riots and looting in several cities",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/francia-impone-toques-de-queda-parciales-tras-disturbios-y-saqueos-en-varias-ciudades/",
-        "published_date": "2026-10-19 19:29:55",
-        "category": "Economy"
-    },
-    {
-        "title": "Government proposes new tax amnesty for tax debtors",
+        "title": "Organizations expose torture and detentions in El Salvador before the IACHR",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/gobierno-propone-nueva-amnistia-fiscal-deudores-tributarios/",
-        "published_date": "2026-10-19 11:02:30",
-        "category": "Economy"
-    },
-    {
-        "title": "Government asks to incorporate $464,470 in loans for a new border post in El Poy",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/gobierno-pide-incorporar-464470-prestamos-puesto-fronterizo-el-poy/",
-        "published_date": "2026-10-19 11:01:47",
-        "category": "Economy"
-    },
-    {
-        "title": "Economy confronts Lula and Fl\u00e1vio Bolsonaro in Brazilian debate",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/economia-enfrenta-a-lula-y-flavio-bolsonaro-en-debate-brasileno/",
-        "published_date": "2026-10-19 10:40:25",
-        "category": "Economy"
-    },
-    {
-        "title": "Criticism of Lula's victory in Brazil is mistakenly attributed to Trump: what is known",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/atribuyen-por-error-a-trump-criticas-contra-victoria-de-lula-en-brasil-que-se-sabe/",
-        "published_date": "2026-10-26 17:14:02",
+        "url": "https://www.diariocolatino.com/organizaciones-exponen-torturas-y-detenciones-en-el-salvador-ante-la-cidh/",
+        "published_date": "2026-10-27 01:37:46",
         "category": "Local Events"
     },
     {
-        "title": "Preacher murdered in Cofrad\u00eda, Cort\u00e9s: Marvin Antonio Flores was shot dead upon returning from churchCort\u00e9s, Honduras",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/asesinan-a-predicador-en-cofradia-cortes-marvin-antonio-flores-fue-acribillado-al-regresar-de-la-iglesiacortes-honduras/",
-        "published_date": "2026-10-26 17:07:42",
+        "title": "Toy Drive 2026",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/campana-de-recoleccion-de-juguetes-2026/",
+        "published_date": "2026-10-27 01:33:27",
         "category": "Local Events"
     },
     {
-        "title": "Salvadoran streamer Komanche dies at 30 in Mexico",
+        "title": "NSQK will return to El Salvador in 2027 with their album \u201cMOSCA\u201d",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/muere-a-los-30-anos-el-streamer-salvadoreno-komanche-en-mexico/",
-        "published_date": "2026-10-26 16:54:49",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/nsqk-regresara-a-el-salvador-en-2027-con-su-album-mosca/",
+        "published_date": "2026-10-27 01:08:32",
         "category": "Local Events"
     },
     {
-        "title": "Government works on the reconstruction of the Caser\u00edo Las Nubes School Center",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/gobierno-trabaja-en-la-reconstruccion-del-centro-escolar-caserio-las-nubes/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-trabaja-en-la-reconstruccion-del-centro-escolar-caserio-las-nubes",
-        "published_date": "2026-10-26 16:50:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ministry of Health and Operation Walk Utah hold orthopedic surgery day",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/ministerio-de-salud-y-operation-walk-utah-realizan-jornada-de-cirugias-ortopedicas/",
-        "published_date": "2026-10-26 16:40:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three dead and four injured after an accident between a motorcycle and a pick-up in Santa Catarina Masahuat, Sonsonate",
+        "title": "F\u00e9lix Ulloa proposes incorporating artificial intelligence into arbitration during an international forum in El Salvador",
         "source": "Cronio",
-        "url": "https://croniosv.com/principal/tres-fallecidos-y-cuatro-lesionados-tras-accidente-entre-motocicleta-y-pick-up-en-santa-catarina-masahuat-sonsonate/",
-        "published_date": "2026-10-26 16:25:15",
+        "url": "https://croniosv.com/principal/principal1/felix-ulloa-plantea-incorporar-inteligencia-artificial-al-arbitraje-durante-foro-internacional-en-el-salvador/",
+        "published_date": "2026-10-26 23:52:49",
         "category": "Local Events"
     },
     {
-        "title": "Government works on the reconstruction of the Caser\u00edo Las Nubes School Center",
+        "title": "New 8-kilometer road inaugurated in Apastepeque",
         "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/gobierno-trabaja-en-la-reconstruccion-del-centro-escolar-caserio-las-nubes/",
-        "published_date": "2026-10-26 16:23:32",
+        "url": "https://diariolahuella.com/inauguran-nueva-via-de-8-kilometros-en-apastepeque/",
+        "published_date": "2026-10-26 23:31:18",
         "category": "Local Events"
     },
     {
-        "title": "ARENA now includes the diaspora in its payrolls after questions for denying them representation",
+        "title": "DOM inaugurates new 8-kilometer road in Apastepeque",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/arena-ahora-si-incluye-a-la-diaspora-en-sus-planillas-tras-cuestionamientos-por-negarle-representacion/?utm_source=rss&utm_medium=rss&utm_campaign=arena-ahora-si-incluye-a-la-diaspora-en-sus-planillas-tras-cuestionamientos-por-negarle-representacion",
-        "published_date": "2026-10-26 16:22:52",
+        "url": "https://lapagina.com.sv/nacionales/dom-inaugura-nueva-via-de-8-kilometros-en-apastepeque/?utm_source=rss&utm_medium=rss&utm_campaign=dom-inaugura-nueva-via-de-8-kilometros-en-apastepeque",
+        "published_date": "2026-10-26 23:23:37",
         "category": "Local Events"
     },
     {
-        "title": "ARENA changes its position and includes the Salvadoran diaspora in its electoral lists",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/arena-cambia-de-postura-e-incluye-a-la-diaspora-salvadorena-en-sus-planillas-electorales/",
-        "published_date": "2026-10-26 16:22:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "How to import from China to El Salvador?Practical guide to prevent errors and unexpected costs",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/como-importar-desde-china-a-el-salvador-guia-practica-para-prevenir-errores-y-costos-inesperados/",
-        "published_date": "2026-10-26 16:10:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marcela Villatoro questions the flag vote and questions the popularity of Nuevas Ideas",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/marcela-villatoro-cuestiona-el-voto-por-bandera-y-cuestiona-la-popularidad-de-nuevas-ideas/?utm_source=rss&utm_medium=rss&utm_campaign=marcela-villatoro-cuestiona-el-voto-por-bandera-y-cuestiona-la-popularidad-de-nuevas-ideas",
-        "published_date": "2026-10-26 16:03:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marcela Villatoro questions the popular support for Nuevas Ideas",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/marcela-villatoro-cuestiona-el-respaldo-popular-a-nuevas-ideas/",
-        "published_date": "2026-10-26 16:02:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "ARENA includes the diaspora in its payroll after opposing its direct representation in the Assembly",
+        "title": "Harry Kane wins the 2026 Ballon d'Or and Spanish football sweeps other awards",
         "source": "Cronio",
-        "url": "https://croniosv.com/politica/arena-incluye-a-la-diaspora-en-sus-planillas-tras-oponerse-a-su-representacion-directa-en-la-asamblea/",
-        "published_date": "2026-10-26 15:44:19",
+        "url": "https://croniosv.com/deportes/internacionales-deportes/harry-kane-gana-el-balon-de-oro-2026-y-el-futbol-espanol-arrasa-en-otros-premios/",
+        "published_date": "2026-10-26 23:19:49",
         "category": "Local Events"
     },
     {
-        "title": "The North Winds and decreased temperatures will continue this Monday",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/seguiran-los-vientos-nortes-y-temperaturas-disminuidas-este-lunes/?utm_source=rss&utm_medium=rss&utm_campaign=seguiran-los-vientos-nortes-y-temperaturas-disminuidas-este-lunes",
-        "published_date": "2026-10-26 15:23:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The North Winds and decreased temperatures will continue this Monday",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/seguiran-los-vientos-nortes-y-temperaturas-disminuidas-este-lunes/",
-        "published_date": "2026-10-26 15:03:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "DOM delivers 8.4 kilometers of renovated track in Apastepeque, San Vicente Norte",
-        "source": "Ultima Hora SV",
-        "url": "https://ultimahora.sv/dom-entrega-8-4-kilometros-de-via-renovada-en-apastepeque-san-vicente-norte/",
-        "published_date": "2026-10-26 14:32:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two injured in road accident on Mariona street",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/dos-lesionados-en-accidente-vial-sobre-calle-a-mariona/?utm_source=rss&utm_medium=rss&utm_campaign=dos-lesionados-en-accidente-vial-sobre-calle-a-mariona",
-        "published_date": "2026-10-26 14:19:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Komanche, 30-year-old Salvadoran streamer and organizer of the Squid Craft Games, dies",
+        "title": "154 gang members from Barrio 18 who operated in San Salvador are sentenced to up to 45 years in prison",
         "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/jetset/muere-komanche-streamer-salvadoreno-de-30-anos-y-organizador-de-los-squid-craft-games/",
-        "published_date": "2026-10-26 13:46:56",
+        "url": "https://croniosv.com/nacionales/judicial/condenan-hasta-45-anos-de-carcel-a-154-pandilleros-del-barrio-18-que-operaban-en-san-salvador/",
+        "published_date": "2026-10-26 21:48:22",
         "category": "Local Events"
     },
     {
-        "title": "Mar\u00eda Corina Machado returns to Venezuela after more than 10 months in exile",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/maria-corina-machado-vuelve-a-venezuela-despues-de-mas-10-meses-en-el-exilio/",
-        "published_date": "2026-10-26 13:02:00",
+        "title": "El Salvador registers a historical record of low temperature at the Cuscatl\u00e1n Bridge",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-registra-record-historico-de-baja-temperatura-en-el-puente-cuscatlan/",
+        "published_date": "2026-10-26 21:46:18",
         "category": "Local Events"
     },
     {
-        "title": "Economist warns about sustainability of DoctorSV and possible co-payments",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/economista-alerta-sostenibilidad-doctorsv-posibles-copagos/",
-        "published_date": "2026-10-26 11:04:59",
+        "title": "The Cuscatl\u00e1n Bridge breaks the record for the minimum temperature recorded since 1982",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-puente-cuscatlan-rompe-record-de-temperatura-minima-registrado-desde-1982/?utm_source=rss&utm_medium=rss&utm_campaign=el-puente-cuscatlan-rompe-record-de-temperatura-minima-registrado-desde-1982",
+        "published_date": "2026-10-26 21:45:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man accused of defrauding two victims with the sale of vehicles goes on trial",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/a-juicio-un-hombre-acusado-de-estafar-a-dos-victimas-con-la-venta-de-vehiculos/?utm_source=rss&utm_medium=rss&utm_campaign=a-juicio-un-hombre-acusado-de-estafar-a-dos-victimas-con-la-venta-de-vehiculos",
+        "published_date": "2026-10-26 21:27:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alleged vehicle importer prosecuted for defrauding two people of $8,000",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/procesan-a-supuesto-importador-de-vehiculos-por-estafar-a-dos-personas-con-8000/",
+        "published_date": "2026-10-26 21:27:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran footwear reaches commercial showcases in Japan",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/calzado-salvadoreno-llega-a-vitrinas-comerciales-de-japon/?utm_source=rss&utm_medium=rss&utm_campaign=calzado-salvadoreno-llega-a-vitrinas-comerciales-de-japon",
+        "published_date": "2026-10-26 21:08:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vehicle importer accused of receiving $8,000 and not delivering the cars to trial",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/a-juicio-importador-de-vehiculos-acusado-de-recibir-8000-y-no-entregar-los-automoviles/",
+        "published_date": "2026-10-26 21:08:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "High-end Salvadoran footwear reaches commercial showcases in Japan",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/calzado-salvadoreno-de-alta-gama-llega-a-vitrinas-comerciales-de-japon/",
+        "published_date": "2026-10-26 21:02:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gaza and silent childhood as a stronghold of unpunished horror-Lisandro Prieto Femen\u00eda",
+        "source": "Cronio",
+        "url": "https://croniosv.com/opinet/gaza-y-la-infancia-muda-como-reducto-del-horror-impune-lisandro-prieto-femenia/",
+        "published_date": "2026-10-26 20:57:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Up to 45 years in prison for more than 150 gang members of the 18",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/hasta-45-anos-de-prision-para-mas-de-150-pandilleros-de-la-18/",
+        "published_date": "2026-10-26 20:55:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Municipal Works deliver modern street in San Vicente Norte",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/obras-municipales-entrega-moderna-calle-en-san-vicente-norte/",
+        "published_date": "2026-10-26 20:35:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Up to 45 years in prison for more than 150 gang members from 18",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/hasta-45-anos-de-carcel-para-mas-de-150-pandilleros-de-la-18/?utm_source=rss&utm_medium=rss&utm_campaign=hasta-45-anos-de-carcel-para-mas-de-150-pandilleros-de-la-18",
+        "published_date": "2026-10-26 20:32:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government delivers modern street in San Vicente Norte",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/gobierno-entrega-moderna-calle-en-san-vicente-norte/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-entrega-moderna-calle-en-san-vicente-norte",
+        "published_date": "2026-10-26 20:21:58",
         "category": "Local Events"
     }
 ]
