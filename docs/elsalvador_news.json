@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Neighbors thwart alleged theft in San Miguel and hand the suspect over to the PNC",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/vecinos-frustran-presunto-hurto-en-san-miguel-y-entregan-a-sospechoso-a-la-pnc/",
+        "published_date": "2026-10-28 14:10:25",
+        "category": "Military"
+    },
+    {
+        "title": "Iran says Strait of Hormuz is completely closed",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/iran-afirma-que-el-estrecho-de-ormuz-esta-completamente-cerrado/",
+        "published_date": "2026-10-28 10:00:18",
+        "category": "Military"
+    },
+    {
         "title": "Costa Rica began transferring 123 inmates to the CACCO megaprison: they entered shaven and wearing orange uniforms",
         "source": "El Metropolitano",
         "url": "https://www.elmetropolitanodigital.com/2026/10/costa-rica-inicio-traslado-de-123-reclusos-a-megacarcel-cacco-ingresaron-rapados-y-con-uniformes-naranja/",
@@ -266,18 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "President Bukele: \u201cA little comprehensive reading for next time wouldn't hurt\u201d",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/presidente-bukele-un-poco-de-lectura-comprensiva-para-la-proxima-vez-no-vendria-mal/",
-        "published_date": "2026-10-25 17:55:50",
-        "category": "Military"
-    },
-    {
-        "title": "Drug distributor falls in La Uni\u00f3n",
+        "title": "Vice President F\u00e9lix Ulloa addresses cooperation opportunities with international engineering company",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/cae-distribuidor-de-drogas-en-la-union/?utm_source=rss&utm_medium=rss&utm_campaign=cae-distribuidor-de-drogas-en-la-union",
-        "published_date": "2026-10-25 14:13:07",
-        "category": "Military"
+        "url": "https://lapagina.com.sv/nacionales/vicepresidente-felix-ulloa-aborda-oportunidades-de-cooperacion-con-empresa-internacional-de-ingenieria/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-aborda-oportunidades-de-cooperacion-con-empresa-internacional-de-ingenieria",
+        "published_date": "2026-10-28 03:03:42",
+        "category": "Energy"
     },
     {
         "title": "Fuel prices will remain high for another fortnight",
@@ -341,6 +348,13 @@
         "url": "https://www.diariocolatino.com/cuando-el-poder-pierde-la-narrativa-gobiernos-atrapados-en-la-autopista-digital/",
         "published_date": "2026-10-21 10:55:41",
         "category": "Energy"
+    },
+    {
+        "title": "A door to the Atlantic, with a Logistics Center and a Digital Asset based in infrastructure, seek to attract Salvadoran businessmen",
+        "source": "Cronio",
+        "url": "https://croniosv.com/negocios/una-puerta-al-atlantico-con-un-centro-logistico-y-un-activo-digital-afincados-en-infraestructura-buscan-atraer-al-empresariado-salvadoreno/",
+        "published_date": "2026-10-28 04:44:38",
+        "category": "Economy"
     },
     {
         "title": "More than 40 companies will offer hundreds of permanent jobs",
@@ -441,25 +455,123 @@
         "category": "Economy"
     },
     {
-        "title": "CABEI expands housing credit in El Salvador to $103.7 million",
+        "title": "Vice President Ulloa inaugurates international summit of public accountants",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/vicepresidente-ulloa-inaugura-cumbre-internacional-de-contadores-publicos/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-ulloa-inaugura-cumbre-internacional-de-contadores-publicos",
+        "published_date": "2026-10-28 16:57:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 40 companies offer hundreds of job positions in employment days",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/mas-de-40-empresas-ofrecen-cientos-de-plazas-laborales-en-jornadas-empleo/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-40-empresas-ofrecen-cientos-de-plazas-laborales-en-jornadas-empleo",
+        "published_date": "2026-10-28 16:24:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fatal train accident in Spain",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/internacionales/fatal-accidente-ferroviario-en-espana/?utm_source=rss&utm_medium=rss&utm_campaign=fatal-accidente-ferroviario-en-espana",
+        "published_date": "2026-10-28 16:10:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "The North Winds continue in the country",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/siguen-los-vientos-nortes-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=siguen-los-vientos-nortes-en-el-pais",
+        "published_date": "2026-10-28 14:54:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Freedom order issued for former president Antonio Saca",
         "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/bcie-amplia-a-103-7-millones-credito-para-vivienda-en-el-salvador/",
-        "published_date": "2026-10-20 15:59:15",
-        "category": "Economy"
+        "url": "https://www.elmetropolitanodigital.com/2026/10/emiten-orden-de-libertad-para-el-expresidente-antonio-saca/",
+        "published_date": "2026-10-28 14:42:21",
+        "category": "Local Events"
     },
     {
-        "title": "Finance Commission endorses new tax amnesty",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/comision-de-hacienda-avala-nueva-amnistia-fiscal/",
-        "published_date": "2026-10-20 11:02:05",
-        "category": "Economy"
-    },
-    {
-        "title": "Finance Commission issues favorable opinion on new tax amnesty valid until December 11, 2026",
+        "title": "Up to 42 years in prison for 14 members of the MS-13 in San Miguel;They will face another process",
         "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/economia/comision-de-hacienda-emite-dictamen-favorable-a-nueva-amnistia-fiscal-vigente-hasta-el-11-de-diciembre-de-2026/",
-        "published_date": "2026-10-20 02:44:42",
-        "category": "Economy"
+        "url": "https://croniosv.com/nacionales/judicial/hasta-42-anos-de-carcel-para-14-miembros-de-la-ms-13-en-san-miguel-enfrentaran-otro-proceso/",
+        "published_date": "2026-10-28 14:13:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Collision with delivery truck leaves motorcyclist with head and leg injuries in Acajutla",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/choque-con-camion-repartidor-deja-a-motociclista-con-lesiones-en-la-cabeza-y-una-pierna-en-acajutla/",
+        "published_date": "2026-10-28 14:07:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "SHOCKING VIDEO \u2013 Cameras capture crash in Escal\u00f3n: motorcyclist hits a car and ends up hospitalized",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/video-impactante-camaras-captan-choque-en-la-escalon-motociclista-impacta-contra-un-carro-y-termina-hospitalizado/",
+        "published_date": "2026-10-28 14:04:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador hosts the XI Summit of the Americas on Accounting 2026",
+        "source": "Cronio",
+        "url": "https://croniosv.com/politica/el-salvador-es-sede-de-la-xi-cumbre-de-las-americas-de-contabilidad-2026/",
+        "published_date": "2026-10-28 14:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iv\u00e1n Solano denounces mass dismissals of health workers before the IACHR",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/ivan-solano-denuncia-cidh-despidos-masivos-trabajadoes-salud/",
+        "published_date": "2026-10-28 11:04:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Regional Rights Observatory calls for protection for human rights defenders",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/observatorio-regional-derechos-pide-proteccio-defensores-derechos-humanos/",
+        "published_date": "2026-10-28 11:03:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "MILPA denounces before the IACHR violations of human rights and displacement of communities in El Salvador",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/milpa-denuncia-ante-la-cidh-vulneraciones-de-derechos-humanos-y-desplazamiento-de-comunidades-en-el-salvador/",
+        "published_date": "2026-10-28 11:01:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "They denounce the submission and silence of the PDDH before the Executive in the face of rights violations",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/denuncian-sumision-silencio-pddh-ejecutivo-frente-derechos-humanos/",
+        "published_date": "2026-10-28 11:00:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fuerte San Francisco accelerates towards the next round of the Women's League",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/fuerte-san-francisco-acelera-rumbo-a-la-siguiente-ronda-de-la-liga-femenina/",
+        "published_date": "2026-10-28 10:40:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "They issue a release order for former president El\u00edas Antonio Saca after 10 years in Mariona",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/judicial/emiten-orden-de-libertad-para-el-expresidente-elias-antonio-saca-tras-10-anos-en-mariona/",
+        "published_date": "2026-10-28 04:11:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "They are looking for Andr\u00e9s Pascual, 62, after an accident in Caba\u00f1as: family asks for help to locate him",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/buscan-a-andres-pascual-de-62-anos-tras-accidente-en-cabanas-familia-pide-ayuda-para-localizarlo/",
+        "published_date": "2026-10-28 04:04:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "94% of Salvadorans approve of President Bukele's management, according to CID Gallup",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-94-de-los-salvadorenos-aprueba-la-gestion-del-presidente-bukele-segun-cid-gallup/?utm_source=rss&utm_medium=rss&utm_campaign=el-94-de-los-salvadorenos-aprueba-la-gestion-del-presidente-bukele-segun-cid-gallup",
+        "published_date": "2026-10-28 02:37:11",
+        "category": "Local Events"
     },
     {
         "title": "After losing to Lula, Fl\u00e1vio Bolsonaro would have left Brazil for the United States",
@@ -480,125 +592,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/tragedia-en-la-costa-del-sol-identifican-a-esposos-colombianos-arrastrados-por-una-corriente-marina/?utm_source=rss&utm_medium=rss&utm_campaign=tragedia-en-la-costa-del-sol-identifican-a-esposos-colombianos-arrastrados-por-una-corriente-marina",
         "published_date": "2026-10-28 00:43:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US will grant visas to Fl\u00e1vio Bolsonaro and his family after fleeing Brazil",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/eeuu-concedera-visados-a-flavio-bolsonaro-y-a-su-familia-tras-huida-de-brasil/",
-        "published_date": "2026-10-27 23:38:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "They identify Efra\u00edn Atilio Rodas L\u00f3pez, a motorcyclist who died after hitting a cow in La Paz",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/identifican-a-efrain-atilio-rodas-lopez-motociclista-que-murio-al-impactar-contra-una-vaca-en-la-paz/",
-        "published_date": "2026-10-27 23:27:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President Ulloa talks with IFAC and ISCP leaders about accounting, artificial intelligence and transparency at the XI Summit of the Americas",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/vicepresidente-ulloa-dialoga-con-lideres-de-ifac-e-iscp-sobre-contabilidad-inteligencia-artificial-y-transparencia-en-la-xi-cumbre-de-las-americas/",
-        "published_date": "2026-10-27 23:10:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Distracted driving causes the death of an older adult in San Mart\u00edn;responsible was captured",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/distraccion-al-volante-provoca-la-muerte-de-adulto-mayor-en-san-martin-responsable-fue-capturado/",
-        "published_date": "2026-10-27 23:08:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman loses her life in a road accident on the highway to Comalapa",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/mujer-pierde-la-vida-en-accidente-vial-sobre-carretera-a-comalapa/?utm_source=rss&utm_medium=rss&utm_campaign=mujer-pierde-la-vida-en-accidente-vial-sobre-carretera-a-comalapa",
-        "published_date": "2026-10-27 21:58:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "International Black Cat Day: why it is celebrated this October 27 and how to combat myths about these felines",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/dia-internacional-del-gato-negro-por-que-se-celebra-este-27-de-octubre-y-como-combatir-los-mitos-sobre-estos-felinos/",
-        "published_date": "2026-10-27 21:53:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five Michelin-starred chefs to host charity dinner in Surf City",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/cinco-chefs-con-estrellas-michelin-ofreceran-cena-benefica-en-surf-city/",
-        "published_date": "2026-10-27 21:47:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 40 companies will offer hundreds of permanent jobs this Wednesday",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/mas-de-40-empresas-ofreceran-cientos-de-empleos-permanentes-este-miercoles/",
-        "published_date": "2026-10-27 21:15:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "North winds and low temperatures will continue in El Salvador during the next few days",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/vientos-nortes-y-bajas-temperaturas-continuaran-en-el-salvador-durante-los-proximos-dias/",
-        "published_date": "2026-10-27 20:55:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "They warn of gusts of up to 40 km/h and low temperatures in the country",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/advierten-sobre-rafagas-de-hasta-40-km-h-y-bajas-temperaturas-en-el-pais/?utm_source=rss&utm_medium=rss&utm_campaign=advierten-sobre-rafagas-de-hasta-40-km-h-y-bajas-temperaturas-en-el-pais",
-        "published_date": "2026-10-27 20:54:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Live bets and FVS in the Apertura 2026",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/apuestas-en-vivo-y-fvs-en-el-apertura-2026/",
-        "published_date": "2026-10-27 20:33:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Presidential scholarship recipient fulfills her dream of thanking President Bukele",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/beneficiaria-de-beca-presidencial-cumple-su-sueno-de-agradecer-al-presidente-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=beneficiaria-de-beca-presidencial-cumple-su-sueno-de-agradecer-al-presidente-bukele",
-        "published_date": "2026-10-27 20:12:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Salvadoran coffee present at \u201cThe World Of Coffee Panama 2026\u201d",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/cafe-salvadoreno-presente-en-the-world-of-coffe-panama-2026/",
-        "published_date": "2026-10-27 20:05:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Six classifieds and new variables for betting",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-nuevo-cuadro-del-apertura-y-las-apuestas-por-el-titulo/",
-        "published_date": "2026-10-27 19:14:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "A walk ended in tragedy: Colombian couple drowns on the Costa del Sol",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/un-paseo-termino-en-tragedia-pareja-colombiana-muere-ahogada-en-la-costa-del-sol/",
-        "published_date": "2026-10-27 18:57:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lynching in Ostuac\u00e1n leaves one dead after the femicide of a grandmother and her 12-year-old granddaughter",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/linchamiento-en-ostuacan-deja-un-muerto-tras-el-feminicidio-de-una-abuela-y-su-nieta-de-12-anos/",
-        "published_date": "2026-10-27 18:03:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President Ulloa analyzes accounting challenges in the face of technological transformation",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/vicepresidente-ulloa-analiza-retos-de-la-contabilidad-ante-la-transformacion-tecnologica/",
-        "published_date": "2026-10-27 18:02:44",
         "category": "Local Events"
     }
 ]
