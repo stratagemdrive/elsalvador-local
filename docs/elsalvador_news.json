@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cuba appreciates global support against US blockade",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/agradece-cuba-respaldo-global-contra-bloqueo-estadounidense/",
+        "published_date": "2026-10-30 10:30:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Ambassador Zhang Yanhui is named \u201cNoble Friend of El Salvador\u201d",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/politica/nombran-como-noble-amigo-de-el-salvador-al-embajador-zhang-yanhui/?utm_source=rss&utm_medium=rss&utm_campaign=nombran-como-noble-amigo-de-el-salvador-al-embajador-zhang-yanhui",
@@ -98,25 +105,67 @@
         "category": "Diplomacy"
     },
     {
-        "title": "El Salvador recognizes diplomatic work of the ambassador of the People's Republic of China",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/el-salvador-reconoce-labor-diplomatica-del-embajador-de-republica-popular-china/",
-        "published_date": "2026-10-22 15:26:11",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "El Salvador and Japan promote diplomatic dialogue and regional integration",
+        "title": "President Bukele holds meeting with US Undersecretary of State Sarah Rogers",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/el-salvador-y-japon-impulsan-el-dialogo-diplomatico-y-la-integracion-regional/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-y-japon-impulsan-el-dialogo-diplomatico-y-la-integracion-regional",
-        "published_date": "2026-10-22 14:41:08",
-        "category": "Diplomacy"
+        "url": "https://lapagina.com.sv/politica/presidente-bukele-sostiene-reunion-con-subsecretaria-de-estado-de-eeuu-sarah-rogers/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-sostiene-reunion-con-subsecretaria-de-estado-de-eeuu-sarah-rogers",
+        "published_date": "2026-10-30 16:22:38",
+        "category": "Military"
     },
     {
-        "title": "Representatives of China and the US talk about Taiwan issue",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/representantes-de-china-y-eeuu-dialogan-sobre-cuestion-de-taiwan/",
-        "published_date": "2026-10-22 10:00:58",
-        "category": "Diplomacy"
+        "title": "They capture two subjects who injured a man with stones in Izalco",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-dos-sujetos-que-lesionaron-a-un-hombre-con-piedras-en-izalco/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-dos-sujetos-que-lesionaron-a-un-hombre-con-piedras-en-izalco",
+        "published_date": "2026-10-30 15:44:46",
+        "category": "Military"
+    },
+    {
+        "title": "Argument while drinking alcohol ends in assault and two arrests in Izalco",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/discusion-mientras-bebian-alcohol-termina-en-agresion-y-dos-capturas-en-izalco/",
+        "published_date": "2026-10-30 15:43:51",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador maintains positive results in security with 27 days without homicides in October",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/el-salvador-mantiene-resultados-positivos-en-seguridad-con-27-dias-sin-homicidios-en-octubre/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-mantiene-resultados-positivos-en-seguridad-con-27-dias-sin-homicidios-en-octubre",
+        "published_date": "2026-10-30 15:32:55",
+        "category": "Military"
+    },
+    {
+        "title": "El Salvador adds 27 days with zero homicides during October",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/el-salvador-suma-27-dias-con-cero-homicidios-durante-octubre/",
+        "published_date": "2026-10-30 15:32:11",
+        "category": "Military"
+    },
+    {
+        "title": "PNC captures man with marijuana valued at $400 in Ciudad Delgado",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/pnc-captura-a-hombre-con-marihuana-valorada-en-400-en-ciudad-delgado/",
+        "published_date": "2026-10-30 14:44:57",
+        "category": "Military"
+    },
+    {
+        "title": "PNC captures alias \u201cCapulina\u201d in San Luis Talpa and links him to Barrio 18 Revolucionarios",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/pnc-captura-a-alias-capulina-en-san-luis-talpa-y-lo-vincula-al-barrio-18-revolucionarios/",
+        "published_date": "2026-10-30 14:33:34",
+        "category": "Military"
+    },
+    {
+        "title": "They capture the \u201cCapulina\u201d in La Paz Oeste",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-al-capulina-en-la-paz-oeste/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-al-capulina-en-la-paz-oeste",
+        "published_date": "2026-10-30 13:19:59",
+        "category": "Military"
+    },
+    {
+        "title": "Authorities capture the \u201cCapulina\u201d in La Paz Oeste",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/autoridades-capturan-al-capulina-en-la-paz-oeste/",
+        "published_date": "2026-10-30 13:12:21",
+        "category": "Military"
     },
     {
         "title": "President Bukele highlights historic drop in crime and advances in health during Keiko Fujimori's visit",
@@ -196,69 +245,6 @@
         "category": "Military"
     },
     {
-        "title": "Vehicle overturns on Las Mulas bridge;Witnesses indicate that the driver was fleeing from the PNC",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/vehiculo-vuelca-en-puente-las-mulas-testigos-senalan-que-el-conductor-huia-de-la-pnc/",
-        "published_date": "2026-10-29 14:22:38",
-        "category": "Military"
-    },
-    {
-        "title": "President Bukele spoke with Haitian Prime Minister about rescuing soldiers",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/presidente-bukele-converso-con-primer-ministro-haitiano-sobre-rescate-de-militares/",
-        "published_date": "2026-10-29 03:21:21",
-        "category": "Military"
-    },
-    {
-        "title": "On trial for threatening to kill his father and trying to take a police officer's gun in Santa Ana",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/a-juicio-por-amenazar-de-muerte-a-su-padre-e-intentar-quitarle-el-arma-a-un-policia-en-santa-ana/",
-        "published_date": "2026-10-29 01:18:24",
-        "category": "Military"
-    },
-    {
-        "title": "Keiko Fujimori travels to El Salvador to learn about President Bukele's security strategy",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/politica/keiko-fujimori-viaja-a-el-salvador-para-conocer-estrategia-de-seguridad-del-presidente-bukele/?utm_source=rss&utm_medium=rss&utm_campaign=keiko-fujimori-viaja-a-el-salvador-para-conocer-estrategia-de-seguridad-del-presidente-bukele",
-        "published_date": "2026-10-28 20:57:02",
-        "category": "Military"
-    },
-    {
-        "title": "Human remains found in a cooler next to the Municipal Palace of Mazatl\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/internacionales/hallan-restos-humanos-en-una-hielera-junto-al-palacio-municipal-de-mazatlan/",
-        "published_date": "2026-10-28 20:28:01",
-        "category": "Military"
-    },
-    {
-        "title": "They capture alias \u201cChapo\u201d or \u201cTuc\u00e1n\u201d by a court order for aggravated homicide",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/capturan-a-alias-chapo-o-tucan-por-una-orden-judicial-por-homicidio-agravado/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-alias-chapo-o-tucan-por-una-orden-judicial-por-homicidio-agravado",
-        "published_date": "2026-10-28 19:56:02",
-        "category": "Military"
-    },
-    {
-        "title": "Biometric verification allows the capture of a man wanted for aggravated homicide in Metap\u00e1n",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/verificacion-biometrica-permite-capturar-en-metapan-a-hombre-buscado-por-homicidio-agravado/",
-        "published_date": "2026-10-28 19:14:27",
-        "category": "Military"
-    },
-    {
-        "title": "Neighbors thwart alleged theft in San Miguel and hand the suspect over to the PNC",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/vecinos-frustran-presunto-hurto-en-san-miguel-y-entregan-a-sospechoso-a-la-pnc/",
-        "published_date": "2026-10-28 14:10:25",
-        "category": "Military"
-    },
-    {
-        "title": "Iran says Strait of Hormuz is completely closed",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/iran-afirma-que-el-estrecho-de-ormuz-esta-completamente-cerrado/",
-        "published_date": "2026-10-28 10:00:18",
-        "category": "Military"
-    },
-    {
         "title": "Invisible architecture of the Venezuela-US oil agreement.USA",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/arquitectura-invisible-del-acuerdo-petrolero-venezuela-ee-uu/",
@@ -320,6 +306,13 @@
         "url": "https://croniosv.com/internacionales/petroleo-brent-supera-los-113-por-barril-y-alcanza-su-mayor-nivel-desde-mayo/",
         "published_date": "2026-10-22 21:03:54",
         "category": "Energy"
+    },
+    {
+        "title": "Keiko Fujimori proposes establishing an FTA between Peru and El Salvador: negotiations have a history since 2010",
+        "source": "Cronio",
+        "url": "https://croniosv.com/politica/keiko-fujimori-plantea-concretar-un-tlc-entre-peru-y-el-salvador-negociaciones-tienen-antecedentes-desde-2010/",
+        "published_date": "2026-10-30 03:07:40",
+        "category": "Economy"
     },
     {
         "title": "Latin America and the Caribbean: one natural disaster per week, nearly 100,000 deaths and more than 360 billion dollars in losses",
@@ -434,17 +427,115 @@
         "category": "Economy"
     },
     {
-        "title": "Assembly approves new Tax Amnesty valid until December 11",
+        "title": "17 MS gang members receive sentences of up to 60 years in prison",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/17-pandilleros-de-la-ms-reciben-condenas-de-hasta-60-anos-de-prision/?utm_source=rss&utm_medium=rss&utm_campaign=17-pandilleros-de-la-ms-reciben-condenas-de-hasta-60-anos-de-prision",
+        "published_date": "2026-10-30 15:45:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nearly 20 MS gang members receive sentences of up to 60 years in prison",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/cerca-de-20-pandilleros-de-la-ms-reciben-condenas-de-hasta-60-anos-de-prision/",
+        "published_date": "2026-10-30 15:44:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "The young man who was run over in front of the San Miguel terminal is identified as Levi Arbaiza",
+        "source": "Cronio",
+        "url": "https://croniosv.com/nacionales/sucesos/identifican-como-levi-arbaiza-al-joven-que-murio-atropellado-frente-a-la-terminal-de-san-miguel/",
+        "published_date": "2026-10-30 14:24:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vice President Felix Ulloa highlights Central American integration as a driver of competitiveness",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-destaca-la-integracion-centroamericana-como-motor-de-competitividad/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-felix-ulloa-destaca-la-integracion-centroamericana-como-motor-de-competitividad",
+        "published_date": "2026-10-30 12:44:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "FMLN registers its candidates for deputies abroad in the TSE",
         "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/asamblea-aprueba-nueva-amnistia-fiscal-vigente-hasta-el-11-de-diciembre/",
-        "published_date": "2026-10-22 11:01:42",
-        "category": "Economy"
+        "url": "https://www.diariocolatino.com/fmln-inscribe-en-el-tse-a-sus-candidatos-a-diputados-por-el-exterior/",
+        "published_date": "2026-10-30 11:06:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "TIGO and FUNDEMAS promote a program to strengthen digital skills of female entrepreneurs",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/tigo-y-fundemas-impulsan-programa-para-fortalecer-habilidades-digitales-de-emprendedoras/",
+        "published_date": "2026-10-30 11:01:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "When the debate descends from argument to grievance",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/cuando-el-debate-desciende-del-argumento-al-agravio/",
+        "published_date": "2026-10-30 10:55:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Garita Palmera and Barra de Santiago conclude their participation in the World Winners Cup",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/garita-palmera-y-barra-de-santiago-concluyen-su-participacion-en-la-world-winners-cup/",
+        "published_date": "2026-10-30 10:46:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alianza and Firpo's journey concludes in the CONCACAF regional competition",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/concluye-el-camino-de-alianza-y-firpo-en-la-competencia-regional-de-concacaf/",
+        "published_date": "2026-10-30 10:40:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Crecer and Habitat for Humanity improve homes and community spaces",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/crecer-y-habitat-para-la-humanidad-mejora-viviendas-y-espacios-comunitarios/",
+        "published_date": "2026-10-30 03:26:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvadoran artists join in charity concert to support Alex Oviedo",
+        "source": "El Metropolitano",
+        "url": "https://www.elmetropolitanodigital.com/2026/10/artistas-salvadorenos-se-unen-en-concierto-benefico-para-apoyar-a-alex-oviedo/",
+        "published_date": "2026-10-30 03:26:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US extradites to El Salvador a man who murdered a woman in front of her son",
+        "source": "Periodico Equilibrium",
+        "url": "https://www.periodicoequilibrium.com/ee-uu-extradita-a-el-salvador-a-hombre-que-asesino-a-una-mujer-frente-a-su-hijo/",
+        "published_date": "2026-10-30 03:07:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Salvador brings together industrialists from the region at the FECAICA congress with the participation of F\u00e9lix Ulloa",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/el-salvador-reune-a-industriales-de-la-region-en-congreso-de-fecaica-con-participacion-de-felix-ulloa/",
+        "published_date": "2026-10-30 02:56:05",
+        "category": "Local Events"
     },
     {
         "title": "Nayib Bukele confirms that mission in Haiti has authorization at all levels",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/politica/nayib-bukele-confirma-que-mision-en-haiti-cuenta-con-autorizacion-de-todos-los-niveles/?utm_source=rss&utm_medium=rss&utm_campaign=nayib-bukele-confirma-que-mision-en-haiti-cuenta-con-autorizacion-de-todos-los-niveles",
         "published_date": "2026-10-30 02:21:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele: Mission in Haiti has authorization from all levels",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-mision-en-haiti-cuenta-con-autorizacion-de-todos-los-niveles/",
+        "published_date": "2026-10-30 02:11:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Bukele highlights historic drop in crime",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/presidente-bukele-destaca-caida-historica-de-la-delincuencia/",
+        "published_date": "2026-10-30 01:39:08",
         "category": "Local Events"
     },
     {
@@ -462,122 +553,17 @@
         "category": "Local Events"
     },
     {
+        "title": "Keiko Fujimori is received with honors at the Presidential House",
+        "source": "Diario La Huella",
+        "url": "https://diariolahuella.com/keiko-fujimori-es-recibida-con-honores-en-casa-presidencial/",
+        "published_date": "2026-10-30 00:18:42",
+        "category": "Local Events"
+    },
+    {
         "title": "Accused of double homicide and attempted homicide will face trial under the figure of life imprisonment",
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/acusado-de-doble-homicidio-e-intento-de-homicidio-enfrentara-proceso-bajo-la-figura-de-cadena-perpetua/?utm_source=rss&utm_medium=rss&utm_campaign=acusado-de-doble-homicidio-e-intento-de-homicidio-enfrentara-proceso-bajo-la-figura-de-cadena-perpetua",
         "published_date": "2026-10-29 23:30:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "After serving his sentence, El\u00edas Antonio Saca is seen leaving the courthouse",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/tras-cumplir-su-condena-elias-antonio-saca-es-visto-saliendo-de-los-juzgados/?utm_source=rss&utm_medium=rss&utm_campaign=tras-cumplir-su-condena-elias-antonio-saca-es-visto-saliendo-de-los-juzgados",
-        "published_date": "2026-10-29 23:19:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They correct the low number of deaths from train collisions in Spain to place it at 69",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/corrigen-a-la-baja-numero-de-muertos-por-colision-de-trenes-en-espana-para-ubicarlo-en-69/",
-        "published_date": "2026-10-29 23:03:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "They remove bars that closed the pedestrian crossing in San Salvador Centro after a citizen complaint",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/social/retiran-rejas-que-cerraban-el-paso-peatonal-en-san-salvador-centro-tras-denuncia-ciudadana/",
-        "published_date": "2026-10-29 23:03:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Typical Nokal confirms that its Salvadoran products are already in Canada",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/tipicos-nokal-confirma-que-sus-productos-salvadorenos-ya-estan-en-canada/",
-        "published_date": "2026-10-29 23:02:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Passenger dies after a pick-up crashes into a tree in Santa Cruz Michapa",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/sucesos/pasajero-muere-tras-choque-de-un-pick-up-contra-un-arbol-en-santa-cruz-michapa/",
-        "published_date": "2026-10-29 22:59:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "The first images of Antonio Saca come to light after regaining his freedom",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/salen-a-la-luz-las-primeras-imagenes-de-antonio-saca-tras-recuperar-su-libertad/",
-        "published_date": "2026-10-29 22:51:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "A wedding photo goes viral: the wind and some balloons put a bride in trouble in Istanbul",
-        "source": "Cronio",
-        "url": "https://croniosv.com/redes/una-foto-de-boda-se-vuelve-viral-el-viento-y-unos-globos-ponen-en-aprietos-a-una-novia-en-estambul/",
-        "published_date": "2026-10-29 22:44:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "FMLN candidates from abroad register in the TSE",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/candidatos-del-exterior-del-fmln-se-inscriben-en-el-tse/",
-        "published_date": "2026-10-29 22:39:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man accused of setting fire to house with people inside in Ciudad Barrios sent to prison",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/judicial/envian-a-prision-a-hombre-acusado-de-incendiar-vivienda-con-personas-adentro-en-ciudad-barrios/",
-        "published_date": "2026-10-29 22:38:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aria Vega brings the flavor of the Colombian Caribbean to El Salvador",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/aria-vega-lleva-el-sabor-del-caribe-colombiano-a-el-salvador/",
-        "published_date": "2026-10-29 20:57:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Actor Patrick Stewart, Star Trek and X-Men icon, dies at 86",
-        "source": "Cronio",
-        "url": "https://croniosv.com/tendencias/jetset/fallece-el-actor-patrick-stewart-icono-de-star-trek-y-x-men-a-los-86-anos/",
-        "published_date": "2026-10-29 20:29:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "LOTRA Raffle No. 472 dedicated to \u201c+Sports Radio\u201d of the National Institute of Sports INDES",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/empresarial/sorteo-lotra-n-o-472-dedicado-a-deportes-radio-del-instituto-nacional-de-los-deportes-indes/?utm_source=rss&utm_medium=rss&utm_campaign=sorteo-lotra-n-o-472-dedicado-a-deportes-radio-del-instituto-nacional-de-los-deportes-indes",
-        "published_date": "2026-10-29 20:22:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mother's love, state figures",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/amor-de-madre-cifras-de-estado/",
-        "published_date": "2026-10-29 19:00:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "FMLN requests to register its candidates from the diaspora for the 2027 elections",
-        "source": "Cronio",
-        "url": "https://croniosv.com/principal/fmln-solicita-inscribir-a-sus-candidatos-por-la-diaspora-para-las-elecciones-de-2027/",
-        "published_date": "2026-10-29 18:13:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scholarships for 2027: Integration presents balance of admissions with an offer of more than 41,000 places",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/becas-para-2027-integracion-presenta-balance-de-admisiones-con-una-oferta-de-mas-de-41000-cupos/",
-        "published_date": "2026-10-29 18:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "DOM reports eight kilometers intervened on the highway that connects the cantons of Nueva Granada",
-        "source": "Cronio",
-        "url": "https://croniosv.com/nacionales/social/dom-reporta-ocho-kilometros-intervenidos-en-carretera-que-conecta-cantones-de-nueva-granada/",
-        "published_date": "2026-10-29 18:06:29",
         "category": "Local Events"
     }
 ]
