@@ -1,5 +1,12 @@
 [
     {
+        "title": "UN Security Council holds seventh indicative vote on candidates for secretary general",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/consejo-de-seguridad-de-onu-realiza-septima-votacion-indicativa-sobre-candidatos-a-secretario-general/",
+        "published_date": "2026-10-31 10:00:10",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuba appreciates global support against US blockade",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/agradece-cuba-respaldo-global-contra-bloqueo-estadounidense/",
@@ -91,11 +98,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "What has militarism been used for in El Salvador?(first part)",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/para-que-ha-servido-el-militarismo-en-el-salvador-primera-parte/",
-        "published_date": "2026-10-23 10:55:55",
-        "category": "Diplomacy"
+        "title": "They capture a dangerous MS gang member who was hiding in Usulut\u00e1n",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/capturan-a-peligroso-pandillero-de-la-ms-que-se-ocultaba-en-usulutan/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-a-peligroso-pandillero-de-la-ms-que-se-ocultaba-en-usulutan",
+        "published_date": "2026-10-31 15:59:41",
+        "category": "Military"
     },
     {
         "title": "UNA-HAITI condemns military operations by El Salvador and demands investigation",
@@ -231,11 +238,11 @@
         "category": "Military"
     },
     {
-        "title": "They carry out the largest seizure of drugs by land in the history of the country",
+        "title": "New propane gas prices announced for the month of November",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ejecutan-la-mayor-incautacion-de-droga-via-terrestre-en-la-historia-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=ejecutan-la-mayor-incautacion-de-droga-via-terrestre-en-la-historia-del-pais",
-        "published_date": "2026-10-29 15:31:47",
-        "category": "Military"
+        "url": "https://lapagina.com.sv/nacionales/anuncian-nuevos-precios-del-gas-propano-para-el-mes-de-noviembre/?utm_source=rss&utm_medium=rss&utm_campaign=anuncian-nuevos-precios-del-gas-propano-para-el-mes-de-noviembre",
+        "published_date": "2026-10-31 14:06:16",
+        "category": "Energy"
     },
     {
         "title": "Invisible architecture of the Venezuela-US oil agreement.USA",
@@ -292,6 +299,13 @@
         "url": "https://ultimahora.sv/trabajo-conjunto-entre-gobierno-y-empresas-petroleras-mantiene-precios-estables/",
         "published_date": "2026-10-26 13:25:27",
         "category": "Energy"
+    },
+    {
+        "title": "MOP 2027 Budget will be financed mostly with external loans",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/presupuesto-mop-2027-se-financiara-mayormente-con-prestamos-externos/",
+        "published_date": "2026-10-31 11:03:38",
+        "category": "Economy"
     },
     {
         "title": "Peru and El Salvador strengthen their bilateral relationship with a focus on trade and investment",
@@ -427,11 +441,46 @@
         "category": "Economy"
     },
     {
-        "title": "They control a fire in the warehouse of a business in the Historic Center of San Salvador",
+        "title": "Specific rains are predicted in several sectors of the country",
         "source": "La Pagina",
-        "url": "https://lapagina.com.sv/general/controlan-incendio-en-bodega-de-un-comercio-en-el-centro-historico-de-san-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=controlan-incendio-en-bodega-de-un-comercio-en-el-centro-historico-de-san-salvador",
-        "published_date": "2026-10-24 01:34:36",
-        "category": "Economy"
+        "url": "https://lapagina.com.sv/nacionales/pronostican-lluvias-puntuales-en-varios-sectores-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=pronostican-lluvias-puntuales-en-varios-sectores-del-pais",
+        "published_date": "2026-10-31 14:42:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "DoctorSV doctors denounce salary inequality and warn of possible work stoppage",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/medicos-de-doctorsv-denuncian-desigualdad-salarial-y-advierten-posible-paro-de-labores/",
+        "published_date": "2026-10-31 11:02:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deputies endorse agreements with T\u00fcrkiye and the Emirates to avoid double taxation",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diputados-avalan-convenios-turquia-emiratos-evitar-doble-tributacion/",
+        "published_date": "2026-10-31 11:01:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "THE CHANGE OF THE TIME IS ABOUT LOVING OURSELVES BEFORE DOMINATING",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/el-cambio-de-epoca-pasa-por-querernos-antes-que-dominar/",
+        "published_date": "2026-10-31 10:55:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "French justice toughens speech in response to protests this Saturday",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/justicia-francesa-endurece-discurso-ante-protestas-de-este-sabado/",
+        "published_date": "2026-10-31 09:00:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Provisional arrest for subject accused of stealing belongings from a Nigerian citizen",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/detencion-provisional-para-sujeto-acusado-de-robar-pertenencias-a-ciudadano-nigeriano/?utm_source=rss&utm_medium=rss&utm_campaign=detencion-provisional-para-sujeto-acusado-de-robar-pertenencias-a-ciudadano-nigeriano",
+        "published_date": "2026-10-31 02:16:26",
+        "category": "Local Events"
     },
     {
         "title": "Contraband of contaminated cheese detected",
@@ -529,48 +578,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/nacionales/habitantes-de-la-colonia-tazumal-y-el-canton-las-flores-en-chalchuapa-seran-beneficiados-con-moderna-calle/?utm_source=rss&utm_medium=rss&utm_campaign=habitantes-de-la-colonia-tazumal-y-el-canton-las-flores-en-chalchuapa-seran-beneficiados-con-moderna-calle",
         "published_date": "2026-10-30 20:49:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Accused of double homicide and arson in Ciudad Barrios sent to preventive detention",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/envian-a-prision-preventiva-a-acusado-de-doble-homicidio-e-incendio-en-ciudad-barrios/",
-        "published_date": "2026-10-30 20:41:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "UNIONIST'S DAY: BETWEEN REPRESSION AND THE URGENCY TO REBUILD CLASS UNIONISM",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/dia-del-sindicalista-entre-la-represion-y-la-urgencia-de-reconstruir-el-sindicalismo-de-clase/",
-        "published_date": "2026-10-30 20:33:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Leo XIV becomes the first Pope to vote in a US election.",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/leon-xiv-se-convierte-en-el-primer-papa-en-votar-en-unas-elecciones-de-ee-uu/",
-        "published_date": "2026-10-30 20:05:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Peru seeks to implement educational initiatives that it learned about during Keiko Fujimori's visit to El Salvador",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/peru-busca-implementar-iniciativas-educativas-que-conocio-durante-la-visita-de-keiko-fujimori-a-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=peru-busca-implementar-iniciativas-educativas-que-conocio-durante-la-visita-de-keiko-fujimori-a-el-salvador",
-        "published_date": "2026-10-30 20:03:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Keiko Fujimori knows the Salvadoran educational model after meeting with Bukele",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/keiko-fujimori-conoce-el-modelo-educativo-salvadoreno-tras-reunirse-con-bukele/",
-        "published_date": "2026-10-30 19:36:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "CRITICISM OF THE POLITICAL OPPOSITORS AND CITIZEN OPPOSITORS OF THE DICTATOR BUKELE",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/critica-a-los-opositores-politicos-y-opositores-ciudadanos-del-dictador-bukele/",
-        "published_date": "2026-10-30 17:44:53",
         "category": "Local Events"
     }
 ]
