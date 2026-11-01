@@ -7,6 +7,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Vice President Ulloa recognizes the work of the Chinese ambassador after finishing his mission in El Salvador",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/vicepresidente-ulloa-reconoce-labor-del-embajador-de-china-tras-finalizar-su-mision-en-el-salvador/?utm_source=rss&utm_medium=rss&utm_campaign=vicepresidente-ulloa-reconoce-labor-del-embajador-de-china-tras-finalizar-su-mision-en-el-salvador",
+        "published_date": "2026-10-31 20:37:37",
+        "category": "Diplomacy"
+    },
+    {
         "title": "UN Security Council holds seventh indicative vote on candidates for secretary general",
         "source": "Diario Co Latino",
         "url": "https://www.diariocolatino.com/consejo-de-seguridad-de-onu-realiza-septima-votacion-indicativa-sobre-candidatos-a-secretario-general/",
@@ -91,11 +98,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The FDIM denounces the detention of Luisa Gonz\u00e1lez and demands her immediate release",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/la-fdim-denuncia-la-detencion-de-luisa-gonzalez-y-exige-la-liberacion-inmediata/",
-        "published_date": "2026-10-24 16:13:30",
-        "category": "Diplomacy"
+        "title": "Another 18S gang member falls in Zacatecoluca",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/cae-otro-pandillero-de-la-18s-en-zacatecoluca/",
+        "published_date": "2026-11-01 16:02:38",
+        "category": "Military"
+    },
+    {
+        "title": "Trump supports Salvadoran mission in Haiti",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/trump-respalda-mision-salvadorena-en-haiti/?utm_source=rss&utm_medium=rss&utm_campaign=trump-respalda-mision-salvadorena-en-haiti",
+        "published_date": "2026-11-01 01:44:19",
+        "category": "Military"
     },
     {
         "title": "Bukele rejects report on Haiti: \"Our mission does not even have bombs at its disposal\"",
@@ -221,20 +235,6 @@
         "source": "Diario La Huella",
         "url": "https://diariolahuella.com/el-salvador-y-peru-fortalecen-su-alianza-con-nuevos-acuerdos-bilaterales/",
         "published_date": "2026-10-30 01:11:05",
-        "category": "Military"
-    },
-    {
-        "title": "Bukele defends mission in Haiti: seeks to recover four airmen and support security",
-        "source": "Cronio",
-        "url": "https://croniosv.com/politica/bukele-defiende-mision-en-haiti-busca-recuperar-a-cuatro-aerotecnicos-y-apoyar-la-seguridad/",
-        "published_date": "2026-10-29 22:55:34",
-        "category": "Military"
-    },
-    {
-        "title": "Santa Ana Centro strengthens video surveillance with the incorporation of technological innovation",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/santa-ana-centro-fortalece-la-videovigilancia-con-incorporacion-de-innovacion-tecnologica/?utm_source=rss&utm_medium=rss&utm_campaign=santa-ana-centro-fortalece-la-videovigilancia-con-incorporacion-de-innovacion-tecnologica",
-        "published_date": "2026-10-29 21:42:32",
         "category": "Military"
     },
     {
@@ -434,18 +434,67 @@
         "category": "Economy"
     },
     {
-        "title": "Bitfinex Securities Launches Capital Raising for Global Tokenized Funds",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/bitfinex-securities-lanza-recaudaciones-de-capital-para-fondos-globales-tokenizados/",
-        "published_date": "2026-10-24 14:52:31",
-        "category": "Economy"
+        "title": "Cargo transportation inspections continue to prevent road accidents",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/continuan-inspecciones-al-transporte-de-carga-para-prevenir-accidentes-viales/?utm_source=rss&utm_medium=rss&utm_campaign=continuan-inspecciones-al-transporte-de-carga-para-prevenir-accidentes-viales",
+        "published_date": "2026-11-01 16:26:44",
+        "category": "Local Events"
     },
     {
-        "title": "Economy, inflation and paralyzed works mark the last debate between Lula and Fl\u00e1vio Bolsonaro",
-        "source": "Diario La Huella",
-        "url": "https://diariolahuella.com/economia-inflacion-y-obras-paralizadas-marcan-el-ultimo-debate-entre-lula-y-flavio-bolsonaro/",
-        "published_date": "2026-10-24 02:09:36",
-        "category": "Economy"
+        "title": "Pope Leo XIV votes by mail in the US elections in a historic event from the Vatican",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/el-papa-leon-xiv-vota-por-correo-en-las-elecciones-de-ee-uu-en-un-hecho-historico-desde-el-vaticano/",
+        "published_date": "2026-11-01 15:41:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Organizations denounce labor repression and demand justice for the FENASTRAS massacre",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/organizaciones-denuncian-represion-laboral-y-exigen-justicia-por-masacre-de-fenastras/",
+        "published_date": "2026-11-01 15:00:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Clear skies, no rain and winds of up to 30 km/h this Sunday",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/nacionales/cielo-despejado-sin-lluvias-y-vientos-de-hasta-30-km-h-durante-este-domingo/?utm_source=rss&utm_medium=rss&utm_campaign=cielo-despejado-sin-lluvias-y-vientos-de-hasta-30-km-h-durante-este-domingo",
+        "published_date": "2026-11-01 14:37:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "In\u00e9s G\u00f3mez Mont falls in Miami: the end of five years in hiding and the mystery about \u00c1lvarez Puga",
+        "source": "Cronio",
+        "url": "https://croniosv.com/uncategorized/cae-ines-gomez-mont-en-miami-el-fin-de-cinco-anos-en-la-clandestinidad-y-el-misterio-sobre-alvarez-puga/",
+        "published_date": "2026-11-01 03:24:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man is shot to death by an upset patient in Nogales, Sonora",
+        "source": "Cronio",
+        "url": "https://croniosv.com/internacionales/hombre-es-ejecutado-a-balazos-por-paciente-alterado-en-nogales-sonora/",
+        "published_date": "2026-11-01 03:15:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hitmen execute Jes\u00fas Alvarado \u201cEl Chuy\u201d, the most beloved elotero player, and his wife Rosalba in Oaxaca",
+        "source": "Cronio",
+        "url": "https://croniosv.com/uncategorized/sicarios-ejecutan-a-jesus-alvarado-el-chuy-el-elotero-mas-querido-y-a-su-esposa-rosalba-en-oaxaca/",
+        "published_date": "2026-11-01 02:51:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Know the areas and times of the power outages scheduled from November 1 to 8",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/conoce-las-zonas-y-horarios-de-los-cortes-de-luz-programados-del-1-al-8-de-noviembre/",
+        "published_date": "2026-11-01 02:29:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "They impose the first sentence of life imprisonment for rape in El Salvador",
+        "source": "Cronio",
+        "url": "https://croniosv.com/principal/principal1/imponen-la-primera-condena-a-prision-perpetua-por-violacion-en-el-salvador/",
+        "published_date": "2026-11-01 02:10:27",
+        "category": "Local Events"
     },
     {
         "title": "City falls at home and United sinks in London",
@@ -476,6 +525,13 @@
         "category": "Local Events"
     },
     {
+        "title": "President Bukele rejects NGO accusations about alleged bombings in Haiti",
+        "source": "La Pagina",
+        "url": "https://lapagina.com.sv/politica/presidente-bukele-rechaza-acusaciones-de-ong-sobre-supuestos-bombardeos-en-haiti/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-bukele-rechaza-acusaciones-de-ong-sobre-supuestos-bombardeos-en-haiti",
+        "published_date": "2026-10-31 21:36:12",
+        "category": "Local Events"
+    },
+    {
         "title": "Philosophical and theological echoes of Leo XIV's journey in South America \u2013 Lisandro Prieto Femen\u00eda.\u201cYou made us, Lord, for yourself, and our hearts are restless until they rest in you\u201d Augustine of Hippo, 397/2010, p.25.",
         "source": "Cronio",
         "url": "https://croniosv.com/opinet/ecos-filosoficos-y-teologicos-de-la-travesia-de-leon-xiv-en-sudamerica-lisandro-prieto-femenia-nos-hiciste-senor-para-ti-y-nuestro-corazon-esta-inquieto-hasta-que-descanse-en-t/",
@@ -497,6 +553,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Summary of the last week of October 2026",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/resumen-de-la-ultima-semana-del-mes-de-octubre-de-2026/",
+        "published_date": "2026-10-31 19:01:53",
+        "category": "Local Events"
+    },
+    {
         "title": "Logistics Center and Digital Asset seek to attract the Salvadoran business community",
         "source": "Periodico Equilibrium",
         "url": "https://www.periodicoequilibrium.com/centro-logistico-y-activo-digital-buscan-atraer-al-empresariado-salvadoreno/",
@@ -508,83 +571,6 @@
         "source": "La Pagina",
         "url": "https://lapagina.com.sv/general/capturan-al-sayper-de-la-18-en-zacatecoluca/?utm_source=rss&utm_medium=rss&utm_campaign=capturan-al-sayper-de-la-18-en-zacatecoluca",
         "published_date": "2026-10-31 18:32:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former mayor of Soyapango receives five years in prison for arbitrary acts and disobedience",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/exalcaldesa-de-soyapango-recibe-cinco-anos-de-prision-por-actos-arbitrarios-y-desobediencia/",
-        "published_date": "2026-10-31 18:28:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another conviction against former mayor of Soyapango, Nercy Montano",
-        "source": "Periodico Equilibrium",
-        "url": "https://www.periodicoequilibrium.com/otra-condena-contra-exalcaldesa-de-soyapango-nercy-montano/",
-        "published_date": "2026-10-31 18:25:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Labor rejection grows in the face of a possible reform of the eight-hour day",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/crece-el-rechazo-laboral-ante-una-eventual-reforma-a-la-jornada-de-ocho-horas/",
-        "published_date": "2026-10-31 17:38:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Keiko Fujimori concluded official visit to El Salvador with a tour of the Rosales Hospital",
-        "source": "El Metropolitano",
-        "url": "https://www.elmetropolitanodigital.com/2026/10/keiko-fujimori-concluyo-visita-oficial-a-el-salvador-con-recorrido-por-el-hospital-rosales/",
-        "published_date": "2026-10-31 16:37:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister Rolando Castro expresses his support for the Salvadoran trade unionist within the framework of his national day",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/ministro-rolando-castro-expresa-su-apoyo-al-sindicalista-salvadoreno-en-el-marco-de-su-dia-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=ministro-rolando-castro-expresa-su-apoyo-al-sindicalista-salvadoreno-en-el-marco-de-su-dia-nacional",
-        "published_date": "2026-10-31 16:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Specific rains are predicted in several sectors of the country",
-        "source": "La Pagina",
-        "url": "https://lapagina.com.sv/nacionales/pronostican-lluvias-puntuales-en-varios-sectores-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=pronostican-lluvias-puntuales-en-varios-sectores-del-pais",
-        "published_date": "2026-10-31 14:42:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "DoctorSV doctors denounce salary inequality and warn of possible work stoppage",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/medicos-de-doctorsv-denuncian-desigualdad-salarial-y-advierten-posible-paro-de-labores/",
-        "published_date": "2026-10-31 11:02:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Deputies endorse agreements with T\u00fcrkiye and the Emirates to avoid double taxation",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/diputados-avalan-convenios-turquia-emiratos-evitar-doble-tributacion/",
-        "published_date": "2026-10-31 11:01:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "MOVIE begins collecting arrest warrants from innocent people detained in the emergency regime",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/movir-inicia-recoleccion-de-arraigos-de-inocentes-detenidos-en-el-regimen-de-excepcion/",
-        "published_date": "2026-10-31 11:00:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "THE CHANGE OF THE TIME IS ABOUT LOVING OURSELVES BEFORE DOMINATING",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/el-cambio-de-epoca-pasa-por-querernos-antes-que-dominar/",
-        "published_date": "2026-10-31 10:55:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "French justice toughens speech in response to protests this Saturday",
-        "source": "Diario Co Latino",
-        "url": "https://www.diariocolatino.com/justicia-francesa-endurece-discurso-ante-protestas-de-este-sabado/",
-        "published_date": "2026-10-31 09:00:21",
         "category": "Local Events"
     }
 ]
